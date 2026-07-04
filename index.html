@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mi espacio diario</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon.svg">
+<meta name="theme-color" content="#0F6E56">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="home">
+  <h1>Mi espacio diario</h1>
+  <p class="subtitle">Elige una zona</p>
+
+  <button class="zone-card" data-zone="desarrollo">
+    <span class="zone-icon zone-icon-desarrollo">&#127793;</span>
+    <span class="zone-text">
+      <span class="zone-title">Desarrollo personal</span>
+      <span class="zone-sub">Cuerpo, mente y aprendizaje</span>
+    </span>
+  </button>
+
+  <button class="zone-card" data-zone="marca">
+    <span class="zone-icon zone-icon-marca">&#128161;</span>
+    <span class="zone-text">
+      <span class="zone-title">Marca personal</span>
+      <span class="zone-sub">Contenido y estrategia</span>
+    </span>
+  </button>
+
+  <button class="zone-card" data-zone="neuroalma">
+    <span class="zone-icon zone-icon-neuroalma">&#127891;</span>
+    <span class="zone-text">
+      <span class="zone-title">Neuroalma</span>
+      <span class="zone-sub">Ideas para el proyecto</span>
+    </span>
+  </button>
+
+  <p class="fecha" id="fecha"></p>
+</div>
+
+<div id="detail" class="hidden">
+  <button id="back">&larr; volver</button>
+  <h2 id="detail-title"></h2>
+
+  <div id="idea-card" class="idea-card">
+    <p class="idea-label">Idea de hoy</p>
+    <p id="detail-idea"></p>
+    <div id="detail-tags" class="tags"></div>
+  </div>
+
+  <p class="notes-label">Mis notas</p>
+  <textarea id="notes" placeholder="Escribe aqui lo que se te ocurra..."></textarea>
+  <p id="guardado" class="guardado"></p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

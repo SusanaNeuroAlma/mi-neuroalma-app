@@ -3,18 +3,18 @@
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Antes de tu proxima clase o practica, dedica 2 minutos a sentir tu propio cuerpo antes de mirar el de los demas: hombros, respiracion, apoyo de los pies. Observarte primero a ti es el primer paso del metodo que ya llevas dentro.",
+      "idea": "Hoy, antes de dormir, prueba 5 respiraciones lentas: cuenta hasta 4 al inhalar y hasta 6 al exhalar. Es un gesto sencillo que ayuda a calmar el sistema nervioso, algo que tu misma podrias compartir con tus alumnas.",
       "tags": ["Cuerpo", "Mente"]
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Cuenta hoy una pequena anecdota real de clase (una risa, un despiste, un momento entranable). No hace falta que mencione Neuroalma: las historias autenticas son las que mas conectan, tal y como ya haces en tus guiones.",
+      "idea": "Graba hoy un video corto de 30 segundos explicando con tus palabras algo que ya sabes de sobra, como la respiracion consciente o la calma antes de una clase. Sin guion, como si se lo contaras a una amiga.",
       "tags": ["Contenido"]
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15 minutos a esbozar el primer titular de tu pagina de ventas, apoyandote en la Oferta V3.0 y en una frase real del Libro de Recuerdos. No tiene que quedar perfecto, solo un primer borrador.",
-      "tags": ["Idea", "Oferta"]
+      "idea": "Dedica 15 minutos a escribir como te vas a presentar en la primera sesion en directo y que quieres que sientan tus alumnas al terminar los 7 encuentros. Es la base del guion de bienvenida.",
+      "tags": ["Idea", "Lanzamiento"]
     }
   }
 }

@@ -59,6 +59,7 @@ h1 {
 .zone-icon-desarrollo { background: #9FE1CB; }
 .zone-icon-marca { background: #F4C0D1; }
 .zone-icon-neuroalma { background: #CECBF6; }
+.zone-icon-salud { background: #F0997B; }
 
 .zone-title {
   display: block;
@@ -260,4 +261,117 @@ h1 {
   font-size: 12px;
   margin: 0;
   color: #633806;
+}
+
+.salud-nota {
+  font-size: 12px;
+  color: #888780;
+  background: #F1EFE8;
+  border-radius: 10px;
+  padding: 10px 12px;
+  margin: 0 0 20px;
+}
+
+.salud-section {
+  margin-bottom: 28px;
+}
+
+.salud-titulo {
+  font-size: 15px;
+  font-weight: 500;
+  margin: 0 0 10px;
+}
+
+.salud-sublabel {
+  font-size: 13px;
+  color: #5F5E5A;
+  margin: 4px 0 8px;
+}
+
+.salud-section textarea {
+  width: 100%;
+  min-height: 90px;
+  border: 0.5px solid #D3D1C7;
+  border-radius: 12px;
+  padding: 12px;
+  font-family: inherit;
+  font-size: 14px;
+  resize: vertical;
+  background: #ffffff;
+  margin-bottom: 10px;
+}
+
+.btn-solid {
+  background: #0F6E56;
+  color: #ffffff;
+  border: none;
+  border-radius: var(--radius, 8px);
+  padding: 10px 18px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.btn-solid:active {
+  transform: scale(0.98);
+}
+
+.dolor-selector {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.dolor-btn {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  border: 0.5px solid #D3D1C7;
+  background: #ffffff;
+  font-size: 14px;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.dolor-btn.selected {
+  background: #F0997B;
+  border-color: #D85A30;
+  color: #4A1B0C;
+  font-weight: 500;
+}
+
+.salud-entrada {
+  border-top: 0.5px solid #D3D1C7;
+  padding: 10px 0;
+}
+
+.salud-entrada-fecha {
+  font-size: 11px;
+  color: #888780;
+  margin: 0 0 4px;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.salud-entrada-nivel {
+  display: inline-block;
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 8px;
+  background: #FAECE7;
+  color: #712B13;
+}
+
+.salud-entrada-texto {
+  font-size: 13px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.salud-vacio {
+  font-size: 13px;
+  color: #888780;
+  padding: 8px 0;
 }

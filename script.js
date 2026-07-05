@@ -10,10 +10,20 @@ const fechaEl = document.getElementById('fecha');
 const toggleHistorial = document.getElementById('toggle-historial');
 const historialEl = document.getElementById('historial');
 const extraContent = document.getElementById('extra-content');
+const detailIdeaMode = document.getElementById('detail-idea-mode');
+const detailSaludMode = document.getElementById('detail-salud-mode');
+const alimentacionInput = document.getElementById('salud-alimentacion-input');
+const alimentacionAdd = document.getElementById('salud-alimentacion-add');
+const alimentacionLista = document.getElementById('salud-alimentacion-lista');
+const lesionInput = document.getElementById('salud-lesion-input');
+const lesionAdd = document.getElementById('salud-lesion-add');
+const lesionLista = document.getElementById('salud-lesion-lista');
+const dolorSelector = document.getElementById('dolor-selector');
 
 let currentZone = null;
 let saveTimeout = null;
 let historyData = [];
+let nivelSeleccionado = null;
 
 fetch('data.json')
   .then((r) => r.json())
@@ -31,8 +41,24 @@ fetch('history.json')
   .catch(() => { historyData = []; });
 
 function openZone(zone, data) {
-  const info = data.zones[zone];
   currentZone = zone;
+
+  if (zone === 'salud') {
+    detailTitle.textContent = 'Mi cuerpo y recuperacion';
+    detailIdeaMode.classList.add('hidden');
+    detailSaludMode.classList.remove('hidden');
+    nivelSeleccionado = null;
+    renderDolorSelector();
+    renderSaludListas();
+    home.classList.add('hidden');
+    detail.classList.remove('hidden');
+    return;
+  }
+
+  const info = data.zones[zone];
+
+  detailSaludMode.classList.add('hidden');
+  detailIdeaMode.classList.remove('hidden');
 
   ideaCard.className = 'idea-card zone-' + zone;
   detailTitle.textContent = info.title;
@@ -56,6 +82,88 @@ function openZone(zone, data) {
   home.classList.add('hidden');
   detail.classList.remove('hidden');
 }
+
+function getSaludLista(key) {
+  try {
+    return JSON.parse(localStorage.getItem(key)) || [];
+  } catch (e) {
+    return [];
+  }
+}
+
+function renderDolorSelector() {
+  dolorSelector.innerHTML = '';
+  for (let n = 1; n <= 5; n++) {
+    const btn = document.createElement('button');
+    btn.className = 'dolor-btn';
+    btn.textContent = n;
+    btn.addEventListener('click', () => {
+      nivelSeleccionado = n;
+      renderDolorSelector();
+    });
+    if (nivelSeleccionado === n) {
+      btn.classList.add('selected');
+    }
+    dolorSelector.appendChild(btn);
+  }
+}
+
+function renderSaludListas() {
+  renderLista(alimentacionLista, getSaludLista('salud_alimentacion'));
+  renderLista(lesionLista, getSaludLista('salud_lesion'));
+}
+
+function renderLista(contenedor, entradas) {
+  contenedor.innerHTML = '';
+  if (entradas.length === 0) {
+    const p = document.createElement('p');
+    p.className = 'salud-vacio';
+    p.textContent = 'Todavia no hay entradas guardadas.';
+    contenedor.appendChild(p);
+    return;
+  }
+  entradas.slice().reverse().forEach((entrada) => {
+    const item = document.createElement('div');
+    item.className = 'salud-entrada';
+    const fecha = document.createElement('p');
+    fecha.className = 'salud-entrada-fecha';
+    fecha.textContent = entrada.fecha;
+    if (entrada.nivel) {
+      const nivel = document.createElement('span');
+      nivel.className = 'salud-entrada-nivel';
+      nivel.textContent = 'Molestia ' + entrada.nivel + '/5';
+      fecha.appendChild(nivel);
+    }
+    item.appendChild(fecha);
+    const texto = document.createElement('p');
+    texto.className = 'salud-entrada-texto';
+    texto.textContent = entrada.texto;
+    item.appendChild(texto);
+    contenedor.appendChild(item);
+  });
+}
+
+alimentacionAdd.addEventListener('click', () => {
+  const texto = alimentacionInput.value.trim();
+  if (!texto) return;
+  const lista = getSaludLista('salud_alimentacion');
+  lista.push({ fecha: new Date().toLocaleString('es-ES'), texto: texto });
+  localStorage.setItem('salud_alimentacion', JSON.stringify(lista));
+  alimentacionInput.value = '';
+  renderSaludListas();
+});
+
+lesionAdd.addEventListener('click', () => {
+  const texto = lesionInput.value.trim();
+  if (!texto && !nivelSeleccionado) return;
+  const lista = getSaludLista('salud_lesion');
+  lista.push({ fecha: new Date().toLocaleString('es-ES'), nivel: nivelSeleccionado, texto: texto });
+  localStorage.setItem('salud_lesion', JSON.stringify(lista));
+  lesionInput.value = '';
+  nivelSeleccionado = null;
+  renderDolorSelector();
+  renderSaludListas();
+});
 
 function renderExtraContent(info) {
   extraContent.innerHTML = '';

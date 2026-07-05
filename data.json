@@ -1,20 +1,20 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Prueba una respiracion 4-7-4 antes de tu practica de hoy: inhala 4 segundos, manten 7, exhala 4. Activa el sistema nervioso parasimpatico y te ayuda a bajar el ritmo antes de ensenar o practicar.",
+      "idea": "Antes de tu proxima clase o practica, dedica 2 minutos a sentir tu propio cuerpo antes de mirar el de los demas: hombros, respiracion, apoyo de los pies. Observarte primero a ti es el primer paso del metodo que ya llevas dentro.",
       "tags": ["Cuerpo", "Mente"]
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Comparte hoy algo sencillo: un video corto o un post contando por que empezaste con el yoga, pilates o taichi. La gente conecta con historias reales, no hace falta ser experta para compartir tu camino.",
+      "idea": "Cuenta hoy una pequena anecdota real de clase (una risa, un despiste, un momento entranable). No hace falta que mencione Neuroalma: las historias autenticas son las que mas conectan, tal y como ya haces en tus guiones.",
       "tags": ["Contenido"]
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15 minutos a escribir quien es el alumno ideal de Neuroalma: que le preocupa, que quiere aprender. No tiene que ser perfecto, es solo para empezar a dar forma al proyecto.",
-      "tags": ["Idea"]
+      "idea": "Dedica 15 minutos a esbozar el primer titular de tu pagina de ventas, apoyandote en la Oferta V3.0 y en una frase real del Libro de Recuerdos. No tiene que quedar perfecto, solo un primer borrador.",
+      "tags": ["Idea", "Oferta"]
     }
   }
 }

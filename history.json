@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2026-07-04",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Prueba una respiracion 4-7-4 antes de tu practica de hoy: inhala 4 segundos, manten 7, exhala 4. Activa el sistema nervioso parasimpatico y te ayuda a bajar el ritmo antes de ensenar o practicar.",
+        "tags": ["Cuerpo", "Mente"]
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Comparte hoy algo sencillo: un video corto o un post contando por que empezaste con el yoga, pilates o taichi. La gente conecta con historias reales, no hace falta ser experta para compartir tu camino.",
+        "tags": ["Contenido"]
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15 minutos a escribir quien es el alumno ideal de Neuroalma: que le preocupa, que quiere aprender. No tiene que ser perfecto, es solo para empezar a dar forma al proyecto.",
+        "tags": ["Idea"]
+      }
+    }
+  },
+  {
+    "date": "2026-07-05",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy, antes de dormir, prueba 5 respiraciones lentas: cuenta hasta 4 al inhalar y hasta 6 al exhalar. Es un gesto sencillo que ayuda a calmar el sistema nervioso, algo que tu misma podrias compartir con tus alumnas.",
+        "tags": ["Cuerpo", "Mente"]
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Graba hoy un video corto de 30 segundos explicando con tus palabras algo que ya sabes de sobra, como la respiracion consciente o la calma antes de una clase. Sin guion, como si se lo contaras a una amiga.",
+        "tags": ["Contenido"]
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15 minutos a escribir como te vas a presentar en la primera sesion en directo y que quieres que sientan tus alumnas al terminar los 7 encuentros. Es la base del guion de bienvenida.",
+        "tags": ["Idea", "Lanzamiento"]
+      }
+    }
+  }
+]

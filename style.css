@@ -161,3 +161,37 @@ h1 {
   height: 16px;
   margin: 8px 0 0;
 }
+
+.link-button {
+  background: none;
+  border: none;
+  color: #5F5E5A;
+  font-size: 13px;
+  text-decoration: underline;
+  padding: 16px 0 4px;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+.historial-item {
+  border-top: 0.5px solid #D3D1C7;
+  padding: 12px 0;
+}
+
+.historial-fecha {
+  font-size: 11px;
+  color: #888780;
+  margin: 0 0 4px;
+}
+
+.historial-idea {
+  font-size: 13px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.historial-vacio {
+  font-size: 13px;
+  color: #888780;
+  padding: 12px 0;
+}

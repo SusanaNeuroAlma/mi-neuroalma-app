@@ -7,9 +7,12 @@ const detailTags = document.getElementById('detail-tags');
 const notes = document.getElementById('notes');
 const guardado = document.getElementById('guardado');
 const fechaEl = document.getElementById('fecha');
+const toggleHistorial = document.getElementById('toggle-historial');
+const historialEl = document.getElementById('historial');
 
 let currentZone = null;
 let saveTimeout = null;
+let historyData = [];
 
 fetch('data.json')
   .then((r) => r.json())
@@ -20,6 +23,11 @@ fetch('data.json')
       card.addEventListener('click', () => openZone(card.dataset.zone, data));
     });
   });
+
+fetch('history.json')
+  .then((r) => r.json())
+  .then((data) => { historyData = data; })
+  .catch(() => { historyData = []; });
 
 function openZone(zone, data) {
   const info = data.zones[zone];
@@ -38,9 +46,54 @@ function openZone(zone, data) {
 
   notes.value = localStorage.getItem('notas_' + zone) || '';
   guardado.textContent = '';
+  historialEl.classList.add('hidden');
+  historialEl.innerHTML = '';
+  toggleHistorial.textContent = 'Ver ideas anteriores';
 
   home.classList.add('hidden');
   detail.classList.remove('hidden');
+}
+
+toggleHistorial.addEventListener('click', () => {
+  const isHidden = historialEl.classList.contains('hidden');
+  if (isHidden) {
+    renderHistorial();
+    historialEl.classList.remove('hidden');
+    toggleHistorial.textContent = 'Ocultar ideas anteriores';
+  } else {
+    historialEl.classList.add('hidden');
+    toggleHistorial.textContent = 'Ver ideas anteriores';
+  }
+});
+
+function renderHistorial() {
+  historialEl.innerHTML = '';
+  const entries = historyData
+    .filter((day) => day.zones[currentZone])
+    .slice()
+    .reverse();
+
+  if (entries.length === 0) {
+    const p = document.createElement('p');
+    p.className = 'historial-vacio';
+    p.textContent = 'Todavia no hay ideas anteriores guardadas.';
+    historialEl.appendChild(p);
+    return;
+  }
+
+  entries.forEach((day) => {
+    const item = document.createElement('div');
+    item.className = 'historial-item';
+    const fecha = document.createElement('p');
+    fecha.className = 'historial-fecha';
+    fecha.textContent = day.date;
+    const idea = document.createElement('p');
+    idea.className = 'historial-idea';
+    idea.textContent = day.zones[currentZone].idea;
+    item.appendChild(fecha);
+    item.appendChild(idea);
+    historialEl.appendChild(item);
+  });
 }
 
 document.getElementById('back').addEventListener('click', () => {

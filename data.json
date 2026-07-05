@@ -4,7 +4,17 @@
     "desarrollo": {
       "title": "Desarrollo personal",
       "idea": "Hoy, antes de dormir, prueba 5 respiraciones lentas: cuenta hasta 4 al inhalar y hasta 6 al exhalar. Es un gesto sencillo que ayuda a calmar el sistema nervioso, algo que tu misma podrias compartir con tus alumnas.",
-      "tags": ["Cuerpo", "Mente"]
+      "tags": ["Cuerpo", "Mente"],
+      "aprendizaje": "Mantener el cerebro activo con aprendizaje constante, movimiento y meditacion ayuda a fortalecer lo que los neurocientificos llaman 'reserva cognitiva': la capacidad del cerebro para adaptarse y protegerse frente al desgaste con la edad.",
+      "frase": {
+        "texto": "No puedes detener las olas, pero puedes aprender a surfearlas.",
+        "autor": "Jon Kabat-Zinn"
+      },
+      "noticia": {
+        "titulo": "La neurociencia demuestra que el aburrimiento es clave para el equilibrio mental",
+        "resumen": "Segun investigaciones recientes, los periodos de inactividad activan la red neuronal por defecto, un sistema cerebral vinculado a la creatividad, la memoria y la autorregulacion emocional.",
+        "url": "https://www.infobae.com/salud/ciencia/2026/02/01/la-neurociencia-demuestra-que-el-aburrimiento-es-clave-para-el-equilibrio-mental/"
+      }
     },
     "marca": {
       "title": "Marca personal",

@@ -9,6 +9,7 @@ const guardado = document.getElementById('guardado');
 const fechaEl = document.getElementById('fecha');
 const toggleHistorial = document.getElementById('toggle-historial');
 const historialEl = document.getElementById('historial');
+const extraContent = document.getElementById('extra-content');
 
 let currentZone = null;
 let saveTimeout = null;
@@ -44,6 +45,8 @@ function openZone(zone, data) {
     detailTags.appendChild(span);
   });
 
+  renderExtraContent(info);
+
   notes.value = localStorage.getItem('notas_' + zone) || '';
   guardado.textContent = '';
   historialEl.classList.add('hidden');
@@ -52,6 +55,67 @@ function openZone(zone, data) {
 
   home.classList.add('hidden');
   detail.classList.remove('hidden');
+}
+
+function renderExtraContent(info) {
+  extraContent.innerHTML = '';
+
+  if (info.aprendizaje) {
+    const box = document.createElement('div');
+    box.className = 'extra-box';
+    const label = document.createElement('p');
+    label.className = 'extra-label';
+    label.textContent = 'Aprendizaje de hoy';
+    const texto = document.createElement('p');
+    texto.className = 'extra-texto';
+    texto.textContent = info.aprendizaje;
+    box.appendChild(label);
+    box.appendChild(texto);
+    extraContent.appendChild(box);
+  }
+
+  if (info.frase && info.frase.texto) {
+    const box = document.createElement('div');
+    box.className = 'extra-box extra-frase';
+    const texto = document.createElement('p');
+    texto.className = 'extra-frase-texto';
+    texto.textContent = '"' + info.frase.texto + '"';
+    const autor = document.createElement('p');
+    autor.className = 'extra-frase-autor';
+    autor.textContent = '— ' + (info.frase.autor || '');
+    box.appendChild(texto);
+    box.appendChild(autor);
+    extraContent.appendChild(box);
+  }
+
+  if (info.noticia && info.noticia.titulo) {
+    const box = document.createElement('div');
+    box.className = 'extra-box';
+    const label = document.createElement('p');
+    label.className = 'extra-label';
+    label.textContent = 'Noticia del dia';
+    const titulo = document.createElement('p');
+    titulo.className = 'extra-texto';
+    titulo.textContent = info.noticia.titulo;
+    box.appendChild(label);
+    box.appendChild(titulo);
+    if (info.noticia.resumen) {
+      const resumen = document.createElement('p');
+      resumen.className = 'extra-resumen';
+      resumen.textContent = info.noticia.resumen;
+      box.appendChild(resumen);
+    }
+    if (info.noticia.url) {
+      const link = document.createElement('a');
+      link.href = info.noticia.url;
+      link.target = '_blank';
+      link.rel = 'noopener';
+      link.className = 'extra-link';
+      link.textContent = 'Leer mas';
+      box.appendChild(link);
+    }
+    extraContent.appendChild(box);
+  }
 }
 
 toggleHistorial.addEventListener('click', () => {

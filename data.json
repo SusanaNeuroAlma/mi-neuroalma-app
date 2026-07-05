@@ -30,7 +30,13 @@
     "neuroalma": {
       "title": "Neuroalma",
       "idea": "Dedica 15 minutos a escribir como te vas a presentar en la primera sesion en directo y que quieres que sientan tus alumnas al terminar los 7 encuentros. Es la base del guion de bienvenida.",
-      "tags": ["Idea", "Lanzamiento"]
+      "tags": ["Idea", "Lanzamiento"],
+      "aprendizaje": "En un lanzamiento de validacion como el tuyo, el objetivo no es vender a mucha gente sino confirmar que unas pocas personas reales pagarian por la transformacion que ofreces. Con las primeras alumnas de las 7 sesiones ya tendrias esa confirmacion.",
+      "recurso": {
+        "titulo": "El Metodo Lanzamiento (Jeff Walker)",
+        "tipo": "libro",
+        "porque": "Es la referencia clasica sobre como lanzar un curso online paso a paso, incluyendo como preparar el evento en directo que ya tienes guionizado. Muy util para la fase en la que estas ahora."
+      }
     }
   }
 }

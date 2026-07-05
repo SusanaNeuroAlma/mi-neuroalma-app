@@ -252,6 +252,35 @@ function renderExtraContent(info) {
   if (info.mensajeWhatsapp) {
     extraContent.appendChild(makeCopyBox('Mensaje para tu grupo', info.mensajeWhatsapp));
   }
+
+  if (info.recurso && info.recurso.titulo) {
+    const box = document.createElement('div');
+    box.className = 'extra-box';
+    const label = document.createElement('p');
+    label.className = 'extra-label';
+    label.textContent = 'Recurso' + (info.recurso.tipo ? ' (' + info.recurso.tipo + ')' : '');
+    const titulo = document.createElement('p');
+    titulo.className = 'extra-texto';
+    titulo.textContent = info.recurso.titulo;
+    box.appendChild(label);
+    box.appendChild(titulo);
+    if (info.recurso.porque) {
+      const porque = document.createElement('p');
+      porque.className = 'extra-resumen';
+      porque.textContent = info.recurso.porque;
+      box.appendChild(porque);
+    }
+    if (info.recurso.url) {
+      const link = document.createElement('a');
+      link.href = info.recurso.url;
+      link.target = '_blank';
+      link.rel = 'noopener';
+      link.className = 'extra-link';
+      link.textContent = 'Ver mas';
+      box.appendChild(link);
+    }
+    extraContent.appendChild(box);
+  }
 }
 
 function makeCopyBox(label, texto) {
@@ -336,6 +365,9 @@ function renderHistorial() {
     }
     if (info.mensajeWhatsapp) {
       item.appendChild(historialLinea('Mensaje: ', info.mensajeWhatsapp));
+    }
+    if (info.recurso && info.recurso.titulo) {
+      item.appendChild(historialLinea('Recurso: ', info.recurso.titulo));
     }
 
     historialEl.appendChild(item);

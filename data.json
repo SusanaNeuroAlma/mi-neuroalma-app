@@ -19,7 +19,13 @@
     "marca": {
       "title": "Marca personal",
       "idea": "Graba hoy un video corto de 30 segundos explicando con tus palabras algo que ya sabes de sobra, como la respiracion consciente o la calma antes de una clase. Sin guion, como si se lo contaras a una amiga.",
-      "tags": ["Contenido"]
+      "tags": ["Contenido"],
+      "guion": "GANCHO: \"¿Sabias que en cada clase hay una persona que regula el ambiente sin decir una palabra?\"\n\nCUERPO: Soy yo. Y tambien puedes serlo tu. Cuando entro nerviosa a dar una clase, el grupo se pone nervioso sin saber por que. Cuando entro en calma, el grupo respira conmigo. Lo descubri sin querer, dando clase un dia agotador: baje el ritmo de mi propia voz solo para aguantar, y toda la sala se relajo conmigo.\n\nCIERRE: La proxima vez que entres a dar una clase (o a una reunion, o a cenar con tu familia), recuerda: tu estado regula la sala antes que cualquier palabra.",
+      "referente": {
+        "nombre": "Dr. Nicole LePera (@the.holistic.psychologist)",
+        "porque": "Explica el sistema nervioso y las heridas emocionales en publicaciones cortas y visuales, con un tono cercano y sin tecnicismos muy parecido al que buscas para Neuroalma."
+      },
+      "mensajeWhatsapp": "Hola a todas! Recordad para la clase de hoy traer agua y algo para abrigaros en la relajacion final. Como siempre, quien quiera se queda un ratito de charlajacion al terminar. Nos vemos en la esterilla!"
     },
     "neuroalma": {
       "title": "Neuroalma",

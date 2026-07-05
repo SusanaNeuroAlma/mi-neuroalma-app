@@ -190,6 +190,18 @@ h1 {
   margin: 0;
 }
 
+.historial-extra {
+  font-size: 12px;
+  line-height: 1.5;
+  color: #5F5E5A;
+  margin: 6px 0 0;
+}
+
+.historial-extra-label {
+  font-weight: 500;
+  color: #2C2C2A;
+}
+
 .historial-vacio {
   font-size: 13px;
   color: #888780;
@@ -215,6 +227,7 @@ h1 {
   font-size: 14px;
   line-height: 1.5;
   margin: 0;
+  white-space: pre-wrap;
 }
 
 .extra-resumen {

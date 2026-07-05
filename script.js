@@ -116,6 +116,58 @@ function renderExtraContent(info) {
     }
     extraContent.appendChild(box);
   }
+
+  if (info.guion) {
+    extraContent.appendChild(makeCopyBox('Guion para grabar', info.guion));
+  }
+
+  if (info.referente && info.referente.nombre) {
+    const box = document.createElement('div');
+    box.className = 'extra-box';
+    const label = document.createElement('p');
+    label.className = 'extra-label';
+    label.textContent = 'Cuenta que te puede inspirar';
+    const nombre = document.createElement('p');
+    nombre.className = 'extra-texto';
+    nombre.textContent = info.referente.nombre;
+    box.appendChild(label);
+    box.appendChild(nombre);
+    if (info.referente.porque) {
+      const porque = document.createElement('p');
+      porque.className = 'extra-resumen';
+      porque.textContent = info.referente.porque;
+      box.appendChild(porque);
+    }
+    extraContent.appendChild(box);
+  }
+
+  if (info.mensajeWhatsapp) {
+    extraContent.appendChild(makeCopyBox('Mensaje para tu grupo', info.mensajeWhatsapp));
+  }
+}
+
+function makeCopyBox(label, texto) {
+  const box = document.createElement('div');
+  box.className = 'extra-box';
+  const labelEl = document.createElement('p');
+  labelEl.className = 'extra-label';
+  labelEl.textContent = label;
+  const textoEl = document.createElement('p');
+  textoEl.className = 'extra-texto';
+  textoEl.textContent = texto;
+  const copyBtn = document.createElement('button');
+  copyBtn.className = 'link-button';
+  copyBtn.textContent = 'Copiar';
+  copyBtn.addEventListener('click', () => {
+    navigator.clipboard.writeText(texto).then(() => {
+      copyBtn.textContent = 'Copiado';
+      setTimeout(() => { copyBtn.textContent = 'Copiar'; }, 1500);
+    });
+  });
+  box.appendChild(labelEl);
+  box.appendChild(textoEl);
+  box.appendChild(copyBtn);
+  return box;
 }
 
 toggleHistorial.addEventListener('click', () => {
@@ -146,18 +198,51 @@ function renderHistorial() {
   }
 
   entries.forEach((day) => {
+    const info = day.zones[currentZone];
     const item = document.createElement('div');
     item.className = 'historial-item';
     const fecha = document.createElement('p');
     fecha.className = 'historial-fecha';
     fecha.textContent = day.date;
+    item.appendChild(fecha);
+
     const idea = document.createElement('p');
     idea.className = 'historial-idea';
-    idea.textContent = day.zones[currentZone].idea;
-    item.appendChild(fecha);
+    idea.textContent = info.idea;
     item.appendChild(idea);
+
+    if (info.aprendizaje) {
+      item.appendChild(historialLinea('Aprendizaje: ', info.aprendizaje));
+    }
+    if (info.frase && info.frase.texto) {
+      item.appendChild(historialLinea('Frase: ', '"' + info.frase.texto + '" — ' + (info.frase.autor || '')));
+    }
+    if (info.noticia && info.noticia.titulo) {
+      item.appendChild(historialLinea('Noticia: ', info.noticia.titulo));
+    }
+    if (info.guion) {
+      item.appendChild(historialLinea('Guion: ', info.guion));
+    }
+    if (info.referente && info.referente.nombre) {
+      item.appendChild(historialLinea('Referente: ', info.referente.nombre));
+    }
+    if (info.mensajeWhatsapp) {
+      item.appendChild(historialLinea('Mensaje: ', info.mensajeWhatsapp));
+    }
+
     historialEl.appendChild(item);
   });
+}
+
+function historialLinea(etiqueta, texto) {
+  const p = document.createElement('p');
+  p.className = 'historial-extra';
+  const b = document.createElement('span');
+  b.className = 'historial-extra-label';
+  b.textContent = etiqueta;
+  p.appendChild(b);
+  p.appendChild(document.createTextNode(texto));
+  return p;
 }
 
 document.getElementById('back').addEventListener('click', () => {

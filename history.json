@@ -25,17 +25,39 @@
       "desarrollo": {
         "title": "Desarrollo personal",
         "idea": "Hoy, antes de dormir, prueba 5 respiraciones lentas: cuenta hasta 4 al inhalar y hasta 6 al exhalar. Es un gesto sencillo que ayuda a calmar el sistema nervioso, algo que tu misma podrias compartir con tus alumnas.",
-        "tags": ["Cuerpo", "Mente"]
+        "tags": ["Cuerpo", "Mente"],
+        "aprendizaje": "Mantener el cerebro activo con aprendizaje constante, movimiento y meditacion ayuda a fortalecer lo que los neurocientificos llaman 'reserva cognitiva': la capacidad del cerebro para adaptarse y protegerse frente al desgaste con la edad.",
+        "frase": {
+          "texto": "No puedes detener las olas, pero puedes aprender a surfearlas.",
+          "autor": "Jon Kabat-Zinn"
+        },
+        "noticia": {
+          "titulo": "La neurociencia demuestra que el aburrimiento es clave para el equilibrio mental",
+          "resumen": "Segun investigaciones recientes, los periodos de inactividad activan la red neuronal por defecto, un sistema cerebral vinculado a la creatividad, la memoria y la autorregulacion emocional.",
+          "url": "https://www.infobae.com/salud/ciencia/2026/02/01/la-neurociencia-demuestra-que-el-aburrimiento-es-clave-para-el-equilibrio-mental/"
+        }
       },
       "marca": {
         "title": "Marca personal",
         "idea": "Graba hoy un video corto de 30 segundos explicando con tus palabras algo que ya sabes de sobra, como la respiracion consciente o la calma antes de una clase. Sin guion, como si se lo contaras a una amiga.",
-        "tags": ["Contenido"]
+        "tags": ["Contenido"],
+        "guion": "GANCHO: \"¿Sabias que en cada clase hay una persona que regula el ambiente sin decir una palabra?\"\n\nCUERPO: Soy yo. Y tambien puedes serlo tu. Cuando entro nerviosa a dar una clase, el grupo se pone nervioso sin saber por que. Cuando entro en calma, el grupo respira conmigo. Lo descubri sin querer, dando clase un dia agotador: baje el ritmo de mi propia voz solo para aguantar, y toda la sala se relajo conmigo.\n\nCIERRE: La proxima vez que entres a dar una clase (o a una reunion, o a cenar con tu familia), recuerda: tu estado regula la sala antes que cualquier palabra.",
+        "referente": {
+          "nombre": "Dr. Nicole LePera (@the.holistic.psychologist)",
+          "porque": "Explica el sistema nervioso y las heridas emocionales en publicaciones cortas y visuales, con un tono cercano y sin tecnicismos muy parecido al que buscas para Neuroalma."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy os traigo una reflexion breve: la neurociencia esta confirmando algo que en Neuroalma llevamos tiempo diciendo, que los momentos de calma (e incluso de aburrimiento) son los que mas ayudan a nuestro cerebro a ordenar ideas y emociones. Si esta semana necesitais parar un ratito, no os sintais culpables, es parte del proceso. Un abrazo grande."
       },
       "neuroalma": {
         "title": "Neuroalma",
         "idea": "Dedica 15 minutos a escribir como te vas a presentar en la primera sesion en directo y que quieres que sientan tus alumnas al terminar los 7 encuentros. Es la base del guion de bienvenida.",
-        "tags": ["Idea", "Lanzamiento"]
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "En un lanzamiento de validacion como el tuyo, el objetivo no es vender a mucha gente sino confirmar que unas pocas personas reales pagarian por la transformacion que ofreces. Con las primeras alumnas de las 7 sesiones ya tendrias esa confirmacion.",
+        "recurso": {
+          "titulo": "El Metodo Lanzamiento (Jeff Walker)",
+          "tipo": "libro",
+          "porque": "Es la referencia clasica sobre como lanzar un curso online paso a paso, incluyendo como preparar el evento en directo que ya tienes guionizado. Muy util para la fase en la que estas ahora."
+        }
       }
     }
   }

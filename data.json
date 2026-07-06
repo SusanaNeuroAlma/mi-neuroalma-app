@@ -1,41 +1,42 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Hoy, antes de dormir, prueba 5 respiraciones lentas: cuenta hasta 4 al inhalar y hasta 6 al exhalar. Es un gesto sencillo que ayuda a calmar el sistema nervioso, algo que tu misma podrias compartir con tus alumnas.",
-      "tags": ["Cuerpo", "Mente"],
-      "aprendizaje": "Mantener el cerebro activo con aprendizaje constante, movimiento y meditacion ayuda a fortalecer lo que los neurocientificos llaman 'reserva cognitiva': la capacidad del cerebro para adaptarse y protegerse frente al desgaste con la edad.",
+      "idea": "Si hoy tu cuerpo te pide moverse, dale ese gusto sin exigencias: unos pasos al sol, estirar los brazos con calma o simplemente cambiar de postura cada rato. Escucha lo que tu cuerpo te permite hoy, sin forzar nada.",
+      "tags": ["Cuerpo", "Calma"],
+      "aprendizaje": "El nervio vago conecta el cerebro con el corazon, los pulmones y el sistema digestivo. Cuando respiras despacio y sueltas los hombros, ese nervio manda una senal de seguridad a todo tu cuerpo: es una de las formas mas directas de calmar la ansiedad sin pensar en nada.",
       "frase": {
-        "texto": "No puedes detener las olas, pero puedes aprender a surfearlas.",
-        "autor": "Jon Kabat-Zinn"
+        "texto": "Tienes poder sobre tu mente, no sobre los acontecimientos externos. Date cuenta de esto y encontraras fortaleza.",
+        "autor": "Marco Aurelio"
       },
       "noticia": {
-        "titulo": "La neurociencia demuestra que el aburrimiento es clave para el equilibrio mental",
-        "resumen": "Segun investigaciones recientes, los periodos de inactividad activan la red neuronal por defecto, un sistema cerebral vinculado a la creatividad, la memoria y la autorregulacion emocional.",
-        "url": "https://www.infobae.com/salud/ciencia/2026/02/01/la-neurociencia-demuestra-que-el-aburrimiento-es-clave-para-el-equilibrio-mental/"
+        "titulo": "Ana Ibanez, la neurocientifica que entrena el cerebro: del estres invisible a la plasticidad",
+        "resumen": "La neurocientifica explica de forma sencilla como entrenar el cerebro para reducir el estres, ganar flexibilidad mental y mejorar la salud emocional, con habitos accesibles para el dia a dia.",
+        "url": "https://www.infobae.com/tendencias/2026/02/12/ana-ibanez-la-neurocientifica-que-entrena-el-cerebro-del-estres-invisible-a-la-plasticidad-y-el-secreto-de-la-energia-compartida/"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Graba hoy un video corto de 30 segundos explicando con tus palabras algo que ya sabes de sobra, como la respiracion consciente o la calma antes de una clase. Sin guion, como si se lo contaras a una amiga.",
-      "tags": ["Contenido"],
-      "guion": "GANCHO: \"¿Sabias que en cada clase hay una persona que regula el ambiente sin decir una palabra?\"\n\nCUERPO: Soy yo. Y tambien puedes serlo tu. Cuando entro nerviosa a dar una clase, el grupo se pone nervioso sin saber por que. Cuando entro en calma, el grupo respira conmigo. Lo descubri sin querer, dando clase un dia agotador: baje el ritmo de mi propia voz solo para aguantar, y toda la sala se relajo conmigo.\n\nCIERRE: La proxima vez que entres a dar una clase (o a una reunion, o a cenar con tu familia), recuerda: tu estado regula la sala antes que cualquier palabra.",
+      "idea": "Hoy prueba con un formato distinto al video: escribe un post corto contando una situacion real de clase donde sabias la tecnica perfecta, pero no sabias que decirle a esa persona. A la gente le conecta lo autentico, no la perfeccion.",
+      "tags": ["Contenido", "Autenticidad"],
+      "guion": "GANCHO: \"Hay algo que nadie te ensena cuando te formas como instructora: que hacer cuando una alumna llora en medio de la clase.\"\n\nCUERPO: A mi me paso. Sabia perfectamente la postura, la respiracion, la secuencia. Pero en ese momento toda mi tecnica no servia de nada si no sabia acompañar lo que esa persona estaba sintiendo. Nadie me lo habia contado: que ensenar tambien es sostener, no solo explicar.\n\nCIERRE: Si alguna vez sentiste que tu formacion tecnica se quedaba corta ante una persona real, no eras tu la que fallaba. Es la brecha que casi nadie nombra.",
       "referente": {
-        "nombre": "Dr. Nicole LePera (@the.holistic.psychologist)",
-        "porque": "Explica el sistema nervioso y las heridas emocionales en publicaciones cortas y visuales, con un tono cercano y sin tecnicismos muy parecido al que buscas para Neuroalma."
+        "nombre": "Mario Alonso Puig",
+        "porque": "Medico y conferenciante español que divulga en español, sin tecnicismos, como la mente y el cuerpo se influyen mutuamente. Un buen modelo de comunicacion cercana sobre neurociencia."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy os traigo una reflexion breve: la neurociencia esta confirmando algo que en Neuroalma llevamos tiempo diciendo, que los momentos de calma (e incluso de aburrimiento) son los que mas ayudan a nuestro cerebro a ordenar ideas y emociones. Si esta semana necesitais parar un ratito, no os sintais culpables, es parte del proceso. Un abrazo grande."
+      "mensajeWhatsapp": "Hola a todas! Una reflexion pequeña para hoy: muchas veces creemos que calmar a otra persona es cuestion de decir las palabras correctas, pero la neurociencia confirma que primero se transmite calma, y despues llegan las palabras. Si esta semana alguien cercano esta nervioso, a veces basta con que tu respires despacio a su lado. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15 minutos a escribir como te vas a presentar en la primera sesion en directo y que quieres que sientan tus alumnas al terminar los 7 encuentros. Es la base del guion de bienvenida.",
+      "idea": "Dedica 15-20 minutos a escribir el primer email que recibira quien se apunte a Neuroalma: agradecele, confirmale la fecha y hora de la primera sesion, y cuentale que se puede llevar de ese primer encuentro. No hace falta que sea perfecto, solo que exista.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "En un lanzamiento de validacion como el tuyo, el objetivo no es vender a mucha gente sino confirmar que unas pocas personas reales pagarian por la transformacion que ofreces. Con las primeras alumnas de las 7 sesiones ya tendrias esa confirmacion.",
+      "aprendizaje": "En un lanzamiento de validacion, la comunidad que se forma durante las sesiones en directo, aunque sean pocas personas, es tan valiosa como el contenido: esas primeras alumnas suelen ser las que mas recomiendan el programa despues.",
       "recurso": {
-        "titulo": "El Metodo Lanzamiento (Jeff Walker)",
-        "tipo": "libro",
-        "porque": "Es la referencia clasica sobre como lanzar un curso online paso a paso, incluyendo como preparar el evento en directo que ya tienes guionizado. Muy util para la fase en la que estas ahora."
+        "titulo": "Los 7 mejores consejos para gestionar una academia online",
+        "tipo": "articulo",
+        "porque": "Resume de forma practica y en español los aspectos clave para organizar una academia online, utiles para esta fase inicial de Neuroalma.",
+        "url": "https://playoffinformatica.com/blog/7-mejores-consejos-gestionar-academia-online/"
       }
     }
   }

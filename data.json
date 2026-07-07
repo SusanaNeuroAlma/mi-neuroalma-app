@@ -1,42 +1,41 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Si hoy tu cuerpo te pide moverse, dale ese gusto sin exigencias: unos pasos al sol, estirar los brazos con calma o simplemente cambiar de postura cada rato. Escucha lo que tu cuerpo te permite hoy, sin forzar nada.",
-      "tags": ["Cuerpo", "Calma"],
-      "aprendizaje": "El nervio vago conecta el cerebro con el corazon, los pulmones y el sistema digestivo. Cuando respiras despacio y sueltas los hombros, ese nervio manda una senal de seguridad a todo tu cuerpo: es una de las formas mas directas de calmar la ansiedad sin pensar en nada.",
+      "idea": "Hoy prueba algo sencillo: deja el movil en otra habitacion durante una hora y observa que hace tu mente con ese hueco. No hace falta llenarlo de nada, solo notar la diferencia.",
+      "tags": ["Mente", "Calma"],
+      "aprendizaje": "El cerebro es plastico: asi como el uso excesivo de pantallas puede reducir la densidad de materia gris en zonas de control cognitivo y empatia, esas mismas zonas pueden reconstruirse con pausas conscientes y atencion sostenida en una sola cosa cada vez.",
       "frase": {
-        "texto": "Tienes poder sobre tu mente, no sobre los acontecimientos externos. Date cuenta de esto y encontraras fortaleza.",
-        "autor": "Marco Aurelio"
+        "texto": "Los sentimientos van y vienen como nubes en un cielo ventoso. La respiracion consciente es mi ancla.",
+        "autor": "Thich Nhat Hanh"
       },
       "noticia": {
-        "titulo": "Ana Ibanez, la neurocientifica que entrena el cerebro: del estres invisible a la plasticidad",
-        "resumen": "La neurocientifica explica de forma sencilla como entrenar el cerebro para reducir el estres, ganar flexibilidad mental y mejorar la salud emocional, con habitos accesibles para el dia a dia.",
-        "url": "https://www.infobae.com/tendencias/2026/02/12/ana-ibanez-la-neurocientifica-que-entrena-el-cerebro-del-estres-invisible-a-la-plasticidad-y-el-secreto-de-la-energia-compartida/"
+        "titulo": "Tu cerebro esta siendo secuestrado por algoritmos que reprograman tus vias de dopamina",
+        "resumen": "Un neurocientifico alerta de que revisamos el movil una media de 144 veces al dia sin darnos cuenta, y explica como esto reprograma los circuitos de recompensa del cerebro. La buena noticia: el cerebro es plastico y puede reconstruirse.",
+        "url": "https://www.que.es/2026/02/21/movil-algoritmo-adiccion-cerebro/"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy prueba con un formato distinto al video: escribe un post corto contando una situacion real de clase donde sabias la tecnica perfecta, pero no sabias que decirle a esa persona. A la gente le conecta lo autentico, no la perfeccion.",
+      "idea": "Comparte hoy un truco rapido que uses tu misma para regular tu estado antes de dar una clase (una respiracion, una frase interna, un gesto). A la gente le interesa mas lo que haces tu de verdad que la teoria general.",
       "tags": ["Contenido", "Autenticidad"],
-      "guion": "GANCHO: \"Hay algo que nadie te ensena cuando te formas como instructora: que hacer cuando una alumna llora en medio de la clase.\"\n\nCUERPO: A mi me paso. Sabia perfectamente la postura, la respiracion, la secuencia. Pero en ese momento toda mi tecnica no servia de nada si no sabia acompañar lo que esa persona estaba sintiendo. Nadie me lo habia contado: que ensenar tambien es sostener, no solo explicar.\n\nCIERRE: Si alguna vez sentiste que tu formacion tecnica se quedaba corta ante una persona real, no eras tu la que fallaba. Es la brecha que casi nadie nombra.",
+      "guion": "GANCHO: \"Nadie te cuenta que acompañar a alguien no es lo mismo que cargar con lo que siente.\"\n\nCUERPO: Al principio yo confundia las dos cosas. Si una alumna estaba mal, yo salia de clase agotada, como si su carga se hubiera quedado en mi cuerpo. Con el tiempo aprendi algo que cambio todo: puedo estar presente, sostener el momento, y aun asi soltarlo al salir por la puerta. Acompañar no es absorber.\n\nCIERRE: Si terminas tus clases o tus jornadas más cansada emocionalmente que fisicamente, quiza no es que seas muy empatica. Es que todavia no has aprendido a soltar lo que no es tuyo.",
       "referente": {
-        "nombre": "Mario Alonso Puig",
-        "porque": "Medico y conferenciante español que divulga en español, sin tecnicismos, como la mente y el cuerpo se influyen mutuamente. Un buen modelo de comunicacion cercana sobre neurociencia."
+        "nombre": "Marian Rojas Estape",
+        "porque": "Psiquiatra española que explica neurociencia y gestion emocional en un lenguaje sencillo y cercano, con un enfoque muy parecido al que buscas para Neuroalma."
       },
-      "mensajeWhatsapp": "Hola a todas! Una reflexion pequeña para hoy: muchas veces creemos que calmar a otra persona es cuestion de decir las palabras correctas, pero la neurociencia confirma que primero se transmite calma, y despues llegan las palabras. Si esta semana alguien cercano esta nervioso, a veces basta con que tu respires despacio a su lado. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy os dejo un dato curioso: parece que revisamos el movil una media de 144 veces al dia sin darnos cuenta. No os lo cuento para culpabilizar a nadie (yo la primera), sino como invitacion suave: si hoy encontrais un huequito para dejarlo un rato aparte, prestad atencion a como se siente esa calma. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a escribir el primer email que recibira quien se apunte a Neuroalma: agradecele, confirmale la fecha y hora de la primera sesion, y cuentale que se puede llevar de ese primer encuentro. No hace falta que sea perfecto, solo que exista.",
+      "idea": "Dedica 15 minutos a escribir 3 preguntas que le haras a cada alumna en la primera sesion en directo, para entender sus expectativas y poder adaptar el resto de las sesiones a lo que de verdad necesitan.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "En un lanzamiento de validacion, la comunidad que se forma durante las sesiones en directo, aunque sean pocas personas, es tan valiosa como el contenido: esas primeras alumnas suelen ser las que mas recomiendan el programa despues.",
+      "aprendizaje": "Para gestionar las inscripciones de un lanzamiento pequeño no hace falta ninguna plataforma complicada: un formulario sencillo (por ejemplo de Google) para recoger nombre, email y una pregunta sobre sus expectativas es mas que suficiente para empezar.",
       "recurso": {
-        "titulo": "Los 7 mejores consejos para gestionar una academia online",
-        "tipo": "articulo",
-        "porque": "Resume de forma practica y en español los aspectos clave para organizar una academia online, utiles para esta fase inicial de Neuroalma.",
-        "url": "https://playoffinformatica.com/blog/7-mejores-consejos-gestionar-academia-online/"
+        "titulo": "El Arte de Vender con Palabras (podcast de Maider Tomasena)",
+        "tipo": "podcast",
+        "porque": "Copywriter española especializada en paginas de venta y textos persuasivos, muy util ahora que te toca escribir la pagina de ventas de Neuroalma."
       }
     }
   }

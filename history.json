@@ -103,5 +103,47 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-07-07",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy prueba algo sencillo: deja el movil en otra habitacion durante una hora y observa que hace tu mente con ese hueco. No hace falta llenarlo de nada, solo notar la diferencia.",
+        "tags": ["Mente", "Calma"],
+        "aprendizaje": "El cerebro es plastico: asi como el uso excesivo de pantallas puede reducir la densidad de materia gris en zonas de control cognitivo y empatia, esas mismas zonas pueden reconstruirse con pausas conscientes y atencion sostenida en una sola cosa cada vez.",
+        "frase": {
+          "texto": "Los sentimientos van y vienen como nubes en un cielo ventoso. La respiracion consciente es mi ancla.",
+          "autor": "Thich Nhat Hanh"
+        },
+        "noticia": {
+          "titulo": "Tu cerebro esta siendo secuestrado por algoritmos que reprograman tus vias de dopamina",
+          "resumen": "Un neurocientifico alerta de que revisamos el movil una media de 144 veces al dia sin darnos cuenta, y explica como esto reprograma los circuitos de recompensa del cerebro. La buena noticia: el cerebro es plastico y puede reconstruirse.",
+          "url": "https://www.que.es/2026/02/21/movil-algoritmo-adiccion-cerebro/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Comparte hoy un truco rapido que uses tu misma para regular tu estado antes de dar una clase (una respiracion, una frase interna, un gesto). A la gente le interesa mas lo que haces tu de verdad que la teoria general.",
+        "tags": ["Contenido", "Autenticidad"],
+        "guion": "GANCHO: \"Nadie te cuenta que acompañar a alguien no es lo mismo que cargar con lo que siente.\"\n\nCUERPO: Al principio yo confundia las dos cosas. Si una alumna estaba mal, yo salia de clase agotada, como si su carga se hubiera quedado en mi cuerpo. Con el tiempo aprendi algo que cambio todo: puedo estar presente, sostener el momento, y aun asi soltarlo al salir por la puerta. Acompañar no es absorber.\n\nCIERRE: Si terminas tus clases o tus jornadas más cansada emocionalmente que fisicamente, quiza no es que seas muy empatica. Es que todavia no has aprendido a soltar lo que no es tuyo.",
+        "referente": {
+          "nombre": "Marian Rojas Estape",
+          "porque": "Psiquiatra española que explica neurociencia y gestion emocional en un lenguaje sencillo y cercano, con un enfoque muy parecido al que buscas para Neuroalma."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy os dejo un dato curioso: parece que revisamos el movil una media de 144 veces al dia sin darnos cuenta. No os lo cuento para culpabilizar a nadie (yo la primera), sino como invitacion suave: si hoy encontrais un huequito para dejarlo un rato aparte, prestad atencion a como se siente esa calma. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15 minutos a escribir 3 preguntas que le haras a cada alumna en la primera sesion en directo, para entender sus expectativas y poder adaptar el resto de las sesiones a lo que de verdad necesitan.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Para gestionar las inscripciones de un lanzamiento pequeño no hace falta ninguna plataforma complicada: un formulario sencillo (por ejemplo de Google) para recoger nombre, email y una pregunta sobre sus expectativas es mas que suficiente para empezar.",
+        "recurso": {
+          "titulo": "El Arte de Vender con Palabras (podcast de Maider Tomasena)",
+          "tipo": "podcast",
+          "porque": "Copywriter española especializada en paginas de venta y textos persuasivos, muy util ahora que te toca escribir la pagina de ventas de Neuroalma."
+        }
+      }
+    }
   }
 ]

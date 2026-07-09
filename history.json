@@ -145,5 +145,48 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-07-08",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy dedica un momento a agradecer a tu cuerpo, aunque este en pausa, todo lo que sigue haciendo por ti: respirar, sostenerte, avisarte cuando necesita descanso. No hace falta moverse para cuidarlo, tambien se cuida escuchandolo con carino.",
+        "tags": ["Cuerpo", "Gratitud"],
+        "aprendizaje": "Cuando el estres se mantiene activo muchas semanas seguidas, el cerebro va perdiendo poco a poco la facilidad para volver a un estado de calma por si solo. Por eso, parar unos minutos varias veces al dia no es un lujo: es lo que le devuelve a tu sistema nervioso la capacidad de descansar de verdad.",
+        "frase": {
+          "texto": "El cuerpo es mi templo y las asanas son mis oraciones.",
+          "autor": "B.K.S. Iyengar"
+        },
+        "noticia": {
+          "titulo": "Como cambia el cerebro con el estres cronico: lo que revela la neurociencia",
+          "resumen": "Un repaso a lo que ocurre cuando el estres se sostiene durante semanas o meses: se altera el equilibrio entre la corteza prefrontal, el hipocampo y la amigdala, y el cuerpo pierde la capacidad de volver a su estado de base. La buena noticia es que ese equilibrio se puede recuperar con pausas y descanso real.",
+          "url": "https://www.abc.com.py/estilo-de-vida/2026/07/04/como-cambia-el-cerebro-con-el-estres-cronico-lo-que-revela-la-neurociencia/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy nombra en voz alta algo que muchas formadoras sienten pero casi nadie dice: que sostener emocionalmente a un grupo cansa, aunque no se haya movido un musculo. No necesitas contar una anecdota concreta de ninguna alumna, basta con nombrar esa sensacion para que otras se sientan acompañadas.",
+        "tags": ["Contenido", "Fatiga empatica"],
+        "guion": "GANCHO: \"¿Por que a veces terminas una clase mas agotada que si hubieras hecho tu una hora de ejercicio?\"\n\nCUERPO: Durante años pense que era falta de forma fisica. Con el tiempo entendi que era otra cosa: cuando sostienes el estado emocional de un grupo entero, tu propio sistema nervioso se activa igual que el de ellos, aunque tu cuerpo este quieto. Eso tiene nombre, se llama fatiga empatica, y no significa que no sirvas para esto. Significa que te importa de verdad.\n\nCIERRE: Si alguna vez saliste de dar clase mas cansada por dentro que por fuera, no eras tu exagerando. Es tu cuerpo pagando el precio de acompañar bien.",
+        "referente": {
+          "nombre": "Rafael Santandreu",
+          "porque": "Psicologo español que divulga sobre gestion emocional con un lenguaje muy sencillo, cercano y sin tecnicismos, ideal como referencia de tono para Neuroalma."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy leia sobre como el estres mantenido durante semanas cambia el funcionamiento del cerebro, y pensaba en lo mucho que esto se aplica a quienes acompañamos a otras personas (como formadoras, madres, cuidadoras...). Si esta semana notais que el cansancio es mas de dentro que de fuera, no os exijais mas, es una señal a la que merece la pena hacer caso. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a preparar una pequeña encuesta de 3 preguntas (por ejemplo con Google Forms) para enviar a tus alumnas justo despues de la primera sesion en directo. Te ayudara a saber que esta funcionando mientras aun estas a tiempo de ajustar las siguientes 6 sesiones.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Pedir feedback justo despues de cada sesion, mientras la experiencia esta fresca, te da informacion mucho mas util que esperar al final de las 7 sesiones: te permite ajustar sobre la marcha en lugar de descubrir los problemas cuando ya no queda tiempo de solucionarlos.",
+        "recurso": {
+          "titulo": "Crear y gestionar cuestionarios con Formularios de Google",
+          "tipo": "guia",
+          "porque": "Guia oficial y en español para crear una encuesta sencilla de satisfaccion, justo lo que necesitas para recoger feedback de tus alumnas de Neuroalma sin complicarte con herramientas nuevas.",
+          "url": "https://support.google.com/docs/answer/7032287?hl=es"
+        }
+      }
+    }
   }
 ]

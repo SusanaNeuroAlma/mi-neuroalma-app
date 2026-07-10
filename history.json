@@ -188,5 +188,48 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-07-09",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy prueba un micro-descanso real: 10-15 minutos sin movil, sin musica, en un lugar tranquilo y con luz suave, sin hacer nada en concreto. No es perder el tiempo, es dejar que tu mente ordene por dentro lo que necesita ordenar.",
+        "tags": ["Calma", "Silencio"],
+        "aprendizaje": "Cuando dejas de prestar atencion a estimulos externos, se activa lo que los neurocientificos llaman la red neuronal por defecto: un sistema que aprovecha esos momentos de calma para ordenar recuerdos y limpiar el desgaste acumulado del dia. Por eso no hacer nada, de vez en cuando, tambien es productivo para el cerebro.",
+        "frase": {
+          "texto": "Acepta, y luego actua. Cualquier cosa que el momento presente contenga, aceptala como si la hubieras elegido.",
+          "autor": "Eckhart Tolle"
+        },
+        "noticia": {
+          "titulo": "La revolucion de la neurociencia en 2026: por que el micro-descanso es mas potente que unas vacaciones largas",
+          "resumen": "Una investigacion reciente apunta a que el cerebro necesita desconectarse en pequeñas dosis, no solo una vez al año: micro-descansos de 15 minutos en silencio total, sin movil ni musica, activarian la red neuronal por defecto, el sistema encargado de reordenar la memoria y limpiar el desgaste mental acumulado.",
+          "url": "https://www.diarioenpositivo.com/articulo/bienestar/ciencia-descubre-que-silencio-absoluto-es-gasolina-cerebro-moderno/20260207175713072897.html"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy comparte, si te apetece, que tambien tu estas aprendiendo a base de pausas obligadas estos meses. No hace falta dar detalles medicos: basta con nombrar que ensenar a otras a parar tambien pasa por parar tu misma, y que eso no te hace menos formadora, te hace mas honesta.",
+        "tags": ["Contenido", "Autenticidad"],
+        "guion": "GANCHO: \"¿Que pasa cuando la persona que siempre dice 'para y respira' tiene que aprender a hacerlo ella misma, a la fuerza?\"\n\nCUERPO: Llevo años diciendole a otras que el descanso no es un premio, que es parte del proceso. Este año me toco aprenderlo en primera persona, sin poder dar clase, sin poder moverme como antes. Al principio lo vivi como una perdida. Con el tiempo entendi que era la misma leccion que llevo años enseñando, solo que ahora me tocaba a mi aplicarla.\n\nCIERRE: Si alguna vez sentiste que tenias que parar justo cuando menos ganas tenias, no es una señal de fracaso. Es la vida poniendote a prueba con tu propia enseñanza.",
+        "referente": {
+          "nombre": "Elsa Punset",
+          "porque": "Divulgadora española de inteligencia emocional y neurociencia, con un lenguaje sencillo y cercano, muy accesible para un publico general como el de Neuroalma."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy he aprendido algo bonito: parece que el cerebro necesita ratos de silencio real (sin movil, sin musica) para poder ordenar por dentro todo lo que vivimos, igual que ordenamos un armario de vez en cuando. Si esta semana encontrais 10 minutitos para no hacer nada, dejad que pase sin culpa, vuestro cerebro os lo va a agradecer. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15 minutos a preparar un documento breve con la informacion practica de la primera sesion: enlace de acceso, dia y hora, y que conviene tener a mano (cuaderno, un espacio tranquilo). Enviaselo a cada alumna el dia antes para que lleguen con confianza.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "En un grupo reducido como el tuyo, un recordatorio sencillo y personal el dia antes reduce mucho las ausencias de ultima hora. No hace falta automatizar nada complicado, basta con un mensaje cercano en vuestro grupo de WhatsApp.",
+        "recurso": {
+          "titulo": "Programar y compartir una videollamada con Google Meet",
+          "tipo": "guia",
+          "porque": "Guia oficial y en español para crear el enlace de la sesion en directo y compartirlo facilmente con tus alumnas, sin necesidad de herramientas complicadas.",
+          "url": "https://support.google.com/meet/answer/9302870?hl=es"
+        }
+      }
+    }
   }
 ]

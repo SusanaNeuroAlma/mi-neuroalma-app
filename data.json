@@ -1,37 +1,42 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Hoy dedica un momento a notar como tu cuerpo reconoce, sin que tu lo pienses, cuando un lugar o una persona le resultan seguros: los hombros bajan, la respiracion se hace mas lenta. Busca ese ambiente hoy, aunque sea solo durante un rato, y dejate estar en el.",
-      "tags": ["Calma", "Seguridad"],
-      "aprendizaje": "El neurocientifico Stephen Porges llamo 'neurocepcion' al proceso por el que tu sistema nervioso evalua, antes de que lo pienses, si un lugar o una situacion es segura o amenazante. Por eso a veces te relajas sin saber muy bien por que: tu cuerpo ya habia decidido que ahi podia bajar la guardia.",
+      "idea": "Hoy, en vez de exigirte nada, prueba a hablarte como le hablarias a una alumna que esta pasando por un mal momento: con paciencia, sin prisa por que mejore ya. Un minuto de autocompasion real, aunque suene raro al principio.",
+      "tags": ["Autocompasion", "Descanso"],
+      "aprendizaje": "Un neurocientifico explicaba hace poco que las personas que cultivan la autocompasion no solo duermen mejor, sino que llegan a reducir la percepcion del dolor sin necesidad de farmacos. No es un efecto magico: es que bajar la autoexigencia tambien baja el estres, y el estres amplifica el dolor.",
       "frase": {
-        "texto": "La herida es el lugar por donde la luz entra en ti.",
-        "autor": "Rumi"
+        "texto": "Cuando ya no podemos cambiar una situacion, nos vemos desafiados a cambiarnos a nosotros mismos.",
+        "autor": "Viktor Frankl"
+      },
+      "noticia": {
+        "titulo": "Gustavo Diez, neurocientifico: los pacientes que cultivan la autocompasion duermen mejor y reducen el dolor sin farmacos",
+        "resumen": "El neurocientifico explica que dedicar tiempo a practicas de autocompasion, mas alla de simplemente dormir, tiene efectos medibles en la reduccion del dolor y la mejora del descanso.",
+        "url": "https://www.elespanol.com/ciencia/salud/20250514/gustavo-neurocientifico-descansar-el-cerebro-no-basta-con-dormir-hay-dedicar-tiempo-gusta/1003743753307_0.html"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy recuerda que no necesitas moverte delante de una camara para aportar valor. Mientras tu cuerpo descansa, tu voz y tus palabras siguen intactas: comparte algo que sepas de memoria, contado tal cual lo dirias a una alumna sentada a tu lado.",
-      "tags": ["Contenido", "Voz"],
-      "guion": "GANCHO: \"¿Y si ahora mismo tu voz vale mas que tu cuerpo en movimiento?\"\n\nCUERPO: Llevo meses sin poder demostrar una postura, sin poder ponerme delante de una clase a ensenar con el cuerpo. Al principio senti que sin eso no tenia nada que ofrecer. Pero seguia teniendo las palabras, la experiencia de años acompanando a otras personas, y eso no se ha pausado nunca. Empece a compartirlo asi, solo hablando, y a la gente le llego igual, o mas.\n\nCIERRE: Si algo te ha quitado por un tiempo tu forma habitual de ensenar, no des por hecho que tienes menos que aportar. Puede que solo tengas que contarlo con otras palabras.",
+      "idea": "Comparte hoy una pausa de autocompasion de un minuto, la misma que tu podrias necesitar ahora: unas palabras amables dichas hacia ti misma en voz alta o por escrito. Muchas formadoras dan mucho cuidado y reciben poco, y a tu comunidad le vendra bien verlo nombrado.",
+      "tags": ["Contenido", "Autocompasion"],
+      "guion": "GANCHO: \"Llevo años enseñando a otras personas a cuidarse. Hoy me toco aprender a hacerlo conmigo misma.\"\n\nCUERPO: Cuando cuidas de otras personas por trabajo, es facil olvidar que tu tambien necesitas ese cuidado. Yo lo aprendi de golpe, obligada por una pausa que no elegi. Y descubri que hablarme con la misma paciencia que uso con mis alumnas, en vez de exigirme recuperarme rapido, cambiaba como me sentia por dentro, no solo fisicamente.\n\nCIERRE: Si tu tambien sueles dar mas cuidado del que recibes, hoy es un buen dia para invertir eso, aunque sea un minuto.",
       "referente": {
-        "nombre": "Silvia Congost",
-        "porque": "Psicologa española especializada en autoestima y dependencia emocional, muy activa en redes con un lenguaje claro, cercano y sin tecnicismos, buen modelo de comunicacion solo con palabras."
+        "nombre": "Laura Rojas-Marcos",
+        "porque": "Psicologa española especializada en resiliencia y optimismo, con libros y contenido muy accesible sobre como sostenerse en momentos dificiles sin tecnicismos."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo sencillo: no hace falta estar en plena forma fisica para seguir aportando valor, a veces basta con las palabras justas dichas con carino. Si esta semana os apetece compartir algo con alguien, aunque sea solo hablando, confiad en que tambien eso cuenta y ayuda. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Leia hace poco que la autocompasion no es solo sentirse bien: hay estudios que muestran que ayuda a dormir mejor y hasta a sentir menos dolor fisico. Si esta semana os notais muy exigentes con vosotras mismas, quiza sea un buen momento para tratraros con la misma paciencia que le dais a los demas. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a escribir el mensaje de cierre que enviaras a tus alumnas al terminar las 7 sesiones: agradeceles su tiempo y confianza, y preguntales si les apetece contarte en dos o tres frases como ha sido su experiencia.",
+      "idea": "Dedica 15-20 minutos a esbozar el primer email de tu secuencia de lanzamiento: preséntate, cuenta por que crees en Neuroalma, y comparte algo de valor. Todavia no vendas nada en este primer correo, solo genera confianza.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Los testimonios de tus primeras alumnas son uno de los recursos mas valiosos que puedes conseguir en un lanzamiento de validacion: ayudan a que las siguientes personas confien en apuntarse, y a ti te confirman que lo que ofreces si esta funcionando.",
+      "aprendizaje": "En una secuencia de emails de lanzamiento, el error mas comun es intentar vender demasiado pronto. Los primeros correos deben aportar valor y generar confianza; la oferta llega despues, cuando la persona ya conoce y confia en ti.",
       "recurso": {
-        "titulo": "Cómo conseguir testimonios impactantes para facilitar la venta de tus cursos online",
+        "titulo": "Secuencia de emails de lanzamiento: ejemplo paso a paso",
         "tipo": "articulo",
-        "porque": "Explica en español, paso a paso, como y cuando pedir testimonios a tus alumnas sin que resulte incomodo, justo lo que necesitas al terminar las 7 sesiones de Neuroalma.",
-        "url": "https://www.classonlive.com/blog/conseguir-testimonios-venta-cursos-online"
+        "porque": "Explica en español, con ejemplos concretos, como estructurar una secuencia completa de emails de lanzamiento, justo el paso en el que estas ahora con Neuroalma.",
+        "url": "https://victoralcazar.com/secuencia-emails-lanzamiento-claves/"
       }
     }
   }

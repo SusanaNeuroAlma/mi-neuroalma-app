@@ -231,5 +231,43 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-07-10",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy dedica un momento a notar como tu cuerpo reconoce, sin que tu lo pienses, cuando un lugar o una persona le resultan seguros: los hombros bajan, la respiracion se hace mas lenta. Busca ese ambiente hoy, aunque sea solo durante un rato, y dejate estar en el.",
+        "tags": ["Calma", "Seguridad"],
+        "aprendizaje": "El neurocientifico Stephen Porges llamo 'neurocepcion' al proceso por el que tu sistema nervioso evalua, antes de que lo pienses, si un lugar o una situacion es segura o amenazante. Por eso a veces te relajas sin saber muy bien por que: tu cuerpo ya habia decidido que ahi podia bajar la guardia.",
+        "frase": {
+          "texto": "La herida es el lugar por donde la luz entra en ti.",
+          "autor": "Rumi"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy recuerda que no necesitas moverte delante de una camara para aportar valor. Mientras tu cuerpo descansa, tu voz y tus palabras siguen intactas: comparte algo que sepas de memoria, contado tal cual lo dirias a una alumna sentada a tu lado.",
+        "tags": ["Contenido", "Voz"],
+        "guion": "GANCHO: \"¿Y si ahora mismo tu voz vale mas que tu cuerpo en movimiento?\"\n\nCUERPO: Llevo meses sin poder demostrar una postura, sin poder ponerme delante de una clase a ensenar con el cuerpo. Al principio senti que sin eso no tenia nada que ofrecer. Pero seguia teniendo las palabras, la experiencia de años acompanando a otras personas, y eso no se ha pausado nunca. Empece a compartirlo asi, solo hablando, y a la gente le llego igual, o mas.\n\nCIERRE: Si algo te ha quitado por un tiempo tu forma habitual de ensenar, no des por hecho que tienes menos que aportar. Puede que solo tengas que contarlo con otras palabras.",
+        "referente": {
+          "nombre": "Silvia Congost",
+          "porque": "Psicologa española especializada en autoestima y dependencia emocional, muy activa en redes con un lenguaje claro, cercano y sin tecnicismos, buen modelo de comunicacion solo con palabras."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo sencillo: no hace falta estar en plena forma fisica para seguir aportando valor, a veces basta con las palabras justas dichas con carino. Si esta semana os apetece compartir algo con alguien, aunque sea solo hablando, confiad en que tambien eso cuenta y ayuda. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a escribir el mensaje de cierre que enviaras a tus alumnas al terminar las 7 sesiones: agradeceles su tiempo y confianza, y preguntales si les apetece contarte en dos o tres frases como ha sido su experiencia.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Los testimonios de tus primeras alumnas son uno de los recursos mas valiosos que puedes conseguir en un lanzamiento de validacion: ayudan a que las siguientes personas confien en apuntarse, y a ti te confirman que lo que ofreces si esta funcionando.",
+        "recurso": {
+          "titulo": "Cómo conseguir testimonios impactantes para facilitar la venta de tus cursos online",
+          "tipo": "articulo",
+          "porque": "Explica en español, paso a paso, como y cuando pedir testimonios a tus alumnas sin que resulte incomodo, justo lo que necesitas al terminar las 7 sesiones de Neuroalma.",
+          "url": "https://www.classonlive.com/blog/conseguir-testimonios-venta-cursos-online"
+        }
+      }
+    }
   }
 ]

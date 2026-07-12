@@ -1,42 +1,42 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Hoy, en vez de exigirte nada, prueba a hablarte como le hablarias a una alumna que esta pasando por un mal momento: con paciencia, sin prisa por que mejore ya. Un minuto de autocompasion real, aunque suene raro al principio.",
-      "tags": ["Autocompasion", "Descanso"],
-      "aprendizaje": "Un neurocientifico explicaba hace poco que las personas que cultivan la autocompasion no solo duermen mejor, sino que llegan a reducir la percepcion del dolor sin necesidad de farmacos. No es un efecto magico: es que bajar la autoexigencia tambien baja el estres, y el estres amplifica el dolor.",
+      "idea": "Hoy dedica un par de minutos a pensar en tres cosas pequeñas por las que te sientes agradecida ahora mismo, aunque sea un mensaje de una alumna o un rato de sol por la ventana. No hace falta que sean grandes cosas.",
+      "tags": ["Gratitud", "Calma"],
+      "aprendizaje": "Practicar la gratitud activa la corteza prefrontal medial, la zona del cerebro implicada en la regulacion emocional y la toma de decisiones. No es solo una sensacion agradable: fortalece de verdad los circuitos relacionados con el bienestar.",
       "frase": {
-        "texto": "Cuando ya no podemos cambiar una situacion, nos vemos desafiados a cambiarnos a nosotros mismos.",
-        "autor": "Viktor Frankl"
+        "texto": "La gratitud abre la plenitud de la vida.",
+        "autor": "Melody Beattie"
       },
       "noticia": {
-        "titulo": "Gustavo Diez, neurocientifico: los pacientes que cultivan la autocompasion duermen mejor y reducen el dolor sin farmacos",
-        "resumen": "El neurocientifico explica que dedicar tiempo a practicas de autocompasion, mas alla de simplemente dormir, tiene efectos medibles en la reduccion del dolor y la mejora del descanso.",
-        "url": "https://www.elespanol.com/ciencia/salud/20250514/gustavo-neurocientifico-descansar-el-cerebro-no-basta-con-dormir-hay-dedicar-tiempo-gusta/1003743753307_0.html"
+        "titulo": "Como la gratitud fortalece tu cerebro segun la neurociencia",
+        "resumen": "Un repaso a como las practicas regulares de gratitud pueden aumentar las emociones positivas, mejorar la calidad del sueño y reducir los niveles de estres, con respaldo de estudios de neuroimagen.",
+        "url": "https://www.gsinapsis.com/gratitud-salud-cerebral-neurociencia/"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Comparte hoy una pausa de autocompasion de un minuto, la misma que tu podrias necesitar ahora: unas palabras amables dichas hacia ti misma en voz alta o por escrito. Muchas formadoras dan mucho cuidado y reciben poco, y a tu comunidad le vendra bien verlo nombrado.",
-      "tags": ["Contenido", "Autocompasion"],
-      "guion": "GANCHO: \"Llevo años enseñando a otras personas a cuidarse. Hoy me toco aprender a hacerlo conmigo misma.\"\n\nCUERPO: Cuando cuidas de otras personas por trabajo, es facil olvidar que tu tambien necesitas ese cuidado. Yo lo aprendi de golpe, obligada por una pausa que no elegi. Y descubri que hablarme con la misma paciencia que uso con mis alumnas, en vez de exigirme recuperarme rapido, cambiaba como me sentia por dentro, no solo fisicamente.\n\nCIERRE: Si tu tambien sueles dar mas cuidado del que recibes, hoy es un buen dia para invertir eso, aunque sea un minuto.",
+      "idea": "Comparte hoy algo que hayas aprendido a agradecer precisamente gracias a esta pausa forzada por la lesion. A veces lo que parece un parón cuenta una historia mas honesta que cualquier clase perfecta.",
+      "tags": ["Contenido", "Gratitud"],
+      "guion": "GANCHO: \"Nunca pense que le daria las gracias a una lesion.\"\n\nCUERPO: Cuando todo se paro, lo primero que senti fue frustracion. Pero con los dias empece a notar cosas que antes se me escapaban: el tiempo para pensar, las palabras de apoyo de gente que ni imaginaba que se acordaba de mi, la calma que antes consideraba un lujo. No cambio lo dificil del momento, pero si cambio lo que elijo mirar dentro de el.\n\nCIERRE: A veces no se trata de que todo vaya bien, sino de encontrar algo real que agradecer incluso cuando no va bien.",
       "referente": {
-        "nombre": "Laura Rojas-Marcos",
-        "porque": "Psicologa española especializada en resiliencia y optimismo, con libros y contenido muy accesible sobre como sostenerse en momentos dificiles sin tecnicismos."
+        "nombre": "Elsa Punset",
+        "porque": "Escritora y divulgadora española de educacion emocional, con un lenguaje sencillo y cercano muy alineado con el tono que buscas para Neuroalma."
       },
-      "mensajeWhatsapp": "Hola a todas! Leia hace poco que la autocompasion no es solo sentirse bien: hay estudios que muestran que ayuda a dormir mejor y hasta a sentir menos dolor fisico. Si esta semana os notais muy exigentes con vosotras mismas, quiza sea un buen momento para tratraros con la misma paciencia que le dais a los demas. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy os propongo algo sencillo: pensad en 3 cosas pequeñas por las que os sintais agradecidas ahora mismo. La neurociencia dice que esta práctica fortalece de verdad los circuitos del bienestar en el cerebro, no es solo una frase bonita. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a esbozar el primer email de tu secuencia de lanzamiento: preséntate, cuenta por que crees en Neuroalma, y comparte algo de valor. Todavia no vendas nada en este primer correo, solo genera confianza.",
+      "idea": "Dedica 20 minutos a esbozar la estructura basica de tu pagina de ventas: un titular claro, los beneficios principales de las 7 sesiones, y donde ira el precio. No hace falta redactarlo todo hoy, solo el esqueleto.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "En una secuencia de emails de lanzamiento, el error mas comun es intentar vender demasiado pronto. Los primeros correos deben aportar valor y generar confianza; la oferta llega despues, cuando la persona ya conoce y confia en ti.",
+      "aprendizaje": "Una pagina de ventas sencilla necesita pocos elementos pero claros: un titular que explique la transformacion, los modulos o sesiones que incluye, el precio con sus condiciones, y algun testimonio si ya lo tienes. No hace falta que sea compleja para funcionar.",
       "recurso": {
-        "titulo": "Secuencia de emails de lanzamiento: ejemplo paso a paso",
+        "titulo": "Como crear una pagina de ventas: estructura y herramientas",
         "tipo": "articulo",
-        "porque": "Explica en español, con ejemplos concretos, como estructurar una secuencia completa de emails de lanzamiento, justo el paso en el que estas ahora con Neuroalma.",
-        "url": "https://victoralcazar.com/secuencia-emails-lanzamiento-claves/"
+        "porque": "Explica en español, paso a paso, la estructura basica de una pagina de ventas, justo lo que necesitas para dar forma a la de Neuroalma.",
+        "url": "https://escuelanomadadigital.com/como-crear-una-pagina-de-ventas/"
       }
     }
   }

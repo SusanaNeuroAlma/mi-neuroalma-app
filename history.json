@@ -312,5 +312,48 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-07-12",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy dedica un par de minutos a pensar en tres cosas pequeñas por las que te sientes agradecida ahora mismo, aunque sea un mensaje de una alumna o un rato de sol por la ventana. No hace falta que sean grandes cosas.",
+        "tags": ["Gratitud", "Calma"],
+        "aprendizaje": "Practicar la gratitud activa la corteza prefrontal medial, la zona del cerebro implicada en la regulacion emocional y la toma de decisiones. No es solo una sensacion agradable: fortalece de verdad los circuitos relacionados con el bienestar.",
+        "frase": {
+          "texto": "La gratitud abre la plenitud de la vida.",
+          "autor": "Melody Beattie"
+        },
+        "noticia": {
+          "titulo": "Como la gratitud fortalece tu cerebro segun la neurociencia",
+          "resumen": "Un repaso a como las practicas regulares de gratitud pueden aumentar las emociones positivas, mejorar la calidad del sueño y reducir los niveles de estres, con respaldo de estudios de neuroimagen.",
+          "url": "https://www.gsinapsis.com/gratitud-salud-cerebral-neurociencia/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Comparte hoy algo que hayas aprendido a agradecer precisamente gracias a esta pausa forzada por la lesion. A veces lo que parece un parón cuenta una historia mas honesta que cualquier clase perfecta.",
+        "tags": ["Contenido", "Gratitud"],
+        "guion": "GANCHO: \"Nunca pense que le daria las gracias a una lesion.\"\n\nCUERPO: Cuando todo se paro, lo primero que senti fue frustracion. Pero con los dias empece a notar cosas que antes se me escapaban: el tiempo para pensar, las palabras de apoyo de gente que ni imaginaba que se acordaba de mi, la calma que antes consideraba un lujo. No cambio lo dificil del momento, pero si cambio lo que elijo mirar dentro de el.\n\nCIERRE: A veces no se trata de que todo vaya bien, sino de encontrar algo real que agradecer incluso cuando no va bien.",
+        "referente": {
+          "nombre": "Elsa Punset",
+          "porque": "Escritora y divulgadora española de educacion emocional, con un lenguaje sencillo y cercano muy alineado con el tono que buscas para Neuroalma."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy os propongo algo sencillo: pensad en 3 cosas pequeñas por las que os sintais agradecidas ahora mismo. La neurociencia dice que esta práctica fortalece de verdad los circuitos del bienestar en el cerebro, no es solo una frase bonita. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 20 minutos a esbozar la estructura basica de tu pagina de ventas: un titular claro, los beneficios principales de las 7 sesiones, y donde ira el precio. No hace falta redactarlo todo hoy, solo el esqueleto.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Una pagina de ventas sencilla necesita pocos elementos pero claros: un titular que explique la transformacion, los modulos o sesiones que incluye, el precio con sus condiciones, y algun testimonio si ya lo tienes. No hace falta que sea compleja para funcionar.",
+        "recurso": {
+          "titulo": "Como crear una pagina de ventas: estructura y herramientas",
+          "tipo": "articulo",
+          "porque": "Explica en español, paso a paso, la estructura basica de una pagina de ventas, justo lo que necesitas para dar forma a la de Neuroalma.",
+          "url": "https://escuelanomadadigital.com/como-crear-una-pagina-de-ventas/"
+        }
+      }
+    }
   }
 ]

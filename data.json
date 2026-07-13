@@ -1,42 +1,42 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Hoy dedica un par de minutos a pensar en tres cosas pequeñas por las que te sientes agradecida ahora mismo, aunque sea un mensaje de una alumna o un rato de sol por la ventana. No hace falta que sean grandes cosas.",
-      "tags": ["Gratitud", "Calma"],
-      "aprendizaje": "Practicar la gratitud activa la corteza prefrontal medial, la zona del cerebro implicada en la regulacion emocional y la toma de decisiones. No es solo una sensacion agradable: fortalece de verdad los circuitos relacionados con el bienestar.",
+      "idea": "Hoy, si notas que no saber como iran las cosas te genera inquietud, prueba a nombrarlo en voz alta: \"no se como va a ser esto, y esta bien no saberlo todavia\". No hace falta resolver la incertidumbre, solo dejar de pelearte con ella.",
+      "tags": ["Incertidumbre", "Calma"],
+      "aprendizaje": "Segun la neurociencia, el problema no suele ser la incertidumbre en si misma, sino como la interpreta tu cerebro: si la vive como una amenaza inmediata, se activan las alarmas internas y aparece la ansiedad. Aprender a convivir con lo desconocido, en vez de intentar eliminarlo, baja mucho esa alarma.",
       "frase": {
-        "texto": "La gratitud abre la plenitud de la vida.",
-        "autor": "Melody Beattie"
+        "texto": "La unica manera de dar sentido al cambio es sumergirte en el, moverte con el, y unirte al baile.",
+        "autor": "Alan Watts"
       },
       "noticia": {
-        "titulo": "Como la gratitud fortalece tu cerebro segun la neurociencia",
-        "resumen": "Un repaso a como las practicas regulares de gratitud pueden aumentar las emociones positivas, mejorar la calidad del sueño y reducir los niveles de estres, con respaldo de estudios de neuroimagen.",
-        "url": "https://www.gsinapsis.com/gratitud-salud-cerebral-neurociencia/"
+        "titulo": "El problema no es la incertidumbre, es como la interpreta tu cerebro",
+        "resumen": "Un repaso a por que algunas personas viven la falta de certeza como una amenaza constante, lo que esta detras de muchos casos de ansiedad, mientras otras conviven con lo desconocido sin tanta dificultad. La clave no esta en eliminar la incertidumbre, sino en cambiar la relacion que tenemos con ella.",
+        "url": "https://es.gizmodo.com/el-problema-no-es-la-incertidumbre-es-como-la-interpreta-tu-cerebro-cuando-no-puede-controlarla-algunas-personas-la-viven-como-una-amenaza-constante-y-eso-esta-detras-de-muchos-casos-de-ansiedad-y-d-2000231743"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Comparte hoy algo que hayas aprendido a agradecer precisamente gracias a esta pausa forzada por la lesion. A veces lo que parece un parón cuenta una historia mas honesta que cualquier clase perfecta.",
-      "tags": ["Contenido", "Gratitud"],
-      "guion": "GANCHO: \"Nunca pense que le daria las gracias a una lesion.\"\n\nCUERPO: Cuando todo se paro, lo primero que senti fue frustracion. Pero con los dias empece a notar cosas que antes se me escapaban: el tiempo para pensar, las palabras de apoyo de gente que ni imaginaba que se acordaba de mi, la calma que antes consideraba un lujo. No cambio lo dificil del momento, pero si cambio lo que elijo mirar dentro de el.\n\nCIERRE: A veces no se trata de que todo vaya bien, sino de encontrar algo real que agradecer incluso cuando no va bien.",
+      "idea": "Hoy nombra algo que casi ninguna formadora dice en voz alta: que en esta etapa no sabes exactamente como va a salir todo, ni la recuperacion ni el lanzamiento, y aun asi sigues apareciendo. La honestidad sobre lo incierto conecta mas que un plan perfecto.",
+      "tags": ["Contenido", "Autenticidad"],
+      "guion": "GANCHO: \"No tengo ni idea de como va a salir todo esto. Y aun asi os lo cuento.\"\n\nCUERPO: Llevo tiempo esperando sentirme lista del todo para hablaros de este proyecto: recuperada al cien por cien, con el lanzamiento perfectamente organizado, sin ninguna duda. Esa version no existe. Lo que si existe es que cada semana doy un paso, aunque no sepa exactamente donde me lleva. Y curiosamente, cuando dejo de necesitar la certeza para avanzar, avanzo mas tranquila.\n\nCIERRE: Si tu tambien estas esperando sentirte segura del todo antes de empezar algo, quiza la señal no es esperar mas, es empezar sin esa seguridad.",
       "referente": {
-        "nombre": "Elsa Punset",
-        "porque": "Escritora y divulgadora española de educacion emocional, con un lenguaje sencillo y cercano muy alineado con el tono que buscas para Neuroalma."
+        "nombre": "Anna Punset",
+        "porque": "Divulgadora española de bienestar emocional, hija de Elsa Punset, que en sus redes habla con un lenguaje sencillo y cercano sobre como sostenerse en momentos de cambio e incertidumbre."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy os propongo algo sencillo: pensad en 3 cosas pequeñas por las que os sintais agradecidas ahora mismo. La neurociencia dice que esta práctica fortalece de verdad los circuitos del bienestar en el cerebro, no es solo una frase bonita. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy leia que el problema casi nunca es la incertidumbre en si misma, sino como la interpretamos: si la vivimos como una amenaza, se dispara la ansiedad, pero si aprendemos a convivir con ella, pesa mucho menos. Si esta semana estais en medio de algo que no sabeis muy bien como va a salir, no pasa nada, es parte del camino. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 20 minutos a esbozar la estructura basica de tu pagina de ventas: un titular claro, los beneficios principales de las 7 sesiones, y donde ira el precio. No hace falta redactarlo todo hoy, solo el esqueleto.",
+      "idea": "Dedica 15-20 minutos a escribir de 4 a 6 preguntas frecuentes para tu pagina de ventas: que incluyen las sesiones, que pasa si no puedes asistir en directo, como se paga, y para quien es (y para quien no es) Neuroalma.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Una pagina de ventas sencilla necesita pocos elementos pero claros: un titular que explique la transformacion, los modulos o sesiones que incluye, el precio con sus condiciones, y algun testimonio si ya lo tienes. No hace falta que sea compleja para funcionar.",
+      "aprendizaje": "Las preguntas frecuentes de una pagina de ventas funcionan mejor cuando responden dudas reales que ya te han hecho tus alumnas, no dudas inventadas. Usa un lenguaje simple y directo, como si respondieras a una amiga, evitando el tono de marketing.",
       "recurso": {
-        "titulo": "Como crear una pagina de ventas: estructura y herramientas",
+        "titulo": "FAQ: para que sirven las preguntas frecuentes (+150 ejemplos)",
         "tipo": "articulo",
-        "porque": "Explica en español, paso a paso, la estructura basica de una pagina de ventas, justo lo que necesitas para dar forma a la de Neuroalma.",
-        "url": "https://escuelanomadadigital.com/como-crear-una-pagina-de-ventas/"
+        "porque": "Explica en español, con ejemplos practicos, como redactar preguntas frecuentes claras y utiles, justo lo que necesitas para completar la pagina de ventas de Neuroalma.",
+        "url": "https://www.tiendanube.com/blog/faq/"
       }
     }
   }

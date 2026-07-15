@@ -1,42 +1,37 @@
 {
-  "date": "2026-07-13",
+  "date": "2026-07-15",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Hoy, si notas que no saber como iran las cosas te genera inquietud, prueba a nombrarlo en voz alta: \"no se como va a ser esto, y esta bien no saberlo todavia\". No hace falta resolver la incertidumbre, solo dejar de pelearte con ella.",
-      "tags": ["Incertidumbre", "Calma"],
-      "aprendizaje": "Segun la neurociencia, el problema no suele ser la incertidumbre en si misma, sino como la interpreta tu cerebro: si la vive como una amenaza inmediata, se activan las alarmas internas y aparece la ansiedad. Aprender a convivir con lo desconocido, en vez de intentar eliminarlo, baja mucho esa alarma.",
+      "idea": "Aunque ahora no estes dando clases, hoy puedes dedicar unos minutos a recordar como sueles leer a un grupo: quien necesita mas calma, quien mas energia, quien busca que le miren a los ojos un segundo. Ese saber acompañar no se pierde por una pausa, se sigue afinando aunque sea desde el sofa.",
+      "tags": ["Pedagogía", "Acompañamiento"],
+      "aprendizaje": "En la pedagogia del movimiento consciente se habla de 'sostener el espacio': no se trata solo de dar instrucciones correctas, sino de transmitir con la voz y la presencia que ese lugar es seguro para equivocarse, ir mas despacio o simplemente quedarse quieto. Esa sensacion de seguridad es, muchas veces, lo que mas recuerda el alumnado, mas que la postura en si.",
       "frase": {
-        "texto": "La unica manera de dar sentido al cambio es sumergirte en el, moverte con el, y unirte al baile.",
-        "autor": "Alan Watts"
-      },
-      "noticia": {
-        "titulo": "El problema no es la incertidumbre, es como la interpreta tu cerebro",
-        "resumen": "Un repaso a por que algunas personas viven la falta de certeza como una amenaza constante, lo que esta detras de muchos casos de ansiedad, mientras otras conviven con lo desconocido sin tanta dificultad. La clave no esta en eliminar la incertidumbre, sino en cambiar la relacion que tenemos con ella.",
-        "url": "https://es.gizmodo.com/el-problema-no-es-la-incertidumbre-es-como-la-interpreta-tu-cerebro-cuando-no-puede-controlarla-algunas-personas-la-viven-como-una-amenaza-constante-y-eso-esta-detras-de-muchos-casos-de-ansiedad-y-d-2000231743"
+        "texto": "El movimiento es vida; sin movimiento, la vida es impensable.",
+        "autor": "Moshe Feldenkrais"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy nombra algo que casi ninguna formadora dice en voz alta: que en esta etapa no sabes exactamente como va a salir todo, ni la recuperacion ni el lanzamiento, y aun asi sigues apareciendo. La honestidad sobre lo incierto conecta mas que un plan perfecto.",
-      "tags": ["Contenido", "Autenticidad"],
-      "guion": "GANCHO: \"No tengo ni idea de como va a salir todo esto. Y aun asi os lo cuento.\"\n\nCUERPO: Llevo tiempo esperando sentirme lista del todo para hablaros de este proyecto: recuperada al cien por cien, con el lanzamiento perfectamente organizado, sin ninguna duda. Esa version no existe. Lo que si existe es que cada semana doy un paso, aunque no sepa exactamente donde me lleva. Y curiosamente, cuando dejo de necesitar la certeza para avanzar, avanzo mas tranquila.\n\nCIERRE: Si tu tambien estas esperando sentirte segura del todo antes de empezar algo, quiza la señal no es esperar mas, es empezar sin esa seguridad.",
+      "idea": "Hoy comparte con tu audiencia algo de tu oficio que no se ve desde fuera: como percibes al grupo, como ajustas el tono de tu voz o el ritmo de la clase segun quien tienes delante. Eso humaniza tu marca y muestra el cuidado real que hay detras de cada clase.",
+      "tags": ["Contenido", "Oficio"],
+      "guion": "GANCHO: \"Lo que nadie ve cuando doy una clase de yoga, pilates o taichi.\"\n\nCUERPO: Desde fuera parece que solo cuento respiraciones y corrijo posturas. Pero la mayor parte de lo que hago pasa antes de decir nada: miro quien ha entrado cansada, quien necesita que la clase vaya mas despacio hoy, quien agradece que nadie la mire mientras se equivoca. Ese cuidado silencioso es, para mi, la parte mas importante del oficio, aunque no salga en ningun video.\n\nCIERRE: Si eres alumna de algun tipo de clase, seguramente tu profesora tambien esta haciendo ese trabajo invisible por ti, aunque nunca te lo haya contado.",
       "referente": {
-        "nombre": "Anna Punset",
-        "porque": "Divulgadora española de bienestar emocional, hija de Elsa Punset, que en sus redes habla con un lenguaje sencillo y cercano sobre como sostenerse en momentos de cambio e incertidumbre."
+        "nombre": "Ramiro Calle",
+        "porque": "Escritor y profesor de yoga español, pionero en llevar el yoga a España desde los años 70, con un lenguaje sencillo que conecta la tradicion oriental con la pedagogia del dia a dia en el aula."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy leia que el problema casi nunca es la incertidumbre en si misma, sino como la interpretamos: si la vivimos como una amenaza, se dispara la ansiedad, pero si aprendemos a convivir con ella, pesa mucho menos. Si esta semana estais en medio de algo que no sabeis muy bien como va a salir, no pasa nada, es parte del camino. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Llevo dias pensando en algo que aprendi dando clases: casi nunca recordamos la postura exacta que nos enseño una profesora, pero si recordamos como nos hizo sentir, si nos dio permiso para ir mas despacio ese dia. Creo que eso es lo que de verdad quiero construir con Neuroalma: un espacio donde ademas de aprender, os sintais acompañadas. Un abrazo enorme 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a escribir de 4 a 6 preguntas frecuentes para tu pagina de ventas: que incluyen las sesiones, que pasa si no puedes asistir en directo, como se paga, y para quien es (y para quien no es) Neuroalma.",
+      "idea": "Dedica 15-20 minutos a escribir el mensaje de bienvenida que recibiran las alumnas nada mas apuntarse a Neuroalma: que esperar, cuando es la primera sesion y como contactarte si tienen dudas.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Las preguntas frecuentes de una pagina de ventas funcionan mejor cuando responden dudas reales que ya te han hecho tus alumnas, no dudas inventadas. Usa un lenguaje simple y directo, como si respondieras a una amiga, evitando el tono de marketing.",
+      "aprendizaje": "Un buen mensaje de bienvenida nada mas inscribirse reduce mucho la sensacion de 'y ahora que', que es una de las principales causas de que alguien se desapunte antes de la primera sesion. No hace falta que sea largo: basta con confirmar la fecha, dar una forma facil de contactarte y transmitir cercania.",
       "recurso": {
-        "titulo": "FAQ: para que sirven las preguntas frecuentes (+150 ejemplos)",
+        "titulo": "Como redactar un buen email de bienvenida para tus suscriptores",
         "tipo": "articulo",
-        "porque": "Explica en español, con ejemplos practicos, como redactar preguntas frecuentes claras y utiles, justo lo que necesitas para completar la pagina de ventas de Neuroalma.",
-        "url": "https://www.tiendanube.com/blog/faq/"
+        "porque": "Explica en español, paso a paso, que elementos no pueden faltar en un primer mensaje de bienvenida, ideal para las nuevas inscritas en Neuroalma.",
+        "url": "https://www.cyberclick.es/numerical-blog/como-redactar-un-buen-email-de-bienvenida-para-tus-suscriptores"
       }
     }
   }

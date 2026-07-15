@@ -3,35 +3,40 @@
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Aunque ahora no estes dando clases, hoy puedes dedicar unos minutos a recordar como sueles leer a un grupo: quien necesita mas calma, quien mas energia, quien busca que le miren a los ojos un segundo. Ese saber acompañar no se pierde por una pausa, se sigue afinando aunque sea desde el sofa.",
-      "tags": ["Pedagogía", "Acompañamiento"],
-      "aprendizaje": "En la pedagogia del movimiento consciente se habla de 'sostener el espacio': no se trata solo de dar instrucciones correctas, sino de transmitir con la voz y la presencia que ese lugar es seguro para equivocarse, ir mas despacio o simplemente quedarse quieto. Esa sensacion de seguridad es, muchas veces, lo que mas recuerda el alumnado, mas que la postura en si.",
+      "idea": "Hoy prueba algo sencillo: para un momento y observa que estas pensando, sin intentar cambiarlo ni juzgarlo, solo mirandolo como quien mira pasar una nube. Esa capacidad de observarte a ti misma por dentro es, segun la neurociencia, uno de los rasgos que mas ayuda a crecer.",
+      "tags": ["Autoconocimiento", "Metacognición"],
+      "aprendizaje": "A esa capacidad de observar tus propios pensamientos y emociones se le llama metacognicion, y segun explican neuropsicologas actuales, importa mas que la memoria o la logica a la hora de aprender de verdad: te permite darte cuenta de un patron automatico antes de repetirlo otra vez.",
       "frase": {
-        "texto": "El movimiento es vida; sin movimiento, la vida es impensable.",
-        "autor": "Moshe Feldenkrais"
+        "texto": "Todo hombre puede ser, si se lo propone, escultor de su propio cerebro.",
+        "autor": "Santiago Ramón y Cajal"
+      },
+      "noticia": {
+        "titulo": "Esto es lo que te hace más inteligente, según la neurociencia: \"No es la memoria ni la lógica\"",
+        "resumen": "Segun la neuropsicologa Marta Jimenez, la metacognicion (la capacidad de observar los propios pensamientos y emociones) es lo que mas favorece la inteligencia real, por encima de la memoria o el razonamiento: mirar hacia dentro, aunque no siempre guste lo que se ve, es lo que permite dejar de repetir patrones automaticos y aprender de verdad.",
+        "url": "https://www.infobae.com/espana/2026/01/14/esto-es-lo-que-te-hace-mas-inteligente-segun-la-neurociencia-no-es-la-memoria-ni-la-logica/"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia algo de tu oficio que no se ve desde fuera: como percibes al grupo, como ajustas el tono de tu voz o el ritmo de la clase segun quien tienes delante. Eso humaniza tu marca y muestra el cuidado real que hay detras de cada clase.",
-      "tags": ["Contenido", "Oficio"],
-      "guion": "GANCHO: \"Lo que nadie ve cuando doy una clase de yoga, pilates o taichi.\"\n\nCUERPO: Desde fuera parece que solo cuento respiraciones y corrijo posturas. Pero la mayor parte de lo que hago pasa antes de decir nada: miro quien ha entrado cansada, quien necesita que la clase vaya mas despacio hoy, quien agradece que nadie la mire mientras se equivoca. Ese cuidado silencioso es, para mi, la parte mas importante del oficio, aunque no salga en ningun video.\n\nCIERRE: Si eres alumna de algun tipo de clase, seguramente tu profesora tambien esta haciendo ese trabajo invisible por ti, aunque nunca te lo haya contado.",
+      "idea": "Hoy comparte con tu audiencia un pensamiento o patron que hayas notado en ti misma esta semana, sin necesidad de haberlo resuelto todavia. Mostrar que tu tambien te observas por dentro, con curiosidad y sin juzgarte, es un contenido honesto que a mucha gente le ayuda a hacer lo mismo.",
+      "tags": ["Contenido", "Autoconocimiento"],
+      "guion": "GANCHO: \"¿Sabes cual es, segun la neurociencia, el ingrediente que mas te hace crecer? No es la memoria.\"\n\nCUERPO: Llevo años enseñando a otras personas a observar su respiracion, su postura, su cuerpo. Hace poco lei que ese mismo gesto, aplicado a los propios pensamientos, tiene un nombre: metacognicion. Y que segun la neurociencia importa mas que la memoria o la logica a la hora de aprender de verdad. Me hizo pensar que llevo años practicando eso sin saber como se llamaba, solo que en vez de mirar el cuerpo, ahora tambien miro lo que pienso.\n\nCIERRE: La proxima vez que notes un pensamiento repetido, no intentes cambiarlo enseguida. Solo mira que esta ahi. Ese simple gesto ya es crecer.",
       "referente": {
-        "nombre": "Ramiro Calle",
-        "porque": "Escritor y profesor de yoga español, pionero en llevar el yoga a España desde los años 70, con un lenguaje sencillo que conecta la tradicion oriental con la pedagogia del dia a dia en el aula."
+        "nombre": "Patricia Ramírez Loeffler",
+        "porque": "Psicologa española especializada en bienestar y rendimiento, muy conocida por divulgar en libros y redes de forma sencilla y cercana como observarse y gestionarse a una misma sin tecnicismos."
       },
-      "mensajeWhatsapp": "Hola a todas! Llevo dias pensando en algo que aprendi dando clases: casi nunca recordamos la postura exacta que nos enseño una profesora, pero si recordamos como nos hizo sentir, si nos dio permiso para ir mas despacio ese dia. Creo que eso es lo que de verdad quiero construir con Neuroalma: un espacio donde ademas de aprender, os sintais acompañadas. Un abrazo enorme 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy leia algo que me ha hecho pensar: parece que lo que mas nos ayuda a crecer no es tener buena memoria ni razonar mucho, sino atrevernos a mirar hacia dentro y observar lo que pensamos, aunque a veces no nos guste lo que vemos. Si esta semana notais algun pensamiento que se repite, no hace falta resolverlo ya, basta con mirarlo con curiosidad. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a escribir el mensaje de bienvenida que recibiran las alumnas nada mas apuntarse a Neuroalma: que esperar, cuando es la primera sesion y como contactarte si tienen dudas.",
+      "idea": "Dedica 15-20 minutos a preparar una forma sencilla de cobrar la inscripcion a Neuroalma (por ejemplo un enlace de pago de Stripe o un Bizum), para que apuntarse sea tan facil como hacer un clic o enviar un mensaje.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Un buen mensaje de bienvenida nada mas inscribirse reduce mucho la sensacion de 'y ahora que', que es una de las principales causas de que alguien se desapunte antes de la primera sesion. No hace falta que sea largo: basta con confirmar la fecha, dar una forma facil de contactarte y transmitir cercania.",
+      "aprendizaje": "Cuantos mas pasos o dudas tenga alguien para pagar, mas facil es que lo deje para luego y acabe no apuntandose. En un lanzamiento pequeño no hace falta una pasarela de pago compleja: basta con un metodo sencillo y de confianza que ya conozcas, como un enlace de pago o una transferencia bien explicada.",
       "recurso": {
-        "titulo": "Como redactar un buen email de bienvenida para tus suscriptores",
-        "tipo": "articulo",
-        "porque": "Explica en español, paso a paso, que elementos no pueden faltar en un primer mensaje de bienvenida, ideal para las nuevas inscritas en Neuroalma.",
-        "url": "https://www.cyberclick.es/numerical-blog/como-redactar-un-buen-email-de-bienvenida-para-tus-suscriptores"
+        "titulo": "Payment Links de Stripe: cobra sin necesidad de programar",
+        "tipo": "herramienta",
+        "porque": "Permite crear en español un enlace de pago sencillo para cobrar la inscripcion a Neuroalma sin necesidad de tener conocimientos tecnicos ni programar nada.",
+        "url": "https://stripe.com/es/payments/payment-links"
       }
     }
   }

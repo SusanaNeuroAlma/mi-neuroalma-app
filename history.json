@@ -1,489 +1,440 @@
 [
-    {
-        "date":  "2026-07-04",
-        "zones":  {
-                      "desarrollo":  {
-                                         "title":  "Desarrollo personal",
-                                         "idea":  "Prueba una respiracion 4-7-4 antes de tu practica de hoy: inhala 4 segundos, manten 7, exhala 4. Activa el sistema nervioso parasimpatico y te ayuda a bajar el ritmo antes de ensenar o practicar.",
-                                         "tags":  [
-                                                      "Cuerpo",
-                                                      "Mente"
-                                                  ]
-                                     },
-                      "marca":  {
-                                    "title":  "Marca personal",
-                                    "idea":  "Comparte hoy algo sencillo: un video corto o un post contando por que empezaste con el yoga, pilates o taichi. La gente conecta con historias reales, no hace falta ser experta para compartir tu camino.",
-                                    "tags":  [
-                                                 "Contenido"
-                                             ]
-                                },
-                      "neuroalma":  {
-                                        "title":  "Neuroalma",
-                                        "idea":  "Dedica 15 minutos a escribir quien es el alumno ideal de Neuroalma: que le preocupa, que quiere aprender. No tiene que ser perfecto, es solo para empezar a dar forma al proyecto.",
-                                        "tags":  [
-                                                     "Idea"
-                                                 ]
-                                    }
-                  }
-    },
-    {
-        "date":  "2026-07-05",
-        "zones":  {
-                      "desarrollo":  {
-                                         "title":  "Desarrollo personal",
-                                         "idea":  "Hoy, antes de dormir, prueba 5 respiraciones lentas: cuenta hasta 4 al inhalar y hasta 6 al exhalar. Es un gesto sencillo que ayuda a calmar el sistema nervioso, algo que tu misma podrias compartir con tus alumnas.",
-                                         "tags":  [
-                                                      "Cuerpo",
-                                                      "Mente"
-                                                  ],
-                                         "aprendizaje":  "Mantener el cerebro activo con aprendizaje constante, movimiento y meditacion ayuda a fortalecer lo que los neurocientificos llaman \u0027reserva cognitiva\u0027: la capacidad del cerebro para adaptarse y protegerse frente al desgaste con la edad.",
-                                         "frase":  {
-                                                       "texto":  "No puedes detener las olas, pero puedes aprender a surfearlas.",
-                                                       "autor":  "Jon Kabat-Zinn"
-                                                   },
-                                         "noticia":  {
-                                                         "titulo":  "La neurociencia demuestra que el aburrimiento es clave para el equilibrio mental",
-                                                         "resumen":  "Segun investigaciones recientes, los periodos de inactividad activan la red neuronal por defecto, un sistema cerebral vinculado a la creatividad, la memoria y la autorregulacion emocional.",
-                                                         "url":  "https://www.infobae.com/salud/ciencia/2026/02/01/la-neurociencia-demuestra-que-el-aburrimiento-es-clave-para-el-equilibrio-mental/"
-                                                     }
-                                     },
-                      "marca":  {
-                                    "title":  "Marca personal",
-                                    "idea":  "Graba hoy un video corto de 30 segundos explicando con tus palabras algo que ya sabes de sobra, como la respiracion consciente o la calma antes de una clase. Sin guion, como si se lo contaras a una amiga.",
-                                    "tags":  [
-                                                 "Contenido"
-                                             ],
-                                    "guion":  "GANCHO: \"Â¿Sabias que en cada clase hay una persona que regula el ambiente sin decir una palabra?\"\n\nCUERPO: Soy yo. Y tambien puedes serlo tu. Cuando entro nerviosa a dar una clase, el grupo se pone nervioso sin saber por que. Cuando entro en calma, el grupo respira conmigo. Lo descubri sin querer, dando clase un dia agotador: baje el ritmo de mi propia voz solo para aguantar, y toda la sala se relajo conmigo.\n\nCIERRE: La proxima vez que entres a dar una clase (o a una reunion, o a cenar con tu familia), recuerda: tu estado regula la sala antes que cualquier palabra.",
-                                    "referente":  {
-                                                      "nombre":  "Dr. Nicole LePera (@the.holistic.psychologist)",
-                                                      "porque":  "Explica el sistema nervioso y las heridas emocionales en publicaciones cortas y visuales, con un tono cercano y sin tecnicismos muy parecido al que buscas para Neuroalma."
-                                                  },
-                                    "mensajeWhatsapp":  "Hola a todas! Hoy os traigo una reflexion breve: la neurociencia esta confirmando algo que en Neuroalma llevamos tiempo diciendo, que los momentos de calma (e incluso de aburrimiento) son los que mas ayudan a nuestro cerebro a ordenar ideas y emociones. Si esta semana necesitais parar un ratito, no os sintais culpables, es parte del proceso. Un abrazo grande."
-                                },
-                      "neuroalma":  {
-                                        "title":  "Neuroalma",
-                                        "idea":  "Dedica 15 minutos a escribir como te vas a presentar en la primera sesion en directo y que quieres que sientan tus alumnas al terminar los 7 encuentros. Es la base del guion de bienvenida.",
-                                        "tags":  [
-                                                     "Idea",
-                                                     "Lanzamiento"
-                                                 ],
-                                        "aprendizaje":  "En un lanzamiento de validacion como el tuyo, el objetivo no es vender a mucha gente sino confirmar que unas pocas personas reales pagarian por la transformacion que ofreces. Con las primeras alumnas de las 7 sesiones ya tendrias esa confirmacion.",
-                                        "recurso":  {
-                                                        "titulo":  "El Metodo Lanzamiento (Jeff Walker)",
-                                                        "tipo":  "libro",
-                                                        "porque":  "Es la referencia clasica sobre como lanzar un curso online paso a paso, incluyendo como preparar el evento en directo que ya tienes guionizado. Muy util para la fase en la que estas ahora."
-                                                    }
-                                    }
-                  }
-    },
-    {
-        "date":  "2026-07-06",
-        "zones":  {
-                      "desarrollo":  {
-                                         "title":  "Desarrollo personal",
-                                         "idea":  "Si hoy tu cuerpo te pide moverse, dale ese gusto sin exigencias: unos pasos al sol, estirar los brazos con calma o simplemente cambiar de postura cada rato. Escucha lo que tu cuerpo te permite hoy, sin forzar nada.",
-                                         "tags":  [
-                                                      "Cuerpo",
-                                                      "Calma"
-                                                  ],
-                                         "aprendizaje":  "El nervio vago conecta el cerebro con el corazon, los pulmones y el sistema digestivo. Cuando respiras despacio y sueltas los hombros, ese nervio manda una senal de seguridad a todo tu cuerpo: es una de las formas mas directas de calmar la ansiedad sin pensar en nada.",
-                                         "frase":  {
-                                                       "texto":  "Tienes poder sobre tu mente, no sobre los acontecimientos externos. Date cuenta de esto y encontraras fortaleza.",
-                                                       "autor":  "Marco Aurelio"
-                                                   },
-                                         "noticia":  {
-                                                         "titulo":  "Ana Ibanez, la neurocientifica que entrena el cerebro: del estres invisible a la plasticidad",
-                                                         "resumen":  "La neurocientifica explica de forma sencilla como entrenar el cerebro para reducir el estres, ganar flexibilidad mental y mejorar la salud emocional, con habitos accesibles para el dia a dia.",
-                                                         "url":  "https://www.infobae.com/tendencias/2026/02/12/ana-ibanez-la-neurocientifica-que-entrena-el-cerebro-del-estres-invisible-a-la-plasticidad-y-el-secreto-de-la-energia-compartida/"
-                                                     }
-                                     },
-                      "marca":  {
-                                    "title":  "Marca personal",
-                                    "idea":  "Hoy prueba con un formato distinto al video: escribe un post corto contando una situacion real de clase donde sabias la tecnica perfecta, pero no sabias que decirle a esa persona. A la gente le conecta lo autentico, no la perfeccion.",
-                                    "tags":  [
-                                                 "Contenido",
-                                                 "Autenticidad"
-                                             ],
-                                    "guion":  "GANCHO: \"Hay algo que nadie te ensena cuando te formas como instructora: que hacer cuando una alumna llora en medio de la clase.\"\n\nCUERPO: A mi me paso. Sabia perfectamente la postura, la respiracion, la secuencia. Pero en ese momento toda mi tecnica no servia de nada si no sabia acompaÃ±ar lo que esa persona estaba sintiendo. Nadie me lo habia contado: que ensenar tambien es sostener, no solo explicar.\n\nCIERRE: Si alguna vez sentiste que tu formacion tecnica se quedaba corta ante una persona real, no eras tu la que fallaba. Es la brecha que casi nadie nombra.",
-                                    "referente":  {
-                                                      "nombre":  "Mario Alonso Puig",
-                                                      "porque":  "Medico y conferenciante espaÃ±ol que divulga en espaÃ±ol, sin tecnicismos, como la mente y el cuerpo se influyen mutuamente. Un buen modelo de comunicacion cercana sobre neurociencia."
-                                                  },
-                                    "mensajeWhatsapp":  "Hola a todas! Una reflexion pequeÃ±a para hoy: muchas veces creemos que calmar a otra persona es cuestion de decir las palabras correctas, pero la neurociencia confirma que primero se transmite calma, y despues llegan las palabras. Si esta semana alguien cercano esta nervioso, a veces basta con que tu respires despacio a su lado. Un abrazo grande ðŸŒ¿"
-                                },
-                      "neuroalma":  {
-                                        "title":  "Neuroalma",
-                                        "idea":  "Dedica 15-20 minutos a escribir el primer email que recibira quien se apunte a Neuroalma: agradecele, confirmale la fecha y hora de la primera sesion, y cuentale que se puede llevar de ese primer encuentro. No hace falta que sea perfecto, solo que exista.",
-                                        "tags":  [
-                                                     "Idea",
-                                                     "Lanzamiento"
-                                                 ],
-                                        "aprendizaje":  "En un lanzamiento de validacion, la comunidad que se forma durante las sesiones en directo, aunque sean pocas personas, es tan valiosa como el contenido: esas primeras alumnas suelen ser las que mas recomiendan el programa despues.",
-                                        "recurso":  {
-                                                        "titulo":  "Los 7 mejores consejos para gestionar una academia online",
-                                                        "tipo":  "articulo",
-                                                        "porque":  "Resume de forma practica y en espaÃ±ol los aspectos clave para organizar una academia online, utiles para esta fase inicial de Neuroalma.",
-                                                        "url":  "https://playoffinformatica.com/blog/7-mejores-consejos-gestionar-academia-online/"
-                                                    }
-                                    }
-                  }
-    },
-    {
-        "date":  "2026-07-07",
-        "zones":  {
-                      "desarrollo":  {
-                                         "title":  "Desarrollo personal",
-                                         "idea":  "Hoy prueba algo sencillo: deja el movil en otra habitacion durante una hora y observa que hace tu mente con ese hueco. No hace falta llenarlo de nada, solo notar la diferencia.",
-                                         "tags":  [
-                                                      "Mente",
-                                                      "Calma"
-                                                  ],
-                                         "aprendizaje":  "El cerebro es plastico: asi como el uso excesivo de pantallas puede reducir la densidad de materia gris en zonas de control cognitivo y empatia, esas mismas zonas pueden reconstruirse con pausas conscientes y atencion sostenida en una sola cosa cada vez.",
-                                         "frase":  {
-                                                       "texto":  "Los sentimientos van y vienen como nubes en un cielo ventoso. La respiracion consciente es mi ancla.",
-                                                       "autor":  "Thich Nhat Hanh"
-                                                   },
-                                         "noticia":  {
-                                                         "titulo":  "Tu cerebro esta siendo secuestrado por algoritmos que reprograman tus vias de dopamina",
-                                                         "resumen":  "Un neurocientifico alerta de que revisamos el movil una media de 144 veces al dia sin darnos cuenta, y explica como esto reprograma los circuitos de recompensa del cerebro. La buena noticia: el cerebro es plastico y puede reconstruirse.",
-                                                         "url":  "https://www.que.es/2026/02/21/movil-algoritmo-adiccion-cerebro/"
-                                                     }
-                                     },
-                      "marca":  {
-                                    "title":  "Marca personal",
-                                    "idea":  "Comparte hoy un truco rapido que uses tu misma para regular tu estado antes de dar una clase (una respiracion, una frase interna, un gesto). A la gente le interesa mas lo que haces tu de verdad que la teoria general.",
-                                    "tags":  [
-                                                 "Contenido",
-                                                 "Autenticidad"
-                                             ],
-                                    "guion":  "GANCHO: \"Nadie te cuenta que acompaÃ±ar a alguien no es lo mismo que cargar con lo que siente.\"\n\nCUERPO: Al principio yo confundia las dos cosas. Si una alumna estaba mal, yo salia de clase agotada, como si su carga se hubiera quedado en mi cuerpo. Con el tiempo aprendi algo que cambio todo: puedo estar presente, sostener el momento, y aun asi soltarlo al salir por la puerta. AcompaÃ±ar no es absorber.\n\nCIERRE: Si terminas tus clases o tus jornadas mÃ¡s cansada emocionalmente que fisicamente, quiza no es que seas muy empatica. Es que todavia no has aprendido a soltar lo que no es tuyo.",
-                                    "referente":  {
-                                                      "nombre":  "Marian Rojas Estape",
-                                                      "porque":  "Psiquiatra espaÃ±ola que explica neurociencia y gestion emocional en un lenguaje sencillo y cercano, con un enfoque muy parecido al que buscas para Neuroalma."
-                                                  },
-                                    "mensajeWhatsapp":  "Hola a todas! Hoy os dejo un dato curioso: parece que revisamos el movil una media de 144 veces al dia sin darnos cuenta. No os lo cuento para culpabilizar a nadie (yo la primera), sino como invitacion suave: si hoy encontrais un huequito para dejarlo un rato aparte, prestad atencion a como se siente esa calma. Un abrazo grande ðŸŒ¿"
-                                },
-                      "neuroalma":  {
-                                        "title":  "Neuroalma",
-                                        "idea":  "Dedica 15 minutos a escribir 3 preguntas que le haras a cada alumna en la primera sesion en directo, para entender sus expectativas y poder adaptar el resto de las sesiones a lo que de verdad necesitan.",
-                                        "tags":  [
-                                                     "Idea",
-                                                     "Lanzamiento"
-                                                 ],
-                                        "aprendizaje":  "Para gestionar las inscripciones de un lanzamiento pequeÃ±o no hace falta ninguna plataforma complicada: un formulario sencillo (por ejemplo de Google) para recoger nombre, email y una pregunta sobre sus expectativas es mas que suficiente para empezar.",
-                                        "recurso":  {
-                                                        "titulo":  "El Arte de Vender con Palabras (podcast de Maider Tomasena)",
-                                                        "tipo":  "podcast",
-                                                        "porque":  "Copywriter espaÃ±ola especializada en paginas de venta y textos persuasivos, muy util ahora que te toca escribir la pagina de ventas de Neuroalma."
-                                                    }
-                                    }
-                  }
-    },
-    {
-        "date":  "2026-07-08",
-        "zones":  {
-                      "desarrollo":  {
-                                         "title":  "Desarrollo personal",
-                                         "idea":  "Hoy dedica un momento a agradecer a tu cuerpo, aunque este en pausa, todo lo que sigue haciendo por ti: respirar, sostenerte, avisarte cuando necesita descanso. No hace falta moverse para cuidarlo, tambien se cuida escuchandolo con carino.",
-                                         "tags":  [
-                                                      "Cuerpo",
-                                                      "Gratitud"
-                                                  ],
-                                         "aprendizaje":  "Cuando el estres se mantiene activo muchas semanas seguidas, el cerebro va perdiendo poco a poco la facilidad para volver a un estado de calma por si solo. Por eso, parar unos minutos varias veces al dia no es un lujo: es lo que le devuelve a tu sistema nervioso la capacidad de descansar de verdad.",
-                                         "frase":  {
-                                                       "texto":  "El cuerpo es mi templo y las asanas son mis oraciones.",
-                                                       "autor":  "B.K.S. Iyengar"
-                                                   },
-                                         "noticia":  {
-                                                         "titulo":  "Como cambia el cerebro con el estres cronico: lo que revela la neurociencia",
-                                                         "resumen":  "Un repaso a lo que ocurre cuando el estres se sostiene durante semanas o meses: se altera el equilibrio entre la corteza prefrontal, el hipocampo y la amigdala, y el cuerpo pierde la capacidad de volver a su estado de base. La buena noticia es que ese equilibrio se puede recuperar con pausas y descanso real.",
-                                                         "url":  "https://www.abc.com.py/estilo-de-vida/2026/07/04/como-cambia-el-cerebro-con-el-estres-cronico-lo-que-revela-la-neurociencia/"
-                                                     }
-                                     },
-                      "marca":  {
-                                    "title":  "Marca personal",
-                                    "idea":  "Hoy nombra en voz alta algo que muchas formadoras sienten pero casi nadie dice: que sostener emocionalmente a un grupo cansa, aunque no se haya movido un musculo. No necesitas contar una anecdota concreta de ninguna alumna, basta con nombrar esa sensacion para que otras se sientan acompaÃ±adas.",
-                                    "tags":  [
-                                                 "Contenido",
-                                                 "Fatiga empatica"
-                                             ],
-                                    "guion":  "GANCHO: \"Â¿Por que a veces terminas una clase mas agotada que si hubieras hecho tu una hora de ejercicio?\"\n\nCUERPO: Durante aÃ±os pense que era falta de forma fisica. Con el tiempo entendi que era otra cosa: cuando sostienes el estado emocional de un grupo entero, tu propio sistema nervioso se activa igual que el de ellos, aunque tu cuerpo este quieto. Eso tiene nombre, se llama fatiga empatica, y no significa que no sirvas para esto. Significa que te importa de verdad.\n\nCIERRE: Si alguna vez saliste de dar clase mas cansada por dentro que por fuera, no eras tu exagerando. Es tu cuerpo pagando el precio de acompaÃ±ar bien.",
-                                    "referente":  {
-                                                      "nombre":  "Rafael Santandreu",
-                                                      "porque":  "Psicologo espaÃ±ol que divulga sobre gestion emocional con un lenguaje muy sencillo, cercano y sin tecnicismos, ideal como referencia de tono para Neuroalma."
-                                                  },
-                                    "mensajeWhatsapp":  "Hola a todas! Hoy leia sobre como el estres mantenido durante semanas cambia el funcionamiento del cerebro, y pensaba en lo mucho que esto se aplica a quienes acompaÃ±amos a otras personas (como formadoras, madres, cuidadoras...). Si esta semana notais que el cansancio es mas de dentro que de fuera, no os exijais mas, es una seÃ±al a la que merece la pena hacer caso. Un abrazo grande ðŸŒ¿"
-                                },
-                      "neuroalma":  {
-                                        "title":  "Neuroalma",
-                                        "idea":  "Dedica 15-20 minutos a preparar una pequeÃ±a encuesta de 3 preguntas (por ejemplo con Google Forms) para enviar a tus alumnas justo despues de la primera sesion en directo. Te ayudara a saber que esta funcionando mientras aun estas a tiempo de ajustar las siguientes 6 sesiones.",
-                                        "tags":  [
-                                                     "Idea",
-                                                     "Lanzamiento"
-                                                 ],
-                                        "aprendizaje":  "Pedir feedback justo despues de cada sesion, mientras la experiencia esta fresca, te da informacion mucho mas util que esperar al final de las 7 sesiones: te permite ajustar sobre la marcha en lugar de descubrir los problemas cuando ya no queda tiempo de solucionarlos.",
-                                        "recurso":  {
-                                                        "titulo":  "Crear y gestionar cuestionarios con Formularios de Google",
-                                                        "tipo":  "guia",
-                                                        "porque":  "Guia oficial y en espaÃ±ol para crear una encuesta sencilla de satisfaccion, justo lo que necesitas para recoger feedback de tus alumnas de Neuroalma sin complicarte con herramientas nuevas.",
-                                                        "url":  "https://support.google.com/docs/answer/7032287?hl=es"
-                                                    }
-                                    }
-                  }
-    },
-    {
-        "date":  "2026-07-09",
-        "zones":  {
-                      "desarrollo":  {
-                                         "title":  "Desarrollo personal",
-                                         "idea":  "Hoy prueba un micro-descanso real: 10-15 minutos sin movil, sin musica, en un lugar tranquilo y con luz suave, sin hacer nada en concreto. No es perder el tiempo, es dejar que tu mente ordene por dentro lo que necesita ordenar.",
-                                         "tags":  [
-                                                      "Calma",
-                                                      "Silencio"
-                                                  ],
-                                         "aprendizaje":  "Cuando dejas de prestar atencion a estimulos externos, se activa lo que los neurocientificos llaman la red neuronal por defecto: un sistema que aprovecha esos momentos de calma para ordenar recuerdos y limpiar el desgaste acumulado del dia. Por eso no hacer nada, de vez en cuando, tambien es productivo para el cerebro.",
-                                         "frase":  {
-                                                       "texto":  "Acepta, y luego actua. Cualquier cosa que el momento presente contenga, aceptala como si la hubieras elegido.",
-                                                       "autor":  "Eckhart Tolle"
-                                                   },
-                                         "noticia":  {
-                                                         "titulo":  "La revolucion de la neurociencia en 2026: por que el micro-descanso es mas potente que unas vacaciones largas",
-                                                         "resumen":  "Una investigacion reciente apunta a que el cerebro necesita desconectarse en pequeÃ±as dosis, no solo una vez al aÃ±o: micro-descansos de 15 minutos en silencio total, sin movil ni musica, activarian la red neuronal por defecto, el sistema encargado de reordenar la memoria y limpiar el desgaste mental acumulado.",
-                                                         "url":  "https://www.diarioenpositivo.com/articulo/bienestar/ciencia-descubre-que-silencio-absoluto-es-gasolina-cerebro-moderno/20260207175713072897.html"
-                                                     }
-                                     },
-                      "marca":  {
-                                    "title":  "Marca personal",
-                                    "idea":  "Hoy comparte, si te apetece, que tambien tu estas aprendiendo a base de pausas obligadas estos meses. No hace falta dar detalles medicos: basta con nombrar que ensenar a otras a parar tambien pasa por parar tu misma, y que eso no te hace menos formadora, te hace mas honesta.",
-                                    "tags":  [
-                                                 "Contenido",
-                                                 "Autenticidad"
-                                             ],
-                                    "guion":  "GANCHO: \"Â¿Que pasa cuando la persona que siempre dice \u0027para y respira\u0027 tiene que aprender a hacerlo ella misma, a la fuerza?\"\n\nCUERPO: Llevo aÃ±os diciendole a otras que el descanso no es un premio, que es parte del proceso. Este aÃ±o me toco aprenderlo en primera persona, sin poder dar clase, sin poder moverme como antes. Al principio lo vivi como una perdida. Con el tiempo entendi que era la misma leccion que llevo aÃ±os enseÃ±ando, solo que ahora me tocaba a mi aplicarla.\n\nCIERRE: Si alguna vez sentiste que tenias que parar justo cuando menos ganas tenias, no es una seÃ±al de fracaso. Es la vida poniendote a prueba con tu propia enseÃ±anza.",
-                                    "referente":  {
-                                                      "nombre":  "Elsa Punset",
-                                                      "porque":  "Divulgadora espaÃ±ola de inteligencia emocional y neurociencia, con un lenguaje sencillo y cercano, muy accesible para un publico general como el de Neuroalma."
-                                                  },
-                                    "mensajeWhatsapp":  "Hola a todas! Hoy he aprendido algo bonito: parece que el cerebro necesita ratos de silencio real (sin movil, sin musica) para poder ordenar por dentro todo lo que vivimos, igual que ordenamos un armario de vez en cuando. Si esta semana encontrais 10 minutitos para no hacer nada, dejad que pase sin culpa, vuestro cerebro os lo va a agradecer. Un abrazo grande ðŸŒ¿"
-                                },
-                      "neuroalma":  {
-                                        "title":  "Neuroalma",
-                                        "idea":  "Dedica 15 minutos a preparar un documento breve con la informacion practica de la primera sesion: enlace de acceso, dia y hora, y que conviene tener a mano (cuaderno, un espacio tranquilo). Enviaselo a cada alumna el dia antes para que lleguen con confianza.",
-                                        "tags":  [
-                                                     "Idea",
-                                                     "Lanzamiento"
-                                                 ],
-                                        "aprendizaje":  "En un grupo reducido como el tuyo, un recordatorio sencillo y personal el dia antes reduce mucho las ausencias de ultima hora. No hace falta automatizar nada complicado, basta con un mensaje cercano en vuestro grupo de WhatsApp.",
-                                        "recurso":  {
-                                                        "titulo":  "Programar y compartir una videollamada con Google Meet",
-                                                        "tipo":  "guia",
-                                                        "porque":  "Guia oficial y en espaÃ±ol para crear el enlace de la sesion en directo y compartirlo facilmente con tus alumnas, sin necesidad de herramientas complicadas.",
-                                                        "url":  "https://support.google.com/meet/answer/9302870?hl=es"
-                                                    }
-                                    }
-                  }
-    },
-    {
-        "date":  "2026-07-10",
-        "zones":  {
-                      "desarrollo":  {
-                                         "title":  "Desarrollo personal",
-                                         "idea":  "Hoy dedica un momento a notar como tu cuerpo reconoce, sin que tu lo pienses, cuando un lugar o una persona le resultan seguros: los hombros bajan, la respiracion se hace mas lenta. Busca ese ambiente hoy, aunque sea solo durante un rato, y dejate estar en el.",
-                                         "tags":  [
-                                                      "Calma",
-                                                      "Seguridad"
-                                                  ],
-                                         "aprendizaje":  "El neurocientifico Stephen Porges llamo \u0027neurocepcion\u0027 al proceso por el que tu sistema nervioso evalua, antes de que lo pienses, si un lugar o una situacion es segura o amenazante. Por eso a veces te relajas sin saber muy bien por que: tu cuerpo ya habia decidido que ahi podia bajar la guardia.",
-                                         "frase":  {
-                                                       "texto":  "La herida es el lugar por donde la luz entra en ti.",
-                                                       "autor":  "Rumi"
-                                                   }
-                                     },
-                      "marca":  {
-                                    "title":  "Marca personal",
-                                    "idea":  "Hoy recuerda que no necesitas moverte delante de una camara para aportar valor. Mientras tu cuerpo descansa, tu voz y tus palabras siguen intactas: comparte algo que sepas de memoria, contado tal cual lo dirias a una alumna sentada a tu lado.",
-                                    "tags":  [
-                                                 "Contenido",
-                                                 "Voz"
-                                             ],
-                                    "guion":  "GANCHO: \"Â¿Y si ahora mismo tu voz vale mas que tu cuerpo en movimiento?\"\n\nCUERPO: Llevo meses sin poder demostrar una postura, sin poder ponerme delante de una clase a ensenar con el cuerpo. Al principio senti que sin eso no tenia nada que ofrecer. Pero seguia teniendo las palabras, la experiencia de aÃ±os acompanando a otras personas, y eso no se ha pausado nunca. Empece a compartirlo asi, solo hablando, y a la gente le llego igual, o mas.\n\nCIERRE: Si algo te ha quitado por un tiempo tu forma habitual de ensenar, no des por hecho que tienes menos que aportar. Puede que solo tengas que contarlo con otras palabras.",
-                                    "referente":  {
-                                                      "nombre":  "Silvia Congost",
-                                                      "porque":  "Psicologa espaÃ±ola especializada en autoestima y dependencia emocional, muy activa en redes con un lenguaje claro, cercano y sin tecnicismos, buen modelo de comunicacion solo con palabras."
-                                                  },
-                                    "mensajeWhatsapp":  "Hola a todas! Hoy pensaba en algo sencillo: no hace falta estar en plena forma fisica para seguir aportando valor, a veces basta con las palabras justas dichas con carino. Si esta semana os apetece compartir algo con alguien, aunque sea solo hablando, confiad en que tambien eso cuenta y ayuda. Un abrazo grande ðŸŒ¿"
-                                },
-                      "neuroalma":  {
-                                        "title":  "Neuroalma",
-                                        "idea":  "Dedica 15-20 minutos a escribir el mensaje de cierre que enviaras a tus alumnas al terminar las 7 sesiones: agradeceles su tiempo y confianza, y preguntales si les apetece contarte en dos o tres frases como ha sido su experiencia.",
-                                        "tags":  [
-                                                     "Idea",
-                                                     "Lanzamiento"
-                                                 ],
-                                        "aprendizaje":  "Los testimonios de tus primeras alumnas son uno de los recursos mas valiosos que puedes conseguir en un lanzamiento de validacion: ayudan a que las siguientes personas confien en apuntarse, y a ti te confirman que lo que ofreces si esta funcionando.",
-                                        "recurso":  {
-                                                        "titulo":  "CÃ³mo conseguir testimonios impactantes para facilitar la venta de tus cursos online",
-                                                        "tipo":  "articulo",
-                                                        "porque":  "Explica en espaÃ±ol, paso a paso, como y cuando pedir testimonios a tus alumnas sin que resulte incomodo, justo lo que necesitas al terminar las 7 sesiones de Neuroalma.",
-                                                        "url":  "https://www.classonlive.com/blog/conseguir-testimonios-venta-cursos-online"
-                                                    }
-                                    }
-                  }
-    },
-    {
-        "date":  "2026-07-11",
-        "zones":  {
-                      "desarrollo":  {
-                                         "title":  "Desarrollo personal",
-                                         "idea":  "Hoy, en vez de exigirte nada, prueba a hablarte como le hablarias a una alumna que esta pasando por un mal momento: con paciencia, sin prisa por que mejore ya. Un minuto de autocompasion real, aunque suene raro al principio.",
-                                         "tags":  [
-                                                      "Autocompasion",
-                                                      "Descanso"
-                                                  ],
-                                         "aprendizaje":  "Un neurocientifico explicaba hace poco que las personas que cultivan la autocompasion no solo duermen mejor, sino que llegan a reducir la percepcion del dolor sin necesidad de farmacos. No es un efecto magico: es que bajar la autoexigencia tambien baja el estres, y el estres amplifica el dolor.",
-                                         "frase":  {
-                                                       "texto":  "Cuando ya no podemos cambiar una situacion, nos vemos desafiados a cambiarnos a nosotros mismos.",
-                                                       "autor":  "Viktor Frankl"
-                                                   },
-                                         "noticia":  {
-                                                         "titulo":  "Gustavo Diez, neurocientifico: los pacientes que cultivan la autocompasion duermen mejor y reducen el dolor sin farmacos",
-                                                         "resumen":  "El neurocientifico explica que dedicar tiempo a practicas de autocompasion, mas alla de simplemente dormir, tiene efectos medibles en la reduccion del dolor y la mejora del descanso.",
-                                                         "url":  "https://www.elespanol.com/ciencia/salud/20250514/gustavo-neurocientifico-descansar-el-cerebro-no-basta-con-dormir-hay-dedicar-tiempo-gusta/1003743753307_0.html"
-                                                     }
-                                     },
-                      "marca":  {
-                                    "title":  "Marca personal",
-                                    "idea":  "Comparte hoy una pausa de autocompasion de un minuto, la misma que tu podrias necesitar ahora: unas palabras amables dichas hacia ti misma en voz alta o por escrito. Muchas formadoras dan mucho cuidado y reciben poco, y a tu comunidad le vendra bien verlo nombrado.",
-                                    "tags":  [
-                                                 "Contenido",
-                                                 "Autocompasion"
-                                             ],
-                                    "guion":  "GANCHO: \"Llevo aÃ±os enseÃ±ando a otras personas a cuidarse. Hoy me toco aprender a hacerlo conmigo misma.\"\n\nCUERPO: Cuando cuidas de otras personas por trabajo, es facil olvidar que tu tambien necesitas ese cuidado. Yo lo aprendi de golpe, obligada por una pausa que no elegi. Y descubri que hablarme con la misma paciencia que uso con mis alumnas, en vez de exigirme recuperarme rapido, cambiaba como me sentia por dentro, no solo fisicamente.\n\nCIERRE: Si tu tambien sueles dar mas cuidado del que recibes, hoy es un buen dia para invertir eso, aunque sea un minuto.",
-                                    "referente":  {
-                                                      "nombre":  "Laura Rojas-Marcos",
-                                                      "porque":  "Psicologa espaÃ±ola especializada en resiliencia y optimismo, con libros y contenido muy accesible sobre como sostenerse en momentos dificiles sin tecnicismos."
-                                                  },
-                                    "mensajeWhatsapp":  "Hola a todas! Leia hace poco que la autocompasion no es solo sentirse bien: hay estudios que muestran que ayuda a dormir mejor y hasta a sentir menos dolor fisico. Si esta semana os notais muy exigentes con vosotras mismas, quiza sea un buen momento para tratraros con la misma paciencia que le dais a los demas. Un abrazo grande ðŸŒ¿"
-                                },
-                      "neuroalma":  {
-                                        "title":  "Neuroalma",
-                                        "idea":  "Dedica 15-20 minutos a esbozar el primer email de tu secuencia de lanzamiento: presÃ©ntate, cuenta por que crees en Neuroalma, y comparte algo de valor. Todavia no vendas nada en este primer correo, solo genera confianza.",
-                                        "tags":  [
-                                                     "Idea",
-                                                     "Lanzamiento"
-                                                 ],
-                                        "aprendizaje":  "En una secuencia de emails de lanzamiento, el error mas comun es intentar vender demasiado pronto. Los primeros correos deben aportar valor y generar confianza; la oferta llega despues, cuando la persona ya conoce y confia en ti.",
-                                        "recurso":  {
-                                                        "titulo":  "Secuencia de emails de lanzamiento: ejemplo paso a paso",
-                                                        "tipo":  "articulo",
-                                                        "porque":  "Explica en espaÃ±ol, con ejemplos concretos, como estructurar una secuencia completa de emails de lanzamiento, justo el paso en el que estas ahora con Neuroalma.",
-                                                        "url":  "https://victoralcazar.com/secuencia-emails-lanzamiento-claves/"
-                                                    }
-                                    }
-                  }
-    },
-    {
-        "date":  "2026-07-12",
-        "zones":  {
-                      "desarrollo":  {
-                                         "title":  "Desarrollo personal",
-                                         "idea":  "Hoy dedica un par de minutos a pensar en tres cosas pequeÃ±as por las que te sientes agradecida ahora mismo, aunque sea un mensaje de una alumna o un rato de sol por la ventana. No hace falta que sean grandes cosas.",
-                                         "tags":  [
-                                                      "Gratitud",
-                                                      "Calma"
-                                                  ],
-                                         "aprendizaje":  "Practicar la gratitud activa la corteza prefrontal medial, la zona del cerebro implicada en la regulacion emocional y la toma de decisiones. No es solo una sensacion agradable: fortalece de verdad los circuitos relacionados con el bienestar.",
-                                         "frase":  {
-                                                       "texto":  "La gratitud abre la plenitud de la vida.",
-                                                       "autor":  "Melody Beattie"
-                                                   },
-                                         "noticia":  {
-                                                         "titulo":  "Como la gratitud fortalece tu cerebro segun la neurociencia",
-                                                         "resumen":  "Un repaso a como las practicas regulares de gratitud pueden aumentar las emociones positivas, mejorar la calidad del sueÃ±o y reducir los niveles de estres, con respaldo de estudios de neuroimagen.",
-                                                         "url":  "https://www.gsinapsis.com/gratitud-salud-cerebral-neurociencia/"
-                                                     }
-                                     },
-                      "marca":  {
-                                    "title":  "Marca personal",
-                                    "idea":  "Comparte hoy algo que hayas aprendido a agradecer precisamente gracias a esta pausa forzada por la lesion. A veces lo que parece un parÃ³n cuenta una historia mas honesta que cualquier clase perfecta.",
-                                    "tags":  [
-                                                 "Contenido",
-                                                 "Gratitud"
-                                             ],
-                                    "guion":  "GANCHO: \"Nunca pense que le daria las gracias a una lesion.\"\n\nCUERPO: Cuando todo se paro, lo primero que senti fue frustracion. Pero con los dias empece a notar cosas que antes se me escapaban: el tiempo para pensar, las palabras de apoyo de gente que ni imaginaba que se acordaba de mi, la calma que antes consideraba un lujo. No cambio lo dificil del momento, pero si cambio lo que elijo mirar dentro de el.\n\nCIERRE: A veces no se trata de que todo vaya bien, sino de encontrar algo real que agradecer incluso cuando no va bien.",
-                                    "referente":  {
-                                                      "nombre":  "Elsa Punset",
-                                                      "porque":  "Escritora y divulgadora espaÃ±ola de educacion emocional, con un lenguaje sencillo y cercano muy alineado con el tono que buscas para Neuroalma."
-                                                  },
-                                    "mensajeWhatsapp":  "Hola a todas! Hoy os propongo algo sencillo: pensad en 3 cosas pequeÃ±as por las que os sintais agradecidas ahora mismo. La neurociencia dice que esta prÃ¡ctica fortalece de verdad los circuitos del bienestar en el cerebro, no es solo una frase bonita. Un abrazo grande ðŸŒ¿"
-                                },
-                      "neuroalma":  {
-                                        "title":  "Neuroalma",
-                                        "idea":  "Dedica 20 minutos a esbozar la estructura basica de tu pagina de ventas: un titular claro, los beneficios principales de las 7 sesiones, y donde ira el precio. No hace falta redactarlo todo hoy, solo el esqueleto.",
-                                        "tags":  [
-                                                     "Idea",
-                                                     "Lanzamiento"
-                                                 ],
-                                        "aprendizaje":  "Una pagina de ventas sencilla necesita pocos elementos pero claros: un titular que explique la transformacion, los modulos o sesiones que incluye, el precio con sus condiciones, y algun testimonio si ya lo tienes. No hace falta que sea compleja para funcionar.",
-                                        "recurso":  {
-                                                        "titulo":  "Como crear una pagina de ventas: estructura y herramientas",
-                                                        "tipo":  "articulo",
-                                                        "porque":  "Explica en espaÃ±ol, paso a paso, la estructura basica de una pagina de ventas, justo lo que necesitas para dar forma a la de Neuroalma.",
-                                                        "url":  "https://escuelanomadadigital.com/como-crear-una-pagina-de-ventas/"
-                                                    }
-                                    }
-                  }
-    },
-    {
-        "date":  "2026-07-13",
-        "zones":  {
-                      "desarrollo":  {
-                                         "title":  "Desarrollo personal",
-                                         "idea":  "Hoy, si notas que no saber como iran las cosas te genera inquietud, prueba a nombrarlo en voz alta: \"no se como va a ser esto, y esta bien no saberlo todavia\". No hace falta resolver la incertidumbre, solo dejar de pelearte con ella.",
-                                         "tags":  [
-                                                      "Incertidumbre",
-                                                      "Calma"
-                                                  ],
-                                         "aprendizaje":  "Segun la neurociencia, el problema no suele ser la incertidumbre en si misma, sino como la interpreta tu cerebro: si la vive como una amenaza inmediata, se activan las alarmas internas y aparece la ansiedad. Aprender a convivir con lo desconocido, en vez de intentar eliminarlo, baja mucho esa alarma.",
-                                         "frase":  {
-                                                       "texto":  "La unica manera de dar sentido al cambio es sumergirte en el, moverte con el, y unirte al baile.",
-                                                       "autor":  "Alan Watts"
-                                                   },
-                                         "noticia":  {
-                                                         "titulo":  "El problema no es la incertidumbre, es como la interpreta tu cerebro",
-                                                         "resumen":  "Un repaso a por que algunas personas viven la falta de certeza como una amenaza constante, lo que esta detras de muchos casos de ansiedad, mientras otras conviven con lo desconocido sin tanta dificultad. La clave no esta en eliminar la incertidumbre, sino en cambiar la relacion que tenemos con ella.",
-                                                         "url":  "https://es.gizmodo.com/el-problema-no-es-la-incertidumbre-es-como-la-interpreta-tu-cerebro-cuando-no-puede-controlarla-algunas-personas-la-viven-como-una-amenaza-constante-y-eso-esta-detras-de-muchos-casos-de-ansiedad-y-d-2000231743"
-                                                     }
-                                     },
-                      "marca":  {
-                                    "title":  "Marca personal",
-                                    "idea":  "Hoy nombra algo que casi ninguna formadora dice en voz alta: que en esta etapa no sabes exactamente como va a salir todo, ni la recuperacion ni el lanzamiento, y aun asi sigues apareciendo. La honestidad sobre lo incierto conecta mas que un plan perfecto.",
-                                    "tags":  [
-                                                 "Contenido",
-                                                 "Autenticidad"
-                                             ],
-                                    "guion":  "GANCHO: \"No tengo ni idea de como va a salir todo esto. Y aun asi os lo cuento.\"\n\nCUERPO: Llevo tiempo esperando sentirme lista del todo para hablaros de este proyecto: recuperada al cien por cien, con el lanzamiento perfectamente organizado, sin ninguna duda. Esa version no existe. Lo que si existe es que cada semana doy un paso, aunque no sepa exactamente donde me lleva. Y curiosamente, cuando dejo de necesitar la certeza para avanzar, avanzo mas tranquila.\n\nCIERRE: Si tu tambien estas esperando sentirte segura del todo antes de empezar algo, quiza la seÃ±al no es esperar mas, es empezar sin esa seguridad.",
-                                    "referente":  {
-                                                      "nombre":  "Anna Punset",
-                                                      "porque":  "Divulgadora espaÃ±ola de bienestar emocional, hija de Elsa Punset, que en sus redes habla con un lenguaje sencillo y cercano sobre como sostenerse en momentos de cambio e incertidumbre."
-                                                  },
-                                    "mensajeWhatsapp":  "Hola a todas! Hoy leia que el problema casi nunca es la incertidumbre en si misma, sino como la interpretamos: si la vivimos como una amenaza, se dispara la ansiedad, pero si aprendemos a convivir con ella, pesa mucho menos. Si esta semana estais en medio de algo que no sabeis muy bien como va a salir, no pasa nada, es parte del camino. Un abrazo grande ðŸŒ¿"
-                                },
-                      "neuroalma":  {
-                                        "title":  "Neuroalma",
-                                        "idea":  "Dedica 15-20 minutos a escribir de 4 a 6 preguntas frecuentes para tu pagina de ventas: que incluyen las sesiones, que pasa si no puedes asistir en directo, como se paga, y para quien es (y para quien no es) Neuroalma.",
-                                        "tags":  [
-                                                     "Idea",
-                                                     "Lanzamiento"
-                                                 ],
-                                        "aprendizaje":  "Las preguntas frecuentes de una pagina de ventas funcionan mejor cuando responden dudas reales que ya te han hecho tus alumnas, no dudas inventadas. Usa un lenguaje simple y directo, como si respondieras a una amiga, evitando el tono de marketing.",
-                                        "recurso":  {
-                                                        "titulo":  "FAQ: para que sirven las preguntas frecuentes (+150 ejemplos)",
-                                                        "tipo":  "articulo",
-                                                        "porque":  "Explica en espaÃ±ol, con ejemplos practicos, como redactar preguntas frecuentes claras y utiles, justo lo que necesitas para completar la pagina de ventas de Neuroalma.",
-                                                        "url":  "https://www.tiendanube.com/blog/faq/"
-                                                    }
-                                    }
-                  }
+  {
+    "date": "2026-07-04",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Prueba una respiracion 4-7-4 antes de tu practica de hoy: inhala 4 segundos, manten 7, exhala 4. Activa el sistema nervioso parasimpatico y te ayuda a bajar el ritmo antes de ensenar o practicar.",
+        "tags": ["Cuerpo", "Mente"]
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Comparte hoy algo sencillo: un video corto o un post contando por que empezaste con el yoga, pilates o taichi. La gente conecta con historias reales, no hace falta ser experta para compartir tu camino.",
+        "tags": ["Contenido"]
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15 minutos a escribir quien es el alumno ideal de Neuroalma: que le preocupa, que quiere aprender. No tiene que ser perfecto, es solo para empezar a dar forma al proyecto.",
+        "tags": ["Idea"]
+      }
     }
+  },
+  {
+    "date": "2026-07-05",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy, antes de dormir, prueba 5 respiraciones lentas: cuenta hasta 4 al inhalar y hasta 6 al exhalar. Es un gesto sencillo que ayuda a calmar el sistema nervioso, algo que tu misma podrias compartir con tus alumnas.",
+        "tags": ["Cuerpo", "Mente"],
+        "aprendizaje": "Mantener el cerebro activo con aprendizaje constante, movimiento y meditacion ayuda a fortalecer lo que los neurocientificos llaman 'reserva cognitiva': la capacidad del cerebro para adaptarse y protegerse frente al desgaste con la edad.",
+        "frase": {
+          "texto": "No puedes detener las olas, pero puedes aprender a surfearlas.",
+          "autor": "Jon Kabat-Zinn"
+        },
+        "noticia": {
+          "titulo": "La neurociencia demuestra que el aburrimiento es clave para el equilibrio mental",
+          "resumen": "Segun investigaciones recientes, los periodos de inactividad activan la red neuronal por defecto, un sistema cerebral vinculado a la creatividad, la memoria y la autorregulacion emocional.",
+          "url": "https://www.infobae.com/salud/ciencia/2026/02/01/la-neurociencia-demuestra-que-el-aburrimiento-es-clave-para-el-equilibrio-mental/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Graba hoy un video corto de 30 segundos explicando con tus palabras algo que ya sabes de sobra, como la respiracion consciente o la calma antes de una clase. Sin guion, como si se lo contaras a una amiga.",
+        "tags": ["Contenido"],
+        "guion": "GANCHO: \"¿Sabias que en cada clase hay una persona que regula el ambiente sin decir una palabra?\"\n\nCUERPO: Soy yo. Y tambien puedes serlo tu. Cuando entro nerviosa a dar una clase, el grupo se pone nervioso sin saber por que. Cuando entro en calma, el grupo respira conmigo. Lo descubri sin querer, dando clase un dia agotador: baje el ritmo de mi propia voz solo para aguantar, y toda la sala se relajo conmigo.\n\nCIERRE: La proxima vez que entres a dar una clase (o a una reunion, o a cenar con tu familia), recuerda: tu estado regula la sala antes que cualquier palabra.",
+        "referente": {
+          "nombre": "Dr. Nicole LePera (@the.holistic.psychologist)",
+          "porque": "Explica el sistema nervioso y las heridas emocionales en publicaciones cortas y visuales, con un tono cercano y sin tecnicismos muy parecido al que buscas para Neuroalma."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy os traigo una reflexion breve: la neurociencia esta confirmando algo que en Neuroalma llevamos tiempo diciendo, que los momentos de calma (e incluso de aburrimiento) son los que mas ayudan a nuestro cerebro a ordenar ideas y emociones. Si esta semana necesitais parar un ratito, no os sintais culpables, es parte del proceso. Un abrazo grande."
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15 minutos a escribir como te vas a presentar en la primera sesion en directo y que quieres que sientan tus alumnas al terminar los 7 encuentros. Es la base del guion de bienvenida.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "En un lanzamiento de validacion como el tuyo, el objetivo no es vender a mucha gente sino confirmar que unas pocas personas reales pagarian por la transformacion que ofreces. Con las primeras alumnas de las 7 sesiones ya tendrias esa confirmacion.",
+        "recurso": {
+          "titulo": "El Metodo Lanzamiento (Jeff Walker)",
+          "tipo": "libro",
+          "porque": "Es la referencia clasica sobre como lanzar un curso online paso a paso, incluyendo como preparar el evento en directo que ya tienes guionizado. Muy util para la fase en la que estas ahora."
+        }
+      }
+    }
+  },
+  {
+    "date": "2026-07-06",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Si hoy tu cuerpo te pide moverse, dale ese gusto sin exigencias: unos pasos al sol, estirar los brazos con calma o simplemente cambiar de postura cada rato. Escucha lo que tu cuerpo te permite hoy, sin forzar nada.",
+        "tags": ["Cuerpo", "Calma"],
+        "aprendizaje": "El nervio vago conecta el cerebro con el corazon, los pulmones y el sistema digestivo. Cuando respiras despacio y sueltas los hombros, ese nervio manda una senal de seguridad a todo tu cuerpo: es una de las formas mas directas de calmar la ansiedad sin pensar en nada.",
+        "frase": {
+          "texto": "Tienes poder sobre tu mente, no sobre los acontecimientos externos. Date cuenta de esto y encontraras fortaleza.",
+          "autor": "Marco Aurelio"
+        },
+        "noticia": {
+          "titulo": "Ana Ibanez, la neurocientifica que entrena el cerebro: del estres invisible a la plasticidad",
+          "resumen": "La neurocientifica explica de forma sencilla como entrenar el cerebro para reducir el estres, ganar flexibilidad mental y mejorar la salud emocional, con habitos accesibles para el dia a dia.",
+          "url": "https://www.infobae.com/tendencias/2026/02/12/ana-ibanez-la-neurocientifica-que-entrena-el-cerebro-del-estres-invisible-a-la-plasticidad-y-el-secreto-de-la-energia-compartida/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy prueba con un formato distinto al video: escribe un post corto contando una situacion real de clase donde sabias la tecnica perfecta, pero no sabias que decirle a esa persona. A la gente le conecta lo autentico, no la perfeccion.",
+        "tags": ["Contenido", "Autenticidad"],
+        "guion": "GANCHO: \"Hay algo que nadie te ensena cuando te formas como instructora: que hacer cuando una alumna llora en medio de la clase.\"\n\nCUERPO: A mi me paso. Sabia perfectamente la postura, la respiracion, la secuencia. Pero en ese momento toda mi tecnica no servia de nada si no sabia acompañar lo que esa persona estaba sintiendo. Nadie me lo habia contado: que ensenar tambien es sostener, no solo explicar.\n\nCIERRE: Si alguna vez sentiste que tu formacion tecnica se quedaba corta ante una persona real, no eras tu la que fallaba. Es la brecha que casi nadie nombra.",
+        "referente": {
+          "nombre": "Mario Alonso Puig",
+          "porque": "Medico y conferenciante español que divulga en español, sin tecnicismos, como la mente y el cuerpo se influyen mutuamente. Un buen modelo de comunicacion cercana sobre neurociencia."
+        },
+        "mensajeWhatsapp": "Hola a todas! Una reflexion pequeña para hoy: muchas veces creemos que calmar a otra persona es cuestion de decir las palabras correctas, pero la neurociencia confirma que primero se transmite calma, y despues llegan las palabras. Si esta semana alguien cercano esta nervioso, a veces basta con que tu respires despacio a su lado. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a escribir el primer email que recibira quien se apunte a Neuroalma: agradecele, confirmale la fecha y hora de la primera sesion, y cuentale que se puede llevar de ese primer encuentro. No hace falta que sea perfecto, solo que exista.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "En un lanzamiento de validacion, la comunidad que se forma durante las sesiones en directo, aunque sean pocas personas, es tan valiosa como el contenido: esas primeras alumnas suelen ser las que mas recomiendan el programa despues.",
+        "recurso": {
+          "titulo": "Los 7 mejores consejos para gestionar una academia online",
+          "tipo": "articulo",
+          "porque": "Resume de forma practica y en español los aspectos clave para organizar una academia online, utiles para esta fase inicial de Neuroalma.",
+          "url": "https://playoffinformatica.com/blog/7-mejores-consejos-gestionar-academia-online/"
+        }
+      }
+    }
+  },
+  {
+    "date": "2026-07-07",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy prueba algo sencillo: deja el movil en otra habitacion durante una hora y observa que hace tu mente con ese hueco. No hace falta llenarlo de nada, solo notar la diferencia.",
+        "tags": ["Mente", "Calma"],
+        "aprendizaje": "El cerebro es plastico: asi como el uso excesivo de pantallas puede reducir la densidad de materia gris en zonas de control cognitivo y empatia, esas mismas zonas pueden reconstruirse con pausas conscientes y atencion sostenida en una sola cosa cada vez.",
+        "frase": {
+          "texto": "Los sentimientos van y vienen como nubes en un cielo ventoso. La respiracion consciente es mi ancla.",
+          "autor": "Thich Nhat Hanh"
+        },
+        "noticia": {
+          "titulo": "Tu cerebro esta siendo secuestrado por algoritmos que reprograman tus vias de dopamina",
+          "resumen": "Un neurocientifico alerta de que revisamos el movil una media de 144 veces al dia sin darnos cuenta, y explica como esto reprograma los circuitos de recompensa del cerebro. La buena noticia: el cerebro es plastico y puede reconstruirse.",
+          "url": "https://www.que.es/2026/02/21/movil-algoritmo-adiccion-cerebro/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Comparte hoy un truco rapido que uses tu misma para regular tu estado antes de dar una clase (una respiracion, una frase interna, un gesto). A la gente le interesa mas lo que haces tu de verdad que la teoria general.",
+        "tags": ["Contenido", "Autenticidad"],
+        "guion": "GANCHO: \"Nadie te cuenta que acompañar a alguien no es lo mismo que cargar con lo que siente.\"\n\nCUERPO: Al principio yo confundia las dos cosas. Si una alumna estaba mal, yo salia de clase agotada, como si su carga se hubiera quedado en mi cuerpo. Con el tiempo aprendi algo que cambio todo: puedo estar presente, sostener el momento, y aun asi soltarlo al salir por la puerta. Acompañar no es absorber.\n\nCIERRE: Si terminas tus clases o tus jornadas más cansada emocionalmente que fisicamente, quiza no es que seas muy empatica. Es que todavia no has aprendido a soltar lo que no es tuyo.",
+        "referente": {
+          "nombre": "Marian Rojas Estape",
+          "porque": "Psiquiatra española que explica neurociencia y gestion emocional en un lenguaje sencillo y cercano, con un enfoque muy parecido al que buscas para Neuroalma."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy os dejo un dato curioso: parece que revisamos el movil una media de 144 veces al dia sin darnos cuenta. No os lo cuento para culpabilizar a nadie (yo la primera), sino como invitacion suave: si hoy encontrais un huequito para dejarlo un rato aparte, prestad atencion a como se siente esa calma. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15 minutos a escribir 3 preguntas que le haras a cada alumna en la primera sesion en directo, para entender sus expectativas y poder adaptar el resto de las sesiones a lo que de verdad necesitan.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Para gestionar las inscripciones de un lanzamiento pequeño no hace falta ninguna plataforma complicada: un formulario sencillo (por ejemplo de Google) para recoger nombre, email y una pregunta sobre sus expectativas es mas que suficiente para empezar.",
+        "recurso": {
+          "titulo": "El Arte de Vender con Palabras (podcast de Maider Tomasena)",
+          "tipo": "podcast",
+          "porque": "Copywriter española especializada en paginas de venta y textos persuasivos, muy util ahora que te toca escribir la pagina de ventas de Neuroalma."
+        }
+      }
+    }
+  },
+  {
+    "date": "2026-07-08",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy dedica un momento a agradecer a tu cuerpo, aunque este en pausa, todo lo que sigue haciendo por ti: respirar, sostenerte, avisarte cuando necesita descanso. No hace falta moverse para cuidarlo, tambien se cuida escuchandolo con cariño.",
+        "tags": ["Cuerpo", "Gratitud"],
+        "aprendizaje": "Cuando el estres se mantiene activo muchas semanas seguidas, el cerebro va perdiendo poco a poco la facilidad para volver a un estado de calma por si solo. Por eso, parar unos minutos varias veces al dia no es un lujo: es lo que le devuelve a tu sistema nervioso la capacidad de descansar de verdad.",
+        "frase": {
+          "texto": "El cuerpo es mi templo y las asanas son mis oraciones.",
+          "autor": "B.K.S. Iyengar"
+        },
+        "noticia": {
+          "titulo": "Como cambia el cerebro con el estres cronico: lo que revela la neurociencia",
+          "resumen": "Un repaso a lo que ocurre cuando el estres se sostiene durante semanas o meses: se altera el equilibrio entre la corteza prefrontal, el hipocampo y la amigdala, y el cuerpo pierde la capacidad de volver a su estado de base. La buena noticia es que ese equilibrio se puede recuperar con pausas y descanso real.",
+          "url": "https://www.abc.com.py/estilo-de-vida/2026/07/04/como-cambia-el-cerebro-con-el-estres-cronico-lo-que-revela-la-neurociencia/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy nombra en voz alta algo que muchas formadoras sienten pero casi nadie dice: que sostener emocionalmente a un grupo cansa, aunque no se haya movido un musculo. No necesitas contar una anecdota concreta de ninguna alumna, basta con nombrar esa sensacion para que otras se sientan acompañadas.",
+        "tags": ["Contenido", "Fatiga empatica"],
+        "guion": "GANCHO: \"¿Por que a veces terminas una clase mas agotada que si hubieras hecho tu una hora de ejercicio?\"\n\nCUERPO: Durante años pense que era falta de forma fisica. Con el tiempo entendi que era otra cosa: cuando sostienes el estado emocional de un grupo entero, tu propio sistema nervioso se activa igual que el de ellos, aunque tu cuerpo este quieto. Eso tiene nombre, se llama fatiga empatica, y no significa que no sirvas para esto. Significa que te importa de verdad.\n\nCIERRE: Si alguna vez saliste de dar clase mas cansada por dentro que por fuera, no eras tu exagerando. Es tu cuerpo pagando el precio de acompañar bien.",
+        "referente": {
+          "nombre": "Rafael Santandreu",
+          "porque": "Psicologo español que divulga sobre gestion emocional con un lenguaje muy sencillo, cercano y sin tecnicismos, ideal como referencia de tono para Neuroalma."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy leia sobre como el estres mantenido durante semanas cambia el funcionamiento del cerebro, y pensaba en lo mucho que esto se aplica a quienes acompañamos a otras personas (como formadoras, madres, cuidadoras...). Si esta semana notais que el cansancio es mas de dentro que de fuera, no os exijais mas, es una señal a la que merece la pena hacer caso. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a preparar una pequeña encuesta de 3 preguntas (por ejemplo con Google Forms) para enviar a tus alumnas justo despues de la primera sesion en directo. Te ayudara a saber que esta funcionando mientras aun estas a tiempo de ajustar las siguientes 6 sesiones.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Pedir feedback justo despues de cada sesion, mientras la experiencia esta fresca, te da informacion mucho mas util que esperar al final de las 7 sesiones: te permite ajustar sobre la marcha en lugar de descubrir los problemas cuando ya no queda tiempo de solucionarlos.",
+        "recurso": {
+          "titulo": "Crear y gestionar cuestionarios con Formularios de Google",
+          "tipo": "guia",
+          "porque": "Guia oficial y en español para crear una encuesta sencilla de satisfaccion, justo lo que necesitas para recoger feedback de tus alumnas de Neuroalma sin complicarte con herramientas nuevas.",
+          "url": "https://support.google.com/docs/answer/7032287?hl=es"
+        }
+      }
+    }
+  },
+  {
+    "date": "2026-07-09",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy prueba un micro-descanso real: 10-15 minutos sin movil, sin musica, en un lugar tranquilo y con luz suave, sin hacer nada en concreto. No es perder el tiempo, es dejar que tu mente ordene por dentro lo que necesita ordenar.",
+        "tags": ["Calma", "Silencio"],
+        "aprendizaje": "Cuando dejas de prestar atencion a estimulos externos, se activa lo que los neurocientificos llaman la red neuronal por defecto: un sistema que aprovecha esos momentos de calma para ordenar recuerdos y limpiar el desgaste acumulado del dia. Por eso no hacer nada, de vez en cuando, tambien es productivo para el cerebro.",
+        "frase": {
+          "texto": "Acepta, y luego actua. Cualquier cosa que el momento presente contenga, aceptala como si la hubieras elegido.",
+          "autor": "Eckhart Tolle"
+        },
+        "noticia": {
+          "titulo": "La revolucion de la neurociencia en 2026: por que el micro-descanso es mas potente que unas vacaciones largas",
+          "resumen": "Una investigacion reciente apunta a que el cerebro necesita desconectarse en pequeñas dosis, no solo una vez al año: micro-descansos de 15 minutos en silencio total, sin movil ni musica, activarian la red neuronal por defecto, el sistema encargado de reordenar la memoria y limpiar el desgaste mental acumulado.",
+          "url": "https://www.diarioenpositivo.com/articulo/bienestar/ciencia-descubre-que-silencio-absoluto-es-gasolina-cerebro-moderno/20260207175713072897.html"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy comparte, si te apetece, que tambien tu estas aprendiendo a base de pausas obligadas estos meses. No hace falta dar detalles medicos: basta con nombrar que enseñar a otras a parar tambien pasa por parar tu misma, y que eso no te hace menos formadora, te hace mas honesta.",
+        "tags": ["Contenido", "Autenticidad"],
+        "guion": "GANCHO: \"¿Que pasa cuando la persona que siempre dice 'para y respira' tiene que aprender a hacerlo ella misma, a la fuerza?\"\n\nCUERPO: Llevo años diciendole a otras que el descanso no es un premio, que es parte del proceso. Este año me toco aprenderlo en primera persona, sin poder dar clase, sin poder moverme como antes. Al principio lo vivi como una perdida. Con el tiempo entendi que era la misma leccion que llevo años enseñando, solo que ahora me tocaba a mi aplicarla.\n\nCIERRE: Si alguna vez sentiste que tenias que parar justo cuando menos ganas tenias, no es una señal de fracaso. Es la vida poniendote a prueba con tu propia enseñanza.",
+        "referente": {
+          "nombre": "Elsa Punset",
+          "porque": "Divulgadora española de inteligencia emocional y neurociencia, con un lenguaje sencillo y cercano, muy accesible para un publico general como el de Neuroalma."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy he aprendido algo bonito: parece que el cerebro necesita ratos de silencio real (sin movil, sin musica) para poder ordenar por dentro todo lo que vivimos, igual que ordenamos un armario de vez en cuando. Si esta semana encontrais 10 minutitos para no hacer nada, dejad que pase sin culpa, vuestro cerebro os lo va a agradecer. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15 minutos a preparar un documento breve con la informacion practica de la primera sesion: enlace de acceso, dia y hora, y que conviene tener a mano (cuaderno, un espacio tranquilo). Enviaselo a cada alumna el dia antes para que lleguen con confianza.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "En un grupo reducido como el tuyo, un recordatorio sencillo y personal el dia antes reduce mucho las ausencias de ultima hora. No hace falta automatizar nada complicado, basta con un mensaje cercano en vuestro grupo de WhatsApp.",
+        "recurso": {
+          "titulo": "Programar y compartir una videollamada con Google Meet",
+          "tipo": "guia",
+          "porque": "Guia oficial y en español para crear el enlace de la sesion en directo y compartirlo facilmente con tus alumnas, sin necesidad de herramientas complicadas.",
+          "url": "https://support.google.com/meet/answer/9302870?hl=es"
+        }
+      }
+    }
+  },
+  {
+    "date": "2026-07-10",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy dedica un momento a notar como tu cuerpo reconoce, sin que tu lo pienses, cuando un lugar o una persona le resultan seguros: los hombros bajan, la respiracion se hace mas lenta. Busca ese ambiente hoy, aunque sea solo durante un rato, y dejate estar en el.",
+        "tags": ["Calma", "Seguridad"],
+        "aprendizaje": "El neurocientifico Stephen Porges llamo 'neurocepcion' al proceso por el que tu sistema nervioso evalua, antes de que lo pienses, si un lugar o una situacion es segura o amenazante. Por eso a veces te relajas sin saber muy bien por que: tu cuerpo ya habia decidido que ahi podia bajar la guardia.",
+        "frase": {
+          "texto": "La herida es el lugar por donde la luz entra en ti.",
+          "autor": "Rumi"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy recuerda que no necesitas moverte delante de una camara para aportar valor. Mientras tu cuerpo descansa, tu voz y tus palabras siguen intactas: comparte algo que sepas de memoria, contado tal cual lo dirias a una alumna sentada a tu lado.",
+        "tags": ["Contenido", "Voz"],
+        "guion": "GANCHO: \"¿Y si ahora mismo tu voz vale mas que tu cuerpo en movimiento?\"\n\nCUERPO: Llevo meses sin poder demostrar una postura, sin poder ponerme delante de una clase a enseñar con el cuerpo. Al principio senti que sin eso no tenia nada que ofrecer. Pero seguia teniendo las palabras, la experiencia de años acompañando a otras personas, y eso no se ha pausado nunca. Empece a compartirlo asi, solo hablando, y a la gente le llego igual, o mas.\n\nCIERRE: Si algo te ha quitado por un tiempo tu forma habitual de enseñar, no des por hecho que tienes menos que aportar. Puede que solo tengas que contarlo con otras palabras.",
+        "referente": {
+          "nombre": "Silvia Congost",
+          "porque": "Psicologa española especializada en autoestima y dependencia emocional, muy activa en redes con un lenguaje claro, cercano y sin tecnicismos, buen modelo de comunicacion solo con palabras."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo sencillo: no hace falta estar en plena forma fisica para seguir aportando valor, a veces basta con las palabras justas dichas con cariño. Si esta semana os apetece compartir algo con alguien, aunque sea solo hablando, confiad en que tambien eso cuenta y ayuda. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a escribir el mensaje de cierre que enviaras a tus alumnas al terminar las 7 sesiones: agradeceles su tiempo y confianza, y preguntales si les apetece contarte en dos o tres frases como ha sido su experiencia.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Los testimonios de tus primeras alumnas son uno de los recursos mas valiosos que puedes conseguir en un lanzamiento de validacion: ayudan a que las siguientes personas confien en apuntarse, y a ti te confirman que lo que ofreces si esta funcionando.",
+        "recurso": {
+          "titulo": "Como conseguir testimonios impactantes para facilitar la venta de tus cursos online",
+          "tipo": "articulo",
+          "porque": "Explica en español, paso a paso, como y cuando pedir testimonios a tus alumnas sin que resulte incomodo, justo lo que necesitas al terminar las 7 sesiones de Neuroalma.",
+          "url": "https://www.classonlive.com/blog/conseguir-testimonios-venta-cursos-online"
+        }
+      }
+    }
+  },
+  {
+    "date": "2026-07-11",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy, en vez de exigirte nada, prueba a hablarte como le hablarias a una alumna que esta pasando por un mal momento: con paciencia, sin prisa por que mejore ya. Un minuto de autocompasion real, aunque suene raro al principio.",
+        "tags": ["Autocompasion", "Descanso"],
+        "aprendizaje": "Un neurocientifico explicaba hace poco que las personas que cultivan la autocompasion no solo duermen mejor, sino que llegan a reducir la percepcion del dolor sin necesidad de farmacos. No es un efecto magico: es que bajar la autoexigencia tambien baja el estres, y el estres amplifica el dolor.",
+        "frase": {
+          "texto": "Cuando ya no podemos cambiar una situacion, nos vemos desafiados a cambiarnos a nosotros mismos.",
+          "autor": "Viktor Frankl"
+        },
+        "noticia": {
+          "titulo": "Gustavo Diez, neurocientifico: los pacientes que cultivan la autocompasion duermen mejor y reducen el dolor sin farmacos",
+          "resumen": "El neurocientifico explica que dedicar tiempo a practicas de autocompasion, mas alla de simplemente dormir, tiene efectos medibles en la reduccion del dolor y la mejora del descanso.",
+          "url": "https://www.elespanol.com/ciencia/salud/20250514/gustavo-neurocientifico-descansar-el-cerebro-no-basta-con-dormir-hay-dedicar-tiempo-gusta/1003743753307_0.html"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Comparte hoy una pausa de autocompasion de un minuto, la misma que tu podrias necesitar ahora: unas palabras amables dichas hacia ti misma en voz alta o por escrito. Muchas formadoras dan mucho cuidado y reciben poco, y a tu comunidad le vendra bien verlo nombrado.",
+        "tags": ["Contenido", "Autocompasion"],
+        "guion": "GANCHO: \"Llevo años enseñando a otras personas a cuidarse. Hoy me toco aprender a hacerlo conmigo misma.\"\n\nCUERPO: Cuando cuidas de otras personas por trabajo, es facil olvidar que tu tambien necesitas ese cuidado. Yo lo aprendi de golpe, obligada por una pausa que no elegi. Y descubri que hablarme con la misma paciencia que uso con mis alumnas, en vez de exigirme recuperarme rapido, cambiaba como me sentia por dentro, no solo fisicamente.\n\nCIERRE: Si tu tambien sueles dar mas cuidado del que recibes, hoy es un buen dia para invertir eso, aunque sea un minuto.",
+        "referente": {
+          "nombre": "Laura Rojas-Marcos",
+          "porque": "Psicologa española especializada en resiliencia y optimismo, con libros y contenido muy accesible sobre como sostenerse en momentos dificiles sin tecnicismos."
+        },
+        "mensajeWhatsapp": "Hola a todas! Leia hace poco que la autocompasion no es solo sentirse bien: hay estudios que muestran que ayuda a dormir mejor y hasta a sentir menos dolor fisico. Si esta semana os notais muy exigentes con vosotras mismas, quiza sea un buen momento para tratraros con la misma paciencia que le dais a los demas. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a esbozar el primer email de tu secuencia de lanzamiento: presentate, cuenta por que crees en Neuroalma, y comparte algo de valor. Todavia no vendas nada en este primer correo, solo genera confianza.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "En una secuencia de emails de lanzamiento, el error mas comun es intentar vender demasiado pronto. Los primeros correos deben aportar valor y generar confianza; la oferta llega despues, cuando la persona ya conoce y confia en ti.",
+        "recurso": {
+          "titulo": "Secuencia de emails de lanzamiento: ejemplo paso a paso",
+          "tipo": "articulo",
+          "porque": "Explica en español, con ejemplos concretos, como estructurar una secuencia completa de emails de lanzamiento, justo el paso en el que estas ahora con Neuroalma.",
+          "url": "https://victoralcazar.com/secuencia-emails-lanzamiento-claves/"
+        }
+      }
+    }
+  },
+  {
+    "date": "2026-07-12",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy dedica un par de minutos a pensar en tres cosas pequeñas por las que te sientes agradecida ahora mismo, aunque sea un mensaje de una alumna o un rato de sol por la ventana. No hace falta que sean grandes cosas.",
+        "tags": ["Gratitud", "Calma"],
+        "aprendizaje": "Practicar la gratitud activa la corteza prefrontal medial, la zona del cerebro implicada en la regulacion emocional y la toma de decisiones. No es solo una sensacion agradable: fortalece de verdad los circuitos relacionados con el bienestar.",
+        "frase": {
+          "texto": "La gratitud abre la plenitud de la vida.",
+          "autor": "Melody Beattie"
+        },
+        "noticia": {
+          "titulo": "Como la gratitud fortalece tu cerebro segun la neurociencia",
+          "resumen": "Un repaso a como las practicas regulares de gratitud pueden aumentar las emociones positivas, mejorar la calidad del sueño y reducir los niveles de estres, con respaldo de estudios de neuroimagen.",
+          "url": "https://www.gsinapsis.com/gratitud-salud-cerebral-neurociencia/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Comparte hoy algo que hayas aprendido a agradecer precisamente gracias a esta pausa forzada por la lesion. A veces lo que parece un paron cuenta una historia mas honesta que cualquier clase perfecta.",
+        "tags": ["Contenido", "Gratitud"],
+        "guion": "GANCHO: \"Nunca pense que le daria las gracias a una lesion.\"\n\nCUERPO: Cuando todo se paro, lo primero que senti fue frustracion. Pero con los dias empece a notar cosas que antes se me escapaban: el tiempo para pensar, las palabras de apoyo de gente que ni imaginaba que se acordaba de mi, la calma que antes consideraba un lujo. No cambio lo dificil del momento, pero si cambio lo que elijo mirar dentro de el.\n\nCIERRE: A veces no se trata de que todo vaya bien, sino de encontrar algo real que agradecer incluso cuando no va bien.",
+        "referente": {
+          "nombre": "Elsa Punset",
+          "porque": "Escritora y divulgadora española de educacion emocional, con un lenguaje sencillo y cercano muy alineado con el tono que buscas para Neuroalma."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy os propongo algo sencillo: pensad en 3 cosas pequeñas por las que os sintais agradecidas ahora mismo. La neurociencia dice que esta práctica fortalece de verdad los circuitos del bienestar en el cerebro, no es solo una frase bonita. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 20 minutos a esbozar la estructura basica de tu pagina de ventas: un titular claro, los beneficios principales de las 7 sesiones, y donde ira el precio. No hace falta redactarlo todo hoy, solo el esqueleto.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Una pagina de ventas sencilla necesita pocos elementos pero claros: un titular que explique la transformacion, los modulos o sesiones que incluye, el precio con sus condiciones, y algun testimonio si ya lo tienes. No hace falta que sea compleja para funcionar.",
+        "recurso": {
+          "titulo": "Como crear una pagina de ventas: estructura y herramientas",
+          "tipo": "articulo",
+          "porque": "Explica en español, paso a paso, la estructura basica de una pagina de ventas, justo lo que necesitas para dar forma a la de Neuroalma.",
+          "url": "https://escuelanomadadigital.com/como-crear-una-pagina-de-ventas/"
+        }
+      }
+    }
+  },
+  {
+    "date": "2026-07-13",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy, si notas que no saber como iran las cosas te genera inquietud, prueba a nombrarlo en voz alta: \"no se como va a ser esto, y esta bien no saberlo todavia\". No hace falta resolver la incertidumbre, solo dejar de pelearte con ella.",
+        "tags": ["Incertidumbre", "Calma"],
+        "aprendizaje": "Segun la neurociencia, el problema no suele ser la incertidumbre en si misma, sino como la interpreta tu cerebro: si la vive como una amenaza inmediata, se activan las alarmas internas y aparece la ansiedad. Aprender a convivir con lo desconocido, en vez de intentar eliminarlo, baja mucho esa alarma.",
+        "frase": {
+          "texto": "La unica manera de dar sentido al cambio es sumergirte en el, moverte con el, y unirte al baile.",
+          "autor": "Alan Watts"
+        },
+        "noticia": {
+          "titulo": "El problema no es la incertidumbre, es como la interpreta tu cerebro",
+          "resumen": "Un repaso a por que algunas personas viven la falta de certeza como una amenaza constante, lo que esta detras de muchos casos de ansiedad, mientras otras conviven con lo desconocido sin tanta dificultad. La clave no esta en eliminar la incertidumbre, sino en cambiar la relacion que tenemos con ella.",
+          "url": "https://es.gizmodo.com/el-problema-no-es-la-incertidumbre-es-como-la-interpreta-tu-cerebro-cuando-no-puede-controlarla-algunas-personas-la-viven-como-una-amenaza-constante-y-eso-esta-detras-de-muchos-casos-de-ansiedad-y-d-2000231743"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy nombra algo que casi ninguna formadora dice en voz alta: que en esta etapa no sabes exactamente como va a salir todo, ni la recuperacion ni el lanzamiento, y aun asi sigues apareciendo. La honestidad sobre lo incierto conecta mas que un plan perfecto.",
+        "tags": ["Contenido", "Autenticidad"],
+        "guion": "GANCHO: \"No tengo ni idea de como va a salir todo esto. Y aun asi os lo cuento.\"\n\nCUERPO: Llevo tiempo esperando sentirme lista del todo para hablaros de este proyecto: recuperada al cien por cien, con el lanzamiento perfectamente organizado, sin ninguna duda. Esa version no existe. Lo que si existe es que cada semana doy un paso, aunque no sepa exactamente donde me lleva. Y curiosamente, cuando dejo de necesitar la certeza para avanzar, avanzo mas tranquila.\n\nCIERRE: Si tu tambien estas esperando sentirte segura del todo antes de empezar algo, quiza la señal no es esperar mas, es empezar sin esa seguridad.",
+        "referente": {
+          "nombre": "Anna Punset",
+          "porque": "Divulgadora española de bienestar emocional, hija de Elsa Punset, que en sus redes habla con un lenguaje sencillo y cercano sobre como sostenerse en momentos de cambio e incertidumbre."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy leia que el problema casi nunca es la incertidumbre en si misma, sino como la interpretamos: si la vivimos como una amenaza, se dispara la ansiedad, pero si aprendemos a convivir con ella, pesa mucho menos. Si esta semana estais en medio de algo que no sabeis muy bien como va a salir, no pasa nada, es parte del camino. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a escribir de 4 a 6 preguntas frecuentes para tu pagina de ventas: que incluyen las sesiones, que pasa si no puedes asistir en directo, como se paga, y para quien es (y para quien no es) Neuroalma.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Las preguntas frecuentes de una pagina de ventas funcionan mejor cuando responden dudas reales que ya te han hecho tus alumnas, no dudas inventadas. Usa un lenguaje simple y directo, como si respondieras a una amiga, evitando el tono de marketing.",
+        "recurso": {
+          "titulo": "FAQ: para que sirven las preguntas frecuentes (+150 ejemplos)",
+          "tipo": "articulo",
+          "porque": "Explica en español, con ejemplos practicos, como redactar preguntas frecuentes claras y utiles, justo lo que necesitas para completar la pagina de ventas de Neuroalma.",
+          "url": "https://www.tiendanube.com/blog/faq/"
+        }
+      }
+    }
+  },
+  {
+    "date": "2026-07-15",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Aunque ahora no estes dando clases, hoy puedes dedicar unos minutos a recordar como sueles leer a un grupo: quien necesita mas calma, quien mas energia, quien busca que le miren a los ojos un segundo. Ese saber acompañar no se pierde por una pausa, se sigue afinando aunque sea desde el sofa.",
+        "tags": ["Pedagogía", "Acompañamiento"],
+        "aprendizaje": "En la pedagogia del movimiento consciente se habla de 'sostener el espacio': no se trata solo de dar instrucciones correctas, sino de transmitir con la voz y la presencia que ese lugar es seguro para equivocarse, ir mas despacio o simplemente quedarse quieto. Esa sensacion de seguridad es, muchas veces, lo que mas recuerda el alumnado, mas que la postura en si.",
+        "frase": {
+          "texto": "El movimiento es vida; sin movimiento, la vida es impensable.",
+          "autor": "Moshe Feldenkrais"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy comparte con tu audiencia algo de tu oficio que no se ve desde fuera: como percibes al grupo, como ajustas el tono de tu voz o el ritmo de la clase segun quien tienes delante. Eso humaniza tu marca y muestra el cuidado real que hay detras de cada clase.",
+        "tags": ["Contenido", "Oficio"],
+        "guion": "GANCHO: \"Lo que nadie ve cuando doy una clase de yoga, pilates o taichi.\"\n\nCUERPO: Desde fuera parece que solo cuento respiraciones y corrijo posturas. Pero la mayor parte de lo que hago pasa antes de decir nada: miro quien ha entrado cansada, quien necesita que la clase vaya mas despacio hoy, quien agradece que nadie la mire mientras se equivoca. Ese cuidado silencioso es, para mi, la parte mas importante del oficio, aunque no salga en ningun video.\n\nCIERRE: Si eres alumna de algun tipo de clase, seguramente tu profesora tambien esta haciendo ese trabajo invisible por ti, aunque nunca te lo haya contado.",
+        "referente": {
+          "nombre": "Ramiro Calle",
+          "porque": "Escritor y profesor de yoga español, pionero en llevar el yoga a España desde los años 70, con un lenguaje sencillo que conecta la tradicion oriental con la pedagogia del dia a dia en el aula."
+        },
+        "mensajeWhatsapp": "Hola a todas! Llevo dias pensando en algo que aprendi dando clases: casi nunca recordamos la postura exacta que nos enseño una profesora, pero si recordamos como nos hizo sentir, si nos dio permiso para ir mas despacio ese dia. Creo que eso es lo que de verdad quiero construir con Neuroalma: un espacio donde ademas de aprender, os sintais acompañadas. Un abrazo enorme 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a escribir el mensaje de bienvenida que recibiran las alumnas nada mas apuntarse a Neuroalma: que esperar, cuando es la primera sesion y como contactarte si tienen dudas.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Un buen mensaje de bienvenida nada mas inscribirse reduce mucho la sensacion de 'y ahora que', que es una de las principales causas de que alguien se desapunte antes de la primera sesion. No hace falta que sea largo: basta con confirmar la fecha, dar una forma facil de contactarte y transmitir cercania.",
+        "recurso": {
+          "titulo": "Como redactar un buen email de bienvenida para tus suscriptores",
+          "tipo": "articulo",
+          "porque": "Explica en español, paso a paso, que elementos no pueden faltar en un primer mensaje de bienvenida, ideal para las nuevas inscritas en Neuroalma.",
+          "url": "https://www.cyberclick.es/numerical-blog/como-redactar-un-buen-email-de-bienvenida-para-tus-suscriptores"
+        }
+      }
+    }
+  }
 ]

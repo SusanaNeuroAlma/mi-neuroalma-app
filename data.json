@@ -1,42 +1,37 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Hoy prueba algo sencillo: para un momento y observa que estas pensando, sin intentar cambiarlo ni juzgarlo, solo mirandolo como quien mira pasar una nube. Esa capacidad de observarte a ti misma por dentro es, segun la neurociencia, uno de los rasgos que mas ayuda a crecer.",
-      "tags": ["Autoconocimiento", "Metacognición"],
-      "aprendizaje": "A esa capacidad de observar tus propios pensamientos y emociones se le llama metacognicion, y segun explican neuropsicologas actuales, importa mas que la memoria o la logica a la hora de aprender de verdad: te permite darte cuenta de un patron automatico antes de repetirlo otra vez.",
+      "idea": "Aunque ahora no puedas dar clases, hoy dedica un momento a recordar una vez en que el silencio, mas que las palabras, ayudo a que tu grupo se relajara. Esa gestion silenciosa del aula es una de las herramientas mas valiosas de una buena guia de movimiento, y se puede seguir cultivando solo con pensarla.",
+      "tags": ["Pedagogía", "Oficio"],
+      "aprendizaje": "En la enseñanza del movimiento consciente existe lo que algunas formadoras llaman el silencio pedagogico: la pausa breve que se deja despues de dar una indicacion, antes de seguir hablando, para que el cuerpo de cada alumna tenga tiempo de procesarla y responder. Ese pequeño hueco de silencio suele mejorar mas la ejecucion que repetir la instruccion con mas palabras.",
       "frase": {
-        "texto": "Todo hombre puede ser, si se lo propone, escultor de su propio cerebro.",
-        "autor": "Santiago Ramón y Cajal"
-      },
-      "noticia": {
-        "titulo": "Esto es lo que te hace más inteligente, según la neurociencia: \"No es la memoria ni la lógica\"",
-        "resumen": "Segun la neuropsicologa Marta Jimenez, la metacognicion (la capacidad de observar los propios pensamientos y emociones) es lo que mas favorece la inteligencia real, por encima de la memoria o el razonamiento: mirar hacia dentro, aunque no siempre guste lo que se ve, es lo que permite dejar de repetir patrones automaticos y aprender de verdad.",
-        "url": "https://www.infobae.com/espana/2026/01/14/esto-es-lo-que-te-hace-mas-inteligente-segun-la-neurociencia-no-es-la-memoria-ni-la-logica/"
+        "texto": "El yoga no consiste en tocarte los pies; consiste en lo que aprendes en el camino hacia abajo.",
+        "autor": "Judith Hanson Lasater"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia un pensamiento o patron que hayas notado en ti misma esta semana, sin necesidad de haberlo resuelto todavia. Mostrar que tu tambien te observas por dentro, con curiosidad y sin juzgarte, es un contenido honesto que a mucha gente le ayuda a hacer lo mismo.",
-      "tags": ["Contenido", "Autoconocimiento"],
-      "guion": "GANCHO: \"¿Sabes cual es, segun la neurociencia, el ingrediente que mas te hace crecer? No es la memoria.\"\n\nCUERPO: Llevo años enseñando a otras personas a observar su respiracion, su postura, su cuerpo. Hace poco lei que ese mismo gesto, aplicado a los propios pensamientos, tiene un nombre: metacognicion. Y que segun la neurociencia importa mas que la memoria o la logica a la hora de aprender de verdad. Me hizo pensar que llevo años practicando eso sin saber como se llamaba, solo que en vez de mirar el cuerpo, ahora tambien miro lo que pienso.\n\nCIERRE: La proxima vez que notes un pensamiento repetido, no intentes cambiarlo enseguida. Solo mira que esta ahi. Ese simple gesto ya es crecer.",
+      "idea": "Hoy comparte con tu audiencia algo sobre el silencio como herramienta de enseñanza: esa pausa que dejas despues de una indicacion para que el cuerpo la procese, en vez de llenar el aula con mas palabras. Es un detalle pequeño de tu oficio que casi nadie nombra, y que dice mucho del cuidado con el que acompañas.",
+      "tags": ["Contenido", "Oficio"],
+      "guion": "GANCHO: \"Lo mas importante que digo en una clase, a veces, es no decir nada.\"\n\nCUERPO: Cuando empezaba a dar clases, creia que tenia que llenar cada segundo de indicaciones: mas alla, respira, ahora baja. Con los años entendi otra cosa: si doy una indicacion y despues me quedo callada un momento, el cuerpo de cada alumna tiene tiempo de escucharse y responder de verdad, en vez de solo obedecer deprisa. Ese silencio no es un vacio, es un regalo.\n\nCIERRE: La proxima vez que quieras ayudar a alguien a hacer algo bien, prueba a decir menos y dejar mas silencio despues. A veces es lo que mas ayuda.",
       "referente": {
-        "nombre": "Patricia Ramírez Loeffler",
-        "porque": "Psicologa española especializada en bienestar y rendimiento, muy conocida por divulgar en libros y redes de forma sencilla y cercana como observarse y gestionarse a una misma sin tecnicismos."
+        "nombre": "Álvaro Bilbao",
+        "porque": "Neuropsicologo español que divulga en libros, redes y television como funciona el cerebro y el aprendizaje con un lenguaje sencillo y cercano, muy util para explicar por que funcionan recursos pedagogicos como el silencio o la pausa."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy leia algo que me ha hecho pensar: parece que lo que mas nos ayuda a crecer no es tener buena memoria ni razonar mucho, sino atrevernos a mirar hacia dentro y observar lo que pensamos, aunque a veces no nos guste lo que vemos. Si esta semana notais algun pensamiento que se repite, no hace falta resolverlo ya, basta con mirarlo con curiosidad. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo que aprendi dando clases: a veces lo que mas ayuda a alguien a entender algo no es explicarselo mejor, sino quedarse un momento en silencio despues de decirlo, para dejarle espacio a procesarlo. Creo que eso tambien vale fuera del aula, en cualquier conversacion importante. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a preparar una forma sencilla de cobrar la inscripcion a Neuroalma (por ejemplo un enlace de pago de Stripe o un Bizum), para que apuntarse sea tan facil como hacer un clic o enviar un mensaje.",
+      "idea": "Dedica 15-20 minutos a escribir un parrafo breve para tu pagina de ventas explicando por que las 7 sesiones de Neuroalma son en directo y no modulos grabados: que se gana al vivirlas asi, aunque exija comprometerse con una fecha y hora.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Cuantos mas pasos o dudas tenga alguien para pagar, mas facil es que lo deje para luego y acabe no apuntandose. En un lanzamiento pequeño no hace falta una pasarela de pago compleja: basta con un metodo sencillo y de confianza que ya conozcas, como un enlace de pago o una transferencia bien explicada.",
+      "aprendizaje": "Un curso en directo, con grupo reducido, se puede posicionar y valorar de forma distinta a uno grabado: el acompañamiento personal y el intercambio en vivo son parte del valor real, no un extra. Nombrarlo con claridad en la pagina de ventas ayuda a que quien se apunte entienda por que ese formato, y no otro, es el adecuado para ella.",
       "recurso": {
-        "titulo": "Payment Links de Stripe: cobra sin necesidad de programar",
-        "tipo": "herramienta",
-        "porque": "Permite crear en español un enlace de pago sencillo para cobrar la inscripcion a Neuroalma sin necesidad de tener conocimientos tecnicos ni programar nada.",
-        "url": "https://stripe.com/es/payments/payment-links"
+        "titulo": "Cómo poner precio a mi curso online: la guía definitiva",
+        "tipo": "articulo",
+        "porque": "Explica en español como el formato del curso (grabado frente a en directo, con acompañamiento personal) influye en el precio justo, algo util para terminar de definir y defender el precio de las 7 sesiones de Neuroalma.",
+        "url": "https://www.classonlive.com/blog/Como-poner-el-precio-a-tu-curso-online"
       }
     }
   }

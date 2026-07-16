@@ -436,5 +436,48 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-07-15",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy prueba algo sencillo: para un momento y observa que estas pensando, sin intentar cambiarlo ni juzgarlo, solo mirandolo como quien mira pasar una nube. Esa capacidad de observarte a ti misma por dentro es, segun la neurociencia, uno de los rasgos que mas ayuda a crecer.",
+        "tags": ["Autoconocimiento", "Metacognición"],
+        "aprendizaje": "A esa capacidad de observar tus propios pensamientos y emociones se le llama metacognicion, y segun explican neuropsicologas actuales, importa mas que la memoria o la logica a la hora de aprender de verdad: te permite darte cuenta de un patron automatico antes de repetirlo otra vez.",
+        "frase": {
+          "texto": "Todo hombre puede ser, si se lo propone, escultor de su propio cerebro.",
+          "autor": "Santiago Ramón y Cajal"
+        },
+        "noticia": {
+          "titulo": "Esto es lo que te hace más inteligente, según la neurociencia: \"No es la memoria ni la lógica\"",
+          "resumen": "Segun la neuropsicologa Marta Jimenez, la metacognicion (la capacidad de observar los propios pensamientos y emociones) es lo que mas favorece la inteligencia real, por encima de la memoria o el razonamiento: mirar hacia dentro, aunque no siempre guste lo que se ve, es lo que permite dejar de repetir patrones automaticos y aprender de verdad.",
+          "url": "https://www.infobae.com/espana/2026/01/14/esto-es-lo-que-te-hace-mas-inteligente-segun-la-neurociencia-no-es-la-memoria-ni-la-logica/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy comparte con tu audiencia un pensamiento o patron que hayas notado en ti misma esta semana, sin necesidad de haberlo resuelto todavia. Mostrar que tu tambien te observas por dentro, con curiosidad y sin juzgarte, es un contenido honesto que a mucha gente le ayuda a hacer lo mismo.",
+        "tags": ["Contenido", "Autoconocimiento"],
+        "guion": "GANCHO: \"¿Sabes cual es, segun la neurociencia, el ingrediente que mas te hace crecer? No es la memoria.\"\n\nCUERPO: Llevo años enseñando a otras personas a observar su respiracion, su postura, su cuerpo. Hace poco lei que ese mismo gesto, aplicado a los propios pensamientos, tiene un nombre: metacognicion. Y que segun la neurociencia importa mas que la memoria o la logica a la hora de aprender de verdad. Me hizo pensar que llevo años practicando eso sin saber como se llamaba, solo que en vez de mirar el cuerpo, ahora tambien miro lo que pienso.\n\nCIERRE: La proxima vez que notes un pensamiento repetido, no intentes cambiarlo enseguida. Solo mira que esta ahi. Ese simple gesto ya es crecer.",
+        "referente": {
+          "nombre": "Patricia Ramírez Loeffler",
+          "porque": "Psicologa española especializada en bienestar y rendimiento, muy conocida por divulgar en libros y redes de forma sencilla y cercana como observarse y gestionarse a una misma sin tecnicismos."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy leia algo que me ha hecho pensar: parece que lo que mas nos ayuda a crecer no es tener buena memoria ni razonar mucho, sino atrevernos a mirar hacia dentro y observar lo que pensamos, aunque a veces no nos guste lo que vemos. Si esta semana notais algun pensamiento que se repite, no hace falta resolverlo ya, basta con mirarlo con curiosidad. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a preparar una forma sencilla de cobrar la inscripcion a Neuroalma (por ejemplo un enlace de pago de Stripe o un Bizum), para que apuntarse sea tan facil como hacer un clic o enviar un mensaje.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Cuantos mas pasos o dudas tenga alguien para pagar, mas facil es que lo deje para luego y acabe no apuntandose. En un lanzamiento pequeño no hace falta una pasarela de pago compleja: basta con un metodo sencillo y de confianza que ya conozcas, como un enlace de pago o una transferencia bien explicada.",
+        "recurso": {
+          "titulo": "Payment Links de Stripe: cobra sin necesidad de programar",
+          "tipo": "herramienta",
+          "porque": "Permite crear en español un enlace de pago sencillo para cobrar la inscripcion a Neuroalma sin necesidad de tener conocimientos tecnicos ni programar nada.",
+          "url": "https://stripe.com/es/payments/payment-links"
+        }
+      }
+    }
   }
 ]

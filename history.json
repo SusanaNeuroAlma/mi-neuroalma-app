@@ -479,5 +479,43 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-07-16",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Aunque ahora no puedas dar clases, hoy dedica un momento a recordar una vez en que el silencio, mas que las palabras, ayudo a que tu grupo se relajara. Esa gestion silenciosa del aula es una de las herramientas mas valiosas de una buena guia de movimiento, y se puede seguir cultivando solo con pensarla.",
+        "tags": ["Pedagogía", "Oficio"],
+        "aprendizaje": "En la enseñanza del movimiento consciente existe lo que algunas formadoras llaman el silencio pedagogico: la pausa breve que se deja despues de dar una indicacion, antes de seguir hablando, para que el cuerpo de cada alumna tenga tiempo de procesarla y responder. Ese pequeño hueco de silencio suele mejorar mas la ejecucion que repetir la instruccion con mas palabras.",
+        "frase": {
+          "texto": "El yoga no consiste en tocarte los pies; consiste en lo que aprendes en el camino hacia abajo.",
+          "autor": "Judith Hanson Lasater"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy comparte con tu audiencia algo sobre el silencio como herramienta de enseñanza: esa pausa que dejas despues de una indicacion para que el cuerpo la procese, en vez de llenar el aula con mas palabras. Es un detalle pequeño de tu oficio que casi nadie nombra, y que dice mucho del cuidado con el que acompañas.",
+        "tags": ["Contenido", "Oficio"],
+        "guion": "GANCHO: \"Lo mas importante que digo en una clase, a veces, es no decir nada.\"\n\nCUERPO: Cuando empezaba a dar clases, creia que tenia que llenar cada segundo de indicaciones: mas alla, respira, ahora baja. Con los años entendi otra cosa: si doy una indicacion y despues me quedo callada un momento, el cuerpo de cada alumna tiene tiempo de escucharse y responder de verdad, en vez de solo obedecer deprisa. Ese silencio no es un vacio, es un regalo.\n\nCIERRE: La proxima vez que quieras ayudar a alguien a hacer algo bien, prueba a decir menos y dejar mas silencio despues. A veces es lo que mas ayuda.",
+        "referente": {
+          "nombre": "Álvaro Bilbao",
+          "porque": "Neuropsicologo español que divulga en libros, redes y television como funciona el cerebro y el aprendizaje con un lenguaje sencillo y cercano, muy util para explicar por que funcionan recursos pedagogicos como el silencio o la pausa."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo que aprendi dando clases: a veces lo que mas ayuda a alguien a entender algo no es explicarselo mejor, sino quedarse un momento en silencio despues de decirlo, para dejarle espacio a procesarlo. Creo que eso tambien vale fuera del aula, en cualquier conversacion importante. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a escribir un parrafo breve para tu pagina de ventas explicando por que las 7 sesiones de Neuroalma son en directo y no modulos grabados: que se gana al vivirlas asi, aunque exija comprometerse con una fecha y hora.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Un curso en directo, con grupo reducido, se puede posicionar y valorar de forma distinta a uno grabado: el acompañamiento personal y el intercambio en vivo son parte del valor real, no un extra. Nombrarlo con claridad en la pagina de ventas ayuda a que quien se apunte entienda por que ese formato, y no otro, es el adecuado para ella.",
+        "recurso": {
+          "titulo": "Cómo poner precio a mi curso online: la guía definitiva",
+          "tipo": "articulo",
+          "porque": "Explica en español como el formato del curso (grabado frente a en directo, con acompañamiento personal) influye en el precio justo, algo util para terminar de definir y defender el precio de las 7 sesiones de Neuroalma.",
+          "url": "https://www.classonlive.com/blog/Como-poner-el-precio-a-tu-curso-online"
+        }
+      }
+    }
   }
 ]

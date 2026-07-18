@@ -1,42 +1,42 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Hoy prueba a ponerle nombre en voz alta a lo que sientes, aunque sea solo una palabra: \"inquietud\", \"cansancio\", \"ilusion\". Ese simple gesto de nombrar, sin necesidad de resolver nada todavia, ya calma por dentro mas de lo que parece.",
-      "tags": ["Autoconocimiento", "Emociones"],
-      "aprendizaje": "A este gesto de ponerle nombre a una emocion se le llama etiquetado afectivo, y estudios de neuroimagen han comprobado que activa la corteza prefrontal y calma la amigdala, la zona que dispara la alarma del miedo. No hace falta acertar la palabra perfecta: basta con intentarlo para que el cerebro empiece a regularse.",
+      "idea": "Aunque ahora no estes dando clases, hoy recuerda algun momento en que, nada mas entrar al aula, notaste que el grupo pedia otra cosa distinta a la que llevabas preparada, y cambiaste el plan sobre la marcha. Esa capacidad de leer la sala y adaptarte es una de las habilidades mas valiosas de tu oficio, y se puede seguir revisando aunque sea solo con la memoria.",
+      "tags": ["Pedagogía", "Oficio"],
+      "aprendizaje": "Las neuronas espejo son celulas del cerebro que se activan igual cuando haces un gesto que cuando ves a otra persona hacerlo, y explican en parte por que el estado de la profesora se contagia al grupo con solo entrar en la sala, antes incluso de hablar. Por eso cuidar tu propio estado antes de una clase no es un lujo, es parte de la enseñanza.",
       "frase": {
-        "texto": "No somos maquinas pensantes que sienten; somos maquinas sentimentales que piensan.",
-        "autor": "Antonio Damasio"
+        "texto": "Ayudame a hacerlo por mi misma.",
+        "autor": "Maria Montessori"
       },
       "noticia": {
-        "titulo": "Etiquetado afectivo: el poder de poner nombre a lo que sentimos",
-        "resumen": "Estudios de neuroimagen muestran que nombrar con precision una emocion, en vez de quedarse en la vaguedad, reduce la actividad de la amigdala y activa zonas de la corteza prefrontal implicadas en la regulacion emocional.",
-        "url": "https://www.harmonia.la/blog/etiquetado-afectivo-que-es-beneficios-salud-mental"
+        "titulo": "Neuronas espejo: asi nos ponen en la piel de los demas",
+        "resumen": "Un repaso a como las neuronas espejo, descubiertas por el neurobiologo Giacomo Rizzolatti, explican por que el cerebro se activa de forma similar al ejecutar una accion y al observarla en otra persona, siendo la base biologica de la empatia y del aprendizaje por imitacion.",
+        "url": "https://theconversation.com/neuronas-espejo-asi-nos-ponen-en-la-piel-de-los-demas-187487"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia algo sencillo: invitalas a ponerle nombre, aunque sea con una sola palabra, a lo que estan sintiendo hoy. Es un gesto minimo que la neurociencia respalda, y que conecta directamente con la esencia de Neuroalma.",
-      "tags": ["Contenido", "Emociones"],
-      "guion": "GANCHO: \"Hay una frase de tres palabras que calma mas al cerebro que cualquier consejo largo: 'esto es miedo'.\"\n\nCUERPO: Durante años pense que gestionar una emocion dificil era cuestion de razonarla, de explicarme por que sentia lo que sentia. Con el tiempo entendi algo mas sencillo: solo con ponerle nombre, sin analizarla todavia, el cerebro ya empieza a calmarse. No hace falta resolverlo todo de golpe, primero hay que nombrarlo.\n\nCIERRE: La proxima vez que algo te remueva por dentro, antes de intentar arreglarlo, prueba solo a decir en voz alta que es lo que sientes. A veces ese primer paso ya es mas de la mitad del camino.",
+      "idea": "Hoy comparte con tu audiencia algo de tu oficio que casi no se ve: cuantas veces preparaste una clase entera y, nada mas empezar, tuviste que soltar el plan porque el grupo necesitaba otra cosa. Es un buen recordatorio, tambien fuera del aula, de que a veces cuidar bien a alguien es soltar lo que tenias pensado.",
+      "tags": ["Contenido", "Oficio"],
+      "guion": "GANCHO: \"Llevaba la clase perfecta preparada. Duro los primeros dos minutos.\"\n\nCUERPO: Entre al aula y lo note enseguida: el grupo no queria energia, queria calma. Toda mi secuencia preparada de nada servia si no respondia a lo que tenia delante. Aprendi, con los años, que preparar bien una clase no es aferrarme al guion, es tener suficientes herramientas para soltarlo en cuanto haga falta.\n\nCIERRE: Si alguna vez sentiste que tenias que improvisar porque \"no salio como lo planeaste\", quiza no fallaste el plan. Quiza escuchaste bien lo que tenias delante.",
       "referente": {
-        "nombre": "Nazareth Castellanos",
-        "porque": "Neurocientifica española, catedratica de mindfulness y ciencias cognitivas en la UCM, que divulga en libros y conferencias en español como el cuerpo y las emociones se conectan con el cerebro, con un lenguaje accesible y muy cercano al enfoque de Neuroalma."
+        "nombre": "Jesús C. Guillén",
+        "porque": "Divulgador español de neuroeducacion, fundador de la Red de Neuroeducacion y autor de libros como 'Neuroeducacion en el aula', que conecta la neurociencia con la practica real de quienes enseñan y acompañan grupos."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy os traigo un dato curioso: parece que solo con ponerle nombre a una emocion dificil (aunque sea una palabra sencilla como \"nervios\" o \"tristeza\") el cerebro empieza a calmarse, sin necesidad de resolver nada todavia. Si esta semana algo os remueve por dentro, probad a nombrarlo en voz alta y ved que pasa. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy os cuento algo que aprendi dando clases: a veces la mejor clase no es la que mejor preparas, es la que mejor sabes soltar cuando el grupo pide otra cosa. Creo que eso vale tambien fuera del aula, en cualquier plan que hagamos. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a elegir una fecha tentativa, aunque sea provisional, para el evento de lanzamiento (el webinar \"Lo que tus formaciones nunca te enseñaron sobre las personas que tienes delante\") y anotala en tu calendario. Poder cambiarla despues no le resta valor a tenerla ya marcada hoy.",
+      "idea": "Dedica 15-20 minutos a empezar una lista sencilla con todo lo tecnico que necesitaras para el evento de lanzamiento en directo: plataforma de videollamada, enlace de acceso, quien avisa si algo falla, y como grabarlo por si alguien no puede conectarse. No hace falta cerrarla hoy, solo empezar a escribirla.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Elegir una fecha, aunque sea provisional, funciona como ancla para organizar hacia atras todo lo demas: pagina de ventas, emails, avisos en el grupo de WhatsApp. Esperar a sentirte completamente lista antes de poner fecha suele alargar el lanzamiento mucho mas de lo necesario.",
+      "aprendizaje": "Probar la conexion, el audio y el enlace antes del dia del evento, con tiempo de sobra, evita que un problema tecnico de ultima hora se coma la energia que necesitas para el propio evento. En un lanzamiento pequeño y hecho por ti sola, ese tipo de prevision vale mas que cualquier imprevisto de contenido.",
       "recurso": {
-        "titulo": "Como saber cuando lanzar mi curso",
+        "titulo": "Consejos y tips para crear un webinar paso a paso",
         "tipo": "articulo",
-        "porque": "Explica en español los factores a tener en cuenta para elegir el momento de lanzar un curso online, util ahora que te toca decidir una fecha aunque sea provisional para el evento de Neuroalma.",
-        "url": "https://www.cenacernegocios.com/blog/cuando-es-el-mejor-momento-para-lanzar-mi-curso-online"
+        "porque": "Explica en español, de forma practica, los pasos y aspectos tecnicos a tener en cuenta para organizar un webinar en directo, justo lo que necesitas para ir armando el checklist tecnico del evento de lanzamiento de Neuroalma.",
+        "url": "https://oinkmygod.com/blog/como-crear-webinar/"
       }
     }
   }

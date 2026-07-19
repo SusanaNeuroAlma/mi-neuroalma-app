@@ -1,42 +1,42 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Aunque ahora no estes dando clases, hoy recuerda algun momento en que, nada mas entrar al aula, notaste que el grupo pedia otra cosa distinta a la que llevabas preparada, y cambiaste el plan sobre la marcha. Esa capacidad de leer la sala y adaptarte es una de las habilidades mas valiosas de tu oficio, y se puede seguir revisando aunque sea solo con la memoria.",
-      "tags": ["Pedagogía", "Oficio"],
-      "aprendizaje": "Las neuronas espejo son celulas del cerebro que se activan igual cuando haces un gesto que cuando ves a otra persona hacerlo, y explican en parte por que el estado de la profesora se contagia al grupo con solo entrar en la sala, antes incluso de hablar. Por eso cuidar tu propio estado antes de una clase no es un lujo, es parte de la enseñanza.",
+      "idea": "Hoy dedica un momento a preguntarte, sin prisa por responder del todo: quien eres mas alla de dar clases. No es una pregunta para resolver hoy, es solo un hueco para asomarte a otras partes de ti que quiza llevaban tiempo en segundo plano.",
+      "tags": ["Autoconocimiento", "Identidad"],
+      "aprendizaje": "El autoconcepto, es decir, la imagen que tienes de ti misma, no depende solo de un rol como 'ser profesora' o 'ser deportista': se construye tambien con tus valores, tus intereses y tus cualidades personales. Por eso, cuando un rol importante se pausa, es normal sentir que algo se tambalea, aunque en realidad haya mucho mas de ti que sigue intacto.",
       "frase": {
-        "texto": "Ayudame a hacerlo por mi misma.",
-        "autor": "Maria Montessori"
+        "texto": "Yo soy yo y mi circunstancia.",
+        "autor": "José Ortega y Gasset"
       },
       "noticia": {
-        "titulo": "Neuronas espejo: asi nos ponen en la piel de los demas",
-        "resumen": "Un repaso a como las neuronas espejo, descubiertas por el neurobiologo Giacomo Rizzolatti, explican por que el cerebro se activa de forma similar al ejecutar una accion y al observarla en otra persona, siendo la base biologica de la empatia y del aprendizaje por imitacion.",
-        "url": "https://theconversation.com/neuronas-espejo-asi-nos-ponen-en-la-piel-de-los-demas-187487"
+        "titulo": "El autoconcepto: ¿quien eres, mas alla de lo que haces?",
+        "resumen": "Un articulo de psicologia que explica que el autoconcepto va mas alla de los roles que ocupamos en el dia a dia, y propone reconocer los propios valores, intereses y cualidades personales como base para sostener la identidad cuando esos roles cambian o se pausan.",
+        "url": "https://albamarpsicologia.com/el-autoconcepto-quien-soy/"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia algo de tu oficio que casi no se ve: cuantas veces preparaste una clase entera y, nada mas empezar, tuviste que soltar el plan porque el grupo necesitaba otra cosa. Es un buen recordatorio, tambien fuera del aula, de que a veces cuidar bien a alguien es soltar lo que tenias pensado.",
-      "tags": ["Contenido", "Oficio"],
-      "guion": "GANCHO: \"Llevaba la clase perfecta preparada. Duro los primeros dos minutos.\"\n\nCUERPO: Entre al aula y lo note enseguida: el grupo no queria energia, queria calma. Toda mi secuencia preparada de nada servia si no respondia a lo que tenia delante. Aprendi, con los años, que preparar bien una clase no es aferrarme al guion, es tener suficientes herramientas para soltarlo en cuanto haga falta.\n\nCIERRE: Si alguna vez sentiste que tenias que improvisar porque \"no salio como lo planeaste\", quiza no fallaste el plan. Quiza escuchaste bien lo que tenias delante.",
+      "idea": "Hoy comparte con tu audiencia algo honesto sobre esta pausa: que te ha hecho descubrir, o recordar, que hay mas cosas en ti ademas de la profesora que da clases. A muchas personas les ayuda escuchar que la identidad no se cae solo porque un rol se detenga un tiempo.",
+      "tags": ["Contenido", "Autenticidad"],
+      "guion": "GANCHO: \"Si me quitas las clases, ¿que queda de mi?\"\n\nCUERPO: Esa pregunta me daba miedo antes de esta pausa. Llevaba tanto tiempo siendo 'la profesora de yoga, pilates y taichi' que casi no recordaba otras partes de mi misma. Estos meses sin poder enseñar como antes me han obligado a mirar mas alla del rol: la curiosidad, la forma de acompañar, la manera de pensar. Nada de eso se pauso, aunque las clases si.\n\nCIERRE: Si alguna vez sentiste que perdias algo de ti misma cuando se detuvo un trabajo, una rutina o un rol importante, quiza no perdiste tanto como crees. Quiza solo dejaste de mirarlo un tiempo.",
       "referente": {
-        "nombre": "Jesús C. Guillén",
-        "porque": "Divulgador español de neuroeducacion, fundador de la Red de Neuroeducacion y autor de libros como 'Neuroeducacion en el aula', que conecta la neurociencia con la practica real de quienes enseñan y acompañan grupos."
+        "nombre": "Borja Vilaseca",
+        "porque": "Escritor y conferenciante español especializado en desarrollo personal, que en sus libros y articulos habla precisamente de la diferencia entre lo que hacemos y quienes somos, con un lenguaje sencillo y cercano al tono de Neuroalma."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy os cuento algo que aprendi dando clases: a veces la mejor clase no es la que mejor preparas, es la que mejor sabes soltar cuando el grupo pide otra cosa. Creo que eso vale tambien fuera del aula, en cualquier plan que hagamos. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy os dejo una pregunta sencilla para que le deis vueltas si os apetece: quien sois mas alla de lo que haceis cada dia (el trabajo, el rol de madre, de cuidadora, de profesora...). No hace falta responderla del todo, a veces solo con hacersela ya se abre algo nuevo. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a empezar una lista sencilla con todo lo tecnico que necesitaras para el evento de lanzamiento en directo: plataforma de videollamada, enlace de acceso, quien avisa si algo falla, y como grabarlo por si alguien no puede conectarse. No hace falta cerrarla hoy, solo empezar a escribirla.",
+      "idea": "Dedica 15-20 minutos a esbozar los 3 o 4 puntos principales que quieres contar en el webinar de lanzamiento (\"Lo que tus formaciones nunca te enseñaron sobre las personas que tienes delante\"): que problema nombras, que ejemplo compartes y como enlazas al final con la invitacion a Neuroalma. No hace falta escribirlo palabra por palabra todavia, solo el esqueleto.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Probar la conexion, el audio y el enlace antes del dia del evento, con tiempo de sobra, evita que un problema tecnico de ultima hora se coma la energia que necesitas para el propio evento. En un lanzamiento pequeño y hecho por ti sola, ese tipo de prevision vale mas que cualquier imprevisto de contenido.",
+      "aprendizaje": "Tener un esqueleto claro del webinar, aunque luego lo cuentes con tus propias palabras en directo, reduce mucho los nervios del dia: sabes por donde vas en cada momento sin depender de un guion memorizado, y eso te deja mas libre para conectar con quien te escucha.",
       "recurso": {
-        "titulo": "Consejos y tips para crear un webinar paso a paso",
+        "titulo": "Guion perfecto para un webinar, como crearlo para tener exito",
         "tipo": "articulo",
-        "porque": "Explica en español, de forma practica, los pasos y aspectos tecnicos a tener en cuenta para organizar un webinar en directo, justo lo que necesitas para ir armando el checklist tecnico del evento de lanzamiento de Neuroalma.",
-        "url": "https://oinkmygod.com/blog/como-crear-webinar/"
+        "porque": "Explica en español, paso a paso, como estructurar el contenido de un webinar de lanzamiento (presentacion, promesa, contenido de valor y cierre con la oferta), justo lo que necesitas para esbozar el guion del evento de Neuroalma.",
+        "url": "https://www.socialmediapymes.com/guion-perfecto-para-un-webinar/"
       }
     }
   }

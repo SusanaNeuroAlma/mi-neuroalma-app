@@ -1,42 +1,42 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-24",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Hoy dedica un momento a preguntarte, sin prisa por responder del todo: quien eres mas alla de dar clases. No es una pregunta para resolver hoy, es solo un hueco para asomarte a otras partes de ti que quiza llevaban tiempo en segundo plano.",
-      "tags": ["Autoconocimiento", "Identidad"],
-      "aprendizaje": "El autoconcepto, es decir, la imagen que tienes de ti misma, no depende solo de un rol como 'ser profesora' o 'ser deportista': se construye tambien con tus valores, tus intereses y tus cualidades personales. Por eso, cuando un rol importante se pausa, es normal sentir que algo se tambalea, aunque en realidad haya mucho mas de ti que sigue intacto.",
+      "idea": "Aunque ahora no puedas dar clases, hoy recuerda que nunca enseñaste una postura exactamente igual a dos alumnas distintas: ibas ajustando la indicacion, la voz o el ritmo segun quien tenias delante. Ese ajuste constante, mas que la tecnica perfecta, era el corazon de tu oficio, y se puede seguir revisando aunque sea solo con la memoria.",
+      "tags": ["Pedagogía", "Oficio"],
+      "aprendizaje": "La ciencia del aprendizaje motor explica que variar ligeramente un mismo movimiento, en lugar de repetirlo siempre igual, ayuda al cerebro y al cuerpo a consolidar mejor lo aprendido y a adaptarlo despues a situaciones distintas. Por eso enseñar 'la misma postura' de formas distintas segun cada alumna no era improvisar: era, sin saberlo, mejor pedagogia.",
       "frase": {
-        "texto": "Yo soy yo y mi circunstancia.",
-        "autor": "José Ortega y Gasset"
+        "texto": "El yoga debe adaptarse al individuo, no el individuo al yoga.",
+        "autor": "T.K.V. Desikachar"
       },
       "noticia": {
-        "titulo": "El autoconcepto: ¿quien eres, mas alla de lo que haces?",
-        "resumen": "Un articulo de psicologia que explica que el autoconcepto va mas alla de los roles que ocupamos en el dia a dia, y propone reconocer los propios valores, intereses y cualidades personales como base para sostener la identidad cuando esos roles cambian o se pausan.",
-        "url": "https://albamarpsicologia.com/el-autoconcepto-quien-soy/"
+        "titulo": "Aprendizaje motor y variabilidad intratarea",
+        "resumen": "Un repaso a como la variabilidad de la practica, es decir, cambiar ligeramente las condiciones de un mismo movimiento en vez de repetirlo siempre igual, favorece un aprendizaje motor mas rico y mas facil de transferir a situaciones nuevas, con aplicaciones tanto en rehabilitacion como en la enseñanza del movimiento consciente.",
+        "url": "https://fidias.net/aprendizaje-motor/"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia algo honesto sobre esta pausa: que te ha hecho descubrir, o recordar, que hay mas cosas en ti ademas de la profesora que da clases. A muchas personas les ayuda escuchar que la identidad no se cae solo porque un rol se detenga un tiempo.",
-      "tags": ["Contenido", "Autenticidad"],
-      "guion": "GANCHO: \"Si me quitas las clases, ¿que queda de mi?\"\n\nCUERPO: Esa pregunta me daba miedo antes de esta pausa. Llevaba tanto tiempo siendo 'la profesora de yoga, pilates y taichi' que casi no recordaba otras partes de mi misma. Estos meses sin poder enseñar como antes me han obligado a mirar mas alla del rol: la curiosidad, la forma de acompañar, la manera de pensar. Nada de eso se pauso, aunque las clases si.\n\nCIERRE: Si alguna vez sentiste que perdias algo de ti misma cuando se detuvo un trabajo, una rutina o un rol importante, quiza no perdiste tanto como crees. Quiza solo dejaste de mirarlo un tiempo.",
+      "idea": "Hoy comparte con tu audiencia algo de tu oficio que casi nunca se nombra: que nunca enseñaste exactamente igual a dos personas, porque cada cuerpo y cada momento pedian un ajuste distinto. Es un buen recordatorio de que adaptarse a quien tienes delante no es hacerlo 'peor', es hacerlo bien.",
+      "tags": ["Contenido", "Oficio"],
+      "guion": "GANCHO: \"Nunca enseñe la misma postura dos veces igual.\"\n\nCUERPO: Durante años pense que dar una buena clase era explicar la tecnica correcta y que cada alumna la repitiera tal cual. Con el tiempo entendi que mi trabajo real era otro: mirar quien tenia delante y ajustar esa misma instruccion, la voz, el ritmo, hasta las palabras, segun lo que esa persona necesitaba ese dia. Nunca fue improvisar. Era, sin saberlo, la mejor forma de enseñar.\n\nCIERRE: Si alguna vez sentiste que adaptabas demasiado lo que hacias segun quien tenias delante, como si eso fuera hacerlo \"mal\", quiza estabas haciendo justo lo que mas ayuda a aprender: encajar en la persona, no al reves.",
       "referente": {
-        "nombre": "Borja Vilaseca",
-        "porque": "Escritor y conferenciante español especializado en desarrollo personal, que en sus libros y articulos habla precisamente de la diferencia entre lo que hacemos y quienes somos, con un lenguaje sencillo y cercano al tono de Neuroalma."
+        "nombre": "Rafa Guerrero",
+        "porque": "Psicologo, doctor en Educacion y experto español en apego y educacion emocional, que explica en libros y medios en español, sin tecnicismos, como un vinculo seguro (tambien el de una profesora con su alumnado) es la base desde la que se aprende mejor."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy os dejo una pregunta sencilla para que le deis vueltas si os apetece: quien sois mas alla de lo que haceis cada dia (el trabajo, el rol de madre, de cuidadora, de profesora...). No hace falta responderla del todo, a veces solo con hacersela ya se abre algo nuevo. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo curioso: parece que el cerebro aprende mejor un movimiento cuando lo practica con pequeñas variaciones, no siempre exactamente igual. Creo que eso es tambien lo que intentaba hacer en cada clase, adaptar un poco cada instruccion a quien tenia delante. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a esbozar los 3 o 4 puntos principales que quieres contar en el webinar de lanzamiento (\"Lo que tus formaciones nunca te enseñaron sobre las personas que tienes delante\"): que problema nombras, que ejemplo compartes y como enlazas al final con la invitacion a Neuroalma. No hace falta escribirlo palabra por palabra todavia, solo el esqueleto.",
+      "idea": "Dedica 15-20 minutos a esbozar un calendario editorial sencillo (puede ser una hoja de calculo con columnas de dia, red social y tipo de contenido) para ir colocando ahi los guiones de marca que ya has escrito estas ultimas semanas, en vez de publicarlos al azar.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Tener un esqueleto claro del webinar, aunque luego lo cuentes con tus propias palabras en directo, reduce mucho los nervios del dia: sabes por donde vas en cada momento sin depender de un guion memorizado, y eso te deja mas libre para conectar con quien te escucha.",
+      "aprendizaje": "Sin un calendario editorial, incluso el contenido ya escrito tiende a quedarse sin publicar o a publicarse de forma irregular. Ordenar con antelacion que dia sale cada guion, aunque sea con una hoja muy sencilla, transmite mas constancia de la que en realidad cuesta mantener.",
       "recurso": {
-        "titulo": "Guion perfecto para un webinar, como crearlo para tener exito",
+        "titulo": "Como hacer un calendario para redes sociales (+ plantilla)",
         "tipo": "articulo",
-        "porque": "Explica en español, paso a paso, como estructurar el contenido de un webinar de lanzamiento (presentacion, promesa, contenido de valor y cierre con la oferta), justo lo que necesitas para esbozar el guion del evento de Neuroalma.",
-        "url": "https://www.socialmediapymes.com/guion-perfecto-para-un-webinar/"
+        "porque": "Explica en español, de forma practica y con plantilla incluida, como montar un calendario editorial sencillo, justo lo que necesitas para organizar la publicacion de los guiones de Neuroalma que ya tienes escritos.",
+        "url": "https://jessicaquero.com/calendario-editorial-redes-sociales/"
       }
     }
   }

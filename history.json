@@ -646,5 +646,48 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-07-24",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Aunque ahora no puedas dar clases, hoy recuerda que nunca enseñaste una postura exactamente igual a dos alumnas distintas: ibas ajustando la indicacion, la voz o el ritmo segun quien tenias delante. Ese ajuste constante, mas que la tecnica perfecta, era el corazon de tu oficio, y se puede seguir revisando aunque sea solo con la memoria.",
+        "tags": ["Pedagogía", "Oficio"],
+        "aprendizaje": "La ciencia del aprendizaje motor explica que variar ligeramente un mismo movimiento, en lugar de repetirlo siempre igual, ayuda al cerebro y al cuerpo a consolidar mejor lo aprendido y a adaptarlo despues a situaciones distintas. Por eso enseñar 'la misma postura' de formas distintas segun cada alumna no era improvisar: era, sin saberlo, mejor pedagogia.",
+        "frase": {
+          "texto": "El yoga debe adaptarse al individuo, no el individuo al yoga.",
+          "autor": "T.K.V. Desikachar"
+        },
+        "noticia": {
+          "titulo": "Aprendizaje motor y variabilidad intratarea",
+          "resumen": "Un repaso a como la variabilidad de la practica, es decir, cambiar ligeramente las condiciones de un mismo movimiento en vez de repetirlo siempre igual, favorece un aprendizaje motor mas rico y mas facil de transferir a situaciones nuevas, con aplicaciones tanto en rehabilitacion como en la enseñanza del movimiento consciente.",
+          "url": "https://fidias.net/aprendizaje-motor/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy comparte con tu audiencia algo de tu oficio que casi nunca se nombra: que nunca enseñaste exactamente igual a dos personas, porque cada cuerpo y cada momento pedian un ajuste distinto. Es un buen recordatorio de que adaptarse a quien tienes delante no es hacerlo 'peor', es hacerlo bien.",
+        "tags": ["Contenido", "Oficio"],
+        "guion": "GANCHO: \"Nunca enseñe la misma postura dos veces igual.\"\n\nCUERPO: Durante años pense que dar una buena clase era explicar la tecnica correcta y que cada alumna la repitiera tal cual. Con el tiempo entendi que mi trabajo real era otro: mirar quien tenia delante y ajustar esa misma instruccion, la voz, el ritmo, hasta las palabras, segun lo que esa persona necesitaba ese dia. Nunca fue improvisar. Era, sin saberlo, la mejor forma de enseñar.\n\nCIERRE: Si alguna vez sentiste que adaptabas demasiado lo que hacias segun quien tenias delante, como si eso fuera hacerlo \"mal\", quiza estabas haciendo justo lo que mas ayuda a aprender: encajar en la persona, no al reves.",
+        "referente": {
+          "nombre": "Rafa Guerrero",
+          "porque": "Psicologo, doctor en Educacion y experto español en apego y educacion emocional, que explica en libros y medios en español, sin tecnicismos, como un vinculo seguro (tambien el de una profesora con su alumnado) es la base desde la que se aprende mejor."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo curioso: parece que el cerebro aprende mejor un movimiento cuando lo practica con pequeñas variaciones, no siempre exactamente igual. Creo que eso es tambien lo que intentaba hacer en cada clase, adaptar un poco cada instruccion a quien tenia delante. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a esbozar un calendario editorial sencillo (puede ser una hoja de calculo con columnas de dia, red social y tipo de contenido) para ir colocando ahi los guiones de marca que ya has escrito estas ultimas semanas, en vez de publicarlos al azar.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Sin un calendario editorial, incluso el contenido ya escrito tiende a quedarse sin publicar o a publicarse de forma irregular. Ordenar con antelacion que dia sale cada guion, aunque sea con una hoja muy sencilla, transmite mas constancia de la que en realidad cuesta mantener.",
+        "recurso": {
+          "titulo": "Como hacer un calendario para redes sociales (+ plantilla)",
+          "tipo": "articulo",
+          "porque": "Explica en español, de forma practica y con plantilla incluida, como montar un calendario editorial sencillo, justo lo que necesitas para organizar la publicacion de los guiones de Neuroalma que ya tienes escritos.",
+          "url": "https://jessicaquero.com/calendario-editorial-redes-sociales/"
+        }
+      }
+    }
   }
 ]

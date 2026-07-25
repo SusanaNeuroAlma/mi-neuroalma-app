@@ -1,42 +1,42 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-25",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Aunque ahora no puedas dar clases, hoy recuerda que nunca enseñaste una postura exactamente igual a dos alumnas distintas: ibas ajustando la indicacion, la voz o el ritmo segun quien tenias delante. Ese ajuste constante, mas que la tecnica perfecta, era el corazon de tu oficio, y se puede seguir revisando aunque sea solo con la memoria.",
-      "tags": ["Pedagogía", "Oficio"],
-      "aprendizaje": "La ciencia del aprendizaje motor explica que variar ligeramente un mismo movimiento, en lugar de repetirlo siempre igual, ayuda al cerebro y al cuerpo a consolidar mejor lo aprendido y a adaptarlo despues a situaciones distintas. Por eso enseñar 'la misma postura' de formas distintas segun cada alumna no era improvisar: era, sin saberlo, mejor pedagogia.",
+      "idea": "Ahora mismo no sabes con exactitud cuando podras volver a dar clases, y eso incomoda mas de lo que parece. Hoy, en vez de buscar la respuesta, prueba solo a notar esa incomodidad sin pelearte con ella: la incertidumbre no se resuelve empujandola, se aprende a sostenerla poco a poco.",
+      "tags": ["Autoconocimiento", "Incertidumbre"],
+      "aprendizaje": "La psicologia habla de la tolerancia a la incertidumbre como una habilidad que se entrena, no un rasgo fijo: cuanta mas practica tienes en quedarte con una situacion abierta sin necesitar cerrarla ya, mas capaz eres de regular el malestar que trae lo desconocido. No se trata de evitar la preocupacion, sino de aprender a convivir con ella sin que mande.",
       "frase": {
-        "texto": "El yoga debe adaptarse al individuo, no el individuo al yoga.",
-        "autor": "T.K.V. Desikachar"
+        "texto": "Cuando ya no podemos cambiar una situacion, se nos plantea el reto de cambiarnos a nosotros mismos.",
+        "autor": "Viktor Frankl"
       },
       "noticia": {
-        "titulo": "Aprendizaje motor y variabilidad intratarea",
-        "resumen": "Un repaso a como la variabilidad de la practica, es decir, cambiar ligeramente las condiciones de un mismo movimiento en vez de repetirlo siempre igual, favorece un aprendizaje motor mas rico y mas facil de transferir a situaciones nuevas, con aplicaciones tanto en rehabilitacion como en la enseñanza del movimiento consciente.",
-        "url": "https://fidias.net/aprendizaje-motor/"
+        "titulo": "Tolerancia a la incertidumbre: una habilidad regulatoria clave",
+        "resumen": "Un articulo de psicoterapia que explica la tolerancia a la incertidumbre como la capacidad de modular el malestar ante lo desconocido sin caer en la hiperalerta ni en el bloqueo, y como esa capacidad se puede entrenar poco a poco, con pequeños gestos, en vez de nacer ya hecha.",
+        "url": "https://formacionpsicoterapia.com/blog-psicoterapia/como-trabajar-tolerancia-incertidumbre-habilidad-regulatoria/"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia algo de tu oficio que casi nunca se nombra: que nunca enseñaste exactamente igual a dos personas, porque cada cuerpo y cada momento pedian un ajuste distinto. Es un buen recordatorio de que adaptarse a quien tienes delante no es hacerlo 'peor', es hacerlo bien.",
-      "tags": ["Contenido", "Oficio"],
-      "guion": "GANCHO: \"Nunca enseñe la misma postura dos veces igual.\"\n\nCUERPO: Durante años pense que dar una buena clase era explicar la tecnica correcta y que cada alumna la repitiera tal cual. Con el tiempo entendi que mi trabajo real era otro: mirar quien tenia delante y ajustar esa misma instruccion, la voz, el ritmo, hasta las palabras, segun lo que esa persona necesitaba ese dia. Nunca fue improvisar. Era, sin saberlo, la mejor forma de enseñar.\n\nCIERRE: Si alguna vez sentiste que adaptabas demasiado lo que hacias segun quien tenias delante, como si eso fuera hacerlo \"mal\", quiza estabas haciendo justo lo que mas ayuda a aprender: encajar en la persona, no al reves.",
+      "idea": "Hoy comparte con tu audiencia algo honesto: que ahora mismo no sabes con certeza cuando podras volver a dar clases como antes, y que estas aprendiendo a convivir con esa incertidumbre en vez de resolverla a la fuerza. Es un contenido vulnerable que conecta mucho, porque casi todo el mundo esta esperando algo sin saber cuando llegara.",
+      "tags": ["Contenido", "Incertidumbre"],
+      "guion": "GANCHO: \"No se cuando volvere a dar clases. Y he dejado de fingir que si lo se.\"\n\nCUERPO: Durante semanas busque una fecha, una señal clara de que ya estaba lista. No llegaba, y cada dia sin ella me generaba mas ansiedad que la propia espera. Un dia entendi que le estaba pidiendo a la incertidumbre algo que no puede dar: certeza. Lo que si podia hacer era aprender a sostenerla, un poco cada dia, sin necesitar resolverla ya.\n\nCIERRE: Si tu tambien estas esperando algo sin saber cuando llegara, no tienes que tener la respuesta hoy. Solo practicar a quedarte un poco mas comoda con la pregunta abierta.",
       "referente": {
-        "nombre": "Rafa Guerrero",
-        "porque": "Psicologo, doctor en Educacion y experto español en apego y educacion emocional, que explica en libros y medios en español, sin tecnicismos, como un vinculo seguro (tambien el de una profesora con su alumnado) es la base desde la que se aprende mejor."
+        "nombre": "Marian Rojas Estapé",
+        "porque": "Psiquiatra española que divulga en libros y conferencias, con lenguaje sencillo y cercano, como gestionar la incertidumbre y el malestar emocional desde la neurociencia, muy en linea con el enfoque de Neuroalma."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo curioso: parece que el cerebro aprende mejor un movimiento cuando lo practica con pequeñas variaciones, no siempre exactamente igual. Creo que eso es tambien lo que intentaba hacer en cada clase, adaptar un poco cada instruccion a quien tenia delante. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy os cuento algo que estoy aprendiendo estos meses: no saber cuando va a pasar algo (en mi caso, cuando podre volver a dar clases) es incomodo, pero parece que esa incomodidad se puede entrenar a sostener poco a poco, en vez de necesitar resolverla ya. Si vosotras tambien estais esperando algo ahora mismo, espero que esto os acompañe un poco. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a esbozar un calendario editorial sencillo (puede ser una hoja de calculo con columnas de dia, red social y tipo de contenido) para ir colocando ahi los guiones de marca que ya has escrito estas ultimas semanas, en vez de publicarlos al azar.",
+      "idea": "Dedica 15-20 minutos a escribir el mensaje de invitacion personal (no generico) que enviaras por WhatsApp a las 5-10 personas de tu entorno mas cercano para el evento de lanzamiento: nombrando a cada una por su nombre, en dos o tres lineas, contandole por que pensaste en ella en concreto.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Sin un calendario editorial, incluso el contenido ya escrito tiende a quedarse sin publicar o a publicarse de forma irregular. Ordenar con antelacion que dia sale cada guion, aunque sea con una hoja muy sencilla, transmite mas constancia de la que en realidad cuesta mantener.",
+      "aprendizaje": "Una invitacion personal, aunque sea breve, funciona mucho mejor que un aviso generico copiado y pegado para varias personas: cuando alguien siente que pensaste especificamente en ella, la probabilidad de que se apunte y acuda sube mucho. En un lanzamiento pequeño, esas primeras invitaciones cercanas suelen ser las que mas deciden el resultado.",
       "recurso": {
-        "titulo": "Como hacer un calendario para redes sociales (+ plantilla)",
+        "titulo": "Los 7 mejores consejos para promocionar tu seminario web",
         "tipo": "articulo",
-        "porque": "Explica en español, de forma practica y con plantilla incluida, como montar un calendario editorial sencillo, justo lo que necesitas para organizar la publicacion de los guiones de Neuroalma que ya tienes escritos.",
-        "url": "https://jessicaquero.com/calendario-editorial-redes-sociales/"
+        "porque": "Recoge en español consejos practicos para promocionar un webinar de lanzamiento, incluyendo la importancia de la invitacion personalizada frente al aviso generico, justo lo que necesitas para escribir tus mensajes de invitacion.",
+        "url": "https://www.calltheone.com/es/consultores/mejores-consejos-promocionar-seminario-web"
       }
     }
   }

@@ -1,42 +1,42 @@
 {
-  "date": "2026-07-25",
+  "date": "2026-07-26",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Ahora mismo no sabes con exactitud cuando podras volver a dar clases, y eso incomoda mas de lo que parece. Hoy, en vez de buscar la respuesta, prueba solo a notar esa incomodidad sin pelearte con ella: la incertidumbre no se resuelve empujandola, se aprende a sostenerla poco a poco.",
-      "tags": ["Autoconocimiento", "Incertidumbre"],
-      "aprendizaje": "La psicologia habla de la tolerancia a la incertidumbre como una habilidad que se entrena, no un rasgo fijo: cuanta mas practica tienes en quedarte con una situacion abierta sin necesitar cerrarla ya, mas capaz eres de regular el malestar que trae lo desconocido. No se trata de evitar la preocupacion, sino de aprender a convivir con ella sin que mande.",
+      "idea": "Aunque ahora no puedas cerrar una clase con tu grupo delante, hoy dedica un momento a recordar como solias terminarlas: esos ultimos minutos de relajacion o silencio compartido. Ese cierre, mas que cualquier otro momento de la sesion, es lo que tus alumnas mas recordaban despues, y merece la pena seguir pensandolo aunque sea desde el sofa.",
+      "tags": ["Pedagogía", "Cierre"],
+      "aprendizaje": "La psicologia de la memoria explica, con la llamada regla del pico y final, que no recordamos una experiencia completa, sino sobre todo su momento mas intenso y como termino. Aplicado a una clase de yoga, pilates o taichi, esto significa que los ultimos minutos (una relajacion, un silencio compartido, una despedida calida) pesan mucho mas en el recuerdo del alumnado que la clase entera.",
       "frase": {
-        "texto": "Cuando ya no podemos cambiar una situacion, se nos plantea el reto de cambiarnos a nosotros mismos.",
-        "autor": "Viktor Frankl"
+        "texto": "No elegimos entre experiencias, elegimos entre recuerdos de experiencias.",
+        "autor": "Daniel Kahneman"
       },
       "noticia": {
-        "titulo": "Tolerancia a la incertidumbre: una habilidad regulatoria clave",
-        "resumen": "Un articulo de psicoterapia que explica la tolerancia a la incertidumbre como la capacidad de modular el malestar ante lo desconocido sin caer en la hiperalerta ni en el bloqueo, y como esa capacidad se puede entrenar poco a poco, con pequeños gestos, en vez de nacer ya hecha.",
-        "url": "https://formacionpsicoterapia.com/blog-psicoterapia/como-trabajar-tolerancia-incertidumbre-habilidad-regulatoria/"
+        "titulo": "La regla del pico y final: un curioso sesgo de tu memoria",
+        "resumen": "Un articulo de psicologia explica el hallazgo de Daniel Kahneman segun el cual no recordamos una experiencia completa, sino sobre todo su momento mas intenso y como termino, lo que tiene aplicaciones directas en como se cierra cualquier actividad compartida, tambien una clase de movimiento consciente.",
+        "url": "https://lamenteesmaravillosa.com/regla-pico-final-sesgo-memoria/"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia algo honesto: que ahora mismo no sabes con certeza cuando podras volver a dar clases como antes, y que estas aprendiendo a convivir con esa incertidumbre en vez de resolverla a la fuerza. Es un contenido vulnerable que conecta mucho, porque casi todo el mundo esta esperando algo sin saber cuando llegara.",
-      "tags": ["Contenido", "Incertidumbre"],
-      "guion": "GANCHO: \"No se cuando volvere a dar clases. Y he dejado de fingir que si lo se.\"\n\nCUERPO: Durante semanas busque una fecha, una señal clara de que ya estaba lista. No llegaba, y cada dia sin ella me generaba mas ansiedad que la propia espera. Un dia entendi que le estaba pidiendo a la incertidumbre algo que no puede dar: certeza. Lo que si podia hacer era aprender a sostenerla, un poco cada dia, sin necesitar resolverla ya.\n\nCIERRE: Si tu tambien estas esperando algo sin saber cuando llegara, no tienes que tener la respuesta hoy. Solo practicar a quedarte un poco mas comoda con la pregunta abierta.",
+      "idea": "Hoy comparte con tu audiencia algo de tu oficio poco conocido: que el cierre de una clase (esos ultimos minutos de calma o silencio) pesa mas en el recuerdo de tus alumnas que toda la sesion junta, segun confirma la psicologia de la memoria. Es un buen recordatorio de que cuidar bien un final tambien es cuidar bien a quien tienes delante.",
+      "tags": ["Contenido", "Oficio"],
+      "guion": "GANCHO: \"¿Sabes que parte de tu clase recuerdan mas tus alumnas? No es la postura mas dificil.\"\n\nCUERPO: Durante años dedique mucho cuidado a preparar el cuerpo central de la clase: la secuencia, la dificultad, el ritmo. Hace poco descubri que, segun la psicologia de la memoria, lo que mas queda grabado de una experiencia es su momento mas intenso y, sobre todo, como termina. Desde entonces cuido los ultimos minutos de cada sesion con el mismo mimo que el resto: una relajacion tranquila, un silencio compartido, una despedida calida.\n\nCIERRE: Si acompañas a un grupo, sea en una clase, una reunion o una sobremesa, recuerda que el final no es un tramite. Es, muchas veces, lo que mas se queda.",
       "referente": {
-        "nombre": "Marian Rojas Estapé",
-        "porque": "Psiquiatra española que divulga en libros y conferencias, con lenguaje sencillo y cercano, como gestionar la incertidumbre y el malestar emocional desde la neurociencia, muy en linea con el enfoque de Neuroalma."
+        "nombre": "Anna Forés",
+        "porque": "Pedagoga española, doctora en Ciencias de la Educacion por la Universidad de Barcelona y directora adjunta de la Catedra de Neuroeducacion UB EDU1st, que divulga en libros y conferencias en español como la neurociencia y la resiliencia se aplican a la forma de acompañar y enseñar."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy os cuento algo que estoy aprendiendo estos meses: no saber cuando va a pasar algo (en mi caso, cuando podre volver a dar clases) es incomodo, pero parece que esa incomodidad se puede entrenar a sostener poco a poco, en vez de necesitar resolverla ya. Si vosotras tambien estais esperando algo ahora mismo, espero que esto os acompañe un poco. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy os cuento un dato curioso: parece que no recordamos una experiencia completa, sino sobre todo su momento mas intenso y como termina. Llevo dias pensando en como aplicarlo a las clases, y creo que tambien vale para cualquier encuentro, reunion o conversacion: cuidar bien el final es una forma silenciosa de cuidar a quien tienes delante. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a escribir el mensaje de invitacion personal (no generico) que enviaras por WhatsApp a las 5-10 personas de tu entorno mas cercano para el evento de lanzamiento: nombrando a cada una por su nombre, en dos o tres lineas, contandole por que pensaste en ella en concreto.",
+      "idea": "Dedica 15-20 minutos a elegir y transcribir 2-3 frases textuales de tu 'Libro de Recuerdos' (los testimonios reales de tus alumnas de yoga, pilates y taichi) que puedas usar, con su permiso, como testimonios en la futura pagina de ventas de Neuroalma.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Una invitacion personal, aunque sea breve, funciona mucho mejor que un aviso generico copiado y pegado para varias personas: cuando alguien siente que pensaste especificamente en ella, la probabilidad de que se apunte y acuda sube mucho. En un lanzamiento pequeño, esas primeras invitaciones cercanas suelen ser las que mas deciden el resultado.",
+      "aprendizaje": "Antes de publicar cualquier testimonio, aunque ya lo tengas escrito y guardado, conviene pedir permiso explicito a la persona (un mensaje sencillo basta) y agradecerselo. Un testimonio real y cercano, como los de tu Libro de Recuerdos, suele generar mas confianza en quien duda si apuntarse que cualquier frase de marketing.",
       "recurso": {
-        "titulo": "Los 7 mejores consejos para promocionar tu seminario web",
+        "titulo": "Como generar mas ventas con los testimonios de tus alumnos",
         "tipo": "articulo",
-        "porque": "Recoge en español consejos practicos para promocionar un webinar de lanzamiento, incluyendo la importancia de la invitacion personalizada frente al aviso generico, justo lo que necesitas para escribir tus mensajes de invitacion.",
-        "url": "https://www.calltheone.com/es/consultores/mejores-consejos-promocionar-seminario-web"
+        "porque": "Explica en español, de forma practica, como pedir, recopilar y usar testimonios de alumnos para generar confianza en una pagina de ventas, justo lo que necesitas para dar el siguiente paso con los testimonios del Libro de Recuerdos.",
+        "url": "https://www.innovacionycualificacion.com/iconsejos/como-generar-mas-ventas-con-los-testimonios-de-tus-alumnos-2023/"
       }
     }
   }

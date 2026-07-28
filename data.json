@@ -1,42 +1,42 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-28",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Aunque ahora no puedas cerrar una clase con tu grupo delante, hoy dedica un momento a recordar como solias terminarlas: esos ultimos minutos de relajacion o silencio compartido. Ese cierre, mas que cualquier otro momento de la sesion, es lo que tus alumnas mas recordaban despues, y merece la pena seguir pensandolo aunque sea desde el sofa.",
-      "tags": ["Pedagogía", "Cierre"],
-      "aprendizaje": "La psicologia de la memoria explica, con la llamada regla del pico y final, que no recordamos una experiencia completa, sino sobre todo su momento mas intenso y como termino. Aplicado a una clase de yoga, pilates o taichi, esto significa que los ultimos minutos (una relajacion, un silencio compartido, una despedida calida) pesan mucho mas en el recuerdo del alumnado que la clase entera.",
+      "idea": "Hoy, en vez de buscar apoyo en algo grande, prueba a notar el efecto de un gesto pequeño de conexion: un mensaje carinoso, una llamada breve, una sonrisa real. La neurociencia confirma que esos gestos minimos activan la oxitocina, la misma hormona que nos ayuda a sentirnos seguras y en calma.",
+      "tags": ["Autoconocimiento", "Conexión"],
+      "aprendizaje": "La oxitocina, conocida como la hormona del vinculo, se libera en momentos de conexion humana real (un abrazo, una conversacion sincera, un gesto de cuidado) y ayuda a regular el estres y a generar sensacion de seguridad. No hace falta un gran acontecimiento social para activarla: basta un intercambio breve y genuino, como los que compartes con tu comunidad de WhatsApp.",
       "frase": {
-        "texto": "No elegimos entre experiencias, elegimos entre recuerdos de experiencias.",
-        "autor": "Daniel Kahneman"
+        "texto": "Todos nosotros, desde la cuna hasta la tumba, somos mas felices cuando la vida se organiza como una serie de excursiones, largas o cortas, desde la base segura que nos proporcionan nuestras figuras de apego.",
+        "autor": "John Bowlby"
       },
       "noticia": {
-        "titulo": "La regla del pico y final: un curioso sesgo de tu memoria",
-        "resumen": "Un articulo de psicologia explica el hallazgo de Daniel Kahneman segun el cual no recordamos una experiencia completa, sino sobre todo su momento mas intenso y como termino, lo que tiene aplicaciones directas en como se cierra cualquier actividad compartida, tambien una clase de movimiento consciente.",
-        "url": "https://lamenteesmaravillosa.com/regla-pico-final-sesgo-memoria/"
+        "titulo": "Tres recomendaciones de la neurociencia para fortalecer los vinculos sociales y mejorar el bienestar emocional",
+        "resumen": "El articulo recoge como la oxitocina, la hormona del vinculo, se libera en contextos de conexion humana real como un abrazo, una charla profunda o un acto de cuidado, y propone gestos sencillos y cotidianos para fortalecer los lazos sociales y el bienestar emocional.",
+        "url": "https://www.infobae.com/salud/2025/06/13/tres-recomendaciones-de-la-neurociencia-para-fortalecer-los-vinculos-sociales-y-mejorar-el-bienestar-emocional/"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia algo de tu oficio poco conocido: que el cierre de una clase (esos ultimos minutos de calma o silencio) pesa mas en el recuerdo de tus alumnas que toda la sesion junta, segun confirma la psicologia de la memoria. Es un buen recordatorio de que cuidar bien un final tambien es cuidar bien a quien tienes delante.",
-      "tags": ["Contenido", "Oficio"],
-      "guion": "GANCHO: \"¿Sabes que parte de tu clase recuerdan mas tus alumnas? No es la postura mas dificil.\"\n\nCUERPO: Durante años dedique mucho cuidado a preparar el cuerpo central de la clase: la secuencia, la dificultad, el ritmo. Hace poco descubri que, segun la psicologia de la memoria, lo que mas queda grabado de una experiencia es su momento mas intenso y, sobre todo, como termina. Desde entonces cuido los ultimos minutos de cada sesion con el mismo mimo que el resto: una relajacion tranquila, un silencio compartido, una despedida calida.\n\nCIERRE: Si acompañas a un grupo, sea en una clase, una reunion o una sobremesa, recuerda que el final no es un tramite. Es, muchas veces, lo que mas se queda.",
+      "idea": "Hoy comparte con tu audiencia algo sencillo: que un mensaje breve y sincero (como los que os escribis en el grupo) tiene, segun la neurociencia, un efecto real en el cuerpo, liberando la misma hormona que nos hace sentir seguras. Es un buen recordatorio de que cuidar no siempre requiere grandes gestos.",
+      "tags": ["Contenido", "Conexión"],
+      "guion": "GANCHO: \"¿Sabes que un simple mensaje de '¿como estas?' tiene un efecto medible en tu cuerpo?\"\n\nCUERPO: Durante mucho tiempo crei que el cuidado real solo pasaba en persona, cara a cara, con tiempo y espacio dedicado. Ahora, en esta pausa, he aprendido otra cosa: un mensaje breve y sincero libera la misma hormona, la oxitocina, que un abrazo largo. No hace falta esperar al momento perfecto para cuidar a alguien, ni para dejarte cuidar.\n\nCIERRE: La proxima vez que dudes si escribir ese mensaje corto porque \"no es gran cosa\", recuerda que para el cuerpo de quien lo recibe, si lo es.",
       "referente": {
-        "nombre": "Anna Forés",
-        "porque": "Pedagoga española, doctora en Ciencias de la Educacion por la Universidad de Barcelona y directora adjunta de la Catedra de Neuroeducacion UB EDU1st, que divulga en libros y conferencias en español como la neurociencia y la resiliencia se aplican a la forma de acompañar y enseñar."
+        "nombre": "Ibone Olza",
+        "porque": "Psiquiatra infantil y perinatal española que divulga en libros y medios en español sobre el apego, el vinculo y la neurociencia de las relaciones humanas, con un lenguaje cercano y sin tecnicismos."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy os cuento un dato curioso: parece que no recordamos una experiencia completa, sino sobre todo su momento mas intenso y como termina. Llevo dias pensando en como aplicarlo a las clases, y creo que tambien vale para cualquier encuentro, reunion o conversacion: cuidar bien el final es una forma silenciosa de cuidar a quien tienes delante. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy os traigo algo bonito: parece que un mensaje breve y sincero, como los que nos escribimos por aqui, libera en el cuerpo la misma hormona que un abrazo (la oxitocina), esa que nos ayuda a sentirnos mas seguras y en calma. Asi que si hoy os apetece escribirle algo carinoso a alguien, hacedlo sin miedo a que sea \"poco\", para el cuerpo del otro no lo es. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a elegir y transcribir 2-3 frases textuales de tu 'Libro de Recuerdos' (los testimonios reales de tus alumnas de yoga, pilates y taichi) que puedas usar, con su permiso, como testimonios en la futura pagina de ventas de Neuroalma.",
+      "idea": "Dedica 15-20 minutos a crear un formulario sencillo (por ejemplo con Google Forms) para que cualquier persona, no solo tu circulo mas cercano, pueda apuntarse a tu webinar de lanzamiento dejando su nombre y email.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Antes de publicar cualquier testimonio, aunque ya lo tengas escrito y guardado, conviene pedir permiso explicito a la persona (un mensaje sencillo basta) y agradecerselo. Un testimonio real y cercano, como los de tu Libro de Recuerdos, suele generar mas confianza en quien duda si apuntarse que cualquier frase de marketing.",
+      "aprendizaje": "Un formulario de inscripcion breve y claro, con solo los campos imprescindibles (nombre y email), reduce mucho el abandono a mitad de camino. Cuantos mas datos pidas de entrada, menos gente completa la inscripcion, asi que en esta fase es mejor pedir lo minimo y ya profundizaras despues.",
       "recurso": {
-        "titulo": "Como generar mas ventas con los testimonios de tus alumnos",
+        "titulo": "Como crear un formulario de inscripcion online: guia 2026",
         "tipo": "articulo",
-        "porque": "Explica en español, de forma practica, como pedir, recopilar y usar testimonios de alumnos para generar confianza en una pagina de ventas, justo lo que necesitas para dar el siguiente paso con los testimonios del Libro de Recuerdos.",
-        "url": "https://www.innovacionycualificacion.com/iconsejos/como-generar-mas-ventas-con-los-testimonios-de-tus-alumnos-2023/"
+        "porque": "Explica en español, paso a paso, como diseñar un formulario de inscripcion sencillo y efectivo, justo lo que necesitas para abrir el webinar de lanzamiento de Neuroalma a mas gente ademas de tu circulo cercano.",
+        "url": "https://weezevent.com/es/blog/crear-formulario-inscripcion/"
       }
     }
   }

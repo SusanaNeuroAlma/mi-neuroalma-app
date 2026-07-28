@@ -732,5 +732,48 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-07-26",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Aunque ahora no puedas cerrar una clase con tu grupo delante, hoy dedica un momento a recordar como solias terminarlas: esos ultimos minutos de relajacion o silencio compartido. Ese cierre, mas que cualquier otro momento de la sesion, es lo que tus alumnas mas recordaban despues, y merece la pena seguir pensandolo aunque sea desde el sofa.",
+        "tags": ["Pedagogía", "Cierre"],
+        "aprendizaje": "La psicologia de la memoria explica, con la llamada regla del pico y final, que no recordamos una experiencia completa, sino sobre todo su momento mas intenso y como termino. Aplicado a una clase de yoga, pilates o taichi, esto significa que los ultimos minutos (una relajacion, un silencio compartido, una despedida calida) pesan mucho mas en el recuerdo del alumnado que la clase entera.",
+        "frase": {
+          "texto": "No elegimos entre experiencias, elegimos entre recuerdos de experiencias.",
+          "autor": "Daniel Kahneman"
+        },
+        "noticia": {
+          "titulo": "La regla del pico y final: un curioso sesgo de tu memoria",
+          "resumen": "Un articulo de psicologia explica el hallazgo de Daniel Kahneman segun el cual no recordamos una experiencia completa, sino sobre todo su momento mas intenso y como termino, lo que tiene aplicaciones directas en como se cierra cualquier actividad compartida, tambien una clase de movimiento consciente.",
+          "url": "https://lamenteesmaravillosa.com/regla-pico-final-sesgo-memoria/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy comparte con tu audiencia algo de tu oficio poco conocido: que el cierre de una clase (esos ultimos minutos de calma o silencio) pesa mas en el recuerdo de tus alumnas que toda la sesion junta, segun confirma la psicologia de la memoria. Es un buen recordatorio de que cuidar bien un final tambien es cuidar bien a quien tienes delante.",
+        "tags": ["Contenido", "Oficio"],
+        "guion": "GANCHO: \"¿Sabes que parte de tu clase recuerdan mas tus alumnas? No es la postura mas dificil.\"\n\nCUERPO: Durante años dedique mucho cuidado a preparar el cuerpo central de la clase: la secuencia, la dificultad, el ritmo. Hace poco descubri que, segun la psicologia de la memoria, lo que mas queda grabado de una experiencia es su momento mas intenso y, sobre todo, como termina. Desde entonces cuido los ultimos minutos de cada sesion con el mismo mimo que el resto: una relajacion tranquila, un silencio compartido, una despedida calida.\n\nCIERRE: Si acompañas a un grupo, sea en una clase, una reunion o una sobremesa, recuerda que el final no es un tramite. Es, muchas veces, lo que mas se queda.",
+        "referente": {
+          "nombre": "Anna Forés",
+          "porque": "Pedagoga española, doctora en Ciencias de la Educacion por la Universidad de Barcelona y directora adjunta de la Catedra de Neuroeducacion UB EDU1st, que divulga en libros y conferencias en español como la neurociencia y la resiliencia se aplican a la forma de acompañar y enseñar."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy os cuento un dato curioso: parece que no recordamos una experiencia completa, sino sobre todo su momento mas intenso y como termina. Llevo dias pensando en como aplicarlo a las clases, y creo que tambien vale para cualquier encuentro, reunion o conversacion: cuidar bien el final es una forma silenciosa de cuidar a quien tienes delante. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a elegir y transcribir 2-3 frases textuales de tu 'Libro de Recuerdos' (los testimonios reales de tus alumnas de yoga, pilates y taichi) que puedas usar, con su permiso, como testimonios en la futura pagina de ventas de Neuroalma.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Antes de publicar cualquier testimonio, aunque ya lo tengas escrito y guardado, conviene pedir permiso explicito a la persona (un mensaje sencillo basta) y agradecerselo. Un testimonio real y cercano, como los de tu Libro de Recuerdos, suele generar mas confianza en quien duda si apuntarse que cualquier frase de marketing.",
+        "recurso": {
+          "titulo": "Como generar mas ventas con los testimonios de tus alumnos",
+          "tipo": "articulo",
+          "porque": "Explica en español, de forma practica, como pedir, recopilar y usar testimonios de alumnos para generar confianza en una pagina de ventas, justo lo que necesitas para dar el siguiente paso con los testimonios del Libro de Recuerdos.",
+          "url": "https://www.innovacionycualificacion.com/iconsejos/como-generar-mas-ventas-con-los-testimonios-de-tus-alumnos-2023/"
+        }
+      }
+    }
   }
 ]

@@ -775,5 +775,48 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-07-28",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Hoy, en vez de buscar apoyo en algo grande, prueba a notar el efecto de un gesto pequeño de conexion: un mensaje carinoso, una llamada breve, una sonrisa real. La neurociencia confirma que esos gestos minimos activan la oxitocina, la misma hormona que nos ayuda a sentirnos seguras y en calma.",
+        "tags": ["Autoconocimiento", "Conexión"],
+        "aprendizaje": "La oxitocina, conocida como la hormona del vinculo, se libera en momentos de conexion humana real (un abrazo, una conversacion sincera, un gesto de cuidado) y ayuda a regular el estres y a generar sensacion de seguridad. No hace falta un gran acontecimiento social para activarla: basta un intercambio breve y genuino, como los que compartes con tu comunidad de WhatsApp.",
+        "frase": {
+          "texto": "Todos nosotros, desde la cuna hasta la tumba, somos mas felices cuando la vida se organiza como una serie de excursiones, largas o cortas, desde la base segura que nos proporcionan nuestras figuras de apego.",
+          "autor": "John Bowlby"
+        },
+        "noticia": {
+          "titulo": "Tres recomendaciones de la neurociencia para fortalecer los vinculos sociales y mejorar el bienestar emocional",
+          "resumen": "El articulo recoge como la oxitocina, la hormona del vinculo, se libera en contextos de conexion humana real como un abrazo, una charla profunda o un acto de cuidado, y propone gestos sencillos y cotidianos para fortalecer los lazos sociales y el bienestar emocional.",
+          "url": "https://www.infobae.com/salud/2025/06/13/tres-recomendaciones-de-la-neurociencia-para-fortalecer-los-vinculos-sociales-y-mejorar-el-bienestar-emocional/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy comparte con tu audiencia algo sencillo: que un mensaje breve y sincero (como los que os escribis en el grupo) tiene, segun la neurociencia, un efecto real en el cuerpo, liberando la misma hormona que nos hace sentir seguras. Es un buen recordatorio de que cuidar no siempre requiere grandes gestos.",
+        "tags": ["Contenido", "Conexión"],
+        "guion": "GANCHO: \"¿Sabes que un simple mensaje de '¿como estas?' tiene un efecto medible en tu cuerpo?\"\n\nCUERPO: Durante mucho tiempo crei que el cuidado real solo pasaba en persona, cara a cara, con tiempo y espacio dedicado. Ahora, en esta pausa, he aprendido otra cosa: un mensaje breve y sincero libera la misma hormona, la oxitocina, que un abrazo largo. No hace falta esperar al momento perfecto para cuidar a alguien, ni para dejarte cuidar.\n\nCIERRE: La proxima vez que dudes si escribir ese mensaje corto porque \"no es gran cosa\", recuerda que para el cuerpo de quien lo recibe, si lo es.",
+        "referente": {
+          "nombre": "Ibone Olza",
+          "porque": "Psiquiatra infantil y perinatal española que divulga en libros y medios en español sobre el apego, el vinculo y la neurociencia de las relaciones humanas, con un lenguaje cercano y sin tecnicismos."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy os traigo algo bonito: parece que un mensaje breve y sincero, como los que nos escribimos por aqui, libera en el cuerpo la misma hormona que un abrazo (la oxitocina), esa que nos ayuda a sentirnos mas seguras y en calma. Asi que si hoy os apetece escribirle algo carinoso a alguien, hacedlo sin miedo a que sea \"poco\", para el cuerpo del otro no lo es. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a crear un formulario sencillo (por ejemplo con Google Forms) para que cualquier persona, no solo tu circulo mas cercano, pueda apuntarse a tu webinar de lanzamiento dejando su nombre y email.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Un formulario de inscripcion breve y claro, con solo los campos imprescindibles (nombre y email), reduce mucho el abandono a mitad de camino. Cuantos mas datos pidas de entrada, menos gente completa la inscripcion, asi que en esta fase es mejor pedir lo minimo y ya profundizaras despues.",
+        "recurso": {
+          "titulo": "Como crear un formulario de inscripcion online: guia 2026",
+          "tipo": "articulo",
+          "porque": "Explica en español, paso a paso, como diseñar un formulario de inscripcion sencillo y efectivo, justo lo que necesitas para abrir el webinar de lanzamiento de Neuroalma a mas gente ademas de tu circulo cercano.",
+          "url": "https://weezevent.com/es/blog/crear-formulario-inscripcion/"
+        }
+      }
+    }
   }
 ]

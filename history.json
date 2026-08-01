@@ -818,5 +818,48 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-07-29",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Aunque ahora no des clases presenciales, hoy dedica un momento a recordar como llegabas a un grupo: sabias que si entrabas nerviosa o acelerada, la sala lo notaba antes de que dijeras una palabra. Esa capacidad de calibrar tu propio estado antes de empezar es una de las herramientas mas potentes de tu oficio, y se sigue afinando aunque sea solo pensandola.",
+        "tags": ["Pedagogía", "Oficio"],
+        "aprendizaje": "Las llamadas neuronas espejo hacen que el estado emocional de quien guia un grupo (calma, prisa, entusiasmo) se contagie de forma casi automatica a quienes lo rodean. Por eso, antes de dar una clase, regular tu propio cuerpo no es un lujo previo: es la primera instruccion que reciben tus alumnas, aunque no digas nada.",
+        "frase": {
+          "texto": "El cuerpo nunca miente.",
+          "autor": "Martha Graham"
+        },
+        "noticia": {
+          "titulo": "Las neuronas espejo y la educación",
+          "resumen": "Un articulo de divulgacion explica como las neuronas espejo hacen que el estado emocional de quien guia un grupo, su calma o su tension, se transmita de forma casi automatica al alumnado, y por que cuidar el propio estado antes de enseñar es tan importante como preparar el contenido.",
+          "url": "https://escuelaconcerebro.wordpress.com/2012/04/17/las-neuronas-espejo-y-la-educacion/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy comparte con tu audiencia algo de tu oficio poco conocido: que antes de decir una palabra, tu propio estado (calma o prisa) ya esta hablando por ti gracias a las neuronas espejo. Es un buen recordatorio de que cuidarte a ti misma tambien es parte de cuidar bien a un grupo.",
+        "tags": ["Contenido", "Oficio"],
+        "guion": "GANCHO: \"Antes de decir una sola palabra, ya le he transmitido algo a la clase entera.\"\n\nCUERPO: Durante años pense que mi trabajo empezaba cuando abria la boca para dar la primera indicacion. Con el tiempo entendi que empezaba antes: en como entraba por la puerta, en si mi respiracion iba deprisa o despacio. Las llamadas neuronas espejo hacen que el grupo capte ese estado casi sin darse cuenta, antes de escuchar ni una instruccion.\n\nCIERRE: La proxima vez que vayas a acompañar a alguien, en una clase o en cualquier encuentro, recuerda que tu estado llega antes que tus palabras.",
+        "referente": {
+          "nombre": "Javier Iriondo",
+          "porque": "Profesor español de mindfulness y respiracion consciente, autor de libros como 'Respira', que divulga con un lenguaje sencillo y cercano como el estado interior de quien guia un grupo se transmite a quienes lo rodean."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy os cuento algo curioso que aprendi dando clases: parece que el cerebro tiene unas neuronas, llamadas neuronas espejo, que hacen que el estado de quien tienes delante (su calma o su prisa) se te contagie casi sin darte cuenta. Por eso creo tanto en cuidar el propio estado antes de acompañar a otras personas, sea en una clase o en un ratito como este. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a practicar en voz alta, cronometrando, como te presentaras en los primeros dos minutos de la primera sesion en directo de Neuroalma: quien eres, que vais a hacer juntas y por que estas ahi.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Practicar en voz alta los primeros minutos de una sesion en directo, aunque sea sola frente al espejo, reduce mucho la sensacion de improvisar sobre la marcha: cuando ya conoces el punto de partida, te queda mas energia disponible para estar presente con el grupo en vez de pensar que vas a decir.",
+        "recurso": {
+          "titulo": "8 consejos para perder el miedo a hablar en público",
+          "tipo": "articulo",
+          "porque": "Recoge en español consejos practicos y sencillos (practicar en voz alta, controlar la respiracion, cambiar la mentalidad ante los nervios) muy utiles para llegar con mas confianza a la primera sesion en directo de Neuroalma.",
+          "url": "https://www.domestika.org/es/blog/10020-8-consejos-para-perder-el-miedo-a-hablar-en-publico"
+        }
+      }
+    }
   }
 ]

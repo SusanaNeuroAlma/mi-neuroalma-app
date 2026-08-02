@@ -861,5 +861,48 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-08-01",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Estos meses estas aprendiendo cosas que no tienen nada que ver con dar una clase de yoga: como escribir para redes, como montar una pagina de ventas, como grabar un video sin ponerte nerviosa. Si notas que cuesta mas de lo que esperabas, no es que lo estes haciendo mal: el cerebro aprende mejor precisamente cuando el camino no es comodo.",
+        "tags": ["Autoconocimiento", "Aprendizaje"],
+        "aprendizaje": "La ciencia del aprendizaje llama 'dificultades deseables' a estrategias que en el momento se sienten mas costosas (intentar recordar algo de memoria en vez de releerlo, o espaciar la practica en varios dias en vez de concentrarla en uno) pero que dejan un aprendizaje mucho mas solido y duradero. Sentir que algo nuevo te exige esfuerzo es, muchas veces, la señal de que se esta quedando de verdad.",
+        "frase": {
+          "texto": "Mientras enseñamos, aprendemos.",
+          "autor": "Séneca"
+        },
+        "noticia": {
+          "titulo": "Día Mundial del Cerebro: 5 curiosidades científicas y \"dificultades deseables\" en el aprendizaje",
+          "resumen": "Con motivo del Dia Mundial del Cerebro, este articulo repasa investigaciones que muestran como ciertas estrategias de estudio que parecen mas dificiles al principio, como intentar recordar sin mirar apuntes, espaciar las sesiones o intercalar distintos temas, generan un aprendizaje mas profundo y duradero que las formas de estudiar que parecen mas comodas.",
+          "url": "https://www.infobae.com/educacion/2026/07/22/dia-mundial-del-cerebro-5-curiosidades-cientificas-y-dificultades-deseables-en-el-aprendizaje/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy comparte con tu audiencia algo de tu oficio que la ciencia del aprendizaje respalda: que tus alumnas retienen mejor una postura o una secuencia cuando las dejas intentar recordarla por si mismas, en vez de repetirles la instruccion una y otra vez. Cuesta mas en el momento, pero se queda mejor.",
+        "tags": ["Contenido", "Oficio"],
+        "guion": "GANCHO: \"Hay un error muy comun al enseñar, y yo lo cometi durante años: repetir la instruccion demasiadas veces.\"\n\nCUERPO: Cuando una alumna dudaba de una postura o una secuencia, mi primer impulso era repetirsela enseguida, para que no se sintiera perdida. Con el tiempo descubri algo distinto: si le daba unos segundos para intentar recordarla por si misma, aunque se equivocara, esa postura se le quedaba grabada mucho mejor que si yo se la repetia de inmediato. La ciencia del aprendizaje tiene hasta nombre para esto: dificultades deseables, ese pequeño esfuerzo extra que parece incomodo y que en realidad es el que mas enseña.\n\nCIERRE: La proxima vez que quieras ayudar a alguien a aprender algo, prueba a dejarle ese hueco de esfuerzo antes de darle la respuesta. A veces ayudar mas es esperar un poco antes de ayudar.",
+        "referente": {
+          "nombre": "Héctor Ruiz Martín",
+          "porque": "Doctor en Biologia e investigador español especializado en la ciencia cognitiva del aprendizaje, director de la International Science Teaching Foundation y autor de '¿Como aprendemos?', que divulga en español y sin tecnicismos conceptos como las dificultades deseables aplicados a la educacion."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy leia algo que me ha hecho pensar en vosotras: parece que aprendemos mejor las cosas precisamente cuando nos cuestan un poco, cuando tenemos que hacer memoria en vez de que nos lo repitan todo hecho. Asi que si algo de lo que vamos a vivir juntas en Neuroalma en algun momento os resulta un poco exigente, no penseis que algo va mal, puede que sea justo la señal de que se esta quedando de verdad. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a escribir con claridad la seccion de precio de tu pagina de ventas: cuanto cuesta Neuroalma (497€), que incluye exactamente (las 7 sesiones en directo) y como se paga, usando el enlace de pago que ya tienes preparado. Mostrarlo claro, sin rodeos ni letra pequeña, transmite mas confianza que dejarlo ambiguo.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Mostrar el precio con claridad en la pagina de ventas, en vez de esconderlo o dejarlo para el final, ayuda a que quien de verdad encaja con tu propuesta no se sienta engañada ni pierda tiempo: la persona adecuada no se aleja al ver el numero, se aleja si no entiende bien que esta pagando.",
+        "recurso": {
+          "titulo": "Cómo crear una página de ventas efectiva para tu curso en línea",
+          "tipo": "articulo",
+          "porque": "Explica en español la estructura de una buena pagina de ventas, incluyendo como presentar el precio de forma clara y directa, justo lo que necesitas para terminar esa seccion en la pagina de Neuroalma.",
+          "url": "https://systeme.io/es/blog/online-course-sales-page"
+        }
+      }
+    }
   }
 ]

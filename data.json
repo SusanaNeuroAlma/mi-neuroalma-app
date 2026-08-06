@@ -1,42 +1,42 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-06",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Aunque ahora no puedas guiar un grupo en persona, hoy dedica un momento a recordar como dosificabas tu ayuda a cada alumna: al principio mas apoyo y mas indicaciones, y poco a poco ibas dando un paso atras para que ganara autonomia. Ese saber cuanto ayudar y cuando dejar de hacerlo es una de las herramientas mas finas de tu oficio, y se puede seguir revisando aunque sea solo con la memoria.",
-      "tags": ["Pedagogía", "Oficio"],
-      "aprendizaje": "En pedagogia existe el concepto de 'andamiaje': dar a alguien el apoyo justo para hacer algo que todavia no domina del todo, y retirarlo poco a poco a medida que gana seguridad, igual que un andamio se quita cuando el edificio ya se sostiene solo. Aplicado a una clase de movimiento consciente, significa que ayudar demasiado tiempo tambien puede frenar el aprendizaje tanto como ayudar demasiado poco.",
+      "idea": "Hoy, en algun momento del dia, date un instante para notar como estas: si sientes que puedes pensar con calma y notar tus emociones sin que te desborden, estas dentro de lo que la neurociencia llama tu ventana de tolerancia. Si en cambio notas la cabeza acelerada o el cuerpo como apagado, no te exijas nada mas por ahora: solo reconocelo, y date el tiempo que necesites para volver poco a poco a ese punto de calma.",
+      "tags": ["Autoconocimiento", "Regulación emocional"],
+      "aprendizaje": "El psiquiatra Daniel Siegel acuño el termino 'ventana de tolerancia' para describir el margen de activacion en el que una persona puede pensar con claridad y sentir sus emociones sin sentirse desbordada ni bloqueada. Reconocer cuando sales de esa ventana, ya sea hacia la sobreactivacion o hacia el bloqueo, es el primer paso para encontrar el camino de vuelta.",
       "frase": {
-        "texto": "Lo que un niño es capaz de hacer hoy con ayuda, podrá hacerlo mañana por sí solo.",
-        "autor": "Lev Vygotski"
+        "texto": "Donde va la atención, fluye la actividad neuronal, y ahí crecen las conexiones del cerebro.",
+        "autor": "Daniel J. Siegel"
       },
       "noticia": {
-        "titulo": "La Zona de Desarrollo Próximo y el Andamiaje",
-        "resumen": "Un articulo de pedagogia explica el concepto de Vygotski de la zona de desarrollo proximo, la distancia entre lo que alguien puede hacer sola y lo que puede hacer con ayuda, y como el andamiaje (el apoyo que un guia da y despues retira poco a poco) es la forma practica de acompañar ese aprendizaje sin frenarlo ni dejarlo sin sosten.",
-        "url": "https://blog.manuelfnavas.es/la-zona-de-desarrollo-proximo-y-el-andamiaje/"
+        "titulo": "Ventana de tolerancia: qué es y cómo nos afecta emocionalmente",
+        "resumen": "El articulo explica el concepto de ventana de tolerancia acuñado por el psiquiatra Daniel Siegel: el margen de activacion emocional dentro del cual una persona puede pensar con claridad y relacionarse con calma, y que ocurre cuando esa activacion se dispara hacia arriba o se apaga hacia abajo.",
+        "url": "https://psicologiaymente.com/psicologia/ventana-tolerancia"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia un arte de tu oficio que casi nadie nombra: saber dar a cada alumna el apoyo justo, ni de mas ni de menos, y sobre todo saber ir retirandolo poco a poco para que gane su propia autonomia. Es un buen contenido para mostrar el cuidado y la atencion que hay detras de cada clase, mas alla de la postura en si.",
+      "idea": "Hoy comparte con tu audiencia algo de tu oficio que pocas veces se nombra: como aprendiste a notar cuando una alumna, aunque siguiera la clase por fuera, ya no estaba del todo presente por dentro, y que en esos momentos ayudaba mas bajar tu propio ritmo y acompañar con calma que dar mas indicaciones.",
       "tags": ["Contenido", "Oficio"],
-      "guion": "GANCHO: \"Hay un arte en enseñar que casi nadie nombra: saber cuando dejar de ayudar.\"\n\nCUERPO: Al principio de dar clases, mi instinto era ayudar mucho: corregir cada detalle, repetir la indicacion, casi guiar la postura con la voz paso a paso. Con los años entendi que ese apoyo tenia que ir cambiando: al principio mas presente, y despues, poco a poco, un paso atras, para que cada alumna fuera encontrando su propio equilibrio sin mi. En pedagogia le llaman andamiaje: el apoyo se pone, y despues se retira, igual que el andamio de un edificio.\n\nCIERRE: Si alguna vez sentiste que ayudabas demasiado a alguien, quiza no era generosidad de mas. Era el momento de empezar a retirar el andamio.",
+      "guion": "GANCHO: \"Hay alumnas que un dia entran a la sala y, aunque sigan la clase paso a paso, notas que ya no estan del todo ahi.\"\n\nCUERPO: Al principio yo insistia: repetia la indicacion, corregia mas detalles, intentaba que 'siguieran el ritmo'. Con el tiempo entendi que esa insistencia no ayudaba, porque el problema no era que no entendieran la postura: era que su sistema nervioso estaba desbordado o bloqueado, y en ese estado no hay instruccion que llegue. Aprendi a bajar yo el ritmo primero, acompañar con la voz mas despacio, y dejar que volvieran a su propio centro antes de pedirles nada mas.\n\nCIERRE: Si alguna vez sentiste que alguien \"no te escuchaba\" aunque estuviera delante tuya, quiza no necesitaba mas explicacion. Necesitaba que bajaras tu el ritmo primero.",
       "referente": {
-        "nombre": "David Bueno i Torrens",
-        "porque": "Doctor en Biologia, profesor de Genetica en la Universitat de Barcelona y director de la Catedra de Neuroeducacion UB-EDU1st, que divulga en español y sin tecnicismos como el acompañamiento adecuado, ni de mas ni de menos, mejora el aprendizaje real."
+        "nombre": "Begoña Ibarrola",
+        "porque": "Psicologa y escritora española especializada en inteligencia emocional y neurociencia aplicada a la educacion, que divulga en libros y formaciones en español, de forma sencilla, como reconocer y acompañar los estados emocionales de un grupo."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo de mi oficio: dar apoyo a alguien no es solo estar ahi, tambien es saber ir retirandote poco a poco para que encuentre su propio equilibrio. En pedagogia lo llaman andamiaje, y creo que vale tanto para una clase de yoga como para cualquier acompañamiento. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy os cuento algo que aprendi dando clases: a veces alguien esta delante tuya pero, por dentro, su cabeza va a mil o esta como apagada, y en esos momentos de nada sirve explicar mas. Lo que mas ayuda es bajar el ritmo y acompañar con calma, para que la otra persona pueda volver a su propio centro. Creo que vale para una clase y para cualquier conversacion importante. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a esbozar el guion basico de tu webinar de lanzamiento: como vas a abrir la sesion, que 2-3 ideas clave quieres transmitir sobre Neuroalma, y como vas a invitar a apuntarse al final.",
+      "idea": "Dedica 15-20 minutos a fijar en tu calendario las fechas concretas de todo el lanzamiento: cuando abres las inscripciones, el dia del webinar, y hasta cuando estara abierta la inscripcion a Neuroalma. Tenerlo escrito con fechas reales, aunque parezca un detalle pequeño, es lo que convierte la intencion en un plan que de verdad se puede seguir.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Un buen guion de webinar no tiene que sonar guionizado: sirve sobre todo para darte seguridad y dejar mas atencion libre para conectar con quienes te escuchan, en vez de estar pensando que decir a continuacion.",
+      "aprendizaje": "Un lanzamiento sin fechas concretas tiende a alargarse indefinidamente, porque siempre parece que se puede pulir un poco mas antes de abrir. Poner fecha de apertura y de cierre, aunque sean provisionales, no es presionar a nadie: es lo que le da a tu propio proceso un limite real para avanzar.",
       "recurso": {
-        "titulo": "Webinar de empresa: cómo escribir el guión perfecto paso a paso",
+        "titulo": "Lanzamiento de un Curso Online: Guía Completa",
         "tipo": "articulo",
-        "porque": "Explica en español, paso a paso, como estructurar el guion de un webinar (gancho inicial, ideas clave, cierre con llamada a la accion), justo lo que necesitas para preparar el webinar de lanzamiento de Neuroalma.",
-        "url": "https://www.cyberclick.es/numerical-blog/webinar-de-empresa-como-escribir-el-guion-perfecto-paso-a-paso"
+        "porque": "Explica en español las etapas de preproduccion, produccion y posproduccion de un lanzamiento digital, util para terminar de encajar las fechas concretas de tu cronograma de lanzamiento de Neuroalma.",
+        "url": "https://hotmart.com/es/blog/lanzamiento-del-curso-online"
       }
     }
   }

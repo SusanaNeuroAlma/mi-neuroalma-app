@@ -904,5 +904,48 @@
         }
       }
     }
+  },
+  {
+    "date": "2026-08-02",
+    "zones": {
+      "desarrollo": {
+        "title": "Desarrollo personal",
+        "idea": "Aunque ahora no puedas guiar un grupo en persona, hoy dedica un momento a recordar como dosificabas tu ayuda a cada alumna: al principio mas apoyo y mas indicaciones, y poco a poco ibas dando un paso atras para que ganara autonomia. Ese saber cuanto ayudar y cuando dejar de hacerlo es una de las herramientas mas finas de tu oficio, y se puede seguir revisando aunque sea solo con la memoria.",
+        "tags": ["Pedagogía", "Oficio"],
+        "aprendizaje": "En pedagogia existe el concepto de 'andamiaje': dar a alguien el apoyo justo para hacer algo que todavia no domina del todo, y retirarlo poco a poco a medida que gana seguridad, igual que un andamio se quita cuando el edificio ya se sostiene solo. Aplicado a una clase de movimiento consciente, significa que ayudar demasiado tiempo tambien puede frenar el aprendizaje tanto como ayudar demasiado poco.",
+        "frase": {
+          "texto": "Lo que un niño es capaz de hacer hoy con ayuda, podrá hacerlo mañana por sí solo.",
+          "autor": "Lev Vygotski"
+        },
+        "noticia": {
+          "titulo": "La Zona de Desarrollo Próximo y el Andamiaje",
+          "resumen": "Un articulo de pedagogia explica el concepto de Vygotski de la zona de desarrollo proximo, la distancia entre lo que alguien puede hacer sola y lo que puede hacer con ayuda, y como el andamiaje (el apoyo que un guia da y despues retira poco a poco) es la forma practica de acompañar ese aprendizaje sin frenarlo ni dejarlo sin sosten.",
+          "url": "https://blog.manuelfnavas.es/la-zona-de-desarrollo-proximo-y-el-andamiaje/"
+        }
+      },
+      "marca": {
+        "title": "Marca personal",
+        "idea": "Hoy comparte con tu audiencia un arte de tu oficio que casi nadie nombra: saber dar a cada alumna el apoyo justo, ni de mas ni de menos, y sobre todo saber ir retirandolo poco a poco para que gane su propia autonomia. Es un buen contenido para mostrar el cuidado y la atencion que hay detras de cada clase, mas alla de la postura en si.",
+        "tags": ["Contenido", "Oficio"],
+        "guion": "GANCHO: \"Hay un arte en enseñar que casi nadie nombra: saber cuando dejar de ayudar.\"\n\nCUERPO: Al principio de dar clases, mi instinto era ayudar mucho: corregir cada detalle, repetir la indicacion, casi guiar la postura con la voz paso a paso. Con los años entendi que ese apoyo tenia que ir cambiando: al principio mas presente, y despues, poco a poco, un paso atras, para que cada alumna fuera encontrando su propio equilibrio sin mi. En pedagogia le llaman andamiaje: el apoyo se pone, y despues se retira, igual que el andamio de un edificio.\n\nCIERRE: Si alguna vez sentiste que ayudabas demasiado a alguien, quiza no era generosidad de mas. Era el momento de empezar a retirar el andamio.",
+        "referente": {
+          "nombre": "David Bueno i Torrens",
+          "porque": "Doctor en Biologia, profesor de Genetica en la Universitat de Barcelona y director de la Catedra de Neuroeducacion UB-EDU1st, que divulga en español y sin tecnicismos como el acompañamiento adecuado, ni de mas ni de menos, mejora el aprendizaje real."
+        },
+        "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo de mi oficio: dar apoyo a alguien no es solo estar ahi, tambien es saber ir retirandote poco a poco para que encuentre su propio equilibrio. En pedagogia lo llaman andamiaje, y creo que vale tanto para una clase de yoga como para cualquier acompañamiento. Un abrazo grande 🌿"
+      },
+      "neuroalma": {
+        "title": "Neuroalma",
+        "idea": "Dedica 15-20 minutos a esbozar el guion basico de tu webinar de lanzamiento: como vas a abrir la sesion, que 2-3 ideas clave quieres transmitir sobre Neuroalma, y como vas a invitar a apuntarse al final.",
+        "tags": ["Idea", "Lanzamiento"],
+        "aprendizaje": "Un buen guion de webinar no tiene que sonar guionizado: sirve sobre todo para darte seguridad y dejar mas atencion libre para conectar con quienes te escuchan, en vez de estar pensando que decir a continuacion.",
+        "recurso": {
+          "titulo": "Webinar de empresa: cómo escribir el guión perfecto paso a paso",
+          "tipo": "articulo",
+          "porque": "Explica en español, paso a paso, como estructurar el guion de un webinar (gancho inicial, ideas clave, cierre con llamada a la accion), justo lo que necesitas para preparar el webinar de lanzamiento de Neuroalma.",
+          "url": "https://www.cyberclick.es/numerical-blog/webinar-de-empresa-como-escribir-el-guion-perfecto-paso-a-paso"
+        }
+      }
+    }
   }
 ]

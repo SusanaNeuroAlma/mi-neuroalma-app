@@ -1,42 +1,42 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Hoy, en algun momento del dia, date un instante para notar como estas: si sientes que puedes pensar con calma y notar tus emociones sin que te desborden, estas dentro de lo que la neurociencia llama tu ventana de tolerancia. Si en cambio notas la cabeza acelerada o el cuerpo como apagado, no te exijas nada mas por ahora: solo reconocelo, y date el tiempo que necesites para volver poco a poco a ese punto de calma.",
-      "tags": ["Autoconocimiento", "Regulación emocional"],
-      "aprendizaje": "El psiquiatra Daniel Siegel acuño el termino 'ventana de tolerancia' para describir el margen de activacion en el que una persona puede pensar con claridad y sentir sus emociones sin sentirse desbordada ni bloqueada. Reconocer cuando sales de esa ventana, ya sea hacia la sobreactivacion o hacia el bloqueo, es el primer paso para encontrar el camino de vuelta.",
+      "idea": "Aunque ahora no puedas guiar una clase en persona, hoy dedica un momento a pensar en algo que sabes de sobra por experiencia: que el aprendizaje de un grupo nunca pasa solo por la cabeza, tambien pasa por el cuerpo. Repasa mentalmente como sueles usar el movimiento, aunque sea pequeño, para que una idea se entienda mejor que con solo palabras.",
+      "tags": ["Pedagogía", "Oficio"],
+      "aprendizaje": "La neurociencia recuerda algo que muchas formadoras de movimiento ya saben por experiencia: el conocimiento no nace solo en el cerebro, sino de la relacion constante entre el cerebro, el cuerpo y el entorno. Por eso el movimiento no es un complemento del aprendizaje, es parte de el, tanto en una clase de yoga como en cualquier otra forma de enseñar.",
       "frase": {
-        "texto": "Donde va la atención, fluye la actividad neuronal, y ahí crecen las conexiones del cerebro.",
-        "autor": "Daniel J. Siegel"
+        "texto": "Para absorber la enseñanza hace falta un tiempo infinito y ninguna ambición.",
+        "autor": "Vanda Scaravelli"
       },
       "noticia": {
-        "titulo": "Ventana de tolerancia: qué es y cómo nos afecta emocionalmente",
-        "resumen": "El articulo explica el concepto de ventana de tolerancia acuñado por el psiquiatra Daniel Siegel: el margen de activacion emocional dentro del cual una persona puede pensar con claridad y relacionarse con calma, y que ocurre cuando esa activacion se dispara hacia arriba o se apaga hacia abajo.",
-        "url": "https://psicologiaymente.com/psicologia/ventana-tolerancia"
+        "titulo": "¿Y si el deporte fuera un arte? Lo que la neuroeducación nos enseña sobre aprender con el cuerpo",
+        "resumen": "El biologo y divulgador David Bueno i Torrens explica que el aprendizaje no ocurre solo en el cerebro, sino en la interaccion constante entre cuerpo, cerebro y entorno: el movimiento no acompaña al aprendizaje, forma parte de el, y el deporte o el ejercicio fisico pueden entenderse como una forma legitima de construir conocimiento, creatividad y autoconocimiento.",
+        "url": "https://theconversation.com/y-si-el-deporte-fuera-un-arte-lo-que-la-neuroeducacion-nos-ensena-sobre-aprender-con-el-cuerpo-286612"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia algo de tu oficio que pocas veces se nombra: como aprendiste a notar cuando una alumna, aunque siguiera la clase por fuera, ya no estaba del todo presente por dentro, y que en esos momentos ayudaba mas bajar tu propio ritmo y acompañar con calma que dar mas indicaciones.",
+      "idea": "Hoy comparte con tu audiencia una idea sencilla de tu oficio: que enseñar a moverse nunca fue solo cuestion del cuerpo, tambien es una forma de ayudar a la mente a entender algo mas hondo. No hace falta una anecdota concreta, basta con nombrar esa conviccion que llevas años aplicando sin ponerle palabras.",
       "tags": ["Contenido", "Oficio"],
-      "guion": "GANCHO: \"Hay alumnas que un dia entran a la sala y, aunque sigan la clase paso a paso, notas que ya no estan del todo ahi.\"\n\nCUERPO: Al principio yo insistia: repetia la indicacion, corregia mas detalles, intentaba que 'siguieran el ritmo'. Con el tiempo entendi que esa insistencia no ayudaba, porque el problema no era que no entendieran la postura: era que su sistema nervioso estaba desbordado o bloqueado, y en ese estado no hay instruccion que llegue. Aprendi a bajar yo el ritmo primero, acompañar con la voz mas despacio, y dejar que volvieran a su propio centro antes de pedirles nada mas.\n\nCIERRE: Si alguna vez sentiste que alguien \"no te escuchaba\" aunque estuviera delante tuya, quiza no necesitaba mas explicacion. Necesitaba que bajaras tu el ritmo primero.",
+      "guion": "GANCHO: \"Durante años pense que enseñaba a mover el cuerpo. Ahora se que enseñaba a pensar con el.\"\n\nCUERPO: Cuando empece a dar clases, creia que mi trabajo era corregir posturas: la espalda mas recta, la rodilla alineada, la respiracion mas lenta. Con el tiempo entendi otra cosa: cada vez que alguien encontraba esa postura con calma, tambien estaba entendiendo algo de si misma que ninguna palabra le habia explicado antes. El cuerpo no solo ejecuta, tambien aprende y enseña.\n\nCIERRE: Si alguna vez sentiste que una clase de movimiento te cambio algo por dentro, no fue casualidad. Fue tu cuerpo aprendiendo, no solo moviendose.",
       "referente": {
-        "nombre": "Begoña Ibarrola",
-        "porque": "Psicologa y escritora española especializada en inteligencia emocional y neurociencia aplicada a la educacion, que divulga en libros y formaciones en español, de forma sencilla, como reconocer y acompañar los estados emocionales de un grupo."
+        "nombre": "Vicente Simón",
+        "porque": "Psiquiatra y catedratico español de la Universitat de Valencia, referente en mindfulness e interocepcion en español, que explica de forma sencilla como la conciencia corporal esta ligada al autoconocimiento y al bienestar emocional."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy os cuento algo que aprendi dando clases: a veces alguien esta delante tuya pero, por dentro, su cabeza va a mil o esta como apagada, y en esos momentos de nada sirve explicar mas. Lo que mas ayuda es bajar el ritmo y acompañar con calma, para que la otra persona pueda volver a su propio centro. Creo que vale para una clase y para cualquier conversacion importante. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy leia algo que resume muy bien lo que llevo años sintiendo: que el movimiento no es solo ejercicio, es una forma de aprender con el cuerpo, no solo con la cabeza. Creo que eso es justo lo que quiero que se sienta en Neuroalma, un espacio donde tambien se aprende moviendose y respirando, no solo escuchando. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a fijar en tu calendario las fechas concretas de todo el lanzamiento: cuando abres las inscripciones, el dia del webinar, y hasta cuando estara abierta la inscripcion a Neuroalma. Tenerlo escrito con fechas reales, aunque parezca un detalle pequeño, es lo que convierte la intencion en un plan que de verdad se puede seguir.",
+      "idea": "Dedica 15-20 minutos a preparar un breve checklist tecnico para el dia del webinar de lanzamiento: probar con antelacion el enlace de la videollamada, el microfono y la camara, y tener a mano el guion y el enlace de inscripcion para compartirlo en el chat.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Un lanzamiento sin fechas concretas tiende a alargarse indefinidamente, porque siempre parece que se puede pulir un poco mas antes de abrir. Poner fecha de apertura y de cierre, aunque sean provisionales, no es presionar a nadie: es lo que le da a tu propio proceso un limite real para avanzar.",
+      "aprendizaje": "Probar la tecnologia el dia antes, y no justo antes de empezar, es lo que mas tranquilidad da en un evento en directo pequeño: un fallo de sonido o de conexion resuelto con calma con antelacion no tiene nada que ver con resolverlo con el grupo ya esperando.",
       "recurso": {
-        "titulo": "Lanzamiento de un Curso Online: Guía Completa",
-        "tipo": "articulo",
-        "porque": "Explica en español las etapas de preproduccion, produccion y posproduccion de un lanzamiento digital, util para terminar de encajar las fechas concretas de tu cronograma de lanzamiento de Neuroalma.",
-        "url": "https://hotmart.com/es/blog/lanzamiento-del-curso-online"
+        "titulo": "Verifica tu audio y video antes de una reunion",
+        "tipo": "guia",
+        "porque": "Guia oficial y en español de Google Meet para comprobar que el microfono, la camara y el sonido funcionan bien antes de empezar, ideal para preparar con calma el webinar de lanzamiento de Neuroalma.",
+        "url": "https://support.google.com/meet/answer/10409699?hl=es"
       }
     }
   }

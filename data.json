@@ -1,42 +1,42 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Aunque ahora no puedas guiar una clase en persona, hoy dedica un momento a pensar en algo que sabes de sobra por experiencia: que el aprendizaje de un grupo nunca pasa solo por la cabeza, tambien pasa por el cuerpo. Repasa mentalmente como sueles usar el movimiento, aunque sea pequeño, para que una idea se entienda mejor que con solo palabras.",
-      "tags": ["Pedagogía", "Oficio"],
-      "aprendizaje": "La neurociencia recuerda algo que muchas formadoras de movimiento ya saben por experiencia: el conocimiento no nace solo en el cerebro, sino de la relacion constante entre el cerebro, el cuerpo y el entorno. Por eso el movimiento no es un complemento del aprendizaje, es parte de el, tanto en una clase de yoga como en cualquier otra forma de enseñar.",
+      "idea": "Hoy, en vez de buscar hacer algo productivo, prueba a dejarte llevar por la curiosidad pura: mira un video, lee un articulo o escucha algo solo porque te apetece saber mas, sin ninguna otra razon. Ese gesto tan sencillo, aunque ahora no puedas moverte como antes, sigue siendo una forma real de cuidar tu cerebro.",
+      "tags": ["Curiosidad", "Autoconocimiento"],
+      "aprendizaje": "La neurociencia ha comprobado que cuando algo despierta tu curiosidad de verdad, el cerebro activa a la vez el sistema de recompensa y el hipocampo, la zona clave de la memoria. Por eso recuerdas mucho mejor lo que aprendes cuando antes sentiste ganas reales de saberlo, no solo obligacion.",
       "frase": {
-        "texto": "Para absorber la enseñanza hace falta un tiempo infinito y ninguna ambición.",
-        "autor": "Vanda Scaravelli"
+        "texto": "No tengo ningun talento especial. Solo soy apasionadamente curioso.",
+        "autor": "Albert Einstein"
       },
       "noticia": {
-        "titulo": "¿Y si el deporte fuera un arte? Lo que la neuroeducación nos enseña sobre aprender con el cuerpo",
-        "resumen": "El biologo y divulgador David Bueno i Torrens explica que el aprendizaje no ocurre solo en el cerebro, sino en la interaccion constante entre cuerpo, cerebro y entorno: el movimiento no acompaña al aprendizaje, forma parte de el, y el deporte o el ejercicio fisico pueden entenderse como una forma legitima de construir conocimiento, creatividad y autoconocimiento.",
-        "url": "https://theconversation.com/y-si-el-deporte-fuera-un-arte-lo-que-la-neuroeducacion-nos-ensena-sobre-aprender-con-el-cuerpo-286612"
+        "titulo": "La curiosidad y el aprendizaje: de las neurociencias al aula",
+        "resumen": "Un articulo de ISEP repasa un estudio de la Universidad de California que muestra como los momentos de alta curiosidad activan a la vez el sistema de recompensa y el hipocampo, mejorando la retencion de lo aprendido: resolver un reto que despierta curiosidad libera dopamina, y esa dopamina refuerza la memoria de lo vivido justo en ese momento.",
+        "url": "https://www.isep.es/actualidad/curiosidad-y-aprendizaje/"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia una idea sencilla de tu oficio: que enseñar a moverse nunca fue solo cuestion del cuerpo, tambien es una forma de ayudar a la mente a entender algo mas hondo. No hace falta una anecdota concreta, basta con nombrar esa conviccion que llevas años aplicando sin ponerle palabras.",
+      "idea": "Hoy comparte con tu audiencia algo que aprendiste con los años: que no toda correccion ayuda, y que a veces el mayor regalo que le puedes hacer a alguien es dejar que su propio cuerpo encuentre la postura, sin intervenir en cada detalle.",
       "tags": ["Contenido", "Oficio"],
-      "guion": "GANCHO: \"Durante años pense que enseñaba a mover el cuerpo. Ahora se que enseñaba a pensar con el.\"\n\nCUERPO: Cuando empece a dar clases, creia que mi trabajo era corregir posturas: la espalda mas recta, la rodilla alineada, la respiracion mas lenta. Con el tiempo entendi otra cosa: cada vez que alguien encontraba esa postura con calma, tambien estaba entendiendo algo de si misma que ninguna palabra le habia explicado antes. El cuerpo no solo ejecuta, tambien aprende y enseña.\n\nCIERRE: Si alguna vez sentiste que una clase de movimiento te cambio algo por dentro, no fue casualidad. Fue tu cuerpo aprendiendo, no solo moviendose.",
+      "guion": "GANCHO: \"Durante mis primeros años dando clases, corregia cada detalle. Ahora se que eso, a veces, es lo peor que puedo hacer.\"\n\nCUERPO: Al principio creia que mi trabajo era ajustar cada postura hasta que quedara perfecta: un brazo mas alto, una rodilla mas alineada, la espalda mas recta. Con el tiempo entendi que esa correccion constante interrumpe algo mas importante: que la propia alumna encuentre, sola y a su ritmo, como se siente bien en su cuerpo. Aprendi a mirar mas y hablar menos, y a fiarme de que el cuerpo tambien sabe aprender solo, si le doy tiempo.\n\nCIERRE: Si alguna vez sentiste que corregir demasiado apagaba algo en quien tenias delante, no eras tu exagerando. Es una de las cosas mas dificiles de este oficio: saber cuando ayudar y cuando simplemente confiar.",
       "referente": {
-        "nombre": "Vicente Simón",
-        "porque": "Psiquiatra y catedratico español de la Universitat de Valencia, referente en mindfulness e interocepcion en español, que explica de forma sencilla como la conciencia corporal esta ligada al autoconocimiento y al bienestar emocional."
+        "nombre": "Rafael Bisquerra",
+        "porque": "Catedratico emerito de la Universidad de Barcelona y fundador del GROP, referente en educacion emocional en español, cuyo trabajo explica por que el acompañamiento emocional (y no solo la correccion tecnica) es clave para que cualquier aprendizaje, tambien el del movimiento, quede de verdad."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy leia algo que resume muy bien lo que llevo años sintiendo: que el movimiento no es solo ejercicio, es una forma de aprender con el cuerpo, no solo con la cabeza. Creo que eso es justo lo que quiero que se sienta en Neuroalma, un espacio donde tambien se aprende moviendose y respirando, no solo escuchando. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo que aprendi dando clases con los años: que no toda correccion ayuda, y que a veces el mayor regalo es dejar que cada una encuentre su propio ritmo, sin que yo intervenga en cada detalle. Creo que eso es tambien lo que quiero que se sienta en Neuroalma, un espacio para confiar en lo que cada una ya sabe, no solo para corregir. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a preparar un breve checklist tecnico para el dia del webinar de lanzamiento: probar con antelacion el enlace de la videollamada, el microfono y la camara, y tener a mano el guion y el enlace de inscripcion para compartirlo en el chat.",
+      "idea": "Dedica 15-20 minutos a escribir el mensaje de invitacion al webinar de lanzamiento que enviaras a tu lista de contactos y a tu comunidad de WhatsApp: que van a aprender en la sesion en directo, cuando es exactamente, y como apuntarse.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "Probar la tecnologia el dia antes, y no justo antes de empezar, es lo que mas tranquilidad da en un evento en directo pequeño: un fallo de sonido o de conexion resuelto con calma con antelacion no tiene nada que ver con resolverlo con el grupo ya esperando.",
+      "aprendizaje": "En un lanzamiento pequeño como el tuyo, una invitacion personal enviada por WhatsApp o email suele funcionar mucho mejor que un anuncio general en redes: la gente responde mas a una invitacion que siente dirigida a ella que a un mensaje lanzado al aire.",
       "recurso": {
-        "titulo": "Verifica tu audio y video antes de una reunion",
+        "titulo": "Invitar a personas a un evento de Google Calendar",
         "tipo": "guia",
-        "porque": "Guia oficial y en español de Google Meet para comprobar que el microfono, la camara y el sonido funcionan bien antes de empezar, ideal para preparar con calma el webinar de lanzamiento de Neuroalma.",
-        "url": "https://support.google.com/meet/answer/10409699?hl=es"
+        "porque": "Guia oficial y en español para crear el evento del webinar con fecha y hora, e invitar facilmente a tu lista de contactos, para que nadie se olvide del dia.",
+        "url": "https://support.google.com/calendar/answer/37161?hl=es"
       }
     }
   }

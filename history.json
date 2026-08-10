@@ -1257,46 +1257,107 @@
                   }
     },
     {
-        "date": "2026-08-08",
-        "zones": {
-            "desarrollo": {
-                "title": "Desarrollo personal",
-                "idea": "Hoy, en vez de buscar hacer algo productivo, prueba a dejarte llevar por la curiosidad pura: mira un video, lee un articulo o escucha algo solo porque te apetece saber mas, sin ninguna otra razon. Ese gesto tan sencillo, aunque ahora no puedas moverte como antes, sigue siendo una forma real de cuidar tu cerebro.",
-                "tags": ["Curiosidad", "Autoconocimiento"],
-                "aprendizaje": "La neurociencia ha comprobado que cuando algo despierta tu curiosidad de verdad, el cerebro activa a la vez el sistema de recompensa y el hipocampo, la zona clave de la memoria. Por eso recuerdas mucho mejor lo que aprendes cuando antes sentiste ganas reales de saberlo, no solo obligacion.",
-                "frase": {
-                    "texto": "No tengo ningun talento especial. Solo soy apasionadamente curioso.",
-                    "autor": "Albert Einstein"
-                },
-                "noticia": {
-                    "titulo": "La curiosidad y el aprendizaje: de las neurociencias al aula",
-                    "resumen": "Un articulo de ISEP repasa un estudio de la Universidad de California que muestra como los momentos de alta curiosidad activan a la vez el sistema de recompensa y el hipocampo, mejorando la retencion de lo aprendido: resolver un reto que despierta curiosidad libera dopamina, y esa dopamina refuerza la memoria de lo vivido justo en ese momento.",
-                    "url": "https://www.isep.es/actualidad/curiosidad-y-aprendizaje/"
-                }
-            },
-            "marca": {
-                "title": "Marca personal",
-                "idea": "Hoy comparte con tu audiencia algo que aprendiste con los años: que no toda correccion ayuda, y que a veces el mayor regalo que le puedes hacer a alguien es dejar que su propio cuerpo encuentre la postura, sin intervenir en cada detalle.",
-                "tags": ["Contenido", "Oficio"],
-                "guion": "GANCHO: \"Durante mis primeros años dando clases, corregia cada detalle. Ahora se que eso, a veces, es lo peor que puedo hacer.\"\n\nCUERPO: Al principio creia que mi trabajo era ajustar cada postura hasta que quedara perfecta: un brazo mas alto, una rodilla mas alineada, la espalda mas recta. Con el tiempo entendi que esa correccion constante interrumpe algo mas importante: que la propia alumna encuentre, sola y a su ritmo, como se siente bien en su cuerpo. Aprendi a mirar mas y hablar menos, y a fiarme de que el cuerpo tambien sabe aprender solo, si le doy tiempo.\n\nCIERRE: Si alguna vez sentiste que corregir demasiado apagaba algo en quien tenias delante, no eras tu exagerando. Es una de las cosas mas dificiles de este oficio: saber cuando ayudar y cuando simplemente confiar.",
-                "referente": {
-                    "nombre": "Rafael Bisquerra",
-                    "porque": "Catedratico emerito de la Universidad de Barcelona y fundador del GROP, referente en educacion emocional en español, cuyo trabajo explica por que el acompañamiento emocional (y no solo la correccion tecnica) es clave para que cualquier aprendizaje, tambien el del movimiento, quede de verdad."
-                },
-                "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo que aprendi dando clases con los años: que no toda correccion ayuda, y que a veces el mayor regalo es dejar que cada una encuentre su propio ritmo, sin que yo intervenga en cada detalle. Creo que eso es tambien lo que quiero que se sienta en Neuroalma, un espacio para confiar en lo que cada una ya sabe, no solo para corregir. Un abrazo grande 🌿"
-            },
-            "neuroalma": {
-                "title": "Neuroalma",
-                "idea": "Dedica 15-20 minutos a escribir el mensaje de invitacion al webinar de lanzamiento que enviaras a tu lista de contactos y a tu comunidad de WhatsApp: que van a aprender en la sesion en directo, cuando es exactamente, y como apuntarse.",
-                "tags": ["Idea", "Lanzamiento"],
-                "aprendizaje": "En un lanzamiento pequeño como el tuyo, una invitacion personal enviada por WhatsApp o email suele funcionar mucho mejor que un anuncio general en redes: la gente responde mas a una invitacion que siente dirigida a ella que a un mensaje lanzado al aire.",
-                "recurso": {
-                    "titulo": "Invitar a personas a un evento de Google Calendar",
-                    "tipo": "guia",
-                    "porque": "Guia oficial y en español para crear el evento del webinar con fecha y hora, e invitar facilmente a tu lista de contactos, para que nadie se olvide del dia.",
-                    "url": "https://support.google.com/calendar/answer/37161?hl=es"
-                }
-            }
-        }
+        "date":  "2026-08-08",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Hoy, en vez de buscar hacer algo productivo, prueba a dejarte llevar por la curiosidad pura: mira un video, lee un articulo o escucha algo solo porque te apetece saber mas, sin ninguna otra razon. Ese gesto tan sencillo, aunque ahora no puedas moverte como antes, sigue siendo una forma real de cuidar tu cerebro.",
+                                         "tags":  [
+                                                      "Curiosidad",
+                                                      "Autoconocimiento"
+                                                  ],
+                                         "aprendizaje":  "La neurociencia ha comprobado que cuando algo despierta tu curiosidad de verdad, el cerebro activa a la vez el sistema de recompensa y el hipocampo, la zona clave de la memoria. Por eso recuerdas mucho mejor lo que aprendes cuando antes sentiste ganas reales de saberlo, no solo obligacion.",
+                                         "frase":  {
+                                                       "texto":  "No tengo ningun talento especial. Solo soy apasionadamente curioso.",
+                                                       "autor":  "Albert Einstein"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "La curiosidad y el aprendizaje: de las neurociencias al aula",
+                                                         "resumen":  "Un articulo de ISEP repasa un estudio de la Universidad de California que muestra como los momentos de alta curiosidad activan a la vez el sistema de recompensa y el hipocampo, mejorando la retencion de lo aprendido: resolver un reto que despierta curiosidad libera dopamina, y esa dopamina refuerza la memoria de lo vivido justo en ese momento.",
+                                                         "url":  "https://www.isep.es/actualidad/curiosidad-y-aprendizaje/"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Hoy comparte con tu audiencia algo que aprendiste con los años: que no toda correccion ayuda, y que a veces el mayor regalo que le puedes hacer a alguien es dejar que su propio cuerpo encuentre la postura, sin intervenir en cada detalle.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "Oficio"
+                                             ],
+                                    "guion":  "GANCHO: \"Durante mis primeros años dando clases, corregia cada detalle. Ahora se que eso, a veces, es lo peor que puedo hacer.\"\n\nCUERPO: Al principio creia que mi trabajo era ajustar cada postura hasta que quedara perfecta: un brazo mas alto, una rodilla mas alineada, la espalda mas recta. Con el tiempo entendi que esa correccion constante interrumpe algo mas importante: que la propia alumna encuentre, sola y a su ritmo, como se siente bien en su cuerpo. Aprendi a mirar mas y hablar menos, y a fiarme de que el cuerpo tambien sabe aprender solo, si le doy tiempo.\n\nCIERRE: Si alguna vez sentiste que corregir demasiado apagaba algo en quien tenias delante, no eras tu exagerando. Es una de las cosas mas dificiles de este oficio: saber cuando ayudar y cuando simplemente confiar.",
+                                    "referente":  {
+                                                      "nombre":  "Rafael Bisquerra",
+                                                      "porque":  "Catedratico emerito de la Universidad de Barcelona y fundador del GROP, referente en educacion emocional en español, cuyo trabajo explica por que el acompañamiento emocional (y no solo la correccion tecnica) es clave para que cualquier aprendizaje, tambien el del movimiento, quede de verdad."
+                                                  },
+                                    "mensajeWhatsapp":  "Hola a todas! Hoy pensaba en algo que aprendi dando clases con los años: que no toda correccion ayuda, y que a veces el mayor regalo es dejar que cada una encuentre su propio ritmo, sin que yo intervenga en cada detalle. Creo que eso es tambien lo que quiero que se sienta en Neuroalma, un espacio para confiar en lo que cada una ya sabe, no solo para corregir. Un abrazo grande 🌿"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Dedica 15-20 minutos a escribir el mensaje de invitacion al webinar de lanzamiento que enviaras a tu lista de contactos y a tu comunidad de WhatsApp: que van a aprender en la sesion en directo, cuando es exactamente, y como apuntarse.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "Lanzamiento"
+                                                 ],
+                                        "aprendizaje":  "En un lanzamiento pequeño como el tuyo, una invitacion personal enviada por WhatsApp o email suele funcionar mucho mejor que un anuncio general en redes: la gente responde mas a una invitacion que siente dirigida a ella que a un mensaje lanzado al aire.",
+                                        "recurso":  {
+                                                        "titulo":  "Invitar a personas a un evento de Google Calendar",
+                                                        "tipo":  "guia",
+                                                        "porque":  "Guia oficial y en español para crear el evento del webinar con fecha y hora, e invitar facilmente a tu lista de contactos, para que nadie se olvide del dia.",
+                                                        "url":  "https://support.google.com/calendar/answer/37161?hl=es"
+                                                    }
+                                    }
+                  }
+    },
+    {
+        "date":  "2026-08-10",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Hoy, en vez de pensar solo en tu propia recuperacion, dedica un momento a recordar algo que ya sabes muy bien de tu oficio: que sostener el estado emocional de un grupo, sin desbordarte tu misma, es una de las formas mas finas de liderazgo que existen. No hace falta estar dando clase para seguir afinando esa mirada.",
+                                         "tags":  [
+                                                      "Pedagogía",
+                                                      "Liderazgo emocional"
+                                                  ],
+                                         "aprendizaje":  "En el mundo educativo se habla cada vez mas de liderazgo emocional: la capacidad de una docente o formadora de regular su propio estado antes de intentar regular el de un grupo. Una profesional emocionalmente agotada dificilmente puede sostener bien el ritmo que exige acompañar a otras personas, asi que cuidar tu propia calma tambien es parte del oficio, no un extra.",
+                                         "frase":  {
+                                                       "texto":  "Enseñamos lo que somos.",
+                                                       "autor":  "Parker J. Palmer"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "El liderazgo emocional gana importancia en el ámbito educativo",
+                                                         "resumen":  "El articulo recoge como cada vez mas docentes y formadores sienten que gran parte de su dia consiste en gestionar las emociones del grupo mientras intentan regular las suyas propias, y por que el liderazgo emocional (saber sostener la propia calma antes de sostener la de otros) se esta convirtiendo en una competencia clave en la educacion.",
+                                                         "url":  "https://periodicoclm.publico.es/articulo/comunicados/liderazgo-emocional-docentes-importancia-educacion-cursos-rededuca/20260524232448030350.html"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Hoy comparte con tu audiencia algo de tu oficio que casi nunca se nombra: que antes de calmar a un grupo, primero tienes que calmarte tu, y que eso tambien se entrena. No hace falta contar una situacion concreta, basta con nombrar esa parte invisible del trabajo de acompañar.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "Oficio"
+                                             ],
+                                    "guion":  "GANCHO: \"Nadie te cuenta que para calmar a un grupo, primero tienes que calmarte tu.\"\n\nCUERPO: Durante mis primeros años dando clases, creia que mi trabajo era tener siempre la voz firme y el gesto seguro, pasara lo que pasara por dentro. Con el tiempo entendi que el grupo no necesitaba una version perfecta de mi, necesitaba una version tranquila. Y esa calma no aparecia sola: era algo que yo tenia que encontrar primero, en silencio, antes de abrir la boca para guiar a nadie.\n\nCIERRE: Si alguna vez sentiste que acompañar a otras personas te pedia estar bien tu primero, no es egoismo. Es la base de todo lo demas.",
+                                    "referente":  {
+                                                      "nombre":  "Silvia Álava Sordo",
+                                                      "porque":  "Psicologa española especializada en gestion emocional en el ambito educativo y familiar, con un lenguaje claro y accesible sobre como los adultos que acompañan a otros (docentes, madres, formadoras) necesitan regular su propio estado antes de poder ayudar a regular el de los demas."
+                                                  },
+                                    "mensajeWhatsapp":  "Hola a todas! Hoy pensaba en algo que llevo años aprendiendo dando clases: que para transmitir calma a un grupo, primero tengo que encontrarla yo, aunque por dentro no siempre este tan segura. Creo que eso es tambien lo que quiero que sintais en Neuroalma, un espacio sostenido desde la calma real, no desde la perfeccion. Un abrazo grande 🌿"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Dedica 15 minutos a preparar el mensaje recordatorio que enviaras el mismo dia del webinar de lanzamiento, unas horas antes de que empiece, a quienes ya se han apuntado: la hora, el enlace bien visible, y una frase cercana para darles ganas de estar ahi.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "Lanzamiento"
+                                                 ],
+                                        "aprendizaje":  "El olvido es la causa principal de las ausencias a eventos en directo, y un recordatorio enviado el mismo dia suele ser mucho mas eficaz que uno enviado dias antes: llega justo cuando la persona esta organizando su tarde, no cuando todavia falta tiempo para olvidarlo.",
+                                        "recurso":  {
+                                                        "titulo":  "15 formas de aumentar la tasa de asistencia a eventos",
+                                                        "tipo":  "articulo",
+                                                        "porque":  "Recoge tacticas practicas y sencillas para reducir las ausencias de ultima hora en un evento en directo, utiles para asegurar que quienes se apunten al webinar de lanzamiento de Neuroalma realmente se conecten.",
+                                                        "url":  "https://www.calen.events/es/blog/event-attendance-rate-tips"
+                                                    }
+                                    }
+                  }
     }
 ]

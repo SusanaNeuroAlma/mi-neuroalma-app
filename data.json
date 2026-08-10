@@ -3,40 +3,40 @@
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Hoy, en vez de pensar solo en tu propia recuperacion, dedica un momento a recordar algo que ya sabes muy bien de tu oficio: que sostener el estado emocional de un grupo, sin desbordarte tu misma, es una de las formas mas finas de liderazgo que existen. No hace falta estar dando clase para seguir afinando esa mirada.",
-      "tags": ["Pedagogía", "Liderazgo emocional"],
-      "aprendizaje": "En el mundo educativo se habla cada vez mas de liderazgo emocional: la capacidad de una docente o formadora de regular su propio estado antes de intentar regular el de un grupo. Una profesional emocionalmente agotada dificilmente puede sostener bien el ritmo que exige acompañar a otras personas, asi que cuidar tu propia calma tambien es parte del oficio, no un extra.",
+      "idea": "Hoy dedica un minuto a notar, sin juzgar nada, alguna señal que tu cuerpo te esté mandando ahora mismo: tensión en los hombros, cansancio, hambre, calma. No hace falta hacer nada con esa señal, solo darte cuenta de que está ahí ya es un pequeño ejercicio de autoconocimiento.",
+      "tags": ["Autoconocimiento", "Interocepción"],
+      "aprendizaje": "A la capacidad de percibir las señales internas del propio cuerpo (el latido del corazón, la respiración, la tensión muscular) se le llama interocepción, y la neurociencia la considera casi un sexto sentido. Cuanto más entrenada la tienes, más fácil te resulta reconocer una emoción antes de que te desborde, porque la sientes en el cuerpo antes incluso de ponerle nombre.",
       "frase": {
-        "texto": "Enseñamos lo que somos.",
-        "autor": "Parker J. Palmer"
+        "texto": "La autocompasión consiste en tratarte a ti misma con la misma amabilidad y comprensión que le ofrecerías a una buena amiga.",
+        "autor": "Kristin Neff"
       },
       "noticia": {
-        "titulo": "El liderazgo emocional gana importancia en el ámbito educativo",
-        "resumen": "El articulo recoge como cada vez mas docentes y formadores sienten que gran parte de su dia consiste en gestionar las emociones del grupo mientras intentan regular las suyas propias, y por que el liderazgo emocional (saber sostener la propia calma antes de sostener la de otros) se esta convirtiendo en una competencia clave en la educacion.",
-        "url": "https://periodicoclm.publico.es/articulo/comunicados/liderazgo-emocional-docentes-importancia-educacion-cursos-rededuca/20260524232448030350.html"
+        "titulo": "¿Qué es la interocepción? El desconocido sexto sentido que todos llevan dentro",
+        "resumen": "El artículo explica que, además de los cinco sentidos clásicos, el cerebro cuenta con un sexto sentido interno llamado interocepción: la capacidad de percibir señales del propio cuerpo como el ritmo del corazón, la respiración o el hambre. Esta capacidad da forma a las emociones, a la toma de decisiones y hasta al sentido de identidad, y mejora con la práctica.",
+        "url": "https://www.latercera.com/que-pasa/noticia/que-es-la-interocepcion-el-desconocido-sexto-sentido-que-todos-llevan-dentro/3XCQLDUZQBDKRDXAMLVQCNH3VQ/"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia algo de tu oficio que casi nunca se nombra: que antes de calmar a un grupo, primero tienes que calmarte tu, y que eso tambien se entrena. No hace falta contar una situacion concreta, basta con nombrar esa parte invisible del trabajo de acompañar.",
-      "tags": ["Contenido", "Oficio"],
-      "guion": "GANCHO: \"Nadie te cuenta que para calmar a un grupo, primero tienes que calmarte tu.\"\n\nCUERPO: Durante mis primeros años dando clases, creia que mi trabajo era tener siempre la voz firme y el gesto seguro, pasara lo que pasara por dentro. Con el tiempo entendi que el grupo no necesitaba una version perfecta de mi, necesitaba una version tranquila. Y esa calma no aparecia sola: era algo que yo tenia que encontrar primero, en silencio, antes de abrir la boca para guiar a nadie.\n\nCIERRE: Si alguna vez sentiste que acompañar a otras personas te pedia estar bien tu primero, no es egoismo. Es la base de todo lo demas.",
+      "idea": "Hoy comparte con tu audiencia algo sencillo sobre escuchar al cuerpo: que antes de forzar cualquier postura o gesto, primero hay que aprender a notar lo que el cuerpo está pidiendo de verdad. No hace falta hablar de tu lesión en concreto, basta con nombrar esa escucha como parte del oficio.",
+      "tags": ["Contenido", "Escucha corporal"],
+      "guion": "GANCHO: \"Antes de enseñar a nadie a moverse, tuve que aprender a escuchar mi propio cuerpo.\"\n\nCUERPO: Durante años di por hecho que sabía escuchar mi cuerpo, hasta que una pausa obligada me enseñó lo contrario: cuánto había aprendido a ignorar señales pequeñas con tal de seguir el ritmo que tocaba ese día. Ahora, cada vez que noto tensión, cansancio o calma, intento pararme un segundo antes de decidir qué hacer con ello. Es un ejercicio sencillo, pero cambia por completo la relación con el propio cuerpo.\n\nCIERRE: La próxima vez que tu cuerpo te mande una señal pequeña, antes de ignorarla, prueba solo a notarla. A veces ese es todo el trabajo.",
       "referente": {
-        "nombre": "Silvia Álava Sordo",
-        "porque": "Psicologa española especializada en gestion emocional en el ambito educativo y familiar, con un lenguaje claro y accesible sobre como los adultos que acompañan a otros (docentes, madres, formadoras) necesitan regular su propio estado antes de poder ayudar a regular el de los demas."
+        "nombre": "Nazareth Castellanos",
+        "porque": "Neurocientífica española, autora de 'El espejo del cerebro' y 'Neurociencia del cuerpo', que investiga cómo escuchar las señales internas del cuerpo mejora la regulación emocional y el autoconocimiento, con un lenguaje accesible que conecta ciencia y prácticas como el yoga o la meditación."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo que llevo años aprendiendo dando clases: que para transmitir calma a un grupo, primero tengo que encontrarla yo, aunque por dentro no siempre este tan segura. Creo que eso es tambien lo que quiero que sintais en Neuroalma, un espacio sostenido desde la calma real, no desde la perfeccion. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo sencillo: cuanto mejor aprendemos a escuchar las pequeñas señales de nuestro cuerpo, más fácil nos resulta cuidarnos antes de llegar al límite. Es algo que quiero seguir explorando con vosotras en Neuroalma, esa escucha que muchas veces se nos olvida entrenar. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15 minutos a preparar el mensaje recordatorio que enviaras el mismo dia del webinar de lanzamiento, unas horas antes de que empiece, a quienes ya se han apuntado: la hora, el enlace bien visible, y una frase cercana para darles ganas de estar ahi.",
+      "idea": "Dedica 15-20 minutos a escribir el mensaje que enviarás justo después del webinar de lanzamiento a quienes hayan asistido: agradéceles su tiempo, recuérdales el enlace para apuntarse a Neuroalma y la fecha límite de inscripción.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "El olvido es la causa principal de las ausencias a eventos en directo, y un recordatorio enviado el mismo dia suele ser mucho mas eficaz que uno enviado dias antes: llega justo cuando la persona esta organizando su tarde, no cuando todavia falta tiempo para olvidarlo.",
+      "aprendizaje": "El interés de alguien que acaba de ver tu webinar está en su punto más alto justo al terminar la sesión, no días después. Por eso conviene tener ese mensaje de agradecimiento y recordatorio ya escrito de antemano, para poder enviarlo enseguida en vez de dejar que ese impulso se enfríe.",
       "recurso": {
-        "titulo": "15 formas de aumentar la tasa de asistencia a eventos",
-        "tipo": "articulo",
-        "porque": "Recoge tacticas practicas y sencillas para reducir las ausencias de ultima hora en un evento en directo, utiles para asegurar que quienes se apunten al webinar de lanzamiento de Neuroalma realmente se conecten.",
-        "url": "https://www.calen.events/es/blog/event-attendance-rate-tips"
+        "titulo": "¿Cómo redactar un correo de agradecimiento después de un evento?",
+        "tipo": "artículo",
+        "porque": "Explica en español qué elementos no pueden faltar en un mensaje de agradecimiento tras un evento en directo, útil para el mensaje que enviarás a quienes asistan al webinar de lanzamiento de Neuroalma.",
+        "url": "https://weezevent.com/es/blog/e-mail-agradecimiento-perfecto/"
       }
     }
   }

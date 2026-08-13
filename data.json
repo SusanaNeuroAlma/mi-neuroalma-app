@@ -1,42 +1,42 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-13",
   "zones": {
     "desarrollo": {
       "title": "Desarrollo personal",
-      "idea": "Hoy dedica un minuto a notar, sin juzgar nada, alguna señal que tu cuerpo te esté mandando ahora mismo: tensión en los hombros, cansancio, hambre, calma. No hace falta hacer nada con esa señal, solo darte cuenta de que está ahí ya es un pequeño ejercicio de autoconocimiento.",
-      "tags": ["Autoconocimiento", "Interocepción"],
-      "aprendizaje": "A la capacidad de percibir las señales internas del propio cuerpo (el latido del corazón, la respiración, la tensión muscular) se le llama interocepción, y la neurociencia la considera casi un sexto sentido. Cuanto más entrenada la tienes, más fácil te resulta reconocer una emoción antes de que te desborde, porque la sientes en el cuerpo antes incluso de ponerle nombre.",
+      "idea": "Hoy, aunque no estés dando clase, puedes seguir afinando algo muy tuyo: la forma en que tu voz cambia según lo que quieres transmitir. Prueba a decir una misma frase en voz alta con distintos tonos (más suave, más firme, más lento) y nota cómo cambia lo que sientes tú misma al decirla.",
+      "tags": ["Pedagogía", "Voz"],
+      "aprendizaje": "En la enseñanza de disciplinas como el yoga, el pilates o el taichí, el tono de voz no es un detalle menor: un tono suave y pausado invita al grupo a bajar el ritmo, mientras que uno firme y claro da seguridad en los momentos que piden más atención. Aprender a moverse entre esos registros es tan parte del oficio como conocer las posturas.",
       "frase": {
-        "texto": "La autocompasión consiste en tratarte a ti misma con la misma amabilidad y comprensión que le ofrecerías a una buena amiga.",
-        "autor": "Kristin Neff"
+        "texto": "Enseñar no es transferir conocimiento, sino crear las posibilidades para su construcción.",
+        "autor": "Paulo Freire"
       },
       "noticia": {
-        "titulo": "¿Qué es la interocepción? El desconocido sexto sentido que todos llevan dentro",
-        "resumen": "El artículo explica que, además de los cinco sentidos clásicos, el cerebro cuenta con un sexto sentido interno llamado interocepción: la capacidad de percibir señales del propio cuerpo como el ritmo del corazón, la respiración o el hambre. Esta capacidad da forma a las emociones, a la toma de decisiones y hasta al sentido de identidad, y mejora con la práctica.",
-        "url": "https://www.latercera.com/que-pasa/noticia/que-es-la-interocepcion-el-desconocido-sexto-sentido-que-todos-llevan-dentro/3XCQLDUZQBDKRDXAMLVQCNH3VQ/"
+        "titulo": "Un adecuado tono de voz ayuda al alumno en su aprendizaje y participación en el aula",
+        "resumen": "El artículo recoge cómo el tono de voz de quien enseña influye directamente en el ambiente de la clase: un tono cálido y positivo mejora la motivación y la participación, mientras que un tono duro genera tensión. También explica que el tono transmite emociones y actitudes, a veces con más peso que las propias palabras.",
+        "url": "https://exitoeducativo.net/actualidad-directiva/un-adecuado-tono-de-voz-ayuda-al-alumno-en-su-aprendizaje-y-participacion-en-el-aula"
       }
     },
     "marca": {
       "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia algo sencillo sobre escuchar al cuerpo: que antes de forzar cualquier postura o gesto, primero hay que aprender a notar lo que el cuerpo está pidiendo de verdad. No hace falta hablar de tu lesión en concreto, basta con nombrar esa escucha como parte del oficio.",
-      "tags": ["Contenido", "Escucha corporal"],
-      "guion": "GANCHO: \"Antes de enseñar a nadie a moverse, tuve que aprender a escuchar mi propio cuerpo.\"\n\nCUERPO: Durante años di por hecho que sabía escuchar mi cuerpo, hasta que una pausa obligada me enseñó lo contrario: cuánto había aprendido a ignorar señales pequeñas con tal de seguir el ritmo que tocaba ese día. Ahora, cada vez que noto tensión, cansancio o calma, intento pararme un segundo antes de decidir qué hacer con ello. Es un ejercicio sencillo, pero cambia por completo la relación con el propio cuerpo.\n\nCIERRE: La próxima vez que tu cuerpo te mande una señal pequeña, antes de ignorarla, prueba solo a notarla. A veces ese es todo el trabajo.",
+      "idea": "Hoy comparte con tu audiencia algo de tu oficio que casi nadie nombra: que la voz que usas al enseñar no siempre es la misma que la de fuera del aula, y que aprender a modularla también se entrena. No hace falta grabarte enseñando ahora mismo, basta con contarlo con tus palabras.",
+      "tags": ["Contenido", "Voz"],
+      "guion": "GANCHO: \"Mi voz de dar clase no es la misma que mi voz de todos los días.\"\n\nCUERPO: Cuando empecé a enseñar, hablaba igual que en cualquier conversación, y notaba que costaba que el grupo bajara el ritmo conmigo. Con los años aprendí a jugar con la voz a propósito: más lenta y suave para invitar a la calma, más clara y firme cuando tocaba dar una instrucción importante. No es impostar nada, es un recurso más, como la respiración o la mirada.\n\nCIERRE: Si alguna vez notaste que una profesora te calmaba solo con cómo hablaba, no era casualidad. Era años de oficio metidos en cada palabra.",
       "referente": {
-        "nombre": "Nazareth Castellanos",
-        "porque": "Neurocientífica española, autora de 'El espejo del cerebro' y 'Neurociencia del cuerpo', que investiga cómo escuchar las señales internas del cuerpo mejora la regulación emocional y el autoconocimiento, con un lenguaje accesible que conecta ciencia y prácticas como el yoga o la meditación."
+        "nombre": "Marisa Moya",
+        "porque": "Profesora de yoga española y directora de Yoga en Red, referente en la formación de profesorado de yoga en español, con un enfoque centrado en cómo se transmite y se enseña, más allá de la técnica de las posturas."
       },
-      "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo sencillo: cuanto mejor aprendemos a escuchar las pequeñas señales de nuestro cuerpo, más fácil nos resulta cuidarnos antes de llegar al límite. Es algo que quiero seguir explorando con vosotras en Neuroalma, esa escucha que muchas veces se nos olvida entrenar. Un abrazo grande 🌿"
+      "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo curioso: parece que el tono de voz con el que explicamos algo puede influir tanto como las palabras que usamos, hasta el punto de cambiar cómo se siente quien escucha. Me hace pensar en cuántas profesoras (o madres, o amigas) nos han calmado solo con su forma de hablar, sin decir nada especial. Un abrazo grande 🌿"
     },
     "neuroalma": {
       "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a escribir el mensaje que enviarás justo después del webinar de lanzamiento a quienes hayan asistido: agradéceles su tiempo, recuérdales el enlace para apuntarse a Neuroalma y la fecha límite de inscripción.",
+      "idea": "Dedica 15-20 minutos a preparar tu presentación de un minuto para abrir el webinar de lanzamiento: quién eres, por qué haces esto y qué van a encontrar en la sesión. No hace falta memorizarla palabra por palabra, solo tener claro el hilo.",
       "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "El interés de alguien que acaba de ver tu webinar está en su punto más alto justo al terminar la sesión, no días después. Por eso conviene tener ese mensaje de agradecimiento y recordatorio ya escrito de antemano, para poder enviarlo enseguida en vez de dejar que ese impulso se enfríe.",
+      "aprendizaje": "En un webinar en directo, los primeros minutos son los que deciden si quien te escucha se queda relajada o expectante. Tener claro, aunque sea mentalmente, cómo vas a presentarte te da seguridad, y esa seguridad se nota en la voz mucho más que el contenido exacto de lo que dices.",
       "recurso": {
-        "titulo": "¿Cómo redactar un correo de agradecimiento después de un evento?",
+        "titulo": "Aprende paso a paso cómo hacer un webinar con esta guía",
         "tipo": "artículo",
-        "porque": "Explica en español qué elementos no pueden faltar en un mensaje de agradecimiento tras un evento en directo, útil para el mensaje que enviarás a quienes asistan al webinar de lanzamiento de Neuroalma.",
-        "url": "https://weezevent.com/es/blog/e-mail-agradecimiento-perfecto/"
+        "porque": "Guía en español con consejos prácticos sobre cómo preparar y presentar un webinar en directo, útil para dar forma a los primeros minutos del webinar de lanzamiento de Neuroalma.",
+        "url": "https://josefacchin.com/como-hacer-un-webinar/"
       }
     }
   }

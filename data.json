@@ -1,43 +1,52 @@
 {
-  "date": "2026-08-13",
-  "zones": {
-    "desarrollo": {
-      "title": "Desarrollo personal",
-      "idea": "Hoy, aunque no estés dando clase, puedes seguir afinando algo muy tuyo: la forma en que tu voz cambia según lo que quieres transmitir. Prueba a decir una misma frase en voz alta con distintos tonos (más suave, más firme, más lento) y nota cómo cambia lo que sientes tú misma al decirla.",
-      "tags": ["Pedagogía", "Voz"],
-      "aprendizaje": "En la enseñanza de disciplinas como el yoga, el pilates o el taichí, el tono de voz no es un detalle menor: un tono suave y pausado invita al grupo a bajar el ritmo, mientras que uno firme y claro da seguridad en los momentos que piden más atención. Aprender a moverse entre esos registros es tan parte del oficio como conocer las posturas.",
-      "frase": {
-        "texto": "Enseñar no es transferir conocimiento, sino crear las posibilidades para su construcción.",
-        "autor": "Paulo Freire"
-      },
-      "noticia": {
-        "titulo": "Un adecuado tono de voz ayuda al alumno en su aprendizaje y participación en el aula",
-        "resumen": "El artículo recoge cómo el tono de voz de quien enseña influye directamente en el ambiente de la clase: un tono cálido y positivo mejora la motivación y la participación, mientras que un tono duro genera tensión. También explica que el tono transmite emociones y actitudes, a veces con más peso que las propias palabras.",
-        "url": "https://exitoeducativo.net/actualidad-directiva/un-adecuado-tono-de-voz-ayuda-al-alumno-en-su-aprendizaje-y-participacion-en-el-aula"
-      }
-    },
-    "marca": {
-      "title": "Marca personal",
-      "idea": "Hoy comparte con tu audiencia algo de tu oficio que casi nadie nombra: que la voz que usas al enseñar no siempre es la misma que la de fuera del aula, y que aprender a modularla también se entrena. No hace falta grabarte enseñando ahora mismo, basta con contarlo con tus palabras.",
-      "tags": ["Contenido", "Voz"],
-      "guion": "GANCHO: \"Mi voz de dar clase no es la misma que mi voz de todos los días.\"\n\nCUERPO: Cuando empecé a enseñar, hablaba igual que en cualquier conversación, y notaba que costaba que el grupo bajara el ritmo conmigo. Con los años aprendí a jugar con la voz a propósito: más lenta y suave para invitar a la calma, más clara y firme cuando tocaba dar una instrucción importante. No es impostar nada, es un recurso más, como la respiración o la mirada.\n\nCIERRE: Si alguna vez notaste que una profesora te calmaba solo con cómo hablaba, no era casualidad. Era años de oficio metidos en cada palabra.",
-      "referente": {
-        "nombre": "Marisa Moya",
-        "porque": "Profesora de yoga española y directora de Yoga en Red, referente en la formación de profesorado de yoga en español, con un enfoque centrado en cómo se transmite y se enseña, más allá de la técnica de las posturas."
-      },
-      "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo curioso: parece que el tono de voz con el que explicamos algo puede influir tanto como las palabras que usamos, hasta el punto de cambiar cómo se siente quien escucha. Me hace pensar en cuántas profesoras (o madres, o amigas) nos han calmado solo con su forma de hablar, sin decir nada especial. Un abrazo grande 🌿"
-    },
-    "neuroalma": {
-      "title": "Neuroalma",
-      "idea": "Dedica 15-20 minutos a preparar tu presentación de un minuto para abrir el webinar de lanzamiento: quién eres, por qué haces esto y qué van a encontrar en la sesión. No hace falta memorizarla palabra por palabra, solo tener claro el hilo.",
-      "tags": ["Idea", "Lanzamiento"],
-      "aprendizaje": "En un webinar en directo, los primeros minutos son los que deciden si quien te escucha se queda relajada o expectante. Tener claro, aunque sea mentalmente, cómo vas a presentarte te da seguridad, y esa seguridad se nota en la voz mucho más que el contenido exacto de lo que dices.",
-      "recurso": {
-        "titulo": "Aprende paso a paso cómo hacer un webinar con esta guía",
-        "tipo": "artículo",
-        "porque": "Guía en español con consejos prácticos sobre cómo preparar y presentar un webinar en directo, útil para dar forma a los primeros minutos del webinar de lanzamiento de Neuroalma.",
-        "url": "https://josefacchin.com/como-hacer-un-webinar/"
-      }
-    }
-  }
+    "date":  "2026-08-13",
+    "zones":  {
+                  "desarrollo":  {
+                                     "title":  "Desarrollo personal",
+                                     "idea":  "Hoy prueba un ejercicio sencillo: cierra los ojos un minuto y pregúntate, sin buscar una respuesta perfecta, qué sensación predomina ahora mismo en tu cuerpo (calma, tensión, cansancio, ligereza). No hace falta cambiar nada, solo nombrarlo. Ese simple gesto de escucharte ya es un acto de cuidado.",
+                                     "tags":  [
+                                                  "Interocepción",
+                                                  "Autoconocimiento"
+                                              ],
+                                     "aprendizaje":  "A esa capacidad de percibir las señales internas del cuerpo (el latido, la respiración, la tensión muscular) se le llama interocepción, y viaja en gran parte por el nervio vago hasta el cerebro. Cuanto más se entrena esa escucha interna, antes se detecta el estrés, algo que la neurociencia relaciona directamente con una mejor regulación emocional.",
+                                     "frase":  {
+                                                   "texto":  "La buena vida es un proceso, no un estado del ser.",
+                                                   "autor":  "Carl Rogers"
+                                               },
+                                     "noticia":  {
+                                                     "titulo":  "Interocepción: escuchar al propio cuerpo",
+                                                     "resumen":  "El artículo explica que la interocepción es el mecanismo por el que el sistema nervioso detecta señales internas como el ritmo cardíaco, la respiración o la tensión muscular, y por qué entrenar esa escucha ayuda a regular mejor las emociones y a cuidar la salud mental.",
+                                                     "url":  "https://psicologiaymente.com/neurociencias/interocepcion"
+                                                 }
+                                 },
+                  "marca":  {
+                                "title":  "Marca personal",
+                                "idea":  "Hoy cuéntale a tu audiencia algo que quizás nunca has nombrado: que enseñar a otras a escuchar su cuerpo empieza por practicar tú misma esa escucha, sobre todo ahora que tu cuerpo te está pidiendo atención de otra manera. No hace falta dar detalles médicos, basta con compartir la reflexión.",
+                                "tags":  [
+                                             "Contenido",
+                                             "Autoconocimiento"
+                                         ],
+                                "guion":  "GANCHO: \"Llevo años enseñando a otras a escuchar su cuerpo. Este año me tocó aprender a escuchar el mío.\"\n\nCUERPO: Antes daba por hecho que sabía leer las señales de mi cuerpo, total, era mi trabajo enseñarlo. Pero una cosa es explicarlo desde fuera y otra muy distinta es pararte de verdad a notar qué sientes cuando tu cuerpo cambia de ritmo sin que tú lo elijas. He tenido que aprender, otra vez, a preguntarme qué necesito hoy en lugar de dar por hecho la respuesta.\n\nCIERRE: Si tú también das por hecho que ya sabes escuchar tu cuerpo, prueba a preguntarle algo hoy. A veces la respuesta sorprende.",
+                                "referente":  {
+                                                  "nombre":  "Roberto Aguado",
+                                                  "porque":  "Psiquiatra español, director del Instituto Language and Emotion, divulga en español cómo el cerebro gestiona las emociones y cómo aplicarlo a la educación y el acompañamiento de grupos, con un lenguaje claro y accesible."
+                                              },
+                                "mensajeWhatsapp":  "Hola a todas! Hoy leía sobre algo que se llama interocepción: la capacidad de escuchar las señales de dentro del cuerpo, el latido, la respiración, la tensión. Parece que cuanto más se entrena esa escucha interna, más fácil resulta regular las emociones antes de que se disparen. Si hoy tenéis un minuto, probad a preguntaros simplemente cómo está vuestro cuerpo ahora mismo, sin cambiar nada, solo notarlo. Un abrazo grande 🌿"
+                            },
+                  "neuroalma":  {
+                                    "title":  "Neuroalma",
+                                    "idea":  "Dedica 15-20 minutos a escribir tu biografía corta para la página de ventas de Neuroalma: quién eres, tu experiencia como profesora de yoga, pilates y taichí, y por qué creaste este proyecto. No hace falta que sea perfecta, solo que suene a ti.",
+                                    "tags":  [
+                                                 "Idea",
+                                                 "Lanzamiento"
+                                             ],
+                                    "aprendizaje":  "Cuando el lanzamiento es pequeño, no hace falta ningún programa de gestión complicado: una hoja de cálculo sencilla con el nombre, el email y la fecha de inscripción de cada alumna es más que suficiente para llevar el control mientras Neuroalma da sus primeros pasos.",
+                                    "recurso":  {
+                                                    "titulo":  "Cómo escribir una biografía profesional que abra puertas (no las cierre)",
+                                                    "tipo":  "artículo",
+                                                    "porque":  "Guía en español con consejos prácticos sobre qué incluir y qué evitar al escribir una biografía profesional para una página web, útil para redactar la tuya en la página de ventas de Neuroalma.",
+                                                    "url":  "https://elementor.com/blog/es/como-escribir-una-biografia-profesional-que-abra-puertas-no-las-cierre/"
+                                                }
+                                }
+              }
 }

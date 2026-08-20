@@ -1,52 +1,43 @@
 {
-    "date":  "2026-08-13",
-    "zones":  {
-                  "desarrollo":  {
-                                     "title":  "Desarrollo personal",
-                                     "idea":  "Hoy prueba un ejercicio sencillo: cierra los ojos un minuto y pregúntate, sin buscar una respuesta perfecta, qué sensación predomina ahora mismo en tu cuerpo (calma, tensión, cansancio, ligereza). No hace falta cambiar nada, solo nombrarlo. Ese simple gesto de escucharte ya es un acto de cuidado.",
-                                     "tags":  [
-                                                  "Interocepción",
-                                                  "Autoconocimiento"
-                                              ],
-                                     "aprendizaje":  "A esa capacidad de percibir las señales internas del cuerpo (el latido, la respiración, la tensión muscular) se le llama interocepción, y viaja en gran parte por el nervio vago hasta el cerebro. Cuanto más se entrena esa escucha interna, antes se detecta el estrés, algo que la neurociencia relaciona directamente con una mejor regulación emocional.",
-                                     "frase":  {
-                                                   "texto":  "La buena vida es un proceso, no un estado del ser.",
-                                                   "autor":  "Carl Rogers"
-                                               },
-                                     "noticia":  {
-                                                     "titulo":  "Interocepción: escuchar al propio cuerpo",
-                                                     "resumen":  "El artículo explica que la interocepción es el mecanismo por el que el sistema nervioso detecta señales internas como el ritmo cardíaco, la respiración o la tensión muscular, y por qué entrenar esa escucha ayuda a regular mejor las emociones y a cuidar la salud mental.",
-                                                     "url":  "https://psicologiaymente.com/neurociencias/interocepcion"
-                                                 }
-                                 },
-                  "marca":  {
-                                "title":  "Marca personal",
-                                "idea":  "Hoy cuéntale a tu audiencia algo que quizás nunca has nombrado: que enseñar a otras a escuchar su cuerpo empieza por practicar tú misma esa escucha, sobre todo ahora que tu cuerpo te está pidiendo atención de otra manera. No hace falta dar detalles médicos, basta con compartir la reflexión.",
-                                "tags":  [
-                                             "Contenido",
-                                             "Autoconocimiento"
-                                         ],
-                                "guion":  "GANCHO: \"Llevo años enseñando a otras a escuchar su cuerpo. Este año me tocó aprender a escuchar el mío.\"\n\nCUERPO: Antes daba por hecho que sabía leer las señales de mi cuerpo, total, era mi trabajo enseñarlo. Pero una cosa es explicarlo desde fuera y otra muy distinta es pararte de verdad a notar qué sientes cuando tu cuerpo cambia de ritmo sin que tú lo elijas. He tenido que aprender, otra vez, a preguntarme qué necesito hoy en lugar de dar por hecho la respuesta.\n\nCIERRE: Si tú también das por hecho que ya sabes escuchar tu cuerpo, prueba a preguntarle algo hoy. A veces la respuesta sorprende.",
-                                "referente":  {
-                                                  "nombre":  "Roberto Aguado",
-                                                  "porque":  "Psiquiatra español, director del Instituto Language and Emotion, divulga en español cómo el cerebro gestiona las emociones y cómo aplicarlo a la educación y el acompañamiento de grupos, con un lenguaje claro y accesible."
-                                              },
-                                "mensajeWhatsapp":  "Hola a todas! Hoy leía sobre algo que se llama interocepción: la capacidad de escuchar las señales de dentro del cuerpo, el latido, la respiración, la tensión. Parece que cuanto más se entrena esa escucha interna, más fácil resulta regular las emociones antes de que se disparen. Si hoy tenéis un minuto, probad a preguntaros simplemente cómo está vuestro cuerpo ahora mismo, sin cambiar nada, solo notarlo. Un abrazo grande 🌿"
-                            },
-                  "neuroalma":  {
-                                    "title":  "Neuroalma",
-                                    "idea":  "Dedica 15-20 minutos a escribir tu biografía corta para la página de ventas de Neuroalma: quién eres, tu experiencia como profesora de yoga, pilates y taichí, y por qué creaste este proyecto. No hace falta que sea perfecta, solo que suene a ti.",
-                                    "tags":  [
-                                                 "Idea",
-                                                 "Lanzamiento"
-                                             ],
-                                    "aprendizaje":  "Cuando el lanzamiento es pequeño, no hace falta ningún programa de gestión complicado: una hoja de cálculo sencilla con el nombre, el email y la fecha de inscripción de cada alumna es más que suficiente para llevar el control mientras Neuroalma da sus primeros pasos.",
-                                    "recurso":  {
-                                                    "titulo":  "Cómo escribir una biografía profesional que abra puertas (no las cierre)",
-                                                    "tipo":  "artículo",
-                                                    "porque":  "Guía en español con consejos prácticos sobre qué incluir y qué evitar al escribir una biografía profesional para una página web, útil para redactar la tuya en la página de ventas de Neuroalma.",
-                                                    "url":  "https://elementor.com/blog/es/como-escribir-una-biografia-profesional-que-abra-puertas-no-las-cierre/"
-                                                }
-                                }
-              }
+    "date": "2026-08-20",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Si hoy notas prisa por sentir que ya deberías estar del todo recuperada, prueba a recordarte que lo pequeño y constante también cuenta, aunque no se note de un día para otro. No hace falta un gran paso, basta con sostener hoy ese hábito sencillo que ya estás cuidando: una pausa, una respiración calmada, un buen rato de descanso.",
+            "tags": ["Constancia", "Neuroplasticidad"],
+            "aprendizaje": "Según varios estudios recientes, lo que de verdad consolida cambios duraderos en el cerebro no son las grandes acciones puntuales, sino la repetición constante de gestos pequeños: cada vez que repites un hábito, por mínimo que parezca, refuerzas un circuito neuronal real. La paciencia, en ese sentido, es también una estrategia cerebral.",
+            "frase": {
+                "texto": "Caminante, no hay camino, se hace camino al andar.",
+                "autor": "Antonio Machado"
+            },
+            "noticia": {
+                "titulo": "Pequeñas victorias: cómo hábitos simples y constantes fortalecen tu cerebro y mejoran tu bienestar",
+                "resumen": "El artículo explica que acciones cotidianas como leer, observar o moverse actúan como estímulos que, repetidos con intención, activan la neuroplasticidad y elevan el ánimo. La repetición constante, aunque la acción sea mínima, es lo que consolida los nuevos circuitos neuronales.",
+                "url": "https://www.lanacion.com.ar/lifestyle/pequenas-victorias-como-habitos-simples-y-constantes-fortalecen-tu-cerebro-y-mejoran-tu-bienestar-nid13072025/"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Hoy cuéntale a tu audiencia que has estado unos días en silencio, y que eso no significa que el proyecto se haya parado por dentro. Volver a aparecer después de una pausa, sin disculparte de más, también es parte de mostrarte real.",
+            "tags": ["Contenido", "Constancia"],
+            "guion": "GANCHO: \"Llevo unos días en silencio. Y no, no ha sido porque todo esté yendo mal.\"\n\nCUERPO: A veces creemos que desaparecer un tiempo de redes hay que justificarlo con una gran explicación. La verdad es más sencilla: he necesitado esos días para descansar y seguir cuidándome, sin la presión de tener algo perfecto que contar. El proyecto ha seguido ahí, avanzando despacio por dentro, aunque no se viera nada por fuera.\n\nCIERRE: Si tú también sientes que un silencio necesita justificarse, prueba a soltar esa idea. A veces solo hace falta volver, sin más.",
+            "referente": {
+                "nombre": "Anabel González",
+                "porque": "Psiquiatra y psicoterapeuta española, especialista en trauma y terapia EMDR, con más de 50 mil seguidores en redes donde divulga sobre el cuidado de las emociones con un lenguaje cercano y sin tecnicismos."
+            },
+            "mensajeWhatsapp": "Hola a todas! Llevaba unos días en silencio por aquí, cuidándome un poco más despacio de lo habitual. Leía estos días que lo que de verdad cambia el cerebro no son los grandes gestos, sino los pequeños hábitos repetidos con constancia, aunque parezcan insignificantes. Así que si vosotras también estáis sosteniendo algo pequeño estos días, aunque no se note aún, contad conmigo para celebrarlo. Un abrazo grande 🌿"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Dedica 15-20 minutos a escribir un mensaje breve para las personas apuntadas a la lista de espera de Neuroalma, contándoles con honestidad que has estado unos días de pausa y en qué punto sigue el proyecto. No hace falta anunciar fecha cerrada todavía, solo mantener el contacto vivo.",
+            "tags": ["Idea", "Lanzamiento"],
+            "aprendizaje": "Cuando llevas unos días sin comunicarte con tu lista de espera, suele funcionar mejor un mensaje corto y honesto que explicar demasiado o desaparecer sin decir nada: la gente entiende las pausas mucho mejor que el silencio prolongado sin explicación.",
+            "recurso": {
+                "titulo": "Campañas de email de reactivación: 10 ejemplos, estrategias y templates",
+                "tipo": "artículo",
+                "porque": "Explica en español cómo retomar el contacto con una audiencia después de un periodo de inactividad, con ejemplos prácticos útiles para reactivar tu lista de espera de Neuroalma tras esta pausa.",
+                "url": "https://clevertap.com/es/blog/campanas-de-email-de-reactivacion-10-ejemplos-estrategias-y-templates/"
+            }
+        }
+    }
 }

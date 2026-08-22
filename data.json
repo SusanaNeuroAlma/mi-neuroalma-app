@@ -1,42 +1,42 @@
 {
-    "date": "2026-08-20",
+    "date": "2026-08-22",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Si hoy notas prisa por sentir que ya deberías estar del todo recuperada, prueba a recordarte que lo pequeño y constante también cuenta, aunque no se note de un día para otro. No hace falta un gran paso, basta con sostener hoy ese hábito sencillo que ya estás cuidando: una pausa, una respiración calmada, un buen rato de descanso.",
-            "tags": ["Constancia", "Neuroplasticidad"],
-            "aprendizaje": "Según varios estudios recientes, lo que de verdad consolida cambios duraderos en el cerebro no son las grandes acciones puntuales, sino la repetición constante de gestos pequeños: cada vez que repites un hábito, por mínimo que parezca, refuerzas un circuito neuronal real. La paciencia, en ese sentido, es también una estrategia cerebral.",
+            "idea": "Aunque tu cuerpo esté en pausa, hoy puedes repasar algo muy tuyo del oficio: cómo decides, casi sin pensarlo, cuándo alargar una pausa o simplificar una indicación según lo que notas en el grupo. Revisar esas pequeñas decisiones con calma, aunque sea desde el sofá, sigue afinando tu mirada como formadora.",
+            "tags": ["Pedagogía", "Ritmo de grupo"],
+            "aprendizaje": "En la pedagogía del movimiento consciente se habla de \"andamiaje\": dar justo el apoyo necesario para que cada alumna avance por sí misma, ni de más ni de menos, y retirarlo poco a poco a medida que gana autonomía. El concepto viene de la psicología del aprendizaje, pero cualquier formadora que ajusta sus indicaciones según quién tiene delante ya lo está aplicando de forma intuitiva.",
             "frase": {
-                "texto": "Caminante, no hay camino, se hace camino al andar.",
-                "autor": "Antonio Machado"
+                "texto": "Ayúdame a hacerlo por mí mismo.",
+                "autor": "María Montessori"
             },
             "noticia": {
-                "titulo": "Pequeñas victorias: cómo hábitos simples y constantes fortalecen tu cerebro y mejoran tu bienestar",
-                "resumen": "El artículo explica que acciones cotidianas como leer, observar o moverse actúan como estímulos que, repetidos con intención, activan la neuroplasticidad y elevan el ánimo. La repetición constante, aunque la acción sea mínima, es lo que consolida los nuevos circuitos neuronales.",
-                "url": "https://www.lanacion.com.ar/lifestyle/pequenas-victorias-como-habitos-simples-y-constantes-fortalecen-tu-cerebro-y-mejoran-tu-bienestar-nid13072025/"
+                "titulo": "Del método Feldenkrais a las técnicas somáticas: así son los ejercicios que ayudan a aliviar dolores y reducir el estrés",
+                "resumen": "El artículo repasa cómo las técnicas somáticas, entre ellas el método Feldenkrais, guían a quien las practica a explorar sus propios límites sin forzar el cuerpo, buscando el movimiento más natural para cada persona en lugar de imponer una forma correcta. Un enfoque que conecta directamente con la forma de enseñar movimiento consciente.",
+                "url": "https://www.infobae.com/tendencias/2026/02/25/del-metodo-feldenkrais-a-las-tecnicas-somaticas-asi-son-los-ejercicios-que-ayudan-a-aliviar-dolores-y-reducir-el-estres/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Hoy cuéntale a tu audiencia que has estado unos días en silencio, y que eso no significa que el proyecto se haya parado por dentro. Volver a aparecer después de una pausa, sin disculparte de más, también es parte de mostrarte real.",
-            "tags": ["Contenido", "Constancia"],
-            "guion": "GANCHO: \"Llevo unos días en silencio. Y no, no ha sido porque todo esté yendo mal.\"\n\nCUERPO: A veces creemos que desaparecer un tiempo de redes hay que justificarlo con una gran explicación. La verdad es más sencilla: he necesitado esos días para descansar y seguir cuidándome, sin la presión de tener algo perfecto que contar. El proyecto ha seguido ahí, avanzando despacio por dentro, aunque no se viera nada por fuera.\n\nCIERRE: Si tú también sientes que un silencio necesita justificarse, prueba a soltar esa idea. A veces solo hace falta volver, sin más.",
+            "idea": "Hoy cuéntale a tu audiencia algo del oficio que casi nunca se explica: que gran parte de enseñar bien no es dar más instrucciones, sino saber retirarlas en el momento justo para que cada alumna encuentre su propio movimiento. No hace falta contar ningún caso concreto, basta con nombrar esa idea.",
+            "tags": ["Contenido", "Oficio"],
+            "guion": "GANCHO: \"Enseñar bien no es dar más indicaciones. A veces es justo lo contrario.\"\n\nCUERPO: Al principio de dar clases, yo corregía cada detalle, pensando que así ayudaba más. Con los años entendí algo distinto: cuando doy demasiadas indicaciones, la alumna deja de escuchar su propio cuerpo para escucharme solo a mí. Ahora doy la indicación justa, y después me quedo en silencio para que cada una encuentre su propio ajuste. Ese silencio también es enseñar.\n\nCIERRE: Si alguna vez sentiste que una buena profesora sabía cuándo callar tanto como cuándo hablar, no era casualidad. Es un oficio que se entrena tanto como cualquier postura.",
             "referente": {
-                "nombre": "Anabel González",
-                "porque": "Psiquiatra y psicoterapeuta española, especialista en trauma y terapia EMDR, con más de 50 mil seguidores en redes donde divulga sobre el cuidado de las emociones con un lenguaje cercano y sin tecnicismos."
+                "nombre": "Sonia Val",
+                "porque": "Periodista y profesora de yoga española, autora de \"Yoga y neurociencia\", que une la práctica del movimiento consciente con hallazgos científicos explicados en un lenguaje sencillo y cercano, muy en la línea del enfoque de Neuroalma."
             },
-            "mensajeWhatsapp": "Hola a todas! Llevaba unos días en silencio por aquí, cuidándome un poco más despacio de lo habitual. Leía estos días que lo que de verdad cambia el cerebro no son los grandes gestos, sino los pequeños hábitos repetidos con constancia, aunque parezcan insignificantes. Así que si vosotras también estáis sosteniendo algo pequeño estos días, aunque no se note aún, contad conmigo para celebrarlo. Un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo que he aprendido dando clases durante años: ayudar de verdad no siempre es dar más indicaciones, a veces es saber quedarse en silencio justo a tiempo para que la otra persona encuentre su propio camino. Creo que eso también lo llevaré a Neuroalma: acompañar sin llenarlo todo de palabras. Un abrazo grande 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15-20 minutos a escribir un mensaje breve para las personas apuntadas a la lista de espera de Neuroalma, contándoles con honestidad que has estado unos días de pausa y en qué punto sigue el proyecto. No hace falta anunciar fecha cerrada todavía, solo mantener el contacto vivo.",
+            "idea": "Dedica 15-20 minutos a escribir una respuesta breve y honesta a la objeción que crees que más vas a escuchar sobre Neuroalma (por ejemplo, \"no tengo tiempo para comprometerme a 7 sesiones en directo\"). No hace falta convencer a nadie a la fuerza, solo tener ya pensada una respuesta cercana cuando surja la duda.",
             "tags": ["Idea", "Lanzamiento"],
-            "aprendizaje": "Cuando llevas unos días sin comunicarte con tu lista de espera, suele funcionar mejor un mensaje corto y honesto que explicar demasiado o desaparecer sin decir nada: la gente entiende las pausas mucho mejor que el silencio prolongado sin explicación.",
+            "aprendizaje": "Anticipar la objeción más habitual antes del lanzamiento te permite responder con calma, en lugar de improvisar en el momento. No se trata de rebatir a la persona, sino de mostrarle que ya has pensado en esa duda y que la entiendes.",
             "recurso": {
-                "titulo": "Campañas de email de reactivación: 10 ejemplos, estrategias y templates",
+                "titulo": "Cómo manejar objeciones de venta (técnicas avanzadas de venta)",
                 "tipo": "artículo",
-                "porque": "Explica en español cómo retomar el contacto con una audiencia después de un periodo de inactividad, con ejemplos prácticos útiles para reactivar tu lista de espera de Neuroalma tras esta pausa.",
-                "url": "https://clevertap.com/es/blog/campanas-de-email-de-reactivacion-10-ejemplos-estrategias-y-templates/"
+                "porque": "Explica en español, con ejemplos prácticos, cómo anticipar y responder a las dudas más habituales de quien está a punto de comprar, útil para preparar tu respuesta a la objeción más probable sobre Neuroalma.",
+                "url": "https://www.miguelruizgil.com/blog/como-manejar-objeciones-venta"
             }
         }
     }

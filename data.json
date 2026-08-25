@@ -1,42 +1,42 @@
 {
-    "date": "2026-08-22",
+    "date": "2026-08-25",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Aunque tu cuerpo esté en pausa, hoy puedes repasar algo muy tuyo del oficio: cómo decides, casi sin pensarlo, cuándo alargar una pausa o simplificar una indicación según lo que notas en el grupo. Revisar esas pequeñas decisiones con calma, aunque sea desde el sofá, sigue afinando tu mirada como formadora.",
-            "tags": ["Pedagogía", "Ritmo de grupo"],
-            "aprendizaje": "En la pedagogía del movimiento consciente se habla de \"andamiaje\": dar justo el apoyo necesario para que cada alumna avance por sí misma, ni de más ni de menos, y retirarlo poco a poco a medida que gana autonomía. El concepto viene de la psicología del aprendizaje, pero cualquier formadora que ajusta sus indicaciones según quién tiene delante ya lo está aplicando de forma intuitiva.",
+            "idea": "Hoy prueba a quedarte un poco más de tiempo del habitual en algo agradable que ya está pasando: el sabor del café, un rayo de sol, la voz de alguien querido al teléfono. No hace falta buscar nada especial, solo detenerte unos segundos más antes de pasar a lo siguiente.",
+            "tags": ["Bienestar", "Saboreo"],
+            "aprendizaje": "En psicología positiva se llama \"saboreo\" a la capacidad de atender y alargar conscientemente una experiencia agradable, usando los sentidos y quedándote en ella al menos quince o treinta segundos. Ese pequeño gesto no solo se siente bien: ayuda a guardar más recuerdos positivos a los que volver cuando el día se complica.",
             "frase": {
-                "texto": "Ayúdame a hacerlo por mí mismo.",
-                "autor": "María Montessori"
+                "texto": "Allá donde vayas, ve con todo tu corazón.",
+                "autor": "Confucio"
             },
             "noticia": {
-                "titulo": "Del método Feldenkrais a las técnicas somáticas: así son los ejercicios que ayudan a aliviar dolores y reducir el estrés",
-                "resumen": "El artículo repasa cómo las técnicas somáticas, entre ellas el método Feldenkrais, guían a quien las practica a explorar sus propios límites sin forzar el cuerpo, buscando el movimiento más natural para cada persona en lugar de imponer una forma correcta. Un enfoque que conecta directamente con la forma de enseñar movimiento consciente.",
-                "url": "https://www.infobae.com/tendencias/2026/02/25/del-metodo-feldenkrais-a-las-tecnicas-somaticas-asi-son-los-ejercicios-que-ayudan-a-aliviar-dolores-y-reducir-el-estres/"
+                "titulo": "El motor del bienestar: la neurociencia de saborear la vida",
+                "resumen": "El artículo explica que detenerse conscientemente en una experiencia agradable, en lugar de dejarla pasar de largo, activa circuitos cerebrales relacionados con la memoria y la resiliencia emocional. Saborear lo bueno, aunque sea pequeño, actúa como un colchón emocional para los momentos más difíciles.",
+                "url": "https://www.esdiario.com/sostenibilidad/260808/194969/motor-bienestar-neurociencia-saborear-vida.html"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Hoy cuéntale a tu audiencia algo del oficio que casi nunca se explica: que gran parte de enseñar bien no es dar más instrucciones, sino saber retirarlas en el momento justo para que cada alumna encuentre su propio movimiento. No hace falta contar ningún caso concreto, basta con nombrar esa idea.",
+            "idea": "Hoy cuéntale a tu audiencia algo del oficio que pocas veces se dice en voz alta: que hay días en que llegas a dar clase con menos energía de la que te gustaría, y aun así la clase sale bien, porque no depende solo de tu ánimo de ese momento. No hace falta contar ningún caso concreto, basta con nombrar esa idea.",
             "tags": ["Contenido", "Oficio"],
-            "guion": "GANCHO: \"Enseñar bien no es dar más indicaciones. A veces es justo lo contrario.\"\n\nCUERPO: Al principio de dar clases, yo corregía cada detalle, pensando que así ayudaba más. Con los años entendí algo distinto: cuando doy demasiadas indicaciones, la alumna deja de escuchar su propio cuerpo para escucharme solo a mí. Ahora doy la indicación justa, y después me quedo en silencio para que cada una encuentre su propio ajuste. Ese silencio también es enseñar.\n\nCIERRE: Si alguna vez sentiste que una buena profesora sabía cuándo callar tanto como cuándo hablar, no era casualidad. Es un oficio que se entrena tanto como cualquier postura.",
+            "guion": "GANCHO: \"Nadie te cuenta que también hay días en que la profesora llega cansada.\"\n\nCUERPO: Durante años pensé que para dar una buena clase necesitaba llegar con toda la energía puesta. Con el tiempo entendí algo distinto: hay días en que llego con menos fuerza de la que me gustaría, y la clase sale bien igual, porque lo que sostiene el espacio no es mi entusiasmo de ese momento, sino la atención que le pongo a quien tengo delante.\n\nCIERRE: Si alguna vez sentiste que no dabas lo mejor de ti porque no tenías toda la energía de siempre, quizá diste justo lo que hacía falta ese día.",
             "referente": {
-                "nombre": "Sonia Val",
-                "porque": "Periodista y profesora de yoga española, autora de \"Yoga y neurociencia\", que une la práctica del movimiento consciente con hallazgos científicos explicados en un lenguaje sencillo y cercano, muy en la línea del enfoque de Neuroalma."
+                "nombre": "Luis Muiño",
+                "porque": "Psicólogo español y divulgador en medios de comunicación, conocido por explicar la gestión emocional y el autoconocimiento con un lenguaje cercano y sin tecnicismos, muy en la línea del tono de Neuroalma."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy pensaba en algo que he aprendido dando clases durante años: ayudar de verdad no siempre es dar más indicaciones, a veces es saber quedarse en silencio justo a tiempo para que la otra persona encuentre su propio camino. Creo que eso también lo llevaré a Neuroalma: acompañar sin llenarlo todo de palabras. Un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy os cuento algo sencillo: no hace falta llegar con toda la energía del mundo para hacer bien las cosas, a veces basta con la atención que le ponemos a lo que tenemos delante. Si esta semana os notáis con menos fuerza de la habitual, no penséis que estáis fallando, puede que sigáis dando justo lo que hace falta. Un abrazo grande 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15-20 minutos a escribir una respuesta breve y honesta a la objeción que crees que más vas a escuchar sobre Neuroalma (por ejemplo, \"no tengo tiempo para comprometerme a 7 sesiones en directo\"). No hace falta convencer a nadie a la fuerza, solo tener ya pensada una respuesta cercana cuando surja la duda.",
+            "idea": "Dedica 15-20 minutos a diseñar en Canva un diploma sencillo de Neuroalma para entregar a quienes completen las 7 sesiones en directo. No hace falta que sea muy elaborado, solo que tenga tu nombre y el del programa, para que quien lo reciba sienta que ha terminado algo con valor real.",
             "tags": ["Idea", "Lanzamiento"],
-            "aprendizaje": "Anticipar la objeción más habitual antes del lanzamiento te permite responder con calma, en lugar de improvisar en el momento. No se trata de rebatir a la persona, sino de mostrarle que ya has pensado en esa duda y que la entiendes.",
+            "aprendizaje": "Entregar un pequeño diploma o certificado al terminar un programa, aunque sea sencillo, ayuda a que las alumnas perciban que han completado algo con valor real, no solo unas sesiones sueltas. Es un detalle pequeño que aumenta mucho la sensación de logro.",
             "recurso": {
-                "titulo": "Cómo manejar objeciones de venta (técnicas avanzadas de venta)",
+                "titulo": "Cómo hacer diplomas o certificado escolar en Canva GRATIS",
                 "tipo": "artículo",
-                "porque": "Explica en español, con ejemplos prácticos, cómo anticipar y responder a las dudas más habituales de quien está a punto de comprar, útil para preparar tu respuesta a la objeción más probable sobre Neuroalma.",
-                "url": "https://www.miguelruizgil.com/blog/como-manejar-objeciones-venta"
+                "porque": "Explica en español, paso a paso y de forma gratuita, cómo diseñar un diploma sencillo en Canva, justo lo que necesitas para crear el certificado de finalización de Neuroalma.",
+                "url": "https://academypop.com/canva-para-maestro/como-hacer-diplomas-o-certificado-escolar-en-canva-gratis/"
             }
         }
     }

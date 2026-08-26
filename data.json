@@ -1,42 +1,42 @@
 {
-    "date": "2026-08-25",
+    "date": "2026-08-26",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy prueba a quedarte un poco más de tiempo del habitual en algo agradable que ya está pasando: el sabor del café, un rayo de sol, la voz de alguien querido al teléfono. No hace falta buscar nada especial, solo detenerte unos segundos más antes de pasar a lo siguiente.",
-            "tags": ["Bienestar", "Saboreo"],
-            "aprendizaje": "En psicología positiva se llama \"saboreo\" a la capacidad de atender y alargar conscientemente una experiencia agradable, usando los sentidos y quedándote en ella al menos quince o treinta segundos. Ese pequeño gesto no solo se siente bien: ayuda a guardar más recuerdos positivos a los que volver cuando el día se complica.",
+            "idea": "Hoy tómate unos minutos para repasar mentalmente una clase que dabas antes: recuerda cómo cambiaba la energía del grupo entre el inicio, la parte central y el cierre. No hace falta moverte para esto, solo observar ese patrón con curiosidad, como si fueras testigo desde fuera.",
+            "tags": ["Pedagogía", "Atención de grupo"],
+            "aprendizaje": "La atención de un grupo no se mantiene igual todo el rato: sube y baja en ciclos, y factores como el ruido o las interrupciones compiten por ese recurso limitado del cerebro. Como formadora, saber leer esos ciclos y meter una pausa o un cambio de ritmo en el momento justo vale tanto como dominar la técnica que enseñas.",
             "frase": {
-                "texto": "Allá donde vayas, ve con todo tu corazón.",
-                "autor": "Confucio"
+                "texto": "La vida es movimiento. La vida es un proceso: mejora la calidad del proceso y mejorarás la calidad de tu vida.",
+                "autor": "Moshe Feldenkrais"
             },
             "noticia": {
-                "titulo": "El motor del bienestar: la neurociencia de saborear la vida",
-                "resumen": "El artículo explica que detenerse conscientemente en una experiencia agradable, en lugar de dejarla pasar de largo, activa circuitos cerebrales relacionados con la memoria y la resiliencia emocional. Saborear lo bueno, aunque sea pequeño, actúa como un colchón emocional para los momentos más difíciles.",
-                "url": "https://www.esdiario.com/sostenibilidad/260808/194969/motor-bienestar-neurociencia-saborear-vida.html"
+                "titulo": "Atención y memoria en el aula: cómo funcionan y cómo fortalecerlas desde la neurociencia",
+                "resumen": "El artículo explica que la atención funciona como un filtro que decide qué información llega a procesarse y, por tanto, a la memoria; sin ella no hay aprendizaje posible. Señala que el ruido, las interrupciones o los dispositivos compiten por ese recurso limitado, sobre todo en grupo, y propone estrategias como las pausas activas cada 15-20 minutos, variar el formato de las actividades y cuidar un clima emocionalmente seguro.",
+                "url": "https://actosenlaescuela.com/atencion-y-memoria-en-el-aula/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Hoy cuéntale a tu audiencia algo del oficio que pocas veces se dice en voz alta: que hay días en que llegas a dar clase con menos energía de la que te gustaría, y aun así la clase sale bien, porque no depende solo de tu ánimo de ese momento. No hace falta contar ningún caso concreto, basta con nombrar esa idea.",
-            "tags": ["Contenido", "Oficio"],
-            "guion": "GANCHO: \"Nadie te cuenta que también hay días en que la profesora llega cansada.\"\n\nCUERPO: Durante años pensé que para dar una buena clase necesitaba llegar con toda la energía puesta. Con el tiempo entendí algo distinto: hay días en que llego con menos fuerza de la que me gustaría, y la clase sale bien igual, porque lo que sostiene el espacio no es mi entusiasmo de ese momento, sino la atención que le pongo a quien tengo delante.\n\nCIERRE: Si alguna vez sentiste que no dabas lo mejor de ti porque no tenías toda la energía de siempre, quizá diste justo lo que hacía falta ese día.",
+            "idea": "Hoy comparte con tu audiencia algo que solo se aprende dando muchas clases: que un buen grupo no mantiene la misma energía toda la sesión, y que parte del oficio está en notar esos cambios de ritmo y acompañarlos, no forzarlos.",
+            "tags": ["Contenido", "Ritmo"],
+            "guion": "GANCHO: \"Nadie te enseña esto en ninguna formación: a leer el ritmo de un grupo.\"\n\nCUERPO: Al principio pensaba que dar una buena clase era seguir bien el guion que había preparado. Con los años entendí que lo importante pasaba en otro lado: en notar cuándo el grupo necesitaba más calma y cuándo podía sostener más intensidad, y ajustar ahí mismo, aunque eso significara soltar parte de lo planeado.\n\nCIERRE: Si alguna vez sentiste que te \"salías del guion\" y por eso dudaste de tu clase, puede que en realidad estuvieras haciendo justo lo que tocaba: escuchar al grupo que tenías delante.",
             "referente": {
-                "nombre": "Luis Muiño",
-                "porque": "Psicólogo español y divulgador en medios de comunicación, conocido por explicar la gestión emocional y el autoconocimiento con un lenguaje cercano y sin tecnicismos, muy en la línea del tono de Neuroalma."
+                "nombre": "Nazareth Castellanos",
+                "porque": "Neurocientífica española especializada en la relación entre el cuerpo, el movimiento y la mente, autora de \"El espejo del cerebro\"; explica con lenguaje accesible por qué el movimiento consciente y la interocepción influyen en cómo pensamos y sentimos, un puente perfecto entre neurociencia y disciplinas como el yoga o el pilates."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy os cuento algo sencillo: no hace falta llegar con toda la energía del mundo para hacer bien las cosas, a veces basta con la atención que le ponemos a lo que tenemos delante. Si esta semana os notáis con menos fuerza de la habitual, no penséis que estáis fallando, puede que sigáis dando justo lo que hace falta. Un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy os quiero contar algo del oficio: dar clase nunca es seguir un guion a rajatabla, es ir leyendo al grupo que tienes delante y ajustar el ritmo según lo que necesita en cada momento. Si alguna vez habéis sentido que un profesor o profesora \"improvisaba\", puede que en realidad os estuviera escuchando muy bien. Un abrazo grande 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15-20 minutos a diseñar en Canva un diploma sencillo de Neuroalma para entregar a quienes completen las 7 sesiones en directo. No hace falta que sea muy elaborado, solo que tenga tu nombre y el del programa, para que quien lo reciba sienta que ha terminado algo con valor real.",
+            "idea": "Dedica 10-15 minutos a escribir un mensaje breve y personal a dos o tres personas que te conocieron dando clase, pidiéndoles un testimonio corto sobre lo que se llevaron de tus sesiones. No hace falta pedirlo con vistas a vender nada todavía, solo empezar a reunir esas voces para cuando lances Neuroalma.",
             "tags": ["Idea", "Lanzamiento"],
-            "aprendizaje": "Entregar un pequeño diploma o certificado al terminar un programa, aunque sea sencillo, ayuda a que las alumnas perciban que han completado algo con valor real, no solo unas sesiones sueltas. Es un detalle pequeño que aumenta mucho la sensación de logro.",
+            "aprendizaje": "Los testimonios funcionan mejor cuando se piden en el momento adecuado y con un tono cercano que reconozca que es un favor, no una obligación. Pedir algo breve y concreto, y contar para qué lo vas a usar, hace mucho más fácil que la otra persona te lo dé de buena gana.",
             "recurso": {
-                "titulo": "Cómo hacer diplomas o certificado escolar en Canva GRATIS",
+                "titulo": "Cómo conseguir testimonios impactantes para facilitar la venta de tus cursos online",
                 "tipo": "artículo",
-                "porque": "Explica en español, paso a paso y de forma gratuita, cómo diseñar un diploma sencillo en Canva, justo lo que necesitas para crear el certificado de finalización de Neuroalma.",
-                "url": "https://academypop.com/canva-para-maestro/como-hacer-diplomas-o-certificado-escolar-en-canva-gratis/"
+                "porque": "Explica en español, con pasos sencillos, cómo y cuándo pedir testimonios a tus alumnas de forma natural, justo lo que necesitas para empezar a reunir voces reales antes de lanzar Neuroalma.",
+                "url": "https://www.classonlive.com/blog/conseguir-testimonios-venta-cursos-online"
             }
         }
     }

@@ -1583,5 +1583,48 @@
                 }
             }
         }
+    },
+    {
+        "date": "2026-08-26",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Hoy tómate unos minutos para repasar mentalmente una clase que dabas antes: recuerda cómo cambiaba la energía del grupo entre el inicio, la parte central y el cierre. No hace falta moverte para esto, solo observar ese patrón con curiosidad, como si fueras testigo desde fuera.",
+                "tags": ["Pedagogía", "Atención de grupo"],
+                "aprendizaje": "La atención de un grupo no se mantiene igual todo el rato: sube y baja en ciclos, y factores como el ruido o las interrupciones compiten por ese recurso limitado del cerebro. Como formadora, saber leer esos ciclos y meter una pausa o un cambio de ritmo en el momento justo vale tanto como dominar la técnica que enseñas.",
+                "frase": {
+                    "texto": "La vida es movimiento. La vida es un proceso: mejora la calidad del proceso y mejorarás la calidad de tu vida.",
+                    "autor": "Moshe Feldenkrais"
+                },
+                "noticia": {
+                    "titulo": "Atención y memoria en el aula: cómo funcionan y cómo fortalecerlas desde la neurociencia",
+                    "resumen": "El artículo explica que la atención funciona como un filtro que decide qué información llega a procesarse y, por tanto, a la memoria; sin ella no hay aprendizaje posible. Señala que el ruido, las interrupciones o los dispositivos compiten por ese recurso limitado, sobre todo en grupo, y propone estrategias como las pausas activas cada 15-20 minutos, variar el formato de las actividades y cuidar un clima emocionalmente seguro.",
+                    "url": "https://actosenlaescuela.com/atencion-y-memoria-en-el-aula/"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Hoy comparte con tu audiencia algo que solo se aprende dando muchas clases: que un buen grupo no mantiene la misma energía toda la sesión, y que parte del oficio está en notar esos cambios de ritmo y acompañarlos, no forzarlos.",
+                "tags": ["Contenido", "Ritmo"],
+                "guion": "GANCHO: \"Nadie te enseña esto en ninguna formación: a leer el ritmo de un grupo.\"\n\nCUERPO: Al principio pensaba que dar una buena clase era seguir bien el guion que había preparado. Con los años entendí que lo importante pasaba en otro lado: en notar cuándo el grupo necesitaba más calma y cuándo podía sostener más intensidad, y ajustar ahí mismo, aunque eso significara soltar parte de lo planeado.\n\nCIERRE: Si alguna vez sentiste que te \"salías del guion\" y por eso dudaste de tu clase, puede que en realidad estuvieras haciendo justo lo que tocaba: escuchar al grupo que tenías delante.",
+                "referente": {
+                    "nombre": "Nazareth Castellanos",
+                    "porque": "Neurocientífica española especializada en la relación entre el cuerpo, el movimiento y la mente, autora de \"El espejo del cerebro\"; explica con lenguaje accesible por qué el movimiento consciente y la interocepción influyen en cómo pensamos y sentimos, un puente perfecto entre neurociencia y disciplinas como el yoga o el pilates."
+                },
+                "mensajeWhatsapp": "Hola a todas! Hoy os quiero contar algo del oficio: dar clase nunca es seguir un guion a rajatabla, es ir leyendo al grupo que tienes delante y ajustar el ritmo según lo que necesita en cada momento. Si alguna vez habéis sentido que un profesor o profesora \"improvisaba\", puede que en realidad os estuviera escuchando muy bien. Un abrazo grande 🌿"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Dedica 10-15 minutos a escribir un mensaje breve y personal a dos o tres personas que te conocieron dando clase, pidiéndoles un testimonio corto sobre lo que se llevaron de tus sesiones. No hace falta pedirlo con vistas a vender nada todavía, solo empezar a reunir esas voces para cuando lances Neuroalma.",
+                "tags": ["Idea", "Lanzamiento"],
+                "aprendizaje": "Los testimonios funcionan mejor cuando se piden en el momento adecuado y con un tono cercano que reconozca que es un favor, no una obligación. Pedir algo breve y concreto, y contar para qué lo vas a usar, hace mucho más fácil que la otra persona te lo dé de buena gana.",
+                "recurso": {
+                    "titulo": "Cómo conseguir testimonios impactantes para facilitar la venta de tus cursos online",
+                    "tipo": "artículo",
+                    "porque": "Explica en español, con pasos sencillos, cómo y cuándo pedir testimonios a tus alumnas de forma natural, justo lo que necesitas para empezar a reunir voces reales antes de lanzar Neuroalma.",
+                    "url": "https://www.classonlive.com/blog/conseguir-testimonios-venta-cursos-online"
+                }
+            }
+        }
     }
 ]

@@ -1,42 +1,42 @@
 {
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy date permiso para sentir curiosidad por algo que no sirva para nada en concreto: un tema random que te llame la atención, un dato curioso, una pregunta que te ronde la cabeza. No hace falta que tenga utilidad inmediata, la curiosidad en sí misma ya es un pequeño regalo para tu cerebro.",
-            "tags": ["Curiosidad", "Autoconocimiento"],
-            "aprendizaje": "Un estudio con resonancia magnética comprobó que cuando sientes curiosidad se activan a la vez las zonas del cerebro relacionadas con la recompensa y el placer, y el hipocampo, la región que ayuda a guardar la información en la memoria. Por eso lo que aprendes cuando algo te pica la curiosidad se te queda mucho mejor que lo que memorizas por obligación.",
+            "idea": "Hoy piensa en cómo sueles corregir a una alumna en clase: ¿delante de todo el grupo o buscando un momento más discreto? Repasa mentalmente alguna corrección que diste y pregúntate si había una forma de decir lo mismo generando menos exposición. No hace falta cambiar nada hoy, solo mirarlo con curiosidad.",
+            "tags": ["Pedagogía", "Feedback"],
+            "aprendizaje": "La investigadora Naomi Eisenberger demostró con resonancia magnética que el dolor social (sentirse expuesta o juzgada delante de otros) activa zonas del cerebro muy parecidas a las del dolor físico, como la corteza cingulada anterior. Por eso una corrección bienintencionada, dicha en el momento equivocado, puede sentirse casi como un pellizco: buscar un tono cercano y, cuando se pueda, un aparte, hace que el aprendizaje llegue sin esa alarma de por medio.",
             "frase": {
-                "texto": "Lo importante es no dejar de hacerse preguntas. La curiosidad tiene su propia razón de existir.",
-                "autor": "Albert Einstein"
+                "texto": "La vergüenza necesita tres cosas para crecer sin control: secreto, silencio y juicio.",
+                "autor": "Brené Brown"
             },
             "noticia": {
-                "titulo": "La curiosidad y el aprendizaje: de las neurociencias al aula",
-                "resumen": "El artículo repasa estudios que muestran cómo la curiosidad activa el hipocampo y los circuitos de recompensa del cerebro, facilitando que la información se recuerde mejor y durante más tiempo. Una investigación con niños de primaria encontró que quienes tenían más curiosidad como rasgo mostraban mejores habilidades matemáticas y de lectoescritura, independientemente de su nivel socioeconómico.",
-                "url": "https://www.isep.es/actualidad/curiosidad-y-aprendizaje/"
+                "titulo": "La estrecha conexión entre dolor físico y emocional",
+                "resumen": "El artículo repasa la evidencia científica que muestra cómo el cerebro procesa el dolor emocional (como la exclusión o la vergüenza) activando circuitos muy similares a los del dolor físico, lo que explica por qué una situación de exposición social puede doler literalmente.",
+                "url": "https://www.xatakaciencia.com/psicologia/la-estrecha-conexion-entre-dolor-fisico-y-emocional"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Hoy comparte con tu audiencia que aprender a moverte en el mundo online te ha devuelto la sensación de ser principiante, la misma que sienten quienes llegan por primera vez a una clase de yoga, pilates o taichí. Contarlo con honestidad conecta mucho más que aparentar que ya lo dominas todo.",
-            "tags": ["Contenido", "Principiante"],
-            "guion": "GANCHO: \"Llevo años enseñando a principiantes. Ahora la principiante soy yo.\"\n\nCUERPO: Cada vez que abro las redes para aprender a comunicar mi proyecto, siento los mismos nervios que veía en quienes llegaban por primera vez a mis clases: no saber por dónde empezar, tener miedo a hacerlo mal, dudar antes de dar el primer paso. Al principio me incomodaba sentirme tan novata en algo. Ahora lo miro distinto: esa mente de principiante, con curiosidad y sin pretender saberlo todo, es la misma que siempre pedí a mis alumnas que se permitieran tener.\n\nCIERRE: Si estás empezando algo nuevo y te sientes torpe, no es una señal de que vayas mal. Es la señal de que estás aprendiendo de verdad.",
+            "idea": "Hoy comparte con tu audiencia algo de tu oficio que casi nadie explica: que aprender a corregir con cariño, sin exponer a nadie, es tan importante como conocer bien la técnica. Esa forma de acompañar genera más confianza que la corrección perfecta.",
+            "tags": ["Contenido", "Feedback"],
+            "guion": "GANCHO: \"Nadie te dice esto cuando empiezas a enseñar: la forma de corregir importa tanto como lo que corriges.\"\n\nCUERPO: Al principio corregía igual a todo el mundo, sin pensar mucho en el cómo. Con los años me di cuenta de que la misma indicación, dicha delante de todos o dicha en voz baja solo para esa persona, generaba resultados completamente distintos: una hacía que se cerrara, la otra hacía que confiara un poco más en mí. Aprender a leer ese matiz me costó más que aprender cualquier postura.\n\nCIERRE: Si alguna vez una corrección te hizo sentir pequeña en vez de acompañada, no eras tú siendo sensible de más. Es una diferencia real, y se puede aprender a hacerlo mejor.",
             "referente": {
-                "nombre": "Pilar Jericó",
-                "porque": "Doctora en organización de empresas y escritora española especializada en la gestión del miedo y las emociones ante el cambio, autora de libros como \"No Miedo\"; explica con lenguaje cercano por qué sentirse principiante o inseguro al empezar algo nuevo es parte natural del proceso, no un fallo."
+                "nombre": "Álvaro Bilbao",
+                "porque": "Neuropsicólogo español, autor de \"El cerebro del niño explicado a los padres\"; explica con lenguaje sencillo por qué la sensación de seguridad emocional es la base para que cualquier persona, niña o adulta, pueda aprender y corregir sus errores sin bloquearse."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy os cuento algo que me está pasando estos días: aprender a moverme en redes y en el mundo online me ha devuelto la sensación de ser principiante, con nervios y todo, la misma que muchas de vosotras sentisteis al llegar a una clase por primera vez. Curiosamente, en vez de incomodarme, ahora la miro con cariño. Un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una reflexión pequeña: parece que el cerebro vive la vergüenza de sentirse expuesta delante de otras personas casi como un dolor físico. Me hace pensar en lo importante que es, tanto al enseñar como al aprender algo nuevo, elegir bien el momento y el tono para señalar un error. Un abrazo grande 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15 minutos a escribir la descripción del grupo de WhatsApp de Neuroalma que verán las nuevas personas al entrar: quién eres, qué es Neuroalma en una frase, y qué tono va a tener el grupo (cercano, sin spam, con espacio para preguntar). No hace falta que sea perfecta, solo que ya exista cuando lleguen las primeras inscritas.",
+            "idea": "Dedica 15-20 minutos a escribir la checklist técnica que revisarás antes de cada sesión en directo: enlace de Vidroop probado, sonido y cámara comprobados, buena luz, agua cerca y el aviso enviado al grupo con tiempo. Tenerla lista te quita nervios de última hora.",
             "tags": ["Idea", "Lanzamiento"],
-            "aprendizaje": "La descripción de un grupo es lo primero que lee alguien nuevo al entrar, así que es una oportunidad perfecta para dejar claras las expectativas desde el principio: de qué trata el grupo, qué pueden esperar y cómo se van a tratar entre todas. Dedicarle unos minutos ahora evita malentendidos más adelante.",
+            "aprendizaje": "En una academia online pequeña, dar una imagen profesional no depende de tener herramientas caras, sino de que lo básico funcione bien: probar la conexión y el sonido con antelación evita casi todos los sustos técnicos que podrían romper la confianza de tus alumnas justo en la primera sesión.",
             "recurso": {
-                "titulo": "Cómo añadir una descripción a un grupo de WhatsApp",
+                "titulo": "Dar clases online: requisitos técnicos",
                 "tipo": "artículo",
-                "porque": "Guía sencilla en español que explica paso a paso cómo escribir y añadir la descripción a un grupo de WhatsApp, justo lo que necesitas para dejar lista la del grupo de Neuroalma.",
-                "url": "https://www.xataka.com/basics/como-anadir-una-descripcion-a-tu-grupo-de-whatsapp"
+                "porque": "Guía práctica en español con los aspectos técnicos básicos a revisar antes de una clase en directo, justo lo que necesitas para armar la checklist de tus sesiones de Neuroalma.",
+                "url": "https://miprofe.com/requisitos-tecnicos-clase-online/"
             }
         }
     }

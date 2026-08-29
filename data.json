@@ -1,42 +1,42 @@
 {
-    "date": "2026-08-28",
+    "date": "2026-08-29",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy piensa en cómo sueles corregir a una alumna en clase: ¿delante de todo el grupo o buscando un momento más discreto? Repasa mentalmente alguna corrección que diste y pregúntate si había una forma de decir lo mismo generando menos exposición. No hace falta cambiar nada hoy, solo mirarlo con curiosidad.",
-            "tags": ["Pedagogía", "Feedback"],
-            "aprendizaje": "La investigadora Naomi Eisenberger demostró con resonancia magnética que el dolor social (sentirse expuesta o juzgada delante de otros) activa zonas del cerebro muy parecidas a las del dolor físico, como la corteza cingulada anterior. Por eso una corrección bienintencionada, dicha en el momento equivocado, puede sentirse casi como un pellizco: buscar un tono cercano y, cuando se pueda, un aparte, hace que el aprendizaje llegue sin esa alarma de por medio.",
+            "idea": "Hoy busca un ratito para estar cerca de algo verde: una ventana con vistas a árboles, una planta de casa, o simplemente el cielo si sales un momento al balcón. No hace falta caminar ni esforzarte, solo dejar que la vista descanse ahí un rato y notar si algo dentro de ti se afloja un poco.",
+            "tags": ["Bienestar", "Naturaleza"],
+            "aprendizaje": "Un estudio con resonancia magnética descubrió que, tras un paseo de una hora por el bosque, la amígdala (la zona del cerebro que dispara las alarmas de estrés) se activaba menos, mientras que un paseo por la ciudad no producía ese efecto. El cerebro parece reconocer los entornos naturales como un lugar donde puede bajar la guardia.",
             "frase": {
-                "texto": "La vergüenza necesita tres cosas para crecer sin control: secreto, silencio y juicio.",
-                "autor": "Brené Brown"
+                "texto": "En cada paseo con la naturaleza, uno recibe mucho más de lo que busca.",
+                "autor": "John Muir"
             },
             "noticia": {
-                "titulo": "La estrecha conexión entre dolor físico y emocional",
-                "resumen": "El artículo repasa la evidencia científica que muestra cómo el cerebro procesa el dolor emocional (como la exclusión o la vergüenza) activando circuitos muy similares a los del dolor físico, lo que explica por qué una situación de exposición social puede doler literalmente.",
-                "url": "https://www.xatakaciencia.com/psicologia/la-estrecha-conexion-entre-dolor-fisico-y-emocional"
+                "titulo": "Los 3 grandes beneficios para la salud del cerebro que brinda estar en la naturaleza",
+                "resumen": "El artículo recoge evidencia científica sobre cómo el contacto con entornos naturales reduce la actividad cerebral asociada al estrés, mejora la memoria y la atención, y favorece un estado de ánimo más estable, incluso con exposiciones breves y sin necesidad de hacer ejercicio intenso.",
+                "url": "https://www.infobae.com/salud/2023/05/20/los-3-grandes-beneficios-para-la-salud-del-cerebro-que-brinda-estar-en-la-naturaleza/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Hoy comparte con tu audiencia algo de tu oficio que casi nadie explica: que aprender a corregir con cariño, sin exponer a nadie, es tan importante como conocer bien la técnica. Esa forma de acompañar genera más confianza que la corrección perfecta.",
-            "tags": ["Contenido", "Feedback"],
-            "guion": "GANCHO: \"Nadie te dice esto cuando empiezas a enseñar: la forma de corregir importa tanto como lo que corriges.\"\n\nCUERPO: Al principio corregía igual a todo el mundo, sin pensar mucho en el cómo. Con los años me di cuenta de que la misma indicación, dicha delante de todos o dicha en voz baja solo para esa persona, generaba resultados completamente distintos: una hacía que se cerrara, la otra hacía que confiara un poco más en mí. Aprender a leer ese matiz me costó más que aprender cualquier postura.\n\nCIERRE: Si alguna vez una corrección te hizo sentir pequeña en vez de acompañada, no eras tú siendo sensible de más. Es una diferencia real, y se puede aprender a hacerlo mejor.",
+            "idea": "Hoy comparte con tu audiencia que esta pausa te ha devuelto algo que casi habías olvidado enseñar con palabras: la importancia de simplemente mirar el cielo, un árbol o una planta unos minutos al día. No hace falta hablar de ejercicios ni de tu lesión, solo nombrar ese pequeño hábito que también ayuda a calmar la mente.",
+            "tags": ["Contenido", "Naturaleza"],
+            "guion": "GANCHO: \"Llevo años enseñando a respirar, y esta pausa me ha enseñado a mirar.\"\n\nCUERPO: Sin poder moverme como antes, empecé a fijarme en cosas que antes pasaba de largo: la luz cambiando en la ventana, una planta que crece despacio, el cielo distinto cada tarde. No hacía nada especial, solo mirar unos minutos. Y sin buscarlo, sentía la misma calma que antes solo asociaba a una clase entera de yoga o taichí.\n\nCIERRE: Si hoy no puedes moverte tanto como te gustaría, prueba a mirar algo vivo unos minutos. A veces la calma entra por los ojos, no solo por el cuerpo.",
             "referente": {
-                "nombre": "Álvaro Bilbao",
-                "porque": "Neuropsicólogo español, autor de \"El cerebro del niño explicado a los padres\"; explica con lenguaje sencillo por qué la sensación de seguridad emocional es la base para que cualquier persona, niña o adulta, pueda aprender y corregir sus errores sin bloquearse."
+                "nombre": "Rafael Guerrero",
+                "porque": "Psicólogo español, doctor en educación y autor de \"Educar en el asombro\"; explica con lenguaje cercano por qué detenerse a observar con curiosidad el entorno, incluso algo tan simple como la naturaleza, tiene un efecto calmante y regulador real sobre las emociones."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una reflexión pequeña: parece que el cerebro vive la vergüenza de sentirse expuesta delante de otras personas casi como un dolor físico. Me hace pensar en lo importante que es, tanto al enseñar como al aprender algo nuevo, elegir bien el momento y el tono para señalar un error. Un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una idea sencilla: parece que solo con mirar un rato algo verde (un árbol, una planta, el cielo) el cerebro baja un poco las alarmas del estrés, sin necesidad de hacer nada más. Si esta semana tenéis un huequito, probad a regalaros esos minutos de mirar sin prisa. Un abrazo grande 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15-20 minutos a escribir la checklist técnica que revisarás antes de cada sesión en directo: enlace de Vidroop probado, sonido y cámara comprobados, buena luz, agua cerca y el aviso enviado al grupo con tiempo. Tenerla lista te quita nervios de última hora.",
+            "idea": "Dedica 15-20 minutos a dejar listo el método de pago de las 497€ de Neuroalma: crea un enlace de pago sencillo (por ejemplo con Stripe) o, si prefieres algo más simple, anota claramente cómo se paga (transferencia o Bizum) para tenerlo a mano en cuanto alguien quiera apuntarse.",
             "tags": ["Idea", "Lanzamiento"],
-            "aprendizaje": "En una academia online pequeña, dar una imagen profesional no depende de tener herramientas caras, sino de que lo básico funcione bien: probar la conexión y el sonido con antelación evita casi todos los sustos técnicos que podrían romper la confianza de tus alumnas justo en la primera sesión.",
+            "aprendizaje": "En un lanzamiento pequeño, cada paso extra que tenga que dar alguien para pagar es una oportunidad de que se enfríe la decisión. Tener el método de pago ya preparado y explicado con claridad, antes de que llegue la primera persona interesada, evita perder ese impulso del momento.",
             "recurso": {
-                "titulo": "Dar clases online: requisitos técnicos",
-                "tipo": "artículo",
-                "porque": "Guía práctica en español con los aspectos técnicos básicos a revisar antes de una clase en directo, justo lo que necesitas para armar la checklist de tus sesiones de Neuroalma.",
-                "url": "https://miprofe.com/requisitos-tecnicos-clase-online/"
+                "titulo": "Crea un enlace de pago con Stripe",
+                "tipo": "guía",
+                "porque": "Documentación oficial en español que explica paso a paso cómo crear un enlace de pago sencillo, sin necesidad de conocimientos técnicos, ideal para cobrar las inscripciones de Neuroalma.",
+                "url": "https://docs.stripe.com/payment-links?locale=es-ES"
             }
         }
     }

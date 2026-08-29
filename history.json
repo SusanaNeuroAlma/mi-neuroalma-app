@@ -1669,5 +1669,48 @@
                 }
             }
         }
+    },
+    {
+        "date": "2026-08-28",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Hoy piensa en cómo sueles corregir a una alumna en clase: ¿delante de todo el grupo o buscando un momento más discreto? Repasa mentalmente alguna corrección que diste y pregúntate si había una forma de decir lo mismo generando menos exposición. No hace falta cambiar nada hoy, solo mirarlo con curiosidad.",
+                "tags": ["Pedagogía", "Feedback"],
+                "aprendizaje": "La investigadora Naomi Eisenberger demostró con resonancia magnética que el dolor social (sentirse expuesta o juzgada delante de otros) activa zonas del cerebro muy parecidas a las del dolor físico, como la corteza cingulada anterior. Por eso una corrección bienintencionada, dicha en el momento equivocado, puede sentirse casi como un pellizco: buscar un tono cercano y, cuando se pueda, un aparte, hace que el aprendizaje llegue sin esa alarma de por medio.",
+                "frase": {
+                    "texto": "La vergüenza necesita tres cosas para crecer sin control: secreto, silencio y juicio.",
+                    "autor": "Brené Brown"
+                },
+                "noticia": {
+                    "titulo": "La estrecha conexión entre dolor físico y emocional",
+                    "resumen": "El artículo repasa la evidencia científica que muestra cómo el cerebro procesa el dolor emocional (como la exclusión o la vergüenza) activando circuitos muy similares a los del dolor físico, lo que explica por qué una situación de exposición social puede doler literalmente.",
+                    "url": "https://www.xatakaciencia.com/psicologia/la-estrecha-conexion-entre-dolor-fisico-y-emocional"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Hoy comparte con tu audiencia algo de tu oficio que casi nadie explica: que aprender a corregir con cariño, sin exponer a nadie, es tan importante como conocer bien la técnica. Esa forma de acompañar genera más confianza que la corrección perfecta.",
+                "tags": ["Contenido", "Feedback"],
+                "guion": "GANCHO: \"Nadie te dice esto cuando empiezas a enseñar: la forma de corregir importa tanto como lo que corriges.\"\n\nCUERPO: Al principio corregía igual a todo el mundo, sin pensar mucho en el cómo. Con los años me di cuenta de que la misma indicación, dicha delante de todos o dicha en voz baja solo para esa persona, generaba resultados completamente distintos: una hacía que se cerrara, la otra hacía que confiara un poco más en mí. Aprender a leer ese matiz me costó más que aprender cualquier postura.\n\nCIERRE: Si alguna vez una corrección te hizo sentir pequeña en vez de acompañada, no eras tú siendo sensible de más. Es una diferencia real, y se puede aprender a hacerlo mejor.",
+                "referente": {
+                    "nombre": "Álvaro Bilbao",
+                    "porque": "Neuropsicólogo español, autor de \"El cerebro del niño explicado a los padres\"; explica con lenguaje sencillo por qué la sensación de seguridad emocional es la base para que cualquier persona, niña o adulta, pueda aprender y corregir sus errores sin bloquearse."
+                },
+                "mensajeWhatsapp": "Hola a todas! Hoy os dejo una reflexión pequeña: parece que el cerebro vive la vergüenza de sentirse expuesta delante de otras personas casi como un dolor físico. Me hace pensar en lo importante que es, tanto al enseñar como al aprender algo nuevo, elegir bien el momento y el tono para señalar un error. Un abrazo grande 🌿"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Dedica 15-20 minutos a escribir la checklist técnica que revisarás antes de cada sesión en directo: enlace de Vidroop probado, sonido y cámara comprobados, buena luz, agua cerca y el aviso enviado al grupo con tiempo. Tenerla lista te quita nervios de última hora.",
+                "tags": ["Idea", "Lanzamiento"],
+                "aprendizaje": "En una academia online pequeña, dar una imagen profesional no depende de tener herramientas caras, sino de que lo básico funcione bien: probar la conexión y el sonido con antelación evita casi todos los sustos técnicos que podrían romper la confianza de tus alumnas justo en la primera sesión.",
+                "recurso": {
+                    "titulo": "Dar clases online: requisitos técnicos",
+                    "tipo": "artículo",
+                    "porque": "Guía práctica en español con los aspectos técnicos básicos a revisar antes de una clase en directo, justo lo que necesitas para armar la checklist de tus sesiones de Neuroalma.",
+                    "url": "https://miprofe.com/requisitos-tecnicos-clase-online/"
+                }
+            }
+        }
     }
 ]

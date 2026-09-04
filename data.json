@@ -1,42 +1,42 @@
 {
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy fíjate un momento en el tono con el que te hablas cuando algo no sale como querías. ¿Serías igual de dura si le hablases así a una amiga? Prueba, solo como experimento, a suavizar esa voz interior durante el resto del día.",
-            "tags": ["Autocompasión", "Bienestar"],
-            "aprendizaje": "La neurocientífica Nazareth Castellanos explica que el diálogo interno duro activa en el cerebro las mismas regiones asociadas al estrés y a una amenaza real, mientras que hablarnos con amabilidad reduce esa respuesta de alarma. No es solo cuestión de actitud: el cerebro nota la diferencia.",
+            "idea": "Hoy, aunque no puedas dar clase, dedica un momento a repasar mentalmente esos pequeños gestos con los que sueles transmitir seguridad a un grupo: una pausa antes de corregir, un tono más suave, una mirada que da permiso para equivocarse. Recordarlos también es cuidar tu oficio, aunque sea desde el sofá.",
+            "tags": ["Pedagogía", "Oficio"],
+            "aprendizaje": "En neuroeducación se habla de que cada decisión pedagógica -el tono de voz, el ritmo, el tipo de corrección que eliges- deja huella real en cómo la otra persona aprende y se siente mientras aprende. No hace falta ser neurocientífica para aplicarlo: recordar que el cómo enseñas importa tanto como el qué enseñas es ya un ejercicio útil para tu oficio.",
             "frase": {
-                "texto": "Trátate a ti misma con la misma amabilidad y comprensión que le mostrarías a una buena amiga.",
-                "autor": "Kristin Neff"
+                "texto": "Solo se puede aprender aquello que se ama.",
+                "autor": "Francisco Mora"
             },
             "noticia": {
-                "titulo": "Nazareth Castellanos, neurocientífica, sobre la autocrítica: «Cuando nos hablamos con dureza, el cerebro lo refleja en forma de estrés y ansiedad»",
-                "resumen": "La neurocientífica explica que el diálogo interno influye directamente en los mecanismos cerebrales del estrés y la ansiedad: cuando alguien se exige, se regaña o se habla con dureza, el cerebro activa las mismas regiones asociadas a una amenaza real, mientras que un tono más amable reduce esa respuesta de alarma.",
-                "url": "https://theobjective.com/lifestyle/2026-07-02/nazareth-castellanos-neurocientifica-sobre-la-autocritica-cuando-nos-hablamos-con-dureza-el-cerebro-lo-refleja-en-forma-de-estres-y-ansiedad/"
+                "titulo": "Neuropedagogía: los docentes como arquitectos del cerebro",
+                "resumen": "La neuropedagogía es un campo que une neurociencia, psicología y pedagogía para entender el aprendizaje como un proceso que transforma físicamente el cerebro de quien aprende. El artículo explica que quien enseña actúa como una especie de \"arquitecto\": cada decisión en el aula, por pequeña que parezca, ayuda a moldear cómo se organiza esa información en la mente de la otra persona.",
+                "url": "https://www.infobae.com/educacion/2026/04/09/neuropedagogia-los-docentes-como-arquitectos-del-cerebro/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Hoy comparte con tu audiencia algo que estás aprendiendo en esta pausa: que hablarte con la misma amabilidad que le ofreces a una alumna también es parte del oficio, no solo un lujo personal. No hace falta dar detalles médicos, basta con nombrar ese aprendizaje.",
-            "tags": ["Contenido", "Autocompasión"],
-            "guion": "GANCHO: \"Llevo años enseñando a otras a tratarse bien. Esta pausa me está obligando a aplicármelo a mí.\"\n\nCUERPO: Cuando algo no avanza al ritmo que quisiera, mi primer impulso es exigirme más, como si eso fuera a acelerar las cosas. Pero cada vez que me hablo con la misma paciencia que uso con una alumna que se frustra en clase, algo cambia: no desaparece la dificultad, pero deja de sumarle más peso encima.\n\nCIERRE: Si hoy te estás exigiendo más de lo que le pedirías a alguien que quieres, prueba a bajar un poco ese tono. No es debilidad, es la misma herramienta que usas para cuidar a otras.",
+            "idea": "Hoy comparte con tu audiencia una idea de tu oficio que casi nunca se nombra: que enseñar no es solo explicar bien una postura o una técnica, es también decidir, segundo a segundo, cómo acompañas el error o el silencio de quien tienes delante. Puedes contarlo con un ejemplo sencillo, sin necesidad de estar dando clase ahora mismo.",
+            "tags": ["Contenido", "Oficio"],
+            "guion": "GANCHO: \"Hay una decisión que tomo cientos de veces en cada clase y que nadie ve.\"\n\nCUERPO: No es la postura que corrijo ni la secuencia que elijo. Es el segundo antes: ¿corrijo ahora o dejo que lo descubra sola? ¿bajo la voz o subo la energía? Durante años pensé que enseñar bien era saber mucho de técnica. Con el tiempo entendí que enseñar bien es, sobre todo, saber leer ese segundo y elegir bien qué hacer con él.\n\nCIERRE: Si alguna vez sentiste que una profesora \"leía\" exactamente lo que necesitabas sin que se lo dijeras, no fue casualidad. Fue oficio, construido decisión a decisión.",
             "referente": {
-                "nombre": "Begoña Ibarrola",
-                "porque": "Psicóloga y escritora española especializada en educación emocional, autora de libros como \"Cuentos para sentir\"; explica con un lenguaje sencillo y cercano por qué aprender a tratarse una misma con amabilidad es la base para poder acompañar bien a los demás."
+                "nombre": "Héctor Ruiz Martín",
+                "porque": "Divulgador español especializado en la ciencia del aprendizaje y fundador de la International Science Teaching Foundation; explica en español y sin tecnicismos cómo aprendemos de verdad, muy útil para pensar el oficio de enseñar más allá de la técnica concreta."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy leía que cuando nos hablamos con dureza, el cerebro responde casi como si estuviera ante una amenaza real, y que cuando nos hablamos con amabilidad, esa alarma baja. Me hace pensar en lo importante que es aplicarnos a nosotras mismas la misma paciencia que le damos a quienes acompañamos. Un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy leía que quienes enseñamos actuamos casi como \"arquitectas\" del aprendizaje: cada pequeña decisión, un tono más calmado, una pausa antes de corregir, va dejando huella en cómo la otra persona aprende y se siente mientras aprende. Me parece bonito pensar que el oficio de acompañar también se cultiva así, en los detalles pequeños. Un abrazo grande 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15-20 minutos a escribir el mensaje breve que enviarás a tu lista de contactos o a las personas que ya conocen tu trabajo, contándoles que Neuroalma ya está lista para las primeras inscripciones: qué es, cuándo empieza y cómo apuntarse.",
+            "idea": "Dedica 15-20 minutos a escribir con claridad qué incluye exactamente el precio de Neuroalma (497 euros): las 7 sesiones en directo, si hay grabaciones o material de apoyo, y si ofreces alguna facilidad de pago. Tenerlo por escrito te ayudará a responder con seguridad cuando alguien pregunte.",
             "tags": ["Idea", "Lanzamiento"],
-            "aprendizaje": "En un lanzamiento pequeño, avisar primero a la gente que ya te conoce, antes que a desconocidos, suele dar mejores resultados: confían más en ti y es más probable que se apunten o que te ayuden a difundirlo.",
+            "aprendizaje": "Antes de anunciar un precio conviene tener decidido, aunque sea en un documento sencillo para ti misma, qué incluye exactamente y cómo se paga. No se trata de complicarlo con muchas opciones: basta con una condición clara que puedas repetir siempre igual, sin dudar, cuando alguien te pregunte.",
             "recurso": {
-                "titulo": "5 consejos para anunciar tus cursos online fácilmente",
+                "titulo": "5 consejos para poner precio a tus cursos online y ganar",
                 "tipo": "artículo",
-                "porque": "Explica en español, de forma sencilla, distintas maneras de anunciar un curso online, incluida la lista de contactos, útil para dar el paso de comunicar que Neuroalma ya admite inscripciones.",
-                "url": "https://acumbamail.com/blog/consejos-promocionar-cursos-online/"
+                "porque": "Explica en español, de forma práctica, cómo decidir el precio de un curso online teniendo en cuenta el acompañamiento y el formato en directo, justo la situación de Neuroalma.",
+                "url": "https://uteach.io/es/articles/price-online-course-es"
             }
         }
     }

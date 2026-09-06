@@ -3,40 +3,40 @@
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy, si notas que aparece una emoción incómoda, prueba a ponerle nombre en voz baja: \"esto es frustración\", \"esto es cansancio\". Parece un gesto pequeño, pero nombrar lo que sientes ya empieza a quitarle un poco de intensidad.",
-            "tags": ["Emociones", "Autoconocimiento"],
-            "aprendizaje": "Hay estudios de neurociencia que muestran que poner en palabras una emoción, aunque sea con una frase muy sencilla, reduce la actividad de la amígdala, la zona del cerebro que dispara la alarma emocional. No hace falta analizar mucho lo que sientes: a veces basta con nombrarlo para que pese menos.",
+            "idea": "Aunque ahora no puedas dar clases presenciales, la empatía que usas para leer a un grupo sigue siendo un músculo que se entrena, no un don fijo. Hoy puedes ejercitarla desde el sofá: al hablar con alguien, intenta notar de verdad qué siente antes de responder, sin prisa por arreglar nada.",
+            "tags": ["Pedagogía", "Empatía"],
+            "aprendizaje": "La neurociencia confirma que la empatía se aprende y se enseña, gracias a redes cerebrales como las neuronas espejo que se activan al observar lo que vive otra persona. Para una formadora, esto es una buena noticia: acompañar bien a un grupo no es un talento innato, es una habilidad que se puede seguir cultivando incluso en una pausa como la tuya.",
             "frase": {
-                "texto": "Tú eres el cielo. Todo lo demás es solo el clima.",
-                "autor": "Pema Chödrön"
+                "texto": "Arreglar y ayudar pueden ser el trabajo del ego. Servir es el trabajo del alma.",
+                "autor": "Rachel Naomi Remen"
             },
             "noticia": {
-                "titulo": "Investigadores de la UMU redefinen la arquitectura de la amígdala cerebral, clave en el control de las emociones",
-                "resumen": "Un equipo de la Universidad de Murcia, liderado por la profesora Elena García-Calero junto al profesor emérito Luis Puelles, ha publicado un nuevo modelo que cambia lo que se sabía sobre la amígdala, la región del cerebro que procesa el miedo y las emociones. El hallazgo más llamativo: una parte de la amígdala medial, considerada solo inhibidora, tiene también una zona excitadora, lo que abre la puerta a terapias más precisas para la ansiedad y otros trastornos emocionales.",
-                "url": "https://www.um.es/web/ucc/-/investigadores-de-la-umu-redefinen-la-arquitectura-de-la-am%C3%ADgdala-cerebral-clave-en-el-control-de-las-emociones"
+                "titulo": "¿Qué revela la neurociencia sobre la enseñanza de la empatía?",
+                "resumen": "El artículo repasa investigaciones que muestran cómo la empatía se apoya en redes cerebrales como las neuronas espejo y, por tanto, puede entrenarse y enseñarse. Explica que estrategias como las narrativas compartidas, el mindfulness y el aprendizaje colaborativo fortalecen tanto la parte cognitiva (entender al otro) como la afectiva (sentir con el otro) de la empatía, algo útil para cualquier persona que acompañe grupos.",
+                "url": "https://cesuma.edu.mx/2025/11/21/que-revela-la-neurociencia-sobre-la-ensenanza-de-la-empatia/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Hoy comparte con tu audiencia qué señales usabas para saber que una clase había ido bien, más allá de si la postura salía perfecta: una respiración más lenta al salir, menos prisa al despedirse, una cara distinta a la de la entrada. Contarlo ayuda a tu comunidad a valorar el movimiento consciente más allá de lo físico.",
-            "tags": ["Contenido", "Movimiento consciente"],
-            "guion": "GANCHO: \"¿Cómo sé si una clase ha ido bien? No lo miro en la postura.\"\n\nCUERPO: Durante años pensé que el éxito de una clase se veía en la ejecución: la alineación correcta, la respiración bien coordinada. Con el tiempo aprendí a mirar otra cosa: cómo entra alguien y cómo sale. Si llega con los hombros pegados a las orejas y se va respirando un poco más despacio, la clase ha cumplido su función, aunque la postura no fuera perfecta.\n\nCIERRE: La próxima vez que salgas de mover el cuerpo, sea yoga, pilates, taichí o un simple paseo, fíjate en eso: no en cómo lo hiciste, en cómo te vas.",
+            "idea": "Hoy cuenta a tu audiencia un pequeño hábito de tu oficio que casi nunca se ve: cómo procurabas recordar algo personal de cada alumna (su nombre, algo que te había contado) para que se sintiera vista de verdad, más allá de la postura que estuviera haciendo.",
+            "tags": ["Contenido", "Oficio"],
+            "guion": "GANCHO: \"Un pequeño truco que usaba en cada clase y que casi nadie notaba.\"\n\nCUERPO: Antes de empezar, procuraba recordar algo de cada alumna: que esa semana tenía un examen, que había vuelto de vacaciones, que la semana anterior le había costado una postura concreta. No era para lucirme, era para que sintiera que la veía a ella, no solo a un cuerpo más en la sala. Ese detalle pequeño cambiaba por completo cómo se abría la persona durante la clase.\n\nCIERRE: Si alguna vez una profesora se acordó de algo tuyo sin que se lo repitieras, ya sabes lo que se siente al ser vista de verdad. Eso también es pedagogía.",
             "referente": {
-                "nombre": "Rosa Casafont",
-                "porque": "Médica y neurocientífica española, especializada en neurociencia aplicada al autoconocimiento y la gestión emocional; explica el funcionamiento del cerebro de forma cercana y sin tecnicismos, tendiendo un puente entre neurociencia y cuerpo muy parecido al que defiendes en Zen en Zapatillas."
+                "nombre": "Anna Forés",
+                "porque": "Pedagoga española, doctora por la Universidad de Barcelona y una de las pioneras de la neuroeducación en español; explica con un lenguaje claro cómo el cerebro aprende mejor cuando se siente acompañado y visto, algo muy cercano a lo que defiendes en Zen en Zapatillas."
             },
-            "mensajeWhatsapp": "Hola a todas! Llevo días pensando en algo sencillo: muchas veces medimos si una clase o una práctica \"ha ido bien\" fijándonos en si hicimos todo perfecto, y se nos olvida mirar algo más importante, cómo nos vamos después, más calmadas o más ligeras. Os invito a probarlo esta semana con cualquier práctica que hagáis. Un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy os quiero contar algo que hacía antes de cada clase: intentaba recordar un detalle pequeño de cada alumna, algo que me hubiera contado la semana anterior. No cambiaba la clase en sí, pero sí cambiaba cómo se sentía cada una al entrar. Creo que eso es algo que también quiero cuidar mucho en Neuroalma, que cada una se sienta vista de verdad. Un abrazo grande 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15-20 minutos a escribir, en una nota o un papel, los nombres de las personas que ya te han preguntado por Neuroalma o han mostrado interés en algún momento. Así, cuando anuncies que las inscripciones están abiertas, sabrás exactamente a quién avisar primero.",
+            "idea": "Dedica 15-20 minutos a escribir el mensaje que fijarás en la cabecera de vuestro grupo de WhatsApp de Neuroalma: en 3-4 frases, qué es el programa, para quién es, y cuándo empiezan las 7 sesiones en directo. Así cualquiera que entre nuevo lo tendrá siempre a mano sin tener que preguntarlo.",
             "tags": ["Idea", "Lanzamiento"],
-            "aprendizaje": "No hace falta ningún programa complicado para gestionar los primeros contactos de un lanzamiento pequeño: una lista sencilla y actualizada de quién ha mostrado interés suele ser más valiosa que cualquier herramienta sofisticada.",
+            "aprendizaje": "En un grupo pequeño como el de Neuroalma, tener la información clave siempre visible (qué es, para quién, cuándo) evita preguntas repetidas y transmite que el proyecto está bien organizado, aunque sea un lanzamiento sencillo.",
             "recurso": {
-                "titulo": "Cómo y dónde encontrar clientes si vendes cursos online",
-                "tipo": "artículo",
-                "porque": "Explica en español, de forma práctica, dónde suelen estar las personas interesadas en un curso online y cómo identificarlas, útil para completar tu lista de quién ya conoce Neuroalma y podría apuntarse en las próximas inscripciones.",
-                "url": "https://sandrafp.com/como-y-donde-encontrar-clientes-si-vendes-cursos-online/"
+                "titulo": "Cómo fijar mensajes en WhatsApp paso a paso y para qué sirve",
+                "tipo": "guía",
+                "porque": "Explica en español y paso a paso cómo anclar un mensaje en la parte superior de un chat o grupo, justo lo que necesitas para que la información clave de Neuroalma esté siempre visible en vuestro grupo de WhatsApp.",
+                "url": "https://www.xataka.com/basics/como-fijar-mensajes-whatsapp-paso-a-paso-sirve"
             }
         }
     }

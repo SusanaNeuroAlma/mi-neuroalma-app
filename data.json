@@ -1,42 +1,42 @@
 {
-    "date": "2026-09-06",
+    "date": "2026-09-08",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Aunque ahora no puedas dar clases presenciales, la empatía que usas para leer a un grupo sigue siendo un músculo que se entrena, no un don fijo. Hoy puedes ejercitarla desde el sofá: al hablar con alguien, intenta notar de verdad qué siente antes de responder, sin prisa por arreglar nada.",
-            "tags": ["Pedagogía", "Empatía"],
-            "aprendizaje": "La neurociencia confirma que la empatía se aprende y se enseña, gracias a redes cerebrales como las neuronas espejo que se activan al observar lo que vive otra persona. Para una formadora, esto es una buena noticia: acompañar bien a un grupo no es un talento innato, es una habilidad que se puede seguir cultivando incluso en una pausa como la tuya.",
+            "idea": "Hoy piensa en las tres maneras que usas para dar una indicación en clase: con palabras, con un gesto que se ve, o con un toque suave que guía. No hace falta que actives ninguna ahora mismo: solo repasar cuál usas más a menudo, y con cuál te sientes más cómoda, te ayuda a conocer mejor tu propio estilo como formadora.",
+            "tags": ["Enseñanza", "Oficio"],
+            "aprendizaje": "En la enseñanza del movimiento consciente se distinguen tres tipos de indicaciones: las verbales (explicar con palabras), las visuales (mostrar con el cuerpo) y las táctiles (guiar con un toque). Cada alumna aprende mejor con una de ellas, por eso las profesoras con más experiencia suelen combinar las tres en lugar de apoyarse solo en la que les resulta más natural.",
             "frase": {
-                "texto": "Arreglar y ayudar pueden ser el trabajo del ego. Servir es el trabajo del alma.",
-                "autor": "Rachel Naomi Remen"
+                "texto": "El yoga no debe practicarse para controlar el cuerpo: al contrario, debe traerle al cuerpo la libertad, toda la libertad que necesita.",
+                "autor": "Vanda Scaravelli"
             },
             "noticia": {
-                "titulo": "¿Qué revela la neurociencia sobre la enseñanza de la empatía?",
-                "resumen": "El artículo repasa investigaciones que muestran cómo la empatía se apoya en redes cerebrales como las neuronas espejo y, por tanto, puede entrenarse y enseñarse. Explica que estrategias como las narrativas compartidas, el mindfulness y el aprendizaje colaborativo fortalecen tanto la parte cognitiva (entender al otro) como la afectiva (sentir con el otro) de la empatía, algo útil para cualquier persona que acompañe grupos.",
-                "url": "https://cesuma.edu.mx/2025/11/21/que-revela-la-neurociencia-sobre-la-ensenanza-de-la-empatia/"
+                "titulo": "La propiocepción, su desconocido 'sexto sentido' que puede ejercitarse",
+                "resumen": "El artículo explica qué es la propiocepción, el sentido que nos permite saber dónde está cada parte del cuerpo sin necesidad de mirarla, y cómo puede entrenarse con la práctica consciente del movimiento. Para quien enseña disciplinas como el yoga, el pilates o el taichí, entender este sentido ayuda a valorar por qué guiar bien la atención hacia el cuerpo es tan importante como la postura en sí.",
+                "url": "https://theconversation.com/la-propiocepcion-su-desconocido-sexto-sentido-que-puede-ejercitar-193329"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Hoy cuenta a tu audiencia un pequeño hábito de tu oficio que casi nunca se ve: cómo procurabas recordar algo personal de cada alumna (su nombre, algo que te había contado) para que se sintiera vista de verdad, más allá de la postura que estuviera haciendo.",
-            "tags": ["Contenido", "Oficio"],
-            "guion": "GANCHO: \"Un pequeño truco que usaba en cada clase y que casi nadie notaba.\"\n\nCUERPO: Antes de empezar, procuraba recordar algo de cada alumna: que esa semana tenía un examen, que había vuelto de vacaciones, que la semana anterior le había costado una postura concreta. No era para lucirme, era para que sintiera que la veía a ella, no solo a un cuerpo más en la sala. Ese detalle pequeño cambiaba por completo cómo se abría la persona durante la clase.\n\nCIERRE: Si alguna vez una profesora se acordó de algo tuyo sin que se lo repitieras, ya sabes lo que se siente al ser vista de verdad. Eso también es pedagogía.",
+            "idea": "Hoy cuenta a tu audiencia que no todas las alumnas aprenden igual una postura: unas necesitan oírla explicada, otras verla hecha, y otras que alguien les coloque la mano en el sitio justo. Compartir esto ayuda a que entiendan por qué a veces repites la misma indicación de formas distintas.",
+            "tags": ["Contenido", "Pedagogía"],
+            "guion": "GANCHO: \"¿Por qué a veces repito la misma indicación de tres formas distintas en una sola clase?\"\n\nCUERPO: Durante mis primeros años pensaba que bastaba con explicar bien con palabras. Con el tiempo entendí que no todo el mundo aprende igual: hay quien necesita oír la indicación, quien necesita verla hecha delante de sus ojos, y quien solo la entiende de verdad cuando una mano guía el gesto un segundo. Aprender a leer qué necesita cada alumna, y no solo repetir mi forma favorita de explicar, cambió por completo cómo enseño.\n\nCIERRE: Si alguna vez una misma explicación no te llegaba y otra sí, no era que tú aprendieras \"mal\". Era que esa profesora aún no había encontrado tu manera.",
             "referente": {
-                "nombre": "Anna Forés",
-                "porque": "Pedagoga española, doctora por la Universidad de Barcelona y una de las pioneras de la neuroeducación en español; explica con un lenguaje claro cómo el cerebro aprende mejor cuando se siente acompañado y visto, algo muy cercano a lo que defiendes en Zen en Zapatillas."
+                "nombre": "Conchita Morera",
+                "porque": "Profesora y formadora de profesores de yoga española, directora de su propia escuela en Zaragoza reconocida por la Unión Europea de Yoga; con décadas dedicadas a formar a otras personas para enseñar, aporta una mirada experta sobre la pedagogía del movimiento consciente."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy os quiero contar algo que hacía antes de cada clase: intentaba recordar un detalle pequeño de cada alumna, algo que me hubiera contado la semana anterior. No cambiaba la clase en sí, pero sí cambiaba cómo se sentía cada una al entrar. Creo que eso es algo que también quiero cuidar mucho en Neuroalma, que cada una se sienta vista de verdad. Un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy os cuento algo que he aprendido dando clases durante años: no todo el mundo aprende igual una postura o un movimiento, unas personas necesitan oírlo explicado, otras verlo, y otras que alguien les guíe con la mano. Creo que en Neuroalma quiero cuidar mucho esa variedad, para que cada una encuentre su propia manera de entender lo que vamos viendo juntas. Un abrazo grande 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15-20 minutos a escribir el mensaje que fijarás en la cabecera de vuestro grupo de WhatsApp de Neuroalma: en 3-4 frases, qué es el programa, para quién es, y cuándo empiezan las 7 sesiones en directo. Así cualquiera que entre nuevo lo tendrá siempre a mano sin tener que preguntarlo.",
+            "idea": "Dedica 15-20 minutos a decidir cómo vas a cobrar las 497 euros de Neuroalma: transferencia bancaria, Bizum o algún otro método sencillo. Elige uno solo, sin complicarte con varias opciones a la vez, y anota los datos que necesitarás compartir con quien se apunte.",
             "tags": ["Idea", "Lanzamiento"],
-            "aprendizaje": "En un grupo pequeño como el de Neuroalma, tener la información clave siempre visible (qué es, para quién, cuándo) evita preguntas repetidas y transmite que el proyecto está bien organizado, aunque sea un lanzamiento sencillo.",
+            "aprendizaje": "Para un lanzamiento pequeño no hace falta contratar ninguna plataforma de pago compleja: elegir un único método sencillo (como transferencia o Bizum) y explicarlo con claridad suele generar más confianza que ofrecer demasiadas opciones a la vez.",
             "recurso": {
-                "titulo": "Cómo fijar mensajes en WhatsApp paso a paso y para qué sirve",
-                "tipo": "guía",
-                "porque": "Explica en español y paso a paso cómo anclar un mensaje en la parte superior de un chat o grupo, justo lo que necesitas para que la información clave de Neuroalma esté siempre visible en vuestro grupo de WhatsApp.",
-                "url": "https://www.xataka.com/basics/como-fijar-mensajes-whatsapp-paso-a-paso-sirve"
+                "titulo": "Cómo cobra un autónomo: Bizum, Stripe o transferencia en 2026",
+                "tipo": "artículo",
+                "porque": "Compara en español las opciones más sencillas para cobrar un curso pequeño (Bizum, transferencia, Stripe), justo la decisión que tienes pendiente para las inscripciones de Neuroalma.",
+                "url": "https://www.plenia.app/blog/cobrar-bizum-stripe-transferencia-autonomo-oficio"
             }
         }
     }

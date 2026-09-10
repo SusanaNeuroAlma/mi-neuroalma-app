@@ -2035,5 +2035,57 @@
                                                     }
                                     }
                   }
+    },
+    {
+        "date":  "2026-09-08",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Hoy piensa en las tres maneras que usas para dar una indicación en clase: con palabras, con un gesto que se ve, o con un toque suave que guía. No hace falta que actives ninguna ahora mismo: solo repasar cuál usas más a menudo, y con cuál te sientes más cómoda, te ayuda a conocer mejor tu propio estilo como formadora.",
+                                         "tags":  [
+                                                      "Enseñanza",
+                                                      "Oficio"
+                                                  ],
+                                         "aprendizaje":  "En la enseñanza del movimiento consciente se distinguen tres tipos de indicaciones: las verbales (explicar con palabras), las visuales (mostrar con el cuerpo) y las táctiles (guiar con un toque). Cada alumna aprende mejor con una de ellas, por eso las profesoras con más experiencia suelen combinar las tres en lugar de apoyarse solo en la que les resulta más natural.",
+                                         "frase":  {
+                                                       "texto":  "El yoga no debe practicarse para controlar el cuerpo: al contrario, debe traerle al cuerpo la libertad, toda la libertad que necesita.",
+                                                       "autor":  "Vanda Scaravelli"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "La propiocepción, su desconocido \u0027sexto sentido\u0027 que puede ejercitarse",
+                                                         "resumen":  "El artículo explica qué es la propiocepción, el sentido que nos permite saber dónde está cada parte del cuerpo sin necesidad de mirarla, y cómo puede entrenarse con la práctica consciente del movimiento. Para quien enseña disciplinas como el yoga, el pilates o el taichí, entender este sentido ayuda a valorar por qué guiar bien la atención hacia el cuerpo es tan importante como la postura en sí.",
+                                                         "url":  "https://theconversation.com/la-propiocepcion-su-desconocido-sexto-sentido-que-puede-ejercitar-193329"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Hoy cuenta a tu audiencia que no todas las alumnas aprenden igual una postura: unas necesitan oírla explicada, otras verla hecha, y otras que alguien les coloque la mano en el sitio justo. Compartir esto ayuda a que entiendan por qué a veces repites la misma indicación de formas distintas.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "Pedagogía"
+                                             ],
+                                    "guion":  "GANCHO: \"¿Por qué a veces repito la misma indicación de tres formas distintas en una sola clase?\"\n\nCUERPO: Durante mis primeros años pensaba que bastaba con explicar bien con palabras. Con el tiempo entendí que no todo el mundo aprende igual: hay quien necesita oír la indicación, quien necesita verla hecha delante de sus ojos, y quien solo la entiende de verdad cuando una mano guía el gesto un segundo. Aprender a leer qué necesita cada alumna, y no solo repetir mi forma favorita de explicar, cambió por completo cómo enseño.\n\nCIERRE: Si alguna vez una misma explicación no te llegaba y otra sí, no era que tú aprendieras \"mal\". Era que esa profesora aún no había encontrado tu manera.",
+                                    "referente":  {
+                                                      "nombre":  "Conchita Morera",
+                                                      "porque":  "Profesora y formadora de profesores de yoga española, directora de su propia escuela en Zaragoza reconocida por la Unión Europea de Yoga; con décadas dedicadas a formar a otras personas para enseñar, aporta una mirada experta sobre la pedagogía del movimiento consciente."
+                                                  },
+                                    "mensajeWhatsapp":  "Hola a todas! Hoy os cuento algo que he aprendido dando clases durante años: no todo el mundo aprende igual una postura o un movimiento, unas personas necesitan oírlo explicado, otras verlo, y otras que alguien les guíe con la mano. Creo que en Neuroalma quiero cuidar mucho esa variedad, para que cada una encuentre su propia manera de entender lo que vamos viendo juntas. Un abrazo grande 🌿"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Dedica 15-20 minutos a decidir cómo vas a cobrar las 497 euros de Neuroalma: transferencia bancaria, Bizum o algún otro método sencillo. Elige uno solo, sin complicarte con varias opciones a la vez, y anota los datos que necesitarás compartir con quien se apunte.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "Lanzamiento"
+                                                 ],
+                                        "aprendizaje":  "Para un lanzamiento pequeño no hace falta contratar ninguna plataforma de pago compleja: elegir un único método sencillo (como transferencia o Bizum) y explicarlo con claridad suele generar más confianza que ofrecer demasiadas opciones a la vez.",
+                                        "recurso":  {
+                                                        "titulo":  "Cómo cobra un autónomo: Bizum, Stripe o transferencia en 2026",
+                                                        "tipo":  "artículo",
+                                                        "porque":  "Compara en español las opciones más sencillas para cobrar un curso pequeño (Bizum, transferencia, Stripe), justo la decisión que tienes pendiente para las inscripciones de Neuroalma.",
+                                                        "url":  "https://www.plenia.app/blog/cobrar-bizum-stripe-transferencia-autonomo-oficio"
+                                                    }
+                                    }
+                  }
     }
 ]

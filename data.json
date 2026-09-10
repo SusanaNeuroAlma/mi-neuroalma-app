@@ -1,42 +1,42 @@
 {
-    "date": "2026-09-08",
+    "date": "2026-09-10",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy piensa en las tres maneras que usas para dar una indicación en clase: con palabras, con un gesto que se ve, o con un toque suave que guía. No hace falta que actives ninguna ahora mismo: solo repasar cuál usas más a menudo, y con cuál te sientes más cómoda, te ayuda a conocer mejor tu propio estilo como formadora.",
-            "tags": ["Enseñanza", "Oficio"],
-            "aprendizaje": "En la enseñanza del movimiento consciente se distinguen tres tipos de indicaciones: las verbales (explicar con palabras), las visuales (mostrar con el cuerpo) y las táctiles (guiar con un toque). Cada alumna aprende mejor con una de ellas, por eso las profesoras con más experiencia suelen combinar las tres en lugar de apoyarse solo en la que les resulta más natural.",
+            "idea": "Últimamente puede que estés esperando a que \"todo esté perfecto\" -la cervical recuperada del todo, el lanzamiento ya resuelto- para permitirte sentirte bien. Hoy prueba a buscar un ratito de calma o disfrute aunque las cosas sigan a medias, sin condicionarlo a que primero se arregle todo lo demás.",
+            "tags": ["Bienestar", "Presente"],
+            "aprendizaje": "La neuropsicóloga Marta Jiménez explica que el cerebro puede volverse \"adicto\" a posponer la felicidad, aplazándola siempre a un futuro donde ya no queden conflictos. Como esos conflictos nunca desaparecen del todo, la espera se alarga sin fin: por eso merece la pena buscar pequeños momentos de bienestar aquí y ahora, aunque el panorama no esté resuelto.",
             "frase": {
-                "texto": "El yoga no debe practicarse para controlar el cuerpo: al contrario, debe traerle al cuerpo la libertad, toda la libertad que necesita.",
-                "autor": "Vanda Scaravelli"
+                "texto": "La felicidad no es algo ya hecho. Viene de tus propias acciones.",
+                "autor": "Dalai Lama"
             },
             "noticia": {
-                "titulo": "La propiocepción, su desconocido 'sexto sentido' que puede ejercitarse",
-                "resumen": "El artículo explica qué es la propiocepción, el sentido que nos permite saber dónde está cada parte del cuerpo sin necesidad de mirarla, y cómo puede entrenarse con la práctica consciente del movimiento. Para quien enseña disciplinas como el yoga, el pilates o el taichí, entender este sentido ayuda a valorar por qué guiar bien la atención hacia el cuerpo es tan importante como la postura en sí.",
-                "url": "https://theconversation.com/la-propiocepcion-su-desconocido-sexto-sentido-que-puede-ejercitar-193329"
+                "titulo": "La neurociencia lo confirma: tu cerebro se vuelve adicto a aplazar tu felicidad",
+                "resumen": "El artículo recoge cómo, según la neuropsicóloga Marta Jiménez, solemos posponer nuestro bienestar esperando a que las circunstancias sean perfectas, un patrón que el cerebro acaba automatizando. Como los conflictos nunca desaparecen del todo, la espera se convierte en infinita; la recomendación es aprender a encontrar momentos de calma y disfrute en el presente, incluso en medio de las dificultades.",
+                "url": "https://www.infobae.com/espana/2026/05/26/la-neurociencia-lo-confirma-tu-cerebro-se-vuelve-adicto-a-aplazar-tu-felicidad/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Hoy cuenta a tu audiencia que no todas las alumnas aprenden igual una postura: unas necesitan oírla explicada, otras verla hecha, y otras que alguien les coloque la mano en el sitio justo. Compartir esto ayuda a que entiendan por qué a veces repites la misma indicación de formas distintas.",
-            "tags": ["Contenido", "Pedagogía"],
-            "guion": "GANCHO: \"¿Por qué a veces repito la misma indicación de tres formas distintas en una sola clase?\"\n\nCUERPO: Durante mis primeros años pensaba que bastaba con explicar bien con palabras. Con el tiempo entendí que no todo el mundo aprende igual: hay quien necesita oír la indicación, quien necesita verla hecha delante de sus ojos, y quien solo la entiende de verdad cuando una mano guía el gesto un segundo. Aprender a leer qué necesita cada alumna, y no solo repetir mi forma favorita de explicar, cambió por completo cómo enseño.\n\nCIERRE: Si alguna vez una misma explicación no te llegaba y otra sí, no era que tú aprendieras \"mal\". Era que esa profesora aún no había encontrado tu manera.",
+            "idea": "Hoy cuenta a tu audiencia que no hace falta esperar a que \"todo esté perfecto\" -tu cuerpo recuperado del todo, tu proyecto ya lanzado- para permitirte un momento de alegría o de calma. Compartir esto ayuda a que quienes te siguen se den ese mismo permiso en su propia vida.",
+            "tags": ["Contenido", "Autenticidad"],
+            "guion": "GANCHO: \"¿Y si llevo meses esperando a estar 'del todo bien' para permitirme ser feliz?\"\n\nCUERPO: Durante esta pausa me he sorprendido a mí misma pensando \"cuando esté recuperada, entonces sí disfrutaré\". Pero la recuperación no tiene una fecha exacta, y mientras tanto la vida sigue pasando. Un día decidí probar algo distinto: buscar un ratito de calma hoy, tal como estoy, sin esperar a que todo esté resuelto para permitírmelo.\n\nCIERRE: Si tú también estás esperando a que algo se resuelva del todo para sentirte bien, prueba a adelantar ese permiso un poco. No hace falta que todo esté perfecto para regalarte un momento bueno.",
             "referente": {
-                "nombre": "Conchita Morera",
-                "porque": "Profesora y formadora de profesores de yoga española, directora de su propia escuela en Zaragoza reconocida por la Unión Europea de Yoga; con décadas dedicadas a formar a otras personas para enseñar, aporta una mirada experta sobre la pedagogía del movimiento consciente."
+                "nombre": "Eduard Punset",
+                "porque": "Divulgador científico español (1936-2019), autor de 'El viaje a la felicidad', explicó durante años en un lenguaje sencillo y cercano cómo la neurociencia ayuda a entender el bienestar y la felicidad, siempre en español y para todos los públicos."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy os cuento algo que he aprendido dando clases durante años: no todo el mundo aprende igual una postura o un movimiento, unas personas necesitan oírlo explicado, otras verlo, y otras que alguien les guíe con la mano. Creo que en Neuroalma quiero cuidar mucho esa variedad, para que cada una encuentre su propia manera de entender lo que vamos viendo juntas. Un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy leía que el cerebro puede acostumbrarse a aplazar la felicidad, dejándola siempre para cuando todo esté resuelto... y como los líos de la vida nunca terminan del todo, esa espera se alarga sin fin. Me quedo con la idea de buscar hoy mismo un ratito bueno, tal como están las cosas, sin esperar a que todo esté perfecto. Os mando un abrazo grande 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15-20 minutos a decidir cómo vas a cobrar las 497 euros de Neuroalma: transferencia bancaria, Bizum o algún otro método sencillo. Elige uno solo, sin complicarte con varias opciones a la vez, y anota los datos que necesitarás compartir con quien se apunte.",
+            "idea": "Dedica 15 minutos a escribir la respuesta que enviarás en cuanto alguien te diga que sí quiere apuntarse a Neuroalma: cómo le confirmas su plaza, qué datos necesitas (nombre y email) y cuál es el siguiente paso para el pago. Tenerla lista te dará seguridad en ese momento.",
             "tags": ["Idea", "Lanzamiento"],
-            "aprendizaje": "Para un lanzamiento pequeño no hace falta contratar ninguna plataforma de pago compleja: elegir un único método sencillo (como transferencia o Bizum) y explicarlo con claridad suele generar más confianza que ofrecer demasiadas opciones a la vez.",
+            "aprendizaje": "Un mensaje de confirmación claro y cálido, enviado justo cuando alguien decide apuntarse, es uno de los primeros pasos para generar confianza: transmite que todo está bien organizado, aunque el lanzamiento sea pequeño y sencillo.",
             "recurso": {
-                "titulo": "Cómo cobra un autónomo: Bizum, Stripe o transferencia en 2026",
+                "titulo": "6 ejemplos de plantillas de correo electrónico de confirmación",
                 "tipo": "artículo",
-                "porque": "Compara en español las opciones más sencillas para cobrar un curso pequeño (Bizum, transferencia, Stripe), justo la decisión que tienes pendiente para las inscripciones de Neuroalma.",
-                "url": "https://www.plenia.app/blog/cobrar-bizum-stripe-transferencia-autonomo-oficio"
+                "porque": "Ofrece en español ejemplos reales de cómo redactar un mensaje de confirmación claro y cercano, útil para cuando alguien confirme su plaza en Neuroalma.",
+                "url": "https://es.squarespace.com/blog/ejemplos-de-correos-electronicos-de-confirmacion"
             }
         }
     }

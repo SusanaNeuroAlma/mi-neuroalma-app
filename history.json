@@ -2087,5 +2087,48 @@
                                                     }
                                     }
                   }
+    },
+    {
+        "date": "2026-09-10",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Últimamente puede que estés esperando a que \"todo esté perfecto\" -la cervical recuperada del todo, el lanzamiento ya resuelto- para permitirte sentirte bien. Hoy prueba a buscar un ratito de calma o disfrute aunque las cosas sigan a medias, sin condicionarlo a que primero se arregle todo lo demás.",
+                "tags": ["Bienestar", "Presente"],
+                "aprendizaje": "La neuropsicóloga Marta Jiménez explica que el cerebro puede volverse \"adicto\" a posponer la felicidad, aplazándola siempre a un futuro donde ya no queden conflictos. Como esos conflictos nunca desaparecen del todo, la espera se alarga sin fin: por eso merece la pena buscar pequeños momentos de bienestar aquí y ahora, aunque el panorama no esté resuelto.",
+                "frase": {
+                    "texto": "La felicidad no es algo ya hecho. Viene de tus propias acciones.",
+                    "autor": "Dalai Lama"
+                },
+                "noticia": {
+                    "titulo": "La neurociencia lo confirma: tu cerebro se vuelve adicto a aplazar tu felicidad",
+                    "resumen": "El artículo recoge cómo, según la neuropsicóloga Marta Jiménez, solemos posponer nuestro bienestar esperando a que las circunstancias sean perfectas, un patrón que el cerebro acaba automatizando. Como los conflictos nunca desaparecen del todo, la espera se convierte en infinita; la recomendación es aprender a encontrar momentos de calma y disfrute en el presente, incluso en medio de las dificultades.",
+                    "url": "https://www.infobae.com/espana/2026/05/26/la-neurociencia-lo-confirma-tu-cerebro-se-vuelve-adicto-a-aplazar-tu-felicidad/"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Hoy cuenta a tu audiencia que no hace falta esperar a que \"todo esté perfecto\" -tu cuerpo recuperado del todo, tu proyecto ya lanzado- para permitirte un momento de alegría o de calma. Compartir esto ayuda a que quienes te siguen se den ese mismo permiso en su propia vida.",
+                "tags": ["Contenido", "Autenticidad"],
+                "guion": "GANCHO: \"¿Y si llevo meses esperando a estar 'del todo bien' para permitirme ser feliz?\"\n\nCUERPO: Durante esta pausa me he sorprendido a mí misma pensando \"cuando esté recuperada, entonces sí disfrutaré\". Pero la recuperación no tiene una fecha exacta, y mientras tanto la vida sigue pasando. Un día decidí probar algo distinto: buscar un ratito de calma hoy, tal como estoy, sin esperar a que todo esté resuelto para permitírmelo.\n\nCIERRE: Si tú también estás esperando a que algo se resuelva del todo para sentirte bien, prueba a adelantar ese permiso un poco. No hace falta que todo esté perfecto para regalarte un momento bueno.",
+                "referente": {
+                    "nombre": "Eduard Punset",
+                    "porque": "Divulgador científico español (1936-2019), autor de 'El viaje a la felicidad', explicó durante años en un lenguaje sencillo y cercano cómo la neurociencia ayuda a entender el bienestar y la felicidad, siempre en español y para todos los públicos."
+                },
+                "mensajeWhatsapp": "Hola a todas! Hoy leía que el cerebro puede acostumbrarse a aplazar la felicidad, dejándola siempre para cuando todo esté resuelto... y como los líos de la vida nunca terminan del todo, esa espera se alarga sin fin. Me quedo con la idea de buscar hoy mismo un ratito bueno, tal como están las cosas, sin esperar a que todo esté perfecto. Os mando un abrazo grande 🌿"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Dedica 15 minutos a escribir la respuesta que enviarás en cuanto alguien te diga que sí quiere apuntarse a Neuroalma: cómo le confirmas su plaza, qué datos necesitas (nombre y email) y cuál es el siguiente paso para el pago. Tenerla lista te dará seguridad en ese momento.",
+                "tags": ["Idea", "Lanzamiento"],
+                "aprendizaje": "Un mensaje de confirmación claro y cálido, enviado justo cuando alguien decide apuntarse, es uno de los primeros pasos para generar confianza: transmite que todo está bien organizado, aunque el lanzamiento sea pequeño y sencillo.",
+                "recurso": {
+                    "titulo": "6 ejemplos de plantillas de correo electrónico de confirmación",
+                    "tipo": "artículo",
+                    "porque": "Ofrece en español ejemplos reales de cómo redactar un mensaje de confirmación claro y cercano, útil para cuando alguien confirme su plaza en Neuroalma.",
+                    "url": "https://es.squarespace.com/blog/ejemplos-de-correos-electronicos-de-confirmacion"
+                }
+            }
+        }
     }
 ]

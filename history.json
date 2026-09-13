@@ -2130,5 +2130,48 @@
                 }
             }
         }
+    },
+    {
+        "date": "2026-09-12",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Aunque ahora no puedas dar clase con el cuerpo, hoy prueba a ensayar mentalmente una sesión completa: imagina cómo entras, qué indicaciones das primero, con qué tono de voz acompañas cada momento. No es lo mismo que moverte, pero tu cerebro sigue afinando tu oficio con cada ensayo imaginado.",
+                "tags": ["Pedagogía", "Visualización"],
+                "aprendizaje": "El psicólogo deportivo Edgar Albo explica que la visualización consiste en imaginar una situación con todo detalle, en tiempo presente y apelando a los sentidos, lo que prepara el cerebro casi como si la situación ocurriera de verdad. Para una formadora, ensayar así una clase -el ritmo, las palabras, el orden de las indicaciones- es una forma real de seguir entrenando el oficio aunque el cuerpo esté en pausa.",
+                "frase": {
+                    "texto": "Todas las cosas se crean dos veces: primero una creación mental, y luego una creación física.",
+                    "autor": "Stephen Covey"
+                },
+                "noticia": {
+                    "titulo": "El éxito inicia en tu cerebro",
+                    "resumen": "El artículo recoge cómo el psicólogo deportivo Edgar Albo, con 30 años de experiencia, explica que la visualización -imaginar una situación con detalle, en presente y apelando a los sentidos- prepara el cerebro y mejora la toma de decisiones. Junto a la confianza en las propias capacidades y la resiliencia ante la adversidad, el entrenamiento mental es una de las claves que distingue a quienes rinden mejor, dentro y fuera del deporte.",
+                    "url": "https://diario.mx/salud/2026/jul/27/el-exito-inicia-en-tu-cerebro-1130121.html"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Cuenta a tu audiencia que estos meses también estás entrenando, aunque no se vea: ensayando mentalmente tus clases, puliendo cómo quieres acompañar a un grupo. A muchas personas les ayuda oír que prepararse no siempre implica moverse.",
+                "tags": ["Contenido", "Preparación mental"],
+                "guion": "GANCHO: \"¿Se puede entrenar sin mover un solo músculo? La neurociencia dice que sí.\"\n\nCUERPO: Estos meses sin poder dar clase con el cuerpo, aprendí que hay otra forma de seguir preparándome: cerrar los ojos e imaginar una sesión entera, con todo detalle, como si estuviera pasando de verdad. Al principio me parecía un simple consuelo. Luego descubrí que los deportistas de alto nivel llevan años usando esta misma técnica para entrenar el cerebro antes que el cuerpo.\n\nCIERRE: Si ahora mismo no puedes hacer las cosas \"como siempre\", quizá no estés parada. Puede que estés entrenando de otra manera.",
+                "referente": {
+                    "nombre": "Edgar Albo",
+                    "porque": "Psicólogo deportivo mexicano con más de 30 años de experiencia, especializado en preparación mental y visualización; explica en español y sin tecnicismos cómo el entrenamiento de la mente prepara el cuerpo para rendir mejor."
+                },
+                "mensajeWhatsapp": "Hola a todas! Hoy leía que muchos deportistas de élite entrenan tanto con la mente como con el cuerpo: imaginan la situación con todo detalle antes de vivirla de verdad, y eso ya prepara al cerebro. Me ha hecho pensar que estos meses de pausa también son un tipo de entrenamiento, aunque no se vea desde fuera. Os mando un abrazo grande 🌿"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Dedica 15-20 minutos a escribir el mensaje con el que anunciarás las fechas de las 7 sesiones en directo a tu comunidad de WhatsApp: qué días y horas serán, qué se van a llevar, y cómo apuntarse. Tenerlo listo te acerca un paso más al lanzamiento.",
+                "tags": ["Idea", "Lanzamiento"],
+                "aprendizaje": "Anunciar fechas concretas, en lugar de un genérico \"próximamente\", ayuda a que las personas interesadas se comprometan antes: la concreción genera más confianza y más acción que una fecha vaga.",
+                "recurso": {
+                    "titulo": "Plantilla de correo para anunciar formaciones",
+                    "tipo": "artículo",
+                    "porque": "Ofrece en español ejemplos y una guía práctica para redactar un anuncio de formación claro y efectivo, útil como base para tu mensaje de fechas de Neuroalma.",
+                    "url": "https://www.engagelab.com/es_ES/email-template/training-announcement-email-template"
+                }
+            }
+        }
     }
 ]

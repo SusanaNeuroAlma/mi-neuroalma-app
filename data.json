@@ -1,42 +1,42 @@
 {
-    "date": "2026-09-12",
+    "date": "2026-09-13",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Aunque ahora no puedas dar clase con el cuerpo, hoy prueba a ensayar mentalmente una sesión completa: imagina cómo entras, qué indicaciones das primero, con qué tono de voz acompañas cada momento. No es lo mismo que moverte, pero tu cerebro sigue afinando tu oficio con cada ensayo imaginado.",
-            "tags": ["Pedagogía", "Visualización"],
-            "aprendizaje": "El psicólogo deportivo Edgar Albo explica que la visualización consiste en imaginar una situación con todo detalle, en tiempo presente y apelando a los sentidos, lo que prepara el cerebro casi como si la situación ocurriera de verdad. Para una formadora, ensayar así una clase -el ritmo, las palabras, el orden de las indicaciones- es una forma real de seguir entrenando el oficio aunque el cuerpo esté en pausa.",
+            "idea": "Estos días quizá sientas que \"no hacer nada\" debería bastar para descansar, pero el cerebro se recupera mejor con un pequeño reto entretenido que con la inactividad total. Hoy prueba algo sencillo que te enganche un rato -un libro, un juego de mesa, un crucigrama- y observa si notas la mente más despejada después.",
+            "tags": ["Neurociencia", "Descanso"],
+            "aprendizaje": "Un artículo reciente recoge que el verdadero descanso cerebral no depende solo de dormir más horas, sino de actividades con baja presión, algo de movimiento suave y un pequeño reto cognitivo con chispa emocional, como un juego que quieres ganar. La inactividad total, en cambio, no reduce la fatiga mental tanto como se piensa: dejar la mente sin ningún estímulo puede incluso alargar esa sensación de cansancio.",
             "frase": {
-                "texto": "Todas las cosas se crean dos veces: primero una creación mental, y luego una creación física.",
-                "autor": "Stephen Covey"
+                "texto": "El descanso no es pereza: tumbarse en la hierba bajo los árboles en un día de verano, escuchando el murmullo del agua o mirando pasar las nubes, no es en absoluto perder el tiempo.",
+                "autor": "John Lubbock"
             },
             "noticia": {
-                "titulo": "El éxito inicia en tu cerebro",
-                "resumen": "El artículo recoge cómo el psicólogo deportivo Edgar Albo, con 30 años de experiencia, explica que la visualización -imaginar una situación con detalle, en presente y apelando a los sentidos- prepara el cerebro y mejora la toma de decisiones. Junto a la confianza en las propias capacidades y la resiliencia ante la adversidad, el entrenamiento mental es una de las claves que distingue a quienes rinden mejor, dentro y fuera del deporte.",
-                "url": "https://diario.mx/salud/2026/jul/27/el-exito-inicia-en-tu-cerebro-1130121.html"
+                "titulo": "Así puede lograr un descanso reparador para el cerebro: no necesariamente debe dormir más",
+                "resumen": "El artículo explica que el descanso cerebral no depende solo de dormir más horas, sino de participar en actividades que estimulen las funciones ejecutivas con baja presión, algo de movimiento y un reto cognitivo con chispa emocional, como un juego de mesa o la lectura. El cerebro nunca se desconecta del todo, ni siquiera durmiendo, así que estos descansos activos ayudan a evitar la acumulación de fatiga mental en la corteza prefrontal.",
+                "url": "https://www.infobae.com/colombia/2026/08/17/asi-puede-lograr-un-descanso-reparador-para-el-cerebro-no-necesariamente-debe-dormir-mas/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Cuenta a tu audiencia que estos meses también estás entrenando, aunque no se vea: ensayando mentalmente tus clases, puliendo cómo quieres acompañar a un grupo. A muchas personas les ayuda oír que prepararse no siempre implica moverse.",
-            "tags": ["Contenido", "Preparación mental"],
-            "guion": "GANCHO: \"¿Se puede entrenar sin mover un solo músculo? La neurociencia dice que sí.\"\n\nCUERPO: Estos meses sin poder dar clase con el cuerpo, aprendí que hay otra forma de seguir preparándome: cerrar los ojos e imaginar una sesión entera, con todo detalle, como si estuviera pasando de verdad. Al principio me parecía un simple consuelo. Luego descubrí que los deportistas de alto nivel llevan años usando esta misma técnica para entrenar el cerebro antes que el cuerpo.\n\nCIERRE: Si ahora mismo no puedes hacer las cosas \"como siempre\", quizá no estés parada. Puede que estés entrenando de otra manera.",
+            "idea": "Cuenta a tu audiencia que esta pausa te ha enseñado que \"no hacer nada\" no es lo mismo que descansar bien: el cerebro se recupera mejor con pequeños retos entretenidos que con la inactividad total. Es un permiso bonito para compartir con quien también arrastra la culpa de \"no estar produciendo\".",
+            "tags": ["Contenido", "Descanso activo"],
+            "guion": "GANCHO: \"¿Y si 'no hacer nada' no fuera la mejor forma de descansar tu cerebro?\"\n\nCUERPO: Durante esta pausa pensaba que la única forma de recuperarme era parar del todo, no hacer nada de nada. Pero según la neurociencia, el cerebro se repone mejor con pequeños retos entretenidos -un juego, un libro, una conversación que engancha- que con la inactividad absoluta. Desde que lo probé, mis ratos de descanso cambiaron: sigo parando, pero elijo parar con algo que me entretenga un poco.\n\nCIERRE: Si tú también sientes culpa por \"no estar haciendo nada productivo\", prueba a cambiar la pregunta: no es cuánto haces, es si lo que haces te entretiene sin exigirte.",
             "referente": {
-                "nombre": "Edgar Albo",
-                "porque": "Psicólogo deportivo mexicano con más de 30 años de experiencia, especializado en preparación mental y visualización; explica en español y sin tecnicismos cómo el entrenamiento de la mente prepara el cuerpo para rendir mejor."
+                "nombre": "Marta Romo",
+                "porque": "Neurocientífica aplicada española, autora de libros como 'Entrena tu cerebro' e 'Hiperdesconexión'; divulga en español, de forma clara y accesible, cómo cuidar el cerebro frente al ritmo de vida actual."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy leía que muchos deportistas de élite entrenan tanto con la mente como con el cuerpo: imaginan la situación con todo detalle antes de vivirla de verdad, y eso ya prepara al cerebro. Me ha hecho pensar que estos meses de pausa también son un tipo de entrenamiento, aunque no se vea desde fuera. Os mando un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Esta semana leía que el cerebro descansa mejor con un pequeño reto entretenido -un juego, un libro que engancha- que estando totalmente parado. Me ha venido bien para quitarme la culpa de estos días de pausa forzosa: parar no tiene que ser no hacer nada. Os mando un abrazo grande 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15-20 minutos a escribir el mensaje con el que anunciarás las fechas de las 7 sesiones en directo a tu comunidad de WhatsApp: qué días y horas serán, qué se van a llevar, y cómo apuntarse. Tenerlo listo te acerca un paso más al lanzamiento.",
-            "tags": ["Idea", "Lanzamiento"],
-            "aprendizaje": "Anunciar fechas concretas, en lugar de un genérico \"próximamente\", ayuda a que las personas interesadas se comprometan antes: la concreción genera más confianza y más acción que una fecha vaga.",
+            "idea": "Dedica 15-20 minutos a crear una hoja sencilla (en papel o en Google Sheets) donde anotar quién se apunta a Neuroalma: nombre, email y si ya ha hecho el pago. Tenerlo centralizado desde el principio evitará confusiones cuando empiecen a llegar las primeras inscripciones.",
+            "tags": ["Idea", "Organización"],
+            "aprendizaje": "Aunque el lanzamiento sea pequeño, tener un único lugar donde anotar quién se apunta y su estado de pago transmite profesionalidad y te ahorra el esfuerzo de recordarlo todo de memoria o buscarlo entre mensajes sueltos.",
             "recurso": {
-                "titulo": "Plantilla de correo para anunciar formaciones",
+                "titulo": "105 plantillas de Hojas de cálculo de Google para organizarlo todo",
                 "tipo": "artículo",
-                "porque": "Ofrece en español ejemplos y una guía práctica para redactar un anuncio de formación claro y efectivo, útil como base para tu mensaje de fechas de Neuroalma.",
-                "url": "https://www.engagelab.com/es_ES/email-template/training-announcement-email-template"
+                "porque": "Recopila en español plantillas gratuitas de Google Sheets, útiles para montar rápido tu propia hoja de seguimiento de inscripciones de Neuroalma sin empezar de cero.",
+                "url": "https://www.xataka.com/basics/plantillas-hojas-calculos-google-para-organizarlo-todo"
             }
         }
     }

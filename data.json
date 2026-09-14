@@ -1,42 +1,42 @@
 {
-    "date": "2026-09-13",
+    "date": "2026-09-14",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Estos días quizá sientas que \"no hacer nada\" debería bastar para descansar, pero el cerebro se recupera mejor con un pequeño reto entretenido que con la inactividad total. Hoy prueba algo sencillo que te enganche un rato -un libro, un juego de mesa, un crucigrama- y observa si notas la mente más despejada después.",
-            "tags": ["Neurociencia", "Descanso"],
-            "aprendizaje": "Un artículo reciente recoge que el verdadero descanso cerebral no depende solo de dormir más horas, sino de actividades con baja presión, algo de movimiento suave y un pequeño reto cognitivo con chispa emocional, como un juego que quieres ganar. La inactividad total, en cambio, no reduce la fatiga mental tanto como se piensa: dejar la mente sin ningún estímulo puede incluso alargar esa sensación de cansancio.",
+            "idea": "Como formadora, parte de tu oficio era leer el grupo antes de hablar: mirar cómo llegaba la clase -con prisa, cansada, dispersa- y ajustar el tono y el ritmo a partir de esa observación, más que seguir el guion de memoria. Hoy, aunque no estés dando clases, puedes recordar algún día en que cambiaste el plan sobre la marcha porque el grupo lo pedía, y qué aprendiste de esa lectura.",
+            "tags": ["Oficio", "Grupo"],
+            "aprendizaje": "Un artículo reciente sobre neuroeducación recoge modelos como AIDARE, que unen atención, interés y reflexión para diseñar mejor una clase. Aplicado a tu propio oficio, la idea de fondo es sencilla: antes de pensar en qué vas a enseñar, merece la pena pensar en cómo va a recibirlo quien tienes delante, porque esa observación previa cambia todo lo que viene después.",
             "frase": {
-                "texto": "El descanso no es pereza: tumbarse en la hierba bajo los árboles en un día de verano, escuchando el murmullo del agua o mirando pasar las nubes, no es en absoluto perder el tiempo.",
-                "autor": "John Lubbock"
+                "texto": "El movimiento es vida. La vida es un proceso. Mejora la calidad del proceso y mejorarás la calidad de la vida misma.",
+                "autor": "Moshe Feldenkrais"
             },
             "noticia": {
-                "titulo": "Así puede lograr un descanso reparador para el cerebro: no necesariamente debe dormir más",
-                "resumen": "El artículo explica que el descanso cerebral no depende solo de dormir más horas, sino de participar en actividades que estimulen las funciones ejecutivas con baja presión, algo de movimiento y un reto cognitivo con chispa emocional, como un juego de mesa o la lectura. El cerebro nunca se desconecta del todo, ni siquiera durmiendo, así que estos descansos activos ayudan a evitar la acumulación de fatiga mental en la corteza prefrontal.",
-                "url": "https://www.infobae.com/colombia/2026/08/17/asi-puede-lograr-un-descanso-reparador-para-el-cerebro-no-necesariamente-debe-dormir-mas/"
+                "titulo": "Neuroeducación en el aula: qué es, cómo aplicarla y los mejores libros para docentes",
+                "resumen": "El artículo explica que la neuroeducación estudia cómo funciona el cerebro durante el aprendizaje para convertir ese conocimiento en estrategias docentes más efectivas. Propone modelos como AIDARE (atención, interés, deseo, acción, reflexión y evocación), que vinculan los hallazgos científicos con competencias concretas de aula, y recomienda libros pensados para que docentes y familias sin formación previa en neurociencia puedan aplicarlos.",
+                "url": "https://www.moncloa.com/2026/08/31/neuroeducacion-en-el-aula-libros-docentes-3423840/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Cuenta a tu audiencia que esta pausa te ha enseñado que \"no hacer nada\" no es lo mismo que descansar bien: el cerebro se recupera mejor con pequeños retos entretenidos que con la inactividad total. Es un permiso bonito para compartir con quien también arrastra la culpa de \"no estar produciendo\".",
-            "tags": ["Contenido", "Descanso activo"],
-            "guion": "GANCHO: \"¿Y si 'no hacer nada' no fuera la mejor forma de descansar tu cerebro?\"\n\nCUERPO: Durante esta pausa pensaba que la única forma de recuperarme era parar del todo, no hacer nada de nada. Pero según la neurociencia, el cerebro se repone mejor con pequeños retos entretenidos -un juego, un libro, una conversación que engancha- que con la inactividad absoluta. Desde que lo probé, mis ratos de descanso cambiaron: sigo parando, pero elijo parar con algo que me entretenga un poco.\n\nCIERRE: Si tú también sientes culpa por \"no estar haciendo nada productivo\", prueba a cambiar la pregunta: no es cuánto haces, es si lo que haces te entretiene sin exigirte.",
+            "idea": "Cuenta a tu audiencia ese pequeño hábito de guía que tenías antes de empezar cualquier clase: observar al grupo unos segundos antes de hablar. Es un consejo que sirve a cualquiera que tenga que dar la cara ante otros -una reunión, una charla, una llamada importante- no solo a quien enseña movimiento.",
+            "tags": ["Contenido", "Presencia"],
+            "guion": "GANCHO: \"Antes de decir la primera palabra en clase, yo hacía siempre lo mismo.\"\n\nCUERPO: Miraba al grupo. Solo eso, unos segundos, antes de dar la primera indicación. Si veían con prisa, empezaba más despacio de lo previsto. Si venían dispersos, buscaba algo que los enganchara antes de pedirles concentración. Nunca seguía el guion de memoria sin mirar primero quién tenía delante. Con el tiempo entendí que esa pausa de observación valía más que cualquier secuencia perfecta que hubiera preparado.\n\nCIERRE: La próxima vez que tengas que hablar ante otros, prueba a hacer esa pausa antes de empezar. Mirar primero, hablar después.",
             "referente": {
-                "nombre": "Marta Romo",
-                "porque": "Neurocientífica aplicada española, autora de libros como 'Entrena tu cerebro' e 'Hiperdesconexión'; divulga en español, de forma clara y accesible, cómo cuidar el cerebro frente al ritmo de vida actual."
+                "nombre": "David Bueno i Torrens",
+                "porque": "Doctor en biología y divulgador español de neuroeducación; investiga cómo aprende el cerebro y traduce esos hallazgos en recomendaciones prácticas y accesibles para el aula."
             },
-            "mensajeWhatsapp": "Hola a todas! Esta semana leía que el cerebro descansa mejor con un pequeño reto entretenido -un juego, un libro que engancha- que estando totalmente parado. Me ha venido bien para quitarme la culpa de estos días de pausa forzosa: parar no tiene que ser no hacer nada. Os mando un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy recordaba un hábito que tenía siempre antes de empezar una clase: mirar al grupo unos segundos antes de decir nada, para ver cómo llegaban. Me ha hecho pensar que esa pausa de observar antes de actuar sirve para casi todo, no solo para dar clase. Un abrazo grande 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15-20 minutos a crear una hoja sencilla (en papel o en Google Sheets) donde anotar quién se apunta a Neuroalma: nombre, email y si ya ha hecho el pago. Tenerlo centralizado desde el principio evitará confusiones cuando empiecen a llegar las primeras inscripciones.",
-            "tags": ["Idea", "Organización"],
-            "aprendizaje": "Aunque el lanzamiento sea pequeño, tener un único lugar donde anotar quién se apunta y su estado de pago transmite profesionalidad y te ahorra el esfuerzo de recordarlo todo de memoria o buscarlo entre mensajes sueltos.",
+            "idea": "Dedica 10-15 minutos a escribir un mensaje corto de bienvenida que enviarás a cada persona en cuanto confirme su plaza en Neuroalma: agradécele su confianza y recuérdale la fecha de la primera sesión. Tenerlo ya redactado te evitará improvisarlo cada vez que llegue una inscripción nueva.",
+            "tags": ["Idea", "Bienvenida"],
+            "aprendizaje": "Un mensaje de bienvenida ya preparado no es solo un ahorro de tiempo: es la primera impresión que se lleva cada persona de Neuroalma. Tenerlo escrito con calma, en lugar de improvisarlo con prisa cuando llega una inscripción, ayuda a transmitir la misma calidez que quieres que se sienta durante todo el programa.",
             "recurso": {
-                "titulo": "105 plantillas de Hojas de cálculo de Google para organizarlo todo",
+                "titulo": "Mensaje de inicio de un curso online",
                 "tipo": "artículo",
-                "porque": "Recopila en español plantillas gratuitas de Google Sheets, útiles para montar rápido tu propia hoja de seguimiento de inscripciones de Neuroalma sin empezar de cero.",
-                "url": "https://www.xataka.com/basics/plantillas-hojas-calculos-google-para-organizarlo-todo"
+                "porque": "Explica en español cómo redactar un mensaje de bienvenida que ilusione y motive desde el primer contacto, justo lo que necesitas para dar la bienvenida a quienes se apunten a Neuroalma.",
+                "url": "https://www.joselozanogalera.com/mensaje-de-inicio-de-un-curso-online/"
             }
         }
     }

@@ -1,42 +1,42 @@
 {
-    "date": "2026-09-14",
+    "date": "2026-09-16",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Como formadora, parte de tu oficio era leer el grupo antes de hablar: mirar cómo llegaba la clase -con prisa, cansada, dispersa- y ajustar el tono y el ritmo a partir de esa observación, más que seguir el guion de memoria. Hoy, aunque no estés dando clases, puedes recordar algún día en que cambiaste el plan sobre la marcha porque el grupo lo pedía, y qué aprendiste de esa lectura.",
-            "tags": ["Oficio", "Grupo"],
-            "aprendizaje": "Un artículo reciente sobre neuroeducación recoge modelos como AIDARE, que unen atención, interés y reflexión para diseñar mejor una clase. Aplicado a tu propio oficio, la idea de fondo es sencilla: antes de pensar en qué vas a enseñar, merece la pena pensar en cómo va a recibirlo quien tienes delante, porque esa observación previa cambia todo lo que viene después.",
+            "idea": "Estos días, date permiso para algo que no tenga ninguna utilidad: dibujar sin objetivo, poner una canción y moverte solo con las manos, jugar a algo tonto con quien tengas cerca. No es perder el tiempo, es una forma de conexión contigo misma y con los demás que tu cuerpo, aunque esté de baja, todavía puede disfrutar.",
+            "tags": ["Juego", "Conexión"],
+            "aprendizaje": "El juego no es solo cosa de la infancia: en el cerebro adulto activa las mismas redes de recompensa y ayuda a bajar el estrés, funcionando casi como un descanso activo para la mente. Además, jugar con otra persona, aunque sea algo pequeño, refuerza la sensación de conexión, algo que se echa mucho de menos cuando se pasa por una baja larga.",
             "frase": {
-                "texto": "El movimiento es vida. La vida es un proceso. Mejora la calidad del proceso y mejorarás la calidad de la vida misma.",
-                "autor": "Moshe Feldenkrais"
+                "texto": "El hombre solo juega cuando es hombre en el pleno sentido de la palabra, y solo es plenamente hombre cuando juega.",
+                "autor": "Friedrich Schiller"
             },
             "noticia": {
-                "titulo": "Neuroeducación en el aula: qué es, cómo aplicarla y los mejores libros para docentes",
-                "resumen": "El artículo explica que la neuroeducación estudia cómo funciona el cerebro durante el aprendizaje para convertir ese conocimiento en estrategias docentes más efectivas. Propone modelos como AIDARE (atención, interés, deseo, acción, reflexión y evocación), que vinculan los hallazgos científicos con competencias concretas de aula, y recomienda libros pensados para que docentes y familias sin formación previa en neurociencia puedan aplicarlos.",
-                "url": "https://www.moncloa.com/2026/08/31/neuroeducacion-en-el-aula-libros-docentes-3423840/"
+                "titulo": "Facundo Manes: \"Hay que jugar más, inclusive los adultos, el juego conecta a las personas\"",
+                "resumen": "El neurólogo Facundo Manes defiende que el juego no es solo cosa de niños: en la vida adulta ayuda a mantener la mente activa, reduce el estrés y, sobre todo, conecta a las personas entre sí. Según explica, dedicar tiempo a actividades lúdicas, sin más objetivo que disfrutarlas, es una forma sencilla y accesible de cuidar el cerebro en cualquier etapa de la vida.",
+                "url": "https://www.diariodecuyo.com.ar/noticias/facundo-manes-en-san-juan-hay-que-jugar-mas-inclusive-los-adultos-el-juego-conecta-a-las-personas-538197.html"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Cuenta a tu audiencia ese pequeño hábito de guía que tenías antes de empezar cualquier clase: observar al grupo unos segundos antes de hablar. Es un consejo que sirve a cualquiera que tenga que dar la cara ante otros -una reunión, una charla, una llamada importante- no solo a quien enseña movimiento.",
-            "tags": ["Contenido", "Presencia"],
-            "guion": "GANCHO: \"Antes de decir la primera palabra en clase, yo hacía siempre lo mismo.\"\n\nCUERPO: Miraba al grupo. Solo eso, unos segundos, antes de dar la primera indicación. Si veían con prisa, empezaba más despacio de lo previsto. Si venían dispersos, buscaba algo que los enganchara antes de pedirles concentración. Nunca seguía el guion de memoria sin mirar primero quién tenía delante. Con el tiempo entendí que esa pausa de observación valía más que cualquier secuencia perfecta que hubiera preparado.\n\nCIERRE: La próxima vez que tengas que hablar ante otros, prueba a hacer esa pausa antes de empezar. Mirar primero, hablar después.",
+            "idea": "Cuenta a tu audiencia un momento gracioso o juguetón que viviste en clase, esos ratos de risas compartidas que probablemente recuerdan tus alumnas mejor que cualquier ejercicio técnico. Es un buen recordatorio de que enseñar movimiento consciente no va solo de perfeccionar posturas, también de disfrutar juntos.",
+            "tags": ["Contenido", "Comunidad"],
+            "guion": "GANCHO: \"¿Sabéis qué recuerdan más mis alumnas de una clase, más que cualquier postura perfecta? Las risas.\"\n\nCUERPO: Hubo una época en que probé un ejercicio de equilibrio nuevo y media clase acabó en el suelo, riendo, incluida yo. Ese día no salió ninguna postura perfecta, pero fue de las clases que más me agradecieron después. Con el tiempo entendí que el cuerpo aprende mejor cuando está relajado, y la risa compartida relaja como pocas cosas. Enseñar movimiento consciente no es solo corregir alineaciones, es también crear esos momentos en los que un grupo se suelta junto.\n\nCIERRE: ¿Tienes tú también un recuerdo así, de esos que se quedan más por la risa que por la técnica? Cuéntamelo, me encantaría leerlo.",
             "referente": {
-                "nombre": "David Bueno i Torrens",
-                "porque": "Doctor en biología y divulgador español de neuroeducación; investiga cómo aprende el cerebro y traduce esos hallazgos en recomendaciones prácticas y accesibles para el aula."
+                "nombre": "Marc Masip",
+                "porque": "Psicólogo español especializado en el uso del juego como herramienta educativa y terapéutica; defiende que jugar, a cualquier edad, ayuda a conectar, motivar y aprender mejor."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy recordaba un hábito que tenía siempre antes de empezar una clase: mirar al grupo unos segundos antes de decir nada, para ver cómo llegaban. Me ha hecho pensar que esa pausa de observar antes de actuar sirve para casi todo, no solo para dar clase. Un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Esta semana he estado pensando en lo importante que es reservarse un ratito para jugar, sin más motivo que disfrutar, da igual la edad que tengamos. Si os apetece, contadme cuál fue la última vez que os reísteis así, de esas veces que no se olvidan 🙂"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 10-15 minutos a escribir un mensaje corto de bienvenida que enviarás a cada persona en cuanto confirme su plaza en Neuroalma: agradécele su confianza y recuérdale la fecha de la primera sesión. Tenerlo ya redactado te evitará improvisarlo cada vez que llegue una inscripción nueva.",
-            "tags": ["Idea", "Bienvenida"],
-            "aprendizaje": "Un mensaje de bienvenida ya preparado no es solo un ahorro de tiempo: es la primera impresión que se lleva cada persona de Neuroalma. Tenerlo escrito con calma, en lugar de improvisarlo con prisa cuando llega una inscripción, ayuda a transmitir la misma calidez que quieres que se sienta durante todo el programa.",
+            "idea": "Dedica 15-20 minutos a releer el Libro de Recuerdos y elegir dos o tres frases cortas que podrían funcionar como testimonios en la futura página de ventas de Neuroalma. No hace falta usarlas ya, solo empezar a señalar cuáles te parecen más potentes.",
+            "tags": ["Idea", "Testimonios"],
+            "aprendizaje": "Aunque Neuroalma en sí todavía no tenga alumnas propias, no partes de cero: los testimonios reales de tus clases presenciales, aunque sean de otro contexto, ya demuestran que tu forma de enseñar deja huella. Usarlos con honestidad, aclarando que vienen de tu trayectoria como formadora, es mejor que esperar a tener testimonios nuevos antes de mostrar nada.",
             "recurso": {
-                "titulo": "Mensaje de inicio de un curso online",
+                "titulo": "Cómo conseguir testimonios impactantes para facilitar la venta de tus cursos online",
                 "tipo": "artículo",
-                "porque": "Explica en español cómo redactar un mensaje de bienvenida que ilusione y motive desde el primer contacto, justo lo que necesitas para dar la bienvenida a quienes se apunten a Neuroalma.",
-                "url": "https://www.joselozanogalera.com/mensaje-de-inicio-de-un-curso-online/"
+                "porque": "Explica en español cómo elegir y presentar testimonios que generen confianza en una página de ventas, justo lo que necesitas para dar forma a esa futura página de Neuroalma usando el material real que ya tienes en el Libro de Recuerdos.",
+                "url": "https://www.classonlive.com/blog/conseguir-testimonios-venta-cursos-online"
             }
         }
     }

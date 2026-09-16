@@ -36,7 +36,7 @@
                                                       "Cuerpo",
                                                       "Mente"
                                                   ],
-                                         "aprendizaje":  "Mantener el cerebro activo con aprendizaje constante, movimiento y meditacion ayuda a fortalecer lo que los neurocientificos llaman 'reserva cognitiva': la capacidad del cerebro para adaptarse y protegerse frente al desgaste con la edad.",
+                                         "aprendizaje":  "Mantener el cerebro activo con aprendizaje constante, movimiento y meditacion ayuda a fortalecer lo que los neurocientificos llaman \u0027reserva cognitiva\u0027: la capacidad del cerebro para adaptarse y protegerse frente al desgaste con la edad.",
                                          "frase":  {
                                                        "texto":  "No puedes detener las olas, pero puedes aprender a surfearlas.",
                                                        "autor":  "Jon Kabat-Zinn"
@@ -259,7 +259,7 @@
                                                  "Contenido",
                                                  "Autenticidad"
                                              ],
-                                    "guion":  "GANCHO: \"Â¿Que pasa cuando la persona que siempre dice 'para y respira' tiene que aprender a hacerlo ella misma, a la fuerza?\"\n\nCUERPO: Llevo aÃ±os diciendole a otras que el descanso no es un premio, que es parte del proceso. Este aÃ±o me toco aprenderlo en primera persona, sin poder dar clase, sin poder moverme como antes. Al principio lo vivi como una perdida. Con el tiempo entendi que era la misma leccion que llevo aÃ±os enseÃ±ando, solo que ahora me tocaba a mi aplicarla.\n\nCIERRE: Si alguna vez sentiste que tenias que parar justo cuando menos ganas tenias, no es una seÃ±al de fracaso. Es la vida poniendote a prueba con tu propia enseÃ±anza.",
+                                    "guion":  "GANCHO: \"Â¿Que pasa cuando la persona que siempre dice \u0027para y respira\u0027 tiene que aprender a hacerlo ella misma, a la fuerza?\"\n\nCUERPO: Llevo aÃ±os diciendole a otras que el descanso no es un premio, que es parte del proceso. Este aÃ±o me toco aprenderlo en primera persona, sin poder dar clase, sin poder moverme como antes. Al principio lo vivi como una perdida. Con el tiempo entendi que era la misma leccion que llevo aÃ±os enseÃ±ando, solo que ahora me tocaba a mi aplicarla.\n\nCIERRE: Si alguna vez sentiste que tenias que parar justo cuando menos ganas tenias, no es una seÃ±al de fracaso. Es la vida poniendote a prueba con tu propia enseÃ±anza.",
                                     "referente":  {
                                                       "nombre":  "Elsa Punset",
                                                       "porque":  "Divulgadora espaÃ±ola de inteligencia emocional y neurociencia, con un lenguaje sencillo y cercano, muy accesible para un publico general como el de Neuroalma."
@@ -293,7 +293,7 @@
                                                       "Calma",
                                                       "Seguridad"
                                                   ],
-                                         "aprendizaje":  "El neurocientifico Stephen Porges llamo 'neurocepcion' al proceso por el que tu sistema nervioso evalua, antes de que lo pienses, si un lugar o una situacion es segura o amenazante. Por eso a veces te relajas sin saber muy bien por que: tu cuerpo ya habia decidido que ahi podia bajar la guardia.",
+                                         "aprendizaje":  "El neurocientifico Stephen Porges llamo \u0027neurocepcion\u0027 al proceso por el que tu sistema nervioso evalua, antes de que lo pienses, si un lugar o una situacion es segura o amenazante. Por eso a veces te relajas sin saber muy bien por que: tu cuerpo ya habia decidido que ahi podia bajar la guardia.",
                                          "frase":  {
                                                        "texto":  "La herida es el lugar por donde la luz entra en ti.",
                                                        "autor":  "Rumi"
@@ -496,7 +496,7 @@
                                                       "PedagogÃ­a",
                                                       "AcompaÃ±amiento"
                                                   ],
-                                         "aprendizaje":  "En la pedagogia del movimiento consciente se habla de 'sostener el espacio': no se trata solo de dar instrucciones correctas, sino de transmitir con la voz y la presencia que ese lugar es seguro para equivocarse, ir mas despacio o simplemente quedarse quieto. Esa sensacion de seguridad es, muchas veces, lo que mas recuerda el alumnado, mas que la postura en si.",
+                                         "aprendizaje":  "En la pedagogia del movimiento consciente se habla de \u0027sostener el espacio\u0027: no se trata solo de dar instrucciones correctas, sino de transmitir con la voz y la presencia que ese lugar es seguro para equivocarse, ir mas despacio o simplemente quedarse quieto. Esa sensacion de seguridad es, muchas veces, lo que mas recuerda el alumnado, mas que la postura en si.",
                                          "frase":  {
                                                        "texto":  "El movimiento es vida; sin movimiento, la vida es impensable.",
                                                        "autor":  "Moshe Feldenkrais"
@@ -523,7 +523,7 @@
                                                      "Idea",
                                                      "Lanzamiento"
                                                  ],
-                                        "aprendizaje":  "Un buen mensaje de bienvenida nada mas inscribirse reduce mucho la sensacion de 'y ahora que', que es una de las principales causas de que alguien se desapunte antes de la primera sesion. No hace falta que sea largo: basta con confirmar la fecha, dar una forma facil de contactarte y transmitir cercania.",
+                                        "aprendizaje":  "Un buen mensaje de bienvenida nada mas inscribirse reduce mucho la sensacion de \u0027y ahora que\u0027, que es una de las principales causas de que alguien se desapunte antes de la primera sesion. No hace falta que sea largo: basta con confirmar la fecha, dar una forma facil de contactarte y transmitir cercania.",
                                         "recurso":  {
                                                         "titulo":  "Como redactar un buen email de bienvenida para tus suscriptores",
                                                         "tipo":  "articulo",
@@ -660,7 +660,7 @@
                                                  "Contenido",
                                                  "Emociones"
                                              ],
-                                    "guion":  "GANCHO: \"Hay una frase de tres palabras que calma mas al cerebro que cualquier consejo largo: 'esto es miedo'.\"\n\nCUERPO: Durante aÃ±os pense que gestionar una emocion dificil era cuestion de razonarla, de explicarme por que sentia lo que sentia. Con el tiempo entendi algo mas sencillo: solo con ponerle nombre, sin analizarla todavia, el cerebro ya empieza a calmarse. No hace falta resolverlo todo de golpe, primero hay que nombrarlo.\n\nCIERRE: La proxima vez que algo te remueva por dentro, antes de intentar arreglarlo, prueba solo a decir en voz alta que es lo que sientes. A veces ese primer paso ya es mas de la mitad del camino.",
+                                    "guion":  "GANCHO: \"Hay una frase de tres palabras que calma mas al cerebro que cualquier consejo largo: \u0027esto es miedo\u0027.\"\n\nCUERPO: Durante aÃ±os pense que gestionar una emocion dificil era cuestion de razonarla, de explicarme por que sentia lo que sentia. Con el tiempo entendi algo mas sencillo: solo con ponerle nombre, sin analizarla todavia, el cerebro ya empieza a calmarse. No hace falta resolverlo todo de golpe, primero hay que nombrarlo.\n\nCIERRE: La proxima vez que algo te remueva por dentro, antes de intentar arreglarlo, prueba solo a decir en voz alta que es lo que sientes. A veces ese primer paso ya es mas de la mitad del camino.",
                                     "referente":  {
                                                       "nombre":  "Nazareth Castellanos",
                                                       "porque":  "Neurocientifica espaÃ±ola, catedratica de mindfulness y ciencias cognitivas en la UCM, que divulga en libros y conferencias en espaÃ±ol como el cuerpo y las emociones se conectan con el cerebro, con un lenguaje accesible y muy cercano al enfoque de Neuroalma."
@@ -715,7 +715,7 @@
                                     "guion":  "GANCHO: \"Llevaba la clase perfecta preparada. Duro los primeros dos minutos.\"\n\nCUERPO: Entre al aula y lo note enseguida: el grupo no queria energia, queria calma. Toda mi secuencia preparada de nada servia si no respondia a lo que tenia delante. Aprendi, con los aÃ±os, que preparar bien una clase no es aferrarme al guion, es tener suficientes herramientas para soltarlo en cuanto haga falta.\n\nCIERRE: Si alguna vez sentiste que tenias que improvisar porque \"no salio como lo planeaste\", quiza no fallaste el plan. Quiza escuchaste bien lo que tenias delante.",
                                     "referente":  {
                                                       "nombre":  "JesÃºs C. GuillÃ©n",
-                                                      "porque":  "Divulgador espaÃ±ol de neuroeducacion, fundador de la Red de Neuroeducacion y autor de libros como 'Neuroeducacion en el aula', que conecta la neurociencia con la practica real de quienes enseÃ±an y acompaÃ±an grupos."
+                                                      "porque":  "Divulgador espaÃ±ol de neuroeducacion, fundador de la Red de Neuroeducacion y autor de libros como \u0027Neuroeducacion en el aula\u0027, que conecta la neurociencia con la practica real de quienes enseÃ±an y acompaÃ±an grupos."
                                                   },
                                     "mensajeWhatsapp":  "Hola a todas! Hoy os cuento algo que aprendi dando clases: a veces la mejor clase no es la que mejor preparas, es la que mejor sabes soltar cuando el grupo pide otra cosa. Creo que eso vale tambien fuera del aula, en cualquier plan que hagamos. Un abrazo grande ðŸŒ¿"
                                 },
@@ -746,7 +746,7 @@
                                                       "Autoconocimiento",
                                                       "Identidad"
                                                   ],
-                                         "aprendizaje":  "El autoconcepto, es decir, la imagen que tienes de ti misma, no depende solo de un rol como 'ser profesora' o 'ser deportista': se construye tambien con tus valores, tus intereses y tus cualidades personales. Por eso, cuando un rol importante se pausa, es normal sentir que algo se tambalea, aunque en realidad haya mucho mas de ti que sigue intacto.",
+                                         "aprendizaje":  "El autoconcepto, es decir, la imagen que tienes de ti misma, no depende solo de un rol como \u0027ser profesora\u0027 o \u0027ser deportista\u0027: se construye tambien con tus valores, tus intereses y tus cualidades personales. Por eso, cuando un rol importante se pausa, es normal sentir que algo se tambalea, aunque en realidad haya mucho mas de ti que sigue intacto.",
                                          "frase":  {
                                                        "texto":  "Yo soy yo y mi circunstancia.",
                                                        "autor":  "JosÃ© Ortega y Gasset"
@@ -764,7 +764,7 @@
                                                  "Contenido",
                                                  "Autenticidad"
                                              ],
-                                    "guion":  "GANCHO: \"Si me quitas las clases, Â¿que queda de mi?\"\n\nCUERPO: Esa pregunta me daba miedo antes de esta pausa. Llevaba tanto tiempo siendo 'la profesora de yoga, pilates y taichi' que casi no recordaba otras partes de mi misma. Estos meses sin poder enseÃ±ar como antes me han obligado a mirar mas alla del rol: la curiosidad, la forma de acompaÃ±ar, la manera de pensar. Nada de eso se pauso, aunque las clases si.\n\nCIERRE: Si alguna vez sentiste que perdias algo de ti misma cuando se detuvo un trabajo, una rutina o un rol importante, quiza no perdiste tanto como crees. Quiza solo dejaste de mirarlo un tiempo.",
+                                    "guion":  "GANCHO: \"Si me quitas las clases, Â¿que queda de mi?\"\n\nCUERPO: Esa pregunta me daba miedo antes de esta pausa. Llevaba tanto tiempo siendo \u0027la profesora de yoga, pilates y taichi\u0027 que casi no recordaba otras partes de mi misma. Estos meses sin poder enseÃ±ar como antes me han obligado a mirar mas alla del rol: la curiosidad, la forma de acompaÃ±ar, la manera de pensar. Nada de eso se pauso, aunque las clases si.\n\nCIERRE: Si alguna vez sentiste que perdias algo de ti misma cuando se detuvo un trabajo, una rutina o un rol importante, quiza no perdiste tanto como crees. Quiza solo dejaste de mirarlo un tiempo.",
                                     "referente":  {
                                                       "nombre":  "Borja Vilaseca",
                                                       "porque":  "Escritor y conferenciante espaÃ±ol especializado en desarrollo personal, que en sus libros y articulos habla precisamente de la diferencia entre lo que hacemos y quienes somos, con un lenguaje sencillo y cercano al tono de Neuroalma."
@@ -798,7 +798,7 @@
                                                       "PedagogÃ­a",
                                                       "Oficio"
                                                   ],
-                                         "aprendizaje":  "La ciencia del aprendizaje motor explica que variar ligeramente un mismo movimiento, en lugar de repetirlo siempre igual, ayuda al cerebro y al cuerpo a consolidar mejor lo aprendido y a adaptarlo despues a situaciones distintas. Por eso enseÃ±ar 'la misma postura' de formas distintas segun cada alumna no era improvisar: era, sin saberlo, mejor pedagogia.",
+                                         "aprendizaje":  "La ciencia del aprendizaje motor explica que variar ligeramente un mismo movimiento, en lugar de repetirlo siempre igual, ayuda al cerebro y al cuerpo a consolidar mejor lo aprendido y a adaptarlo despues a situaciones distintas. Por eso enseÃ±ar \u0027la misma postura\u0027 de formas distintas segun cada alumna no era improvisar: era, sin saberlo, mejor pedagogia.",
                                          "frase":  {
                                                        "texto":  "El yoga debe adaptarse al individuo, no el individuo al yoga.",
                                                        "autor":  "T.K.V. Desikachar"
@@ -811,7 +811,7 @@
                                      },
                       "marca":  {
                                     "title":  "Marca personal",
-                                    "idea":  "Hoy comparte con tu audiencia algo de tu oficio que casi nunca se nombra: que nunca enseÃ±aste exactamente igual a dos personas, porque cada cuerpo y cada momento pedian un ajuste distinto. Es un buen recordatorio de que adaptarse a quien tienes delante no es hacerlo 'peor', es hacerlo bien.",
+                                    "idea":  "Hoy comparte con tu audiencia algo de tu oficio que casi nunca se nombra: que nunca enseÃ±aste exactamente igual a dos personas, porque cada cuerpo y cada momento pedian un ajuste distinto. Es un buen recordatorio de que adaptarse a quien tienes delante no es hacerlo \u0027peor\u0027, es hacerlo bien.",
                                     "tags":  [
                                                  "Contenido",
                                                  "Oficio"
@@ -929,7 +929,7 @@
                                 },
                       "neuroalma":  {
                                         "title":  "Neuroalma",
-                                        "idea":  "Dedica 15-20 minutos a elegir y transcribir 2-3 frases textuales de tu 'Libro de Recuerdos' (los testimonios reales de tus alumnas de yoga, pilates y taichi) que puedas usar, con su permiso, como testimonios en la futura pagina de ventas de Neuroalma.",
+                                        "idea":  "Dedica 15-20 minutos a elegir y transcribir 2-3 frases textuales de tu \u0027Libro de Recuerdos\u0027 (los testimonios reales de tus alumnas de yoga, pilates y taichi) que puedas usar, con su permiso, como testimonios en la futura pagina de ventas de Neuroalma.",
                                         "tags":  [
                                                      "Idea",
                                                      "Lanzamiento"
@@ -972,7 +972,7 @@
                                                  "Contenido",
                                                  "ConexiÃ³n"
                                              ],
-                                    "guion":  "GANCHO: \"Â¿Sabes que un simple mensaje de 'Â¿como estas?' tiene un efecto medible en tu cuerpo?\"\n\nCUERPO: Durante mucho tiempo crei que el cuidado real solo pasaba en persona, cara a cara, con tiempo y espacio dedicado. Ahora, en esta pausa, he aprendido otra cosa: un mensaje breve y sincero libera la misma hormona, la oxitocina, que un abrazo largo. No hace falta esperar al momento perfecto para cuidar a alguien, ni para dejarte cuidar.\n\nCIERRE: La proxima vez que dudes si escribir ese mensaje corto porque \"no es gran cosa\", recuerda que para el cuerpo de quien lo recibe, si lo es.",
+                                    "guion":  "GANCHO: \"Â¿Sabes que un simple mensaje de \u0027Â¿como estas?\u0027 tiene un efecto medible en tu cuerpo?\"\n\nCUERPO: Durante mucho tiempo crei que el cuidado real solo pasaba en persona, cara a cara, con tiempo y espacio dedicado. Ahora, en esta pausa, he aprendido otra cosa: un mensaje breve y sincero libera la misma hormona, la oxitocina, que un abrazo largo. No hace falta esperar al momento perfecto para cuidar a alguien, ni para dejarte cuidar.\n\nCIERRE: La proxima vez que dudes si escribir ese mensaje corto porque \"no es gran cosa\", recuerda que para el cuerpo de quien lo recibe, si lo es.",
                                     "referente":  {
                                                       "nombre":  "Ibone Olza",
                                                       "porque":  "Psiquiatra infantil y perinatal espaÃ±ola que divulga en libros y medios en espaÃ±ol sobre el apego, el vinculo y la neurociencia de las relaciones humanas, con un lenguaje cercano y sin tecnicismos."
@@ -1027,7 +1027,7 @@
                                     "guion":  "GANCHO: \"Antes de decir una sola palabra, ya le he transmitido algo a la clase entera.\"\n\nCUERPO: Durante aÃ±os pense que mi trabajo empezaba cuando abria la boca para dar la primera indicacion. Con el tiempo entendi que empezaba antes: en como entraba por la puerta, en si mi respiracion iba deprisa o despacio. Las llamadas neuronas espejo hacen que el grupo capte ese estado casi sin darse cuenta, antes de escuchar ni una instruccion.\n\nCIERRE: La proxima vez que vayas a acompaÃ±ar a alguien, en una clase o en cualquier encuentro, recuerda que tu estado llega antes que tus palabras.",
                                     "referente":  {
                                                       "nombre":  "Javier Iriondo",
-                                                      "porque":  "Profesor espaÃ±ol de mindfulness y respiracion consciente, autor de libros como 'Respira', que divulga con un lenguaje sencillo y cercano como el estado interior de quien guia un grupo se transmite a quienes lo rodean."
+                                                      "porque":  "Profesor espaÃ±ol de mindfulness y respiracion consciente, autor de libros como \u0027Respira\u0027, que divulga con un lenguaje sencillo y cercano como el estado interior de quien guia un grupo se transmite a quienes lo rodean."
                                                   },
                                     "mensajeWhatsapp":  "Hola a todas! Hoy os cuento algo curioso que aprendi dando clases: parece que el cerebro tiene unas neuronas, llamadas neuronas espejo, que hacen que el estado de quien tienes delante (su calma o su prisa) se te contagie casi sin darte cuenta. Por eso creo tanto en cuidar el propio estado antes de acompaÃ±ar a otras personas, sea en una clase o en un ratito como este. Un abrazo grande ðŸŒ¿"
                                 },
@@ -1058,7 +1058,7 @@
                                                       "Autoconocimiento",
                                                       "Aprendizaje"
                                                   ],
-                                         "aprendizaje":  "La ciencia del aprendizaje llama 'dificultades deseables' a estrategias que en el momento se sienten mas costosas (intentar recordar algo de memoria en vez de releerlo, o espaciar la practica en varios dias en vez de concentrarla en uno) pero que dejan un aprendizaje mucho mas solido y duradero. Sentir que algo nuevo te exige esfuerzo es, muchas veces, la seÃ±al de que se esta quedando de verdad.",
+                                         "aprendizaje":  "La ciencia del aprendizaje llama \u0027dificultades deseables\u0027 a estrategias que en el momento se sienten mas costosas (intentar recordar algo de memoria en vez de releerlo, o espaciar la practica en varios dias en vez de concentrarla en uno) pero que dejan un aprendizaje mucho mas solido y duradero. Sentir que algo nuevo te exige esfuerzo es, muchas veces, la seÃ±al de que se esta quedando de verdad.",
                                          "frase":  {
                                                        "texto":  "Mientras enseÃ±amos, aprendemos.",
                                                        "autor":  "SÃ©neca"
@@ -1079,7 +1079,7 @@
                                     "guion":  "GANCHO: \"Hay un error muy comun al enseÃ±ar, y yo lo cometi durante aÃ±os: repetir la instruccion demasiadas veces.\"\n\nCUERPO: Cuando una alumna dudaba de una postura o una secuencia, mi primer impulso era repetirsela enseguida, para que no se sintiera perdida. Con el tiempo descubri algo distinto: si le daba unos segundos para intentar recordarla por si misma, aunque se equivocara, esa postura se le quedaba grabada mucho mejor que si yo se la repetia de inmediato. La ciencia del aprendizaje tiene hasta nombre para esto: dificultades deseables, ese pequeÃ±o esfuerzo extra que parece incomodo y que en realidad es el que mas enseÃ±a.\n\nCIERRE: La proxima vez que quieras ayudar a alguien a aprender algo, prueba a dejarle ese hueco de esfuerzo antes de darle la respuesta. A veces ayudar mas es esperar un poco antes de ayudar.",
                                     "referente":  {
                                                       "nombre":  "HÃ©ctor Ruiz MartÃ­n",
-                                                      "porque":  "Doctor en Biologia e investigador espaÃ±ol especializado en la ciencia cognitiva del aprendizaje, director de la International Science Teaching Foundation y autor de 'Â¿Como aprendemos?', que divulga en espaÃ±ol y sin tecnicismos conceptos como las dificultades deseables aplicados a la educacion."
+                                                      "porque":  "Doctor en Biologia e investigador espaÃ±ol especializado en la ciencia cognitiva del aprendizaje, director de la International Science Teaching Foundation y autor de \u0027Â¿Como aprendemos?\u0027, que divulga en espaÃ±ol y sin tecnicismos conceptos como las dificultades deseables aplicados a la educacion."
                                                   },
                                     "mensajeWhatsapp":  "Hola a todas! Hoy leia algo que me ha hecho pensar en vosotras: parece que aprendemos mejor las cosas precisamente cuando nos cuestan un poco, cuando tenemos que hacer memoria en vez de que nos lo repitan todo hecho. Asi que si algo de lo que vamos a vivir juntas en Neuroalma en algun momento os resulta un poco exigente, no penseis que algo va mal, puede que sea justo la seÃ±al de que se esta quedando de verdad. Un abrazo grande ðŸŒ¿"
                                 },
@@ -1110,7 +1110,7 @@
                                                       "PedagogÃ­a",
                                                       "Oficio"
                                                   ],
-                                         "aprendizaje":  "En pedagogia existe el concepto de 'andamiaje': dar a alguien el apoyo justo para hacer algo que todavia no domina del todo, y retirarlo poco a poco a medida que gana seguridad, igual que un andamio se quita cuando el edificio ya se sostiene solo. Aplicado a una clase de movimiento consciente, significa que ayudar demasiado tiempo tambien puede frenar el aprendizaje tanto como ayudar demasiado poco.",
+                                         "aprendizaje":  "En pedagogia existe el concepto de \u0027andamiaje\u0027: dar a alguien el apoyo justo para hacer algo que todavia no domina del todo, y retirarlo poco a poco a medida que gana seguridad, igual que un andamio se quita cuando el edificio ya se sostiene solo. Aplicado a una clase de movimiento consciente, significa que ayudar demasiado tiempo tambien puede frenar el aprendizaje tanto como ayudar demasiado poco.",
                                          "frase":  {
                                                        "texto":  "Lo que un niÃ±o es capaz de hacer hoy con ayuda, podrÃ¡ hacerlo maÃ±ana por sÃ­ solo.",
                                                        "autor":  "Lev Vygotski"
@@ -1162,7 +1162,7 @@
                                                       "Autoconocimiento",
                                                       "RegulaciÃ³n emocional"
                                                   ],
-                                         "aprendizaje":  "El psiquiatra Daniel Siegel acuÃ±o el termino 'ventana de tolerancia' para describir el margen de activacion en el que una persona puede pensar con claridad y sentir sus emociones sin sentirse desbordada ni bloqueada. Reconocer cuando sales de esa ventana, ya sea hacia la sobreactivacion o hacia el bloqueo, es el primer paso para encontrar el camino de vuelta.",
+                                         "aprendizaje":  "El psiquiatra Daniel Siegel acuÃ±o el termino \u0027ventana de tolerancia\u0027 para describir el margen de activacion en el que una persona puede pensar con claridad y sentir sus emociones sin sentirse desbordada ni bloqueada. Reconocer cuando sales de esa ventana, ya sea hacia la sobreactivacion o hacia el bloqueo, es el primer paso para encontrar el camino de vuelta.",
                                          "frase":  {
                                                        "texto":  "Donde va la atenciÃ³n, fluye la actividad neuronal, y ahÃ­ crecen las conexiones del cerebro.",
                                                        "autor":  "Daniel J. Siegel"
@@ -1180,7 +1180,7 @@
                                                  "Contenido",
                                                  "Oficio"
                                              ],
-                                    "guion":  "GANCHO: \"Hay alumnas que un dia entran a la sala y, aunque sigan la clase paso a paso, notas que ya no estan del todo ahi.\"\n\nCUERPO: Al principio yo insistia: repetia la indicacion, corregia mas detalles, intentaba que 'siguieran el ritmo'. Con el tiempo entendi que esa insistencia no ayudaba, porque el problema no era que no entendieran la postura: era que su sistema nervioso estaba desbordado o bloqueado, y en ese estado no hay instruccion que llegue. Aprendi a bajar yo el ritmo primero, acompaÃ±ar con la voz mas despacio, y dejar que volvieran a su propio centro antes de pedirles nada mas.\n\nCIERRE: Si alguna vez sentiste que alguien \"no te escuchaba\" aunque estuviera delante tuya, quiza no necesitaba mas explicacion. Necesitaba que bajaras tu el ritmo primero.",
+                                    "guion":  "GANCHO: \"Hay alumnas que un dia entran a la sala y, aunque sigan la clase paso a paso, notas que ya no estan del todo ahi.\"\n\nCUERPO: Al principio yo insistia: repetia la indicacion, corregia mas detalles, intentaba que \u0027siguieran el ritmo\u0027. Con el tiempo entendi que esa insistencia no ayudaba, porque el problema no era que no entendieran la postura: era que su sistema nervioso estaba desbordado o bloqueado, y en ese estado no hay instruccion que llegue. Aprendi a bajar yo el ritmo primero, acompaÃ±ar con la voz mas despacio, y dejar que volvieran a su propio centro antes de pedirles nada mas.\n\nCIERRE: Si alguna vez sentiste que alguien \"no te escuchaba\" aunque estuviera delante tuya, quiza no necesitaba mas explicacion. Necesitaba que bajaras tu el ritmo primero.",
                                     "referente":  {
                                                       "nombre":  "BegoÃ±a Ibarrola",
                                                       "porque":  "Psicologa y escritora espaÃ±ola especializada en inteligencia emocional y neurociencia aplicada a la educacion, que divulga en libros y formaciones en espaÃ±ol, de forma sencilla, como reconocer y acompaÃ±ar los estados emocionales de un grupo."
@@ -2052,7 +2052,7 @@
                                                        "autor":  "Vanda Scaravelli"
                                                    },
                                          "noticia":  {
-                                                         "titulo":  "La propiocepción, su desconocido 'sexto sentido' que puede ejercitarse",
+                                                         "titulo":  "La propiocepción, su desconocido \u0027sexto sentido\u0027 que puede ejercitarse",
                                                          "resumen":  "El artículo explica qué es la propiocepción, el sentido que nos permite saber dónde está cada parte del cuerpo sin necesidad de mirarla, y cómo puede entrenarse con la práctica consciente del movimiento. Para quien enseña disciplinas como el yoga, el pilates o el taichí, entender este sentido ayuda a valorar por qué guiar bien la atención hacia el cuerpo es tan importante como la postura en sí.",
                                                          "url":  "https://theconversation.com/la-propiocepcion-su-desconocido-sexto-sentido-que-puede-ejercitar-193329"
                                                      }
@@ -2116,10 +2116,10 @@
                                                  "Contenido",
                                                  "Autenticidad"
                                              ],
-                                    "guion":  "GANCHO: \"¿Y si llevo meses esperando a estar 'del todo bien' para permitirme ser feliz?\"\n\nCUERPO: Durante esta pausa me he sorprendido a mí misma pensando \"cuando esté recuperada, entonces sí disfrutaré\". Pero la recuperación no tiene una fecha exacta, y mientras tanto la vida sigue pasando. Un día decidí probar algo distinto: buscar un ratito de calma hoy, tal como estoy, sin esperar a que todo esté resuelto para permitírmelo.\n\nCIERRE: Si tú también estás esperando a que algo se resuelva del todo para sentirte bien, prueba a adelantar ese permiso un poco. No hace falta que todo esté perfecto para regalarte un momento bueno.",
+                                    "guion":  "GANCHO: \"¿Y si llevo meses esperando a estar \u0027del todo bien\u0027 para permitirme ser feliz?\"\n\nCUERPO: Durante esta pausa me he sorprendido a mí misma pensando \"cuando esté recuperada, entonces sí disfrutaré\". Pero la recuperación no tiene una fecha exacta, y mientras tanto la vida sigue pasando. Un día decidí probar algo distinto: buscar un ratito de calma hoy, tal como estoy, sin esperar a que todo esté resuelto para permitírmelo.\n\nCIERRE: Si tú también estás esperando a que algo se resuelva del todo para sentirte bien, prueba a adelantar ese permiso un poco. No hace falta que todo esté perfecto para regalarte un momento bueno.",
                                     "referente":  {
                                                       "nombre":  "Eduard Punset",
-                                                      "porque":  "Divulgador científico español (1936-2019), autor de 'El viaje a la felicidad', explicó durante años en un lenguaje sencillo y cercano cómo la neurociencia ayuda a entender el bienestar y la felicidad, siempre en español y para todos los públicos."
+                                                      "porque":  "Divulgador científico español (1936-2019), autor de \u0027El viaje a la felicidad\u0027, explicó durante años en un lenguaje sencillo y cercano cómo la neurociencia ayuda a entender el bienestar y la felicidad, siempre en español y para todos los públicos."
                                                   },
                                     "mensajeWhatsapp":  "Hola a todas! Hoy leía que el cerebro puede acostumbrarse a aplazar la felicidad, dejándola siempre para cuando todo esté resuelto... y como los líos de la vida nunca terminan del todo, esa espera se alarga sin fin. Me quedo con la idea de buscar hoy mismo un ratito bueno, tal como están las cosas, sin esperar a que todo esté perfecto. Os mando un abrazo grande 🌿"
                                 },
@@ -2220,10 +2220,10 @@
                                                  "Contenido",
                                                  "Descanso activo"
                                              ],
-                                    "guion":  "GANCHO: \"¿Y si 'no hacer nada' no fuera la mejor forma de descansar tu cerebro?\"\n\nCUERPO: Durante esta pausa pensaba que la única forma de recuperarme era parar del todo, no hacer nada de nada. Pero según la neurociencia, el cerebro se repone mejor con pequeños retos entretenidos -un juego, un libro, una conversación que engancha- que con la inactividad absoluta. Desde que lo probé, mis ratos de descanso cambiaron: sigo parando, pero elijo parar con algo que me entretenga un poco.\n\nCIERRE: Si tú también sientes culpa por \"no estar haciendo nada productivo\", prueba a cambiar la pregunta: no es cuánto haces, es si lo que haces te entretiene sin exigirte.",
+                                    "guion":  "GANCHO: \"¿Y si \u0027no hacer nada\u0027 no fuera la mejor forma de descansar tu cerebro?\"\n\nCUERPO: Durante esta pausa pensaba que la única forma de recuperarme era parar del todo, no hacer nada de nada. Pero según la neurociencia, el cerebro se repone mejor con pequeños retos entretenidos -un juego, un libro, una conversación que engancha- que con la inactividad absoluta. Desde que lo probé, mis ratos de descanso cambiaron: sigo parando, pero elijo parar con algo que me entretenga un poco.\n\nCIERRE: Si tú también sientes culpa por \"no estar haciendo nada productivo\", prueba a cambiar la pregunta: no es cuánto haces, es si lo que haces te entretiene sin exigirte.",
                                     "referente":  {
                                                       "nombre":  "Marta Romo",
-                                                      "porque":  "Neurocientífica aplicada española, autora de libros como 'Entrena tu cerebro' e 'Hiperdesconexión'; divulga en español, de forma clara y accesible, cómo cuidar el cerebro frente al ritmo de vida actual."
+                                                      "porque":  "Neurocientífica aplicada española, autora de libros como \u0027Entrena tu cerebro\u0027 e \u0027Hiperdesconexión\u0027; divulga en español, de forma clara y accesible, cómo cuidar el cerebro frente al ritmo de vida actual."
                                                   },
                                     "mensajeWhatsapp":  "Hola a todas! Esta semana leía que el cerebro descansa mejor con un pequeño reto entretenido -un juego, un libro que engancha- que estando totalmente parado. Me ha venido bien para quitarme la culpa de estos días de pausa forzosa: parar no tiene que ser no hacer nada. Os mando un abrazo grande 🌿"
                                 },
@@ -2240,6 +2240,58 @@
                                                         "tipo":  "artículo",
                                                         "porque":  "Recopila en español plantillas gratuitas de Google Sheets, útiles para montar rápido tu propia hoja de seguimiento de inscripciones de Neuroalma sin empezar de cero.",
                                                         "url":  "https://www.xataka.com/basics/plantillas-hojas-calculos-google-para-organizarlo-todo"
+                                                    }
+                                    }
+                  }
+    },
+    {
+        "date":  "2026-09-14",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Como formadora, parte de tu oficio era leer el grupo antes de hablar: mirar cómo llegaba la clase -con prisa, cansada, dispersa- y ajustar el tono y el ritmo a partir de esa observación, más que seguir el guion de memoria. Hoy, aunque no estés dando clases, puedes recordar algún día en que cambiaste el plan sobre la marcha porque el grupo lo pedía, y qué aprendiste de esa lectura.",
+                                         "tags":  [
+                                                      "Oficio",
+                                                      "Grupo"
+                                                  ],
+                                         "aprendizaje":  "Un artículo reciente sobre neuroeducación recoge modelos como AIDARE, que unen atención, interés y reflexión para diseñar mejor una clase. Aplicado a tu propio oficio, la idea de fondo es sencilla: antes de pensar en qué vas a enseñar, merece la pena pensar en cómo va a recibirlo quien tienes delante, porque esa observación previa cambia todo lo que viene después.",
+                                         "frase":  {
+                                                       "texto":  "El movimiento es vida. La vida es un proceso. Mejora la calidad del proceso y mejorarás la calidad de la vida misma.",
+                                                       "autor":  "Moshe Feldenkrais"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "Neuroeducación en el aula: qué es, cómo aplicarla y los mejores libros para docentes",
+                                                         "resumen":  "El artículo explica que la neuroeducación estudia cómo funciona el cerebro durante el aprendizaje para convertir ese conocimiento en estrategias docentes más efectivas. Propone modelos como AIDARE (atención, interés, deseo, acción, reflexión y evocación), que vinculan los hallazgos científicos con competencias concretas de aula, y recomienda libros pensados para que docentes y familias sin formación previa en neurociencia puedan aplicarlos.",
+                                                         "url":  "https://www.moncloa.com/2026/08/31/neuroeducacion-en-el-aula-libros-docentes-3423840/"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Cuenta a tu audiencia ese pequeño hábito de guía que tenías antes de empezar cualquier clase: observar al grupo unos segundos antes de hablar. Es un consejo que sirve a cualquiera que tenga que dar la cara ante otros -una reunión, una charla, una llamada importante- no solo a quien enseña movimiento.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "Presencia"
+                                             ],
+                                    "guion":  "GANCHO: \"Antes de decir la primera palabra en clase, yo hacía siempre lo mismo.\"\n\nCUERPO: Miraba al grupo. Solo eso, unos segundos, antes de dar la primera indicación. Si veían con prisa, empezaba más despacio de lo previsto. Si venían dispersos, buscaba algo que los enganchara antes de pedirles concentración. Nunca seguía el guion de memoria sin mirar primero quién tenía delante. Con el tiempo entendí que esa pausa de observación valía más que cualquier secuencia perfecta que hubiera preparado.\n\nCIERRE: La próxima vez que tengas que hablar ante otros, prueba a hacer esa pausa antes de empezar. Mirar primero, hablar después.",
+                                    "referente":  {
+                                                      "nombre":  "David Bueno i Torrens",
+                                                      "porque":  "Doctor en biología y divulgador español de neuroeducación; investiga cómo aprende el cerebro y traduce esos hallazgos en recomendaciones prácticas y accesibles para el aula."
+                                                  },
+                                    "mensajeWhatsapp":  "Hola a todas! Hoy recordaba un hábito que tenía siempre antes de empezar una clase: mirar al grupo unos segundos antes de decir nada, para ver cómo llegaban. Me ha hecho pensar que esa pausa de observar antes de actuar sirve para casi todo, no solo para dar clase. Un abrazo grande 🌿"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Dedica 10-15 minutos a escribir un mensaje corto de bienvenida que enviarás a cada persona en cuanto confirme su plaza en Neuroalma: agradécele su confianza y recuérdale la fecha de la primera sesión. Tenerlo ya redactado te evitará improvisarlo cada vez que llegue una inscripción nueva.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "Bienvenida"
+                                                 ],
+                                        "aprendizaje":  "Un mensaje de bienvenida ya preparado no es solo un ahorro de tiempo: es la primera impresión que se lleva cada persona de Neuroalma. Tenerlo escrito con calma, en lugar de improvisarlo con prisa cuando llega una inscripción, ayuda a transmitir la misma calidez que quieres que se sienta durante todo el programa.",
+                                        "recurso":  {
+                                                        "titulo":  "Mensaje de inicio de un curso online",
+                                                        "tipo":  "artículo",
+                                                        "porque":  "Explica en español cómo redactar un mensaje de bienvenida que ilusione y motive desde el primer contacto, justo lo que necesitas para dar la bienvenida a quienes se apunten a Neuroalma.",
+                                                        "url":  "https://www.joselozanogalera.com/mensaje-de-inicio-de-un-curso-online/"
                                                     }
                                     }
                   }

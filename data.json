@@ -1,42 +1,42 @@
 {
-    "date": "2026-09-16",
+    "date": "2026-09-21",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Estos días, date permiso para algo que no tenga ninguna utilidad: dibujar sin objetivo, poner una canción y moverte solo con las manos, jugar a algo tonto con quien tengas cerca. No es perder el tiempo, es una forma de conexión contigo misma y con los demás que tu cuerpo, aunque esté de baja, todavía puede disfrutar.",
-            "tags": ["Juego", "Conexión"],
-            "aprendizaje": "El juego no es solo cosa de la infancia: en el cerebro adulto activa las mismas redes de recompensa y ayuda a bajar el estrés, funcionando casi como un descanso activo para la mente. Además, jugar con otra persona, aunque sea algo pequeño, refuerza la sensación de conexión, algo que se echa mucho de menos cuando se pasa por una baja larga.",
+            "idea": "Cuando dabas clase, lo que de verdad enseñabas no era una postura, era una forma de prestar atención. Hoy, con calma, apunta tres frases que solías decir en clase y que invitaban a sentir en lugar de a corregir. Es una manera de recordar que tu oficio sigue contigo, aunque ahora tu cuerpo esté de baja.",
+            "tags": ["Oficio", "Atención"],
+            "aprendizaje": "En el movimiento consciente, lo que se entrena no es solo el cuerpo: es la capacidad de notar las sensaciones mientras uno se mueve. Por eso, cuando guías la atención de un grupo hacia lo que siente, le estás dando una herramienta que también sirve fuera de la clase, para calmar el estrés y escucharse mejor.",
             "frase": {
-                "texto": "El hombre solo juega cuando es hombre en el pleno sentido de la palabra, y solo es plenamente hombre cuando juega.",
-                "autor": "Friedrich Schiller"
+                "texto": "La Contrología es la coordinación completa del cuerpo, la mente y el espíritu.",
+                "autor": "Joseph Pilates, «Return to Life Through Contrology» (1945)"
             },
             "noticia": {
-                "titulo": "Facundo Manes: \"Hay que jugar más, inclusive los adultos, el juego conecta a las personas\"",
-                "resumen": "El neurólogo Facundo Manes defiende que el juego no es solo cosa de niños: en la vida adulta ayuda a mantener la mente activa, reduce el estrés y, sobre todo, conecta a las personas entre sí. Según explica, dedicar tiempo a actividades lúdicas, sin más objetivo que disfrutarlas, es una forma sencilla y accesible de cuidar el cerebro en cualquier etapa de la vida.",
-                "url": "https://www.diariodecuyo.com.ar/noticias/facundo-manes-en-san-juan-hay-que-jugar-mas-inclusive-los-adultos-el-juego-conecta-a-las-personas-538197.html"
+                "titulo": "Del método Feldenkrais a las técnicas somáticas: así son los ejercicios que ayudan a aliviar dolores y reducir el estrés",
+                "resumen": "Infobae repasa cómo los entrenamientos somáticos, basados en movimientos lentos y conscientes, ayudan a identificar tensiones y a reeducar el sistema nervioso. Según la experta que cita, su clave está en la atención consciente a las sensaciones durante el movimiento, y algunos estudios recientes asocian diez semanas de práctica con menos dolor y mejor sueño. Es una buena confirmación de que lo que tú enseñabas, ir despacio y sentir, tiene respaldo científico.",
+                "url": "https://www.infobae.com/tendencias/2026/02/25/del-metodo-feldenkrais-a-las-tecnicas-somaticas-asi-son-los-ejercicios-que-ayudan-a-aliviar-dolores-y-reducir-el-estres/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Cuenta a tu audiencia un momento gracioso o juguetón que viviste en clase, esos ratos de risas compartidas que probablemente recuerdan tus alumnas mejor que cualquier ejercicio técnico. Es un buen recordatorio de que enseñar movimiento consciente no va solo de perfeccionar posturas, también de disfrutar juntos.",
-            "tags": ["Contenido", "Comunidad"],
-            "guion": "GANCHO: \"¿Sabéis qué recuerdan más mis alumnas de una clase, más que cualquier postura perfecta? Las risas.\"\n\nCUERPO: Hubo una época en que probé un ejercicio de equilibrio nuevo y media clase acabó en el suelo, riendo, incluida yo. Ese día no salió ninguna postura perfecta, pero fue de las clases que más me agradecieron después. Con el tiempo entendí que el cuerpo aprende mejor cuando está relajado, y la risa compartida relaja como pocas cosas. Enseñar movimiento consciente no es solo corregir alineaciones, es también crear esos momentos en los que un grupo se suelta junto.\n\nCIERRE: ¿Tienes tú también un recuerdo así, de esos que se quedan más por la risa que por la técnica? Cuéntamelo, me encantaría leerlo.",
+            "idea": "Desmonta en un vídeo corto el mito de \"no puedo hacer yoga porque no soy flexible\". Es una de las frases que más gente deja fuera del movimiento consciente, y tú, con tu trayectoria como formadora, puedes explicarlo con cercanía y sin tecnicismos.",
+            "tags": ["Contenido", "Mitos"],
+            "guion": "GANCHO: \"Si alguna vez has dicho 'yo no puedo hacer yoga porque no soy flexible', este vídeo es para ti.\"\n\nCUERPO: Es de las frases más repetidas cuando alguien piensa en empezar, y es un poco como decir que no puedes apuntarte a natación porque todavía no sabes nadar. La flexibilidad no es el punto de partida, es algo que llega con el tiempo y ni siquiera es lo más importante. Lo que de verdad trabajamos es aprender a escuchar el cuerpo, respirar y estar presentes, y eso lo puede hacer cualquier persona, tenga el cuerpo que tenga.\n\nCIERRE: Si conoces a alguien que se ha quedado fuera por pensar así, envíale este vídeo. Y cuéntame en comentarios qué otro mito te gustaría que desmontáramos.",
             "referente": {
-                "nombre": "Marc Masip",
-                "porque": "Psicólogo español especializado en el uso del juego como herramienta educativa y terapéutica; defiende que jugar, a cualquier edad, ayuda a conectar, motivar y aprender mejor."
+                "nombre": "Xuan Lan",
+                "porque": "Profesora de yoga que crea todo su contenido en español y ha construido desde cero una plataforma online de clases, XLYStudio. Es un buen ejemplo de cómo una formadora puede pasar de la clase presencial a acompañar a mucha gente en formato digital, con un tono cercano y sin exigir perfección."
             },
-            "mensajeWhatsapp": "Hola a todas! Esta semana he estado pensando en lo importante que es reservarse un ratito para jugar, sin más motivo que disfrutar, da igual la edad que tengamos. Si os apetece, contadme cuál fue la última vez que os reísteis así, de esas veces que no se olvidan 🙂"
+            "mensajeWhatsapp": "Hola a todas! Os dejo una idea para esta semana: en el movimiento consciente no importa lo lejos que llegues, sino lo atenta que estés a lo que sientes. Nadie necesita ser flexible para empezar, la flexibilidad es una consecuencia, no un requisito. Que tengáis una semana amable con vuestro cuerpo 🙂"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15-20 minutos a releer el Libro de Recuerdos y elegir dos o tres frases cortas que podrían funcionar como testimonios en la futura página de ventas de Neuroalma. No hace falta usarlas ya, solo empezar a señalar cuáles te parecen más potentes.",
-            "tags": ["Idea", "Testimonios"],
-            "aprendizaje": "Aunque Neuroalma en sí todavía no tenga alumnas propias, no partes de cero: los testimonios reales de tus clases presenciales, aunque sean de otro contexto, ya demuestran que tu forma de enseñar deja huella. Usarlos con honestidad, aclarando que vienen de tu trayectoria como formadora, es mejor que esperar a tener testimonios nuevos antes de mostrar nada.",
+            "idea": "Dedica 15 minutos a ensayar en pequeño cómo abrirías la primera sesión en directo: pídele a una persona de confianza que te escuche por videollamada 3 minutos de bienvenida y anota qué le ha quedado claro y qué no. No busques que salga perfecto, solo detectar qué ajustar.",
+            "tags": ["Idea", "Ensayo"],
+            "aprendizaje": "Ensayar en pequeño, con alguien cercano, es una de las mejores formas de quitar nervios antes de un directo: te ayuda a encontrar fallos técnicos y a ganar soltura sin la presión de tener a todo el grupo delante. Cuanto más cómoda te sientas en la primera sesión, más cómodas se sentirán también tus alumnas.",
             "recurso": {
-                "titulo": "Cómo conseguir testimonios impactantes para facilitar la venta de tus cursos online",
-                "tipo": "artículo",
-                "porque": "Explica en español cómo elegir y presentar testimonios que generen confianza en una página de ventas, justo lo que necesitas para dar forma a esa futura página de Neuroalma usando el material real que ya tienes en el Libro de Recuerdos.",
-                "url": "https://www.classonlive.com/blog/conseguir-testimonios-venta-cursos-online"
+                "titulo": "Curso de webinars #8. Realización de un directo",
+                "tipo": "lección de curso",
+                "porque": "En español, insiste en practicar con directos de prueba ante amigos o compañeros antes de hacerlo en serio, justo lo que te conviene para preparar con tranquilidad la primera sesión de Neuroalma.",
+                "url": "https://boluda.com/curso/webinars/8-realizacion-de-un-directo/"
             }
         }
     }

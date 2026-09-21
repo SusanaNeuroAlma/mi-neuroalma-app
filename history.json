@@ -2295,5 +2295,48 @@
                                                     }
                                     }
                   }
+    },
+    {
+        "date": "2026-09-16",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Estos días, date permiso para algo que no tenga ninguna utilidad: dibujar sin objetivo, poner una canción y moverte solo con las manos, jugar a algo tonto con quien tengas cerca. No es perder el tiempo, es una forma de conexión contigo misma y con los demás que tu cuerpo, aunque esté de baja, todavía puede disfrutar.",
+                "tags": ["Juego", "Conexión"],
+                "aprendizaje": "El juego no es solo cosa de la infancia: en el cerebro adulto activa las mismas redes de recompensa y ayuda a bajar el estrés, funcionando casi como un descanso activo para la mente. Además, jugar con otra persona, aunque sea algo pequeño, refuerza la sensación de conexión, algo que se echa mucho de menos cuando se pasa por una baja larga.",
+                "frase": {
+                    "texto": "El hombre solo juega cuando es hombre en el pleno sentido de la palabra, y solo es plenamente hombre cuando juega.",
+                    "autor": "Friedrich Schiller"
+                },
+                "noticia": {
+                    "titulo": "Facundo Manes: \"Hay que jugar más, inclusive los adultos, el juego conecta a las personas\"",
+                    "resumen": "El neurólogo Facundo Manes defiende que el juego no es solo cosa de niños: en la vida adulta ayuda a mantener la mente activa, reduce el estrés y, sobre todo, conecta a las personas entre sí. Según explica, dedicar tiempo a actividades lúdicas, sin más objetivo que disfrutarlas, es una forma sencilla y accesible de cuidar el cerebro en cualquier etapa de la vida.",
+                    "url": "https://www.diariodecuyo.com.ar/noticias/facundo-manes-en-san-juan-hay-que-jugar-mas-inclusive-los-adultos-el-juego-conecta-a-las-personas-538197.html"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Cuenta a tu audiencia un momento gracioso o juguetón que viviste en clase, esos ratos de risas compartidas que probablemente recuerdan tus alumnas mejor que cualquier ejercicio técnico. Es un buen recordatorio de que enseñar movimiento consciente no va solo de perfeccionar posturas, también de disfrutar juntos.",
+                "tags": ["Contenido", "Comunidad"],
+                "guion": "GANCHO: \"¿Sabéis qué recuerdan más mis alumnas de una clase, más que cualquier postura perfecta? Las risas.\"\n\nCUERPO: Hubo una época en que probé un ejercicio de equilibrio nuevo y media clase acabó en el suelo, riendo, incluida yo. Ese día no salió ninguna postura perfecta, pero fue de las clases que más me agradecieron después. Con el tiempo entendí que el cuerpo aprende mejor cuando está relajado, y la risa compartida relaja como pocas cosas. Enseñar movimiento consciente no es solo corregir alineaciones, es también crear esos momentos en los que un grupo se suelta junto.\n\nCIERRE: ¿Tienes tú también un recuerdo así, de esos que se quedan más por la risa que por la técnica? Cuéntamelo, me encantaría leerlo.",
+                "referente": {
+                    "nombre": "Marc Masip",
+                    "porque": "Psicólogo español especializado en el uso del juego como herramienta educativa y terapéutica; defiende que jugar, a cualquier edad, ayuda a conectar, motivar y aprender mejor."
+                },
+                "mensajeWhatsapp": "Hola a todas! Esta semana he estado pensando en lo importante que es reservarse un ratito para jugar, sin más motivo que disfrutar, da igual la edad que tengamos. Si os apetece, contadme cuál fue la última vez que os reísteis así, de esas veces que no se olvidan 🙂"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Dedica 15-20 minutos a releer el Libro de Recuerdos y elegir dos o tres frases cortas que podrían funcionar como testimonios en la futura página de ventas de Neuroalma. No hace falta usarlas ya, solo empezar a señalar cuáles te parecen más potentes.",
+                "tags": ["Idea", "Testimonios"],
+                "aprendizaje": "Aunque Neuroalma en sí todavía no tenga alumnas propias, no partes de cero: los testimonios reales de tus clases presenciales, aunque sean de otro contexto, ya demuestran que tu forma de enseñar deja huella. Usarlos con honestidad, aclarando que vienen de tu trayectoria como formadora, es mejor que esperar a tener testimonios nuevos antes de mostrar nada.",
+                "recurso": {
+                    "titulo": "Cómo conseguir testimonios impactantes para facilitar la venta de tus cursos online",
+                    "tipo": "artículo",
+                    "porque": "Explica en español cómo elegir y presentar testimonios que generen confianza en una página de ventas, justo lo que necesitas para dar forma a esa futura página de Neuroalma usando el material real que ya tienes en el Libro de Recuerdos.",
+                    "url": "https://www.classonlive.com/blog/conseguir-testimonios-venta-cursos-online"
+                }
+            }
+        }
     }
 ]

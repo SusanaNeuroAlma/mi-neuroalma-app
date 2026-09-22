@@ -2338,5 +2338,48 @@
                 }
             }
         }
+    },
+    {
+        "date": "2026-09-21",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Cuando dabas clase, lo que de verdad enseñabas no era una postura, era una forma de prestar atención. Hoy, con calma, apunta tres frases que solías decir en clase y que invitaban a sentir en lugar de a corregir. Es una manera de recordar que tu oficio sigue contigo, aunque ahora tu cuerpo esté de baja.",
+                "tags": ["Oficio", "Atención"],
+                "aprendizaje": "En el movimiento consciente, lo que se entrena no es solo el cuerpo: es la capacidad de notar las sensaciones mientras uno se mueve. Por eso, cuando guías la atención de un grupo hacia lo que siente, le estás dando una herramienta que también sirve fuera de la clase, para calmar el estrés y escucharse mejor.",
+                "frase": {
+                    "texto": "La Contrología es la coordinación completa del cuerpo, la mente y el espíritu.",
+                    "autor": "Joseph Pilates, «Return to Life Through Contrology» (1945)"
+                },
+                "noticia": {
+                    "titulo": "Del método Feldenkrais a las técnicas somáticas: así son los ejercicios que ayudan a aliviar dolores y reducir el estrés",
+                    "resumen": "Infobae repasa cómo los entrenamientos somáticos, basados en movimientos lentos y conscientes, ayudan a identificar tensiones y a reeducar el sistema nervioso. Según la experta que cita, su clave está en la atención consciente a las sensaciones durante el movimiento, y algunos estudios recientes asocian diez semanas de práctica con menos dolor y mejor sueño. Es una buena confirmación de que lo que tú enseñabas, ir despacio y sentir, tiene respaldo científico.",
+                    "url": "https://www.infobae.com/tendencias/2026/02/25/del-metodo-feldenkrais-a-las-tecnicas-somaticas-asi-son-los-ejercicios-que-ayudan-a-aliviar-dolores-y-reducir-el-estres/"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Desmonta en un vídeo corto el mito de \"no puedo hacer yoga porque no soy flexible\". Es una de las frases que más gente deja fuera del movimiento consciente, y tú, con tu trayectoria como formadora, puedes explicarlo con cercanía y sin tecnicismos.",
+                "tags": ["Contenido", "Mitos"],
+                "guion": "GANCHO: \"Si alguna vez has dicho 'yo no puedo hacer yoga porque no soy flexible', este vídeo es para ti.\"\n\nCUERPO: Es de las frases más repetidas cuando alguien piensa en empezar, y es un poco como decir que no puedes apuntarte a natación porque todavía no sabes nadar. La flexibilidad no es el punto de partida, es algo que llega con el tiempo y ni siquiera es lo más importante. Lo que de verdad trabajamos es aprender a escuchar el cuerpo, respirar y estar presentes, y eso lo puede hacer cualquier persona, tenga el cuerpo que tenga.\n\nCIERRE: Si conoces a alguien que se ha quedado fuera por pensar así, envíale este vídeo. Y cuéntame en comentarios qué otro mito te gustaría que desmontáramos.",
+                "referente": {
+                    "nombre": "Xuan Lan",
+                    "porque": "Profesora de yoga que crea todo su contenido en español y ha construido desde cero una plataforma online de clases, XLYStudio. Es un buen ejemplo de cómo una formadora puede pasar de la clase presencial a acompañar a mucha gente en formato digital, con un tono cercano y sin exigir perfección."
+                },
+                "mensajeWhatsapp": "Hola a todas! Os dejo una idea para esta semana: en el movimiento consciente no importa lo lejos que llegues, sino lo atenta que estés a lo que sientes. Nadie necesita ser flexible para empezar, la flexibilidad es una consecuencia, no un requisito. Que tengáis una semana amable con vuestro cuerpo 🙂"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Dedica 15 minutos a ensayar en pequeño cómo abrirías la primera sesión en directo: pídele a una persona de confianza que te escuche por videollamada 3 minutos de bienvenida y anota qué le ha quedado claro y qué no. No busques que salga perfecto, solo detectar qué ajustar.",
+                "tags": ["Idea", "Ensayo"],
+                "aprendizaje": "Ensayar en pequeño, con alguien cercano, es una de las mejores formas de quitar nervios antes de un directo: te ayuda a encontrar fallos técnicos y a ganar soltura sin la presión de tener a todo el grupo delante. Cuanto más cómoda te sientas en la primera sesión, más cómodas se sentirán también tus alumnas.",
+                "recurso": {
+                    "titulo": "Curso de webinars #8. Realización de un directo",
+                    "tipo": "lección de curso",
+                    "porque": "En español, insiste en practicar con directos de prueba ante amigos o compañeros antes de hacerlo en serio, justo lo que te conviene para preparar con tranquilidad la primera sesión de Neuroalma.",
+                    "url": "https://boluda.com/curso/webinars/8-realizacion-de-un-directo/"
+                }
+            }
+        }
     }
 ]

@@ -2381,5 +2381,48 @@
                 }
             }
         }
+    },
+    {
+        "date": "2026-09-22",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Estos días, cuando notes que te hablas con dureza por no estar \"rindiendo\" como antes, prueba a parar un momento y preguntarte qué le dirías a una alumna que estuviera pasando por lo mismo. Sueles tener con los demás una paciencia que rara vez te das a ti misma, y hoy es un buen día para empezar a repartirla mejor.",
+                "tags": ["Autocompasión", "Bienestar"],
+                "aprendizaje": "Un estudio publicado en Frontiers in Psychiatry comparó una intervención de autocompasión con otra de mindfulness en personas con ansiedad generalizada, y encontró que solo la primera lograba reducir de forma significativa la respuesta física del cuerpo al estrés, como la aceleración del ritmo cardíaco. Hablarte con amabilidad, más que solo observar sin juzgar, parece calmar también al cuerpo, no solo a la mente.",
+                "frase": {
+                    "texto": "En el nivel más básico, la autocompasión simplemente requiere ser una buena amiga para una misma.",
+                    "autor": "Kristin Neff"
+                },
+                "noticia": {
+                    "titulo": "La autocompasión reduce el estrés a nivel fisiológico en personas con TAG",
+                    "resumen": "Un estudio recogido por Infocop comparó una intervención de autocompasión con una de mindfulness en personas con trastorno de ansiedad generalizada. Ambas redujeron la ansiedad y el malestar, pero solo la autocompasión logró bajar de forma significativa la respuesta del cuerpo al estrés, como el aumento del ritmo cardíaco, lo que sugiere que tratarse con amabilidad tiene un efecto que va más allá de lo emocional.",
+                    "url": "https://www.infocop.es/la-autocompasion-reduce-el-estres-a-nivel-fisiologico-en-personas-con-tag/"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Graba un vídeo corto para quienes se frustran en clase por \"no hacerlo bien\": recuérdales, con tu experiencia como formadora, que la autocompasión no es un premio de consolación, es la base real desde la que se aprende cualquier práctica de movimiento consciente.",
+                "tags": ["Contenido", "Autocompasión"],
+                "guion": "GANCHO: \"¿Cuántas veces te has enfadado contigo misma en clase de yoga o pilates por 'no hacerlo bien'?\"\n\nCUERPO: Lo he visto muchas veces: alguien se frustra porque su postura no se parece a la de la persona de al lado, y esa frustración le tensa más el cuerpo que el propio ejercicio. Como formadora, aprendí que la primera instrucción de cualquier clase no era técnica, era otra: trátate con la misma paciencia que le tendrías a una amiga que empieza. Cuando alguien deja de exigirse perfección, el cuerpo se relaja, y paradójicamente, ahí es cuando empieza a moverse mejor.\n\nCIERRE: Si hoy te exigiste más de la cuenta en algo, prueba a hablarte como le hablarías a alguien que quieres. Cuéntame en comentarios si lo notas distinto.",
+                "referente": {
+                    "nombre": "Vicky la Higuera",
+                    "porque": "Instructora española certificada en Mindful Self-Compassion por la Universidad de San Diego, además de profesora de yoga e inteligencia emocional; combina en español movimiento consciente y autocompasión, justo el enfoque que conecta con el oficio de Susana."
+                },
+                "mensajeWhatsapp": "Hola a todas! Esta semana he estado leyendo sobre autocompasión, y me quedo con una idea sencilla: se trata de ser una buena amiga para una misma. La próxima vez que os exijáis demasiado, probad a hablaros como le hablaríais a alguien que queréis. Un abrazo grande 🌿"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Dedica 15-20 minutos a probar con calma la plataforma de videollamada que usarás para las sesiones en directo (Zoom, Google Meet...): comprueba que el audio y la pantalla compartida funcionan bien, y familiarízate con los botones básicos. Así evitas sustos técnicos justo el día de la primera sesión.",
+                "tags": ["Idea", "Preparación técnica"],
+                "aprendizaje": "Probar la herramienta técnica con tiempo, sin la presión de tener a nadie mirando, es una de las formas más sencillas de bajar los nervios antes de un lanzamiento: la mayoría del miedo escénico online no viene del contenido que vas a compartir, sino de no saber si el botón que vas a pulsar hará lo que esperas.",
+                "recurso": {
+                    "titulo": "Cómo dar clases online con Zoom: la guía completa",
+                    "tipo": "artículo",
+                    "porque": "Explica en español, paso a paso, cómo preparar y usar Zoom para dar clases en directo, incluyendo pantalla compartida y configuración de audio y vídeo, justo lo que necesitas para probar la plataforma antes de tu primera sesión de Neuroalma.",
+                    "url": "https://familika.com/como-dar-clases-online-con-zoom-la-guia-completa/"
+                }
+            }
+        }
     }
 ]

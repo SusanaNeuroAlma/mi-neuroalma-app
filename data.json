@@ -1,42 +1,42 @@
 {
-    "date": "2026-09-23",
+    "date": "2026-09-26",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy te propongo un pequeño juego de oficio: escribe en una libreta tres indicaciones que solías dar en clase y reescríbelas en forma de invitación (\"si te apetece...\", \"cuando estés lista...\", \"puedes probar...\"). No se trata de hacer nada con el cuerpo, solo de afinar tu forma de acompañar para cuando vuelvas, a tu ritmo.",
-            "tags": ["Oficio", "Lenguaje"],
-            "aprendizaje": "En el yoga sensible al trauma, el lenguaje de quien guía se cuida tanto como la postura: se usan invitaciones en lugar de órdenes para que cada persona sienta que tiene elección sobre su propio cuerpo. Esa sensación de poder decidir es, en sí misma, una fuente de seguridad, y por eso funciona para cualquier grupo, no solo para personas con experiencias difíciles.",
+            "idea": "Hoy te propongo buscar un pequeño momento de asombro: la luz de la tarde entrando por la ventana, una canción que te pone la piel de gallina, la forma de una nube o una foto del cielo estrellado. Solo mirarlo sin prisa un minuto y dejar que te sorprenda, sin hacer nada más con ello.",
+            "tags": ["Bienestar", "Asombro"],
+            "aprendizaje": "El asombro es la emoción que sentimos ante algo que nos parece inmenso o que no terminamos de entender. Las investigaciones de Dacher Keltner en la Universidad de Berkeley sugieren que sentirlo con frecuencia se asocia a menos estrés, más sensación de sentido y una mente más abierta, porque por un rato nuestro \"yo\" y sus preocupaciones se hacen más pequeños. Y no hace falta viajar lejos: se puede entrenar mirando lo cotidiano con ojos nuevos.",
             "frase": {
-                "texto": "Las personas traumatizadas se sienten crónicamente inseguras dentro de su propio cuerpo.",
-                "autor": "Bessel van der Kolk, «El cuerpo lleva la cuenta»"
+                "texto": "Si un niño ha de mantener vivo su sentido innato del asombro, necesita la compañía de al menos un adulto que pueda compartirlo, redescubriendo con él la alegría, la emoción y el misterio del mundo en que vivimos.",
+                "autor": "Rachel Carson, «El sentido del asombro»"
             },
             "noticia": {
-                "titulo": "Fundamentos del yoga sensible al trauma: guía desde la perspectiva de expertos",
-                "resumen": "El Tiempo recoge la visión de dos instructoras sobre esta forma de enseñar yoga pensada para crear espacios seguros. Explican que se cuida cada detalle del entorno y del lenguaje, y que la persona tiene libertad para elegir cómo participar en cada momento, avanzando a su propio ritmo y sin exigencias de progreso.",
-                "url": "https://www.eltiempo.com/cultura/gente/fundamentos-del-yoga-sensible-al-trauma-guia-desde-la-perspectiva-de-expertos-859140"
+                "titulo": "Cómo el asombro reconfigura nuestra mente y combate el egoísmo moderno",
+                "resumen": "Mundiario repasa las investigaciones del psicólogo Dacher Keltner, que muestran que el asombro nos vuelve más generosos y cooperativos y reduce el egocentrismo. El artículo explica que en la infancia es algo natural, que la rutina adulta y el exceso de pantallas lo van apagando, y que se puede recuperar observando lo cotidiano con intención.",
+                "url": "https://www.mundiario.com/articulo/salud/como-asombro-reconfigura-nuestra-mente-combate-egoismo-moderno/20260423164355383531.html"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte en un vídeo o carrusel la diferencia entre una clase que da órdenes y una que invita: cuenta cómo cambiar \"baja los hombros\" por \"si te apetece, nota qué pasa si sueltas un poco los hombros\" transforma la experiencia de quien practica.",
-            "tags": ["Contenido", "Acompañamiento"],
-            "guion": "GANCHO: \"Hay una palabra que cambia por completo cómo se siente una clase de movimiento, y casi nadie la usa: 'si te apetece'.\"\n\nCUERPO: Durante años di indicaciones como casi todas: \"sube el brazo\", \"estira la espalda\", \"respira aquí\". Con el tiempo entendí que muchas personas no llegan a clase solo con el cuerpo, llegan con su historia. Y cuando alguien siente que puede elegir, que puede parar o probar a su manera, su sistema nervioso se relaja. No es ser blanda: es darle a cada persona el mando de su propio cuerpo. Y desde ahí se aprende mucho mejor.\n\nCIERRE: ¿Recuerdas alguna clase en la que te sintieras así, con libertad para elegir? Cuéntamelo en comentarios, me encantará leerte.",
+            "idea": "Cuenta a tu audiencia que esta pausa te está enseñando a recuperar el asombro por las cosas pequeñas, y propón un reto sencillo: esta semana, fijarse cada día en una sola cosa que les sorprenda de lo cotidiano.",
+            "tags": ["Contenido", "Reto"],
+            "guion": "GANCHO: \"¿Cuándo fue la última vez que algo te dejó con la boca abierta? Yo lo había olvidado.\"\n\nCUERPO: Con el ritmo de las clases, la agenda y las prisas, dejé de sorprenderme por casi nada. Esta pausa obligada me ha devuelto algo que tienen los niños y que los adultos vamos perdiendo: el asombro. La luz de una tarde, una hoja que cae, una canción escuchada con atención. La ciencia nos dice que asombrarnos baja el estrés y nos hace sentir más conectados con los demás. Y lo mejor: no cuesta nada y no hace falta irse lejos.\n\nCIERRE: Te propongo un reto para esta semana: cada día, fíjate en una sola cosa que te sorprenda. ¿Te apuntas? Cuéntame en comentarios qué ha sido lo primero que te ha asombrado.",
             "referente": {
-                "nombre": "Lucía Liencres",
-                "porque": "Profesora de yoga española y fundadora de la plataforma The Class Yoga; comunica en español con un tono cercano y amable, invitando a practicar sin exigencias, un buen ejemplo de cómo transmitir en redes un acompañamiento respetuoso."
+                "nombre": "Catherine L'Ecuyer",
+                "porque": "Investigadora y divulgadora que vive en España y escribe en español; su libro «Educar en el asombro» es un referente sobre cómo el asombro mueve el deseo de aprender. Te inspira para hablar de este tema con rigor y desde la educación, muy en la línea de Neuroalma."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una pequeña reflexión: el cuerpo aprende mejor cuando siente que puede elegir. Así que esta semana, en lo que hagáis, probad a cambiar el \"tengo que\" por un \"me apetece probar\". A ver qué notáis. Un abrazo 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy os propongo algo muy sencillo: buscad un momento del día para dejaros sorprender por algo pequeño, la luz, un sonido, una flor, una conversación. El asombro es un gran regalo para el cerebro y lo tenemos siempre a mano. Si os apetece, contadme qué os ha asombrado hoy. Un abrazo ✨"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15 minutos a escribir los \"acuerdos del grupo\" para las 7 sesiones en directo de Neuroalma: 4 o 5 frases sencillas sobre confidencialidad, cámara opcional, puntualidad y libertad para participar o solo escuchar. Los leerás en la primera sesión para que todas sepan desde el principio que es un espacio seguro.",
-            "tags": ["Idea", "Grupo"],
-            "aprendizaje": "En una formación en directo, dejar claros los acuerdos de convivencia desde el primer día ahorra muchos malentendidos y hace que las alumnas se sientan cuidadas. Mejor pocos y en positivo (\"aquí puedes...\") que una lista larga de prohibiciones, y si puedes, invita al grupo a añadir alguno: los acuerdos que se construyen juntas se respetan más.",
+            "idea": "Dedica 15-20 minutos a preparar un formulario muy corto de bienvenida (3 o 4 preguntas) para enviar a cada persona que se inscriba en Neuroalma: qué le trae a la formación, qué espera llevarse y si hay algo que te convenga saber para acompañarla mejor. Hazlo con Formularios de Google y guárdalo listo para enviar.",
+            "tags": ["Idea", "Alumnas"],
+            "aprendizaje": "Preguntar a tus alumnas qué esperan antes de empezar tiene dos ventajas: te ayuda a ajustar las sesiones a personas reales y hace que se sientan escuchadas desde el primer día. Con pocas preguntas abiertas basta; si el formulario es largo, lo dejan a medias. Y guarda las respuestas: al final de la formación te servirán para ver cuánto han avanzado.",
             "recurso": {
-                "titulo": "Normas de convivencia en plataformas virtuales",
-                "tipo": "artículo",
-                "porque": "Recoge en español ejemplos de normas de respeto, comunicación y uso de la plataforma pensadas para alumnado adulto en formación a distancia; te sirve de inspiración para redactar tus propios acuerdos, adaptándolos a un tono más cálido.",
-                "url": "https://eduicrea.com/normas-de-convivencia-en-plataformas-virtuales/"
+                "titulo": "Usar Formularios de Google",
+                "tipo": "guía de ayuda",
+                "porque": "Es la guía oficial de Google, en español, que explica paso a paso cómo crear un formulario, enviarlo y ver las respuestas. Es gratuito y fácil, perfecto para empezar sin complicarte.",
+                "url": "https://support.google.com/docs/answer/6281888?hl=es"
             }
         }
     }

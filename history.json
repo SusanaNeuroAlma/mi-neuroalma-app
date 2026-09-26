@@ -2424,5 +2424,49 @@
                 }
             }
         }
+    },
+{
+    "date": "2026-09-23",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Hoy te propongo un pequeño juego de oficio: escribe en una libreta tres indicaciones que solías dar en clase y reescríbelas en forma de invitación (\"si te apetece...\", \"cuando estés lista...\", \"puedes probar...\"). No se trata de hacer nada con el cuerpo, solo de afinar tu forma de acompañar para cuando vuelvas, a tu ritmo.",
+            "tags": ["Oficio", "Lenguaje"],
+            "aprendizaje": "En el yoga sensible al trauma, el lenguaje de quien guía se cuida tanto como la postura: se usan invitaciones en lugar de órdenes para que cada persona sienta que tiene elección sobre su propio cuerpo. Esa sensación de poder decidir es, en sí misma, una fuente de seguridad, y por eso funciona para cualquier grupo, no solo para personas con experiencias difíciles.",
+            "frase": {
+                "texto": "Las personas traumatizadas se sienten crónicamente inseguras dentro de su propio cuerpo.",
+                "autor": "Bessel van der Kolk, «El cuerpo lleva la cuenta»"
+            },
+            "noticia": {
+                "titulo": "Fundamentos del yoga sensible al trauma: guía desde la perspectiva de expertos",
+                "resumen": "El Tiempo recoge la visión de dos instructoras sobre esta forma de enseñar yoga pensada para crear espacios seguros. Explican que se cuida cada detalle del entorno y del lenguaje, y que la persona tiene libertad para elegir cómo participar en cada momento, avanzando a su propio ritmo y sin exigencias de progreso.",
+                "url": "https://www.eltiempo.com/cultura/gente/fundamentos-del-yoga-sensible-al-trauma-guia-desde-la-perspectiva-de-expertos-859140"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Comparte en un vídeo o carrusel la diferencia entre una clase que da órdenes y una que invita: cuenta cómo cambiar \"baja los hombros\" por \"si te apetece, nota qué pasa si sueltas un poco los hombros\" transforma la experiencia de quien practica.",
+            "tags": ["Contenido", "Acompañamiento"],
+            "guion": "GANCHO: \"Hay una palabra que cambia por completo cómo se siente una clase de movimiento, y casi nadie la usa: 'si te apetece'.\"\n\nCUERPO: Durante años di indicaciones como casi todas: \"sube el brazo\", \"estira la espalda\", \"respira aquí\". Con el tiempo entendí que muchas personas no llegan a clase solo con el cuerpo, llegan con su historia. Y cuando alguien siente que puede elegir, que puede parar o probar a su manera, su sistema nervioso se relaja. No es ser blanda: es darle a cada persona el mando de su propio cuerpo. Y desde ahí se aprende mucho mejor.\n\nCIERRE: ¿Recuerdas alguna clase en la que te sintieras así, con libertad para elegir? Cuéntamelo en comentarios, me encantará leerte.",
+            "referente": {
+                "nombre": "Lucía Liencres",
+                "porque": "Profesora de yoga española y fundadora de la plataforma The Class Yoga; comunica en español con un tono cercano y amable, invitando a practicar sin exigencias, un buen ejemplo de cómo transmitir en redes un acompañamiento respetuoso."
+            },
+            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una pequeña reflexión: el cuerpo aprende mejor cuando siente que puede elegir. Así que esta semana, en lo que hagáis, probad a cambiar el \"tengo que\" por un \"me apetece probar\". A ver qué notáis. Un abrazo 🌿"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Dedica 15 minutos a escribir los \"acuerdos del grupo\" para las 7 sesiones en directo de Neuroalma: 4 o 5 frases sencillas sobre confidencialidad, cámara opcional, puntualidad y libertad para participar o solo escuchar. Los leerás en la primera sesión para que todas sepan desde el principio que es un espacio seguro.",
+            "tags": ["Idea", "Grupo"],
+            "aprendizaje": "En una formación en directo, dejar claros los acuerdos de convivencia desde el primer día ahorra muchos malentendidos y hace que las alumnas se sientan cuidadas. Mejor pocos y en positivo (\"aquí puedes...\") que una lista larga de prohibiciones, y si puedes, invita al grupo a añadir alguno: los acuerdos que se construyen juntas se respetan más.",
+            "recurso": {
+                "titulo": "Normas de convivencia en plataformas virtuales",
+                "tipo": "artículo",
+                "porque": "Recoge en español ejemplos de normas de respeto, comunicación y uso de la plataforma pensadas para alumnado adulto en formación a distancia; te sirve de inspiración para redactar tus propios acuerdos, adaptándolos a un tono más cálido.",
+                "url": "https://eduicrea.com/normas-de-convivencia-en-plataformas-virtuales/"
+            }
+        }
     }
+}
+
 ]

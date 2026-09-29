@@ -2510,5 +2510,48 @@
             }
         }
     }
+},
+{
+    "date": "2026-09-27",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Hoy te invito a recordar alguna clase en la que llegaste cansada o nerviosa y notaste que el grupo \"se contagiaba\". Y otra en la que llegaste tranquila y la sala entera se asentó contigo. Escribe dos o tres líneas sobre qué hacías tú, antes de empezar, en los días buenos: quizá ahí está tu pequeño ritual de presencia para Neuroalma.",
+            "tags": ["Oficio", "Corregulación"],
+            "aprendizaje": "Nuestro sistema nervioso no funciona aislado: se sintoniza con el de las personas que tenemos cerca. A esto se le llama corregulación. En un grupo, la calma o la tensión de quien guía se nota en la voz, el ritmo y la mirada, y el grupo la recoge casi sin darse cuenta. Por eso cuidarte antes de una sesión no es un lujo: es parte de tu forma de enseñar.",
+            "frase": {
+                "texto": "He llegado a la aterradora conclusión de que soy el elemento decisivo en el aula. Es mi enfoque personal el que crea el clima. Es mi estado de ánimo diario el que hace el tiempo.",
+                "autor": "Haim Ginott, «Maestro y niño»"
+            },
+            "noticia": {
+                "titulo": "Cuando cuidar de todos significa dejar de cuidarte: el desgaste emocional del docente",
+                "resumen": "El Espai Sistèmic i Humanista de Barcelona reflexiona sobre el cansancio de quienes enseñan y cuidan a otros. Recuerda que el sistema nervioso del docente entra cada día en el aula y que el grupo percibe su tensión o su calma, y defiende que cuidarse también es una forma de enseñar con el ejemplo.",
+                "url": "https://www.esh.cat/2026/07/13/cuando-cuidar-de-todos-significa-dejar-de-cuidarte-el-desgaste-emocional-del-docente"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Habla con tu audiencia de algo que has visto mil veces en tus clases: la calma se contagia. Explica de forma sencilla qué es la corregulación y propón una idea práctica: antes de una conversación difícil, regálate un minuto para llegar tranquila.",
+            "tags": ["Contenido", "Calma"],
+            "guion": "GANCHO: \"¿Te has fijado en que hay personas que, con solo entrar en una habitación, te bajan las pulsaciones?\"\n\nCUERPO: En mis años dando clases lo comprobé muchas veces: los días que yo llegaba acelerada, el grupo también lo estaba. Y los días que llegaba en calma, la sala entera respiraba distinto. No es magia, es cerebro: nuestro sistema nervioso se sintoniza con el de quienes tenemos cerca. Se llama corregulación. Y eso significa que tu calma no es solo para ti, también es un regalo para tu familia, tus compañeros o tus alumnos.\n\nCIERRE: La próxima vez que vayas a una conversación importante, date un minuto antes para llegar tranquila. Y cuéntame en comentarios: ¿quién es esa persona que te contagia calma?",
+            "referente": {
+                "nombre": "Mar Romera",
+                "porque": "Maestra y pedagoga española, muy conocida por sus charlas y libros sobre educación emocional. Habla con humor y cercanía de cómo las emociones de quien enseña influyen en quien aprende: un buen ejemplo de cómo divulgar este tema con calidez y sin tecnicismos."
+            },
+            "mensajeWhatsapp": "Hola a todas! Hoy os comparto una idea bonita: la calma se contagia. Nuestro cerebro se sintoniza con el de las personas que tenemos cerca, así que cuando nos cuidamos y llegamos tranquilas a un lugar, también ayudamos a los demás a estar mejor. Si os apetece, pensad hoy en alguien que os transmita paz y regaladle un rato de vuestra compañía. Un abrazo 🌿"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Dedica 15-20 minutos a crear en Google Calendar las 7 sesiones en directo de Neuroalma, cada una con su fecha, hora y el enlace de conexión en la descripción. Así las tendrás listas para invitar a cada alumna con un clic en cuanto se inscriba.",
+            "tags": ["Idea", "Organización"],
+            "aprendizaje": "Cuando tus alumnas reciben las sesiones directamente en su calendario, con el enlace ya incluido, se olvidan menos y llegan con menos estrés. Además, el propio calendario les manda un aviso antes de empezar, así que te ahorras recordatorios manuales. Un truco: pon siempre el mismo enlace de conexión en todas las sesiones para que nadie se pierda.",
+            "recurso": {
+                "titulo": "Crear un evento - Ayuda de Google Calendar",
+                "tipo": "guía de ayuda",
+                "porque": "Es la guía oficial de Google, en español, que explica paso a paso cómo crear un evento, añadir invitadas y hacer que se repita. Gratuita y sencilla para organizar tus sesiones sin complicarte.",
+                "url": "https://support.google.com/calendar/answer/72143?hl=es"
+            }
+        }
+    }
 }
 ]

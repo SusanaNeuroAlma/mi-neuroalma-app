@@ -1,42 +1,42 @@
 {
-    "date": "2026-09-27",
+    "date": "2026-09-29",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy te invito a recordar alguna clase en la que llegaste cansada o nerviosa y notaste que el grupo \"se contagiaba\". Y otra en la que llegaste tranquila y la sala entera se asentó contigo. Escribe dos o tres líneas sobre qué hacías tú, antes de empezar, en los días buenos: quizá ahí está tu pequeño ritual de presencia para Neuroalma.",
-            "tags": ["Oficio", "Corregulación"],
-            "aprendizaje": "Nuestro sistema nervioso no funciona aislado: se sintoniza con el de las personas que tenemos cerca. A esto se le llama corregulación. En un grupo, la calma o la tensión de quien guía se nota en la voz, el ritmo y la mirada, y el grupo la recoge casi sin darse cuenta. Por eso cuidarte antes de una sesión no es un lujo: es parte de tu forma de enseñar.",
+            "idea": "Hoy, si notas prisa por que algo avance más rápido (la recuperación, el lanzamiento, lo que sea), prueba a decirte: \"esto también tiene su tiempo\". No es resignación, es dejar de pelear con el reloj mientras las cosas maduran a su ritmo.",
+            "tags": ["Paciencia", "Confianza"],
+            "aprendizaje": "Cuando practicamos la espera consciente, sin ansiedad, el cerebro libera serotonina asociada a la sensación de que \"merecerá la pena\". La paciencia no es solo aguantar: es un estado que, entrenado, se vuelve más cómodo con el tiempo, no más difícil.",
             "frase": {
-                "texto": "He llegado a la aterradora conclusión de que soy el elemento decisivo en el aula. Es mi enfoque personal el que crea el clima. Es mi estado de ánimo diario el que hace el tiempo.",
-                "autor": "Haim Ginott, «Maestro y niño»"
+                "texto": "La paciencia es amarga, pero su fruto es dulce.",
+                "autor": "Jean-Jacques Rousseau"
             },
             "noticia": {
-                "titulo": "Cuando cuidar de todos significa dejar de cuidarte: el desgaste emocional del docente",
-                "resumen": "El Espai Sistèmic i Humanista de Barcelona reflexiona sobre el cansancio de quienes enseñan y cuidan a otros. Recuerda que el sistema nervioso del docente entra cada día en el aula y que el grupo percibe su tensión o su calma, y defiende que cuidarse también es una forma de enseñar con el ejemplo.",
-                "url": "https://www.esh.cat/2026/07/13/cuando-cuidar-de-todos-significa-dejar-de-cuidarte-el-desgaste-emocional-del-docente"
+                "titulo": "La paciencia cognitiva: una competencia clave en la era de la IA",
+                "resumen": "Retina (El País) reflexiona sobre cómo, en un mundo acostumbrado a la respuesta inmediata, la capacidad de esperar y sostener la incertidumbre sin ansiedad se está convirtiendo en una habilidad cada vez más valiosa, tanto a nivel personal como profesional.",
+                "url": "https://retinatendencias.com/analisis/la-paciencia-cognitiva-una-competencia-clave-en-la-era-de-la-ia/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Habla con tu audiencia de algo que has visto mil veces en tus clases: la calma se contagia. Explica de forma sencilla qué es la corregulación y propón una idea práctica: antes de una conversación difícil, regálate un minuto para llegar tranquila.",
-            "tags": ["Contenido", "Calma"],
-            "guion": "GANCHO: \"¿Te has fijado en que hay personas que, con solo entrar en una habitación, te bajan las pulsaciones?\"\n\nCUERPO: En mis años dando clases lo comprobé muchas veces: los días que yo llegaba acelerada, el grupo también lo estaba. Y los días que llegaba en calma, la sala entera respiraba distinto. No es magia, es cerebro: nuestro sistema nervioso se sintoniza con el de quienes tenemos cerca. Se llama corregulación. Y eso significa que tu calma no es solo para ti, también es un regalo para tu familia, tus compañeros o tus alumnos.\n\nCIERRE: La próxima vez que vayas a una conversación importante, date un minuto antes para llegar tranquila. Y cuéntame en comentarios: ¿quién es esa persona que te contagia calma?",
+            "idea": "Cuéntale a tu audiencia algo honesto sobre tu propio proceso: que aprender a tener paciencia contigo misma, en la recuperación y en el ritmo de Neuroalma, está siendo tan importante como cualquier otra cosa que enseñes. La gente conecta con procesos reales, no con calendarios perfectos.",
+            "tags": ["Contenido", "Autenticidad"],
+            "guion": "GANCHO: \"Llevo meses aprendiendo algo que nunca antes había tenido que practicar de verdad: la paciencia conmigo misma.\"\n\nCUERPO: Durante años enseñé a otras personas a bajar el ritmo, a respirar, a no forzar el cuerpo. Y ahora, obligada por mi propia recuperación, me toca aplicármelo a mí. No ha sido fácil: quería que todo avanzara más rápido, la lesión, el proyecto, todo. Pero he ido descubriendo que apurar las cosas casi nunca las mejora, solo las hace más tensas.\n\nCIERRE: Si tú también estás en medio de un proceso que no controlas del todo, quizá no te falta esfuerzo, solo un poco más de paciencia contigo misma.",
             "referente": {
-                "nombre": "Mar Romera",
-                "porque": "Maestra y pedagoga española, muy conocida por sus charlas y libros sobre educación emocional. Habla con humor y cercanía de cómo las emociones de quien enseña influyen en quien aprende: un buen ejemplo de cómo divulgar este tema con calidez y sin tecnicismos."
+                "nombre": "Álvaro Bilbao",
+                "porque": "Neuropsicólogo español que divulga en libros y redes, con un lenguaje sencillo y cercano, cómo funciona el cerebro en procesos de cambio, aprendizaje y gestión emocional."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy os comparto una idea bonita: la calma se contagia. Nuestro cerebro se sintoniza con el de las personas que tenemos cerca, así que cuando nos cuidamos y llegamos tranquilas a un lugar, también ayudamos a los demás a estar mejor. Si os apetece, pensad hoy en alguien que os transmita paz y regaladle un rato de vuestra compañía. Un abrazo 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy os quería compartir algo sencillo: la paciencia, entrenada, no se vuelve más dura, se vuelve más cómoda. Si estáis esperando algo que no depende solo de vosotras, no es que os falte fuerza de voluntad, es que las cosas buenas también necesitan su tiempo. Un abrazo grande 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15-20 minutos a crear en Google Calendar las 7 sesiones en directo de Neuroalma, cada una con su fecha, hora y el enlace de conexión en la descripción. Así las tendrás listas para invitar a cada alumna con un clic en cuanto se inscriba.",
-            "tags": ["Idea", "Organización"],
-            "aprendizaje": "Cuando tus alumnas reciben las sesiones directamente en su calendario, con el enlace ya incluido, se olvidan menos y llegan con menos estrés. Además, el propio calendario les manda un aviso antes de empezar, así que te ahorras recordatorios manuales. Un truco: pon siempre el mismo enlace de conexión en todas las sesiones para que nadie se pierda.",
+            "idea": "Ahora que ya tienes las 7 sesiones en el calendario, dedica 15 minutos a decidir la fecha exacta de inicio y compártela con tu comunidad de WhatsApp con un mensaje sencillo: solo anunciar que se acerca ya genera ilusión y compromiso.",
+            "tags": ["Idea", "Lanzamiento"],
+            "aprendizaje": "Anunciar una fecha concreta, aunque falten semanas, cumple una doble función: te compromete a ti a sostenerla, y genera expectación en quien te sigue. No hace falta esperar a tenerlo todo perfecto para poner fecha, la fecha misma ayuda a terminar de organizar lo demás.",
             "recurso": {
-                "titulo": "Crear un evento - Ayuda de Google Calendar",
-                "tipo": "guía de ayuda",
-                "porque": "Es la guía oficial de Google, en español, que explica paso a paso cómo crear un evento, añadir invitadas y hacer que se repita. Gratuita y sencilla para organizar tus sesiones sin complicarte.",
-                "url": "https://support.google.com/calendar/answer/72143?hl=es"
+                "titulo": "5 estrategias para anunciar un curso online y agotar el cupo",
+                "tipo": "artículo",
+                "porque": "Explica en español, con ejemplos prácticos, cómo generar expectación antes de abrir las plazas de un curso, justo lo que te conviene ahora que ya tienes las sesiones organizadas.",
+                "url": "https://www.infomatika.app/anunciar-curso-online/"
             }
         }
     }

@@ -1,42 +1,42 @@
 {
-    "date": "2026-09-29",
+    "date": "2026-10-04",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy, si notas prisa por que algo avance más rápido (la recuperación, el lanzamiento, lo que sea), prueba a decirte: \"esto también tiene su tiempo\". No es resignación, es dejar de pelear con el reloj mientras las cosas maduran a su ritmo.",
-            "tags": ["Paciencia", "Confianza"],
-            "aprendizaje": "Cuando practicamos la espera consciente, sin ansiedad, el cerebro libera serotonina asociada a la sensación de que \"merecerá la pena\". La paciencia no es solo aguantar: es un estado que, entrenado, se vuelve más cómodo con el tiempo, no más difícil.",
+            "idea": "Hoy te propongo un rato tranquilo de oficio: recuerda las imágenes que usabas en clase para explicar un movimiento sin tecnicismos (\"como si movieras las manos dentro del agua\", \"como una nube que pasa\") y apunta en una libreta las tres que mejor funcionaban. Es tu caja de herramientas de formadora, y sigue siendo tuya aunque ahora no estés en la sala.",
+            "tags": ["Oficio", "Enseñar con imágenes"],
+            "aprendizaje": "Los estudios sobre cómo aprendemos movimientos apuntan a que una buena imagen suele ayudar más que una lista de instrucciones técnicas: la persona deja de vigilar cada parte del cuerpo y el gesto sale más fluido. Por eso una metáfora bien elegida no es un adorno de la clase, es una forma de enseñar.",
             "frase": {
-                "texto": "La paciencia es amarga, pero su fruto es dulce.",
-                "autor": "Jean-Jacques Rousseau"
+                "texto": "Nada hay en el mundo más blando y débil que el agua, pero nada la supera para vencer lo duro y lo fuerte.",
+                "autor": "Lao Tse, «Tao Te Ching» (capítulo 78)"
             },
             "noticia": {
-                "titulo": "La paciencia cognitiva: una competencia clave en la era de la IA",
-                "resumen": "Retina (El País) reflexiona sobre cómo, en un mundo acostumbrado a la respuesta inmediata, la capacidad de esperar y sostener la incertidumbre sin ansiedad se está convirtiendo en una habilidad cada vez más valiosa, tanto a nivel personal como profesional.",
-                "url": "https://retinatendencias.com/analisis/la-paciencia-cognitiva-una-competencia-clave-en-la-era-de-la-ia/"
+                "titulo": "Cuáles son los increíbles beneficios del Tai Chi para la salud, según la Universidad de Harvard",
+                "resumen": "El Universal recoge (en un artículo de julio de 2024) cómo Harvard describe el taichí como una actividad para practicar toda la vida: movimientos suaves que ayudan al equilibrio, la fuerza y la flexibilidad, seguros y accesibles a cualquier edad y sin necesidad de material.",
+                "url": "https://www.eluniversal.com.mx/tendencias/cuales-son-los-increibles-beneficios-del-tai-chi-para-la-salud-segun-la-universidad-de-harvard/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Cuéntale a tu audiencia algo honesto sobre tu propio proceso: que aprender a tener paciencia contigo misma, en la recuperación y en el ritmo de Neuroalma, está siendo tan importante como cualquier otra cosa que enseñes. La gente conecta con procesos reales, no con calendarios perfectos.",
-            "tags": ["Contenido", "Autenticidad"],
-            "guion": "GANCHO: \"Llevo meses aprendiendo algo que nunca antes había tenido que practicar de verdad: la paciencia conmigo misma.\"\n\nCUERPO: Durante años enseñé a otras personas a bajar el ritmo, a respirar, a no forzar el cuerpo. Y ahora, obligada por mi propia recuperación, me toca aplicármelo a mí. No ha sido fácil: quería que todo avanzara más rápido, la lesión, el proyecto, todo. Pero he ido descubriendo que apurar las cosas casi nunca las mejora, solo las hace más tensas.\n\nCIERRE: Si tú también estás en medio de un proceso que no controlas del todo, quizá no te falta esfuerzo, solo un poco más de paciencia contigo misma.",
+            "idea": "Desmonta en un vídeo corto la idea de que \"suave\" significa \"flojo\". Mucha gente descarta el taichí, el yoga suave o el pilates consciente porque cree que si no suda y no sufre, no sirve. Tú has visto durante años justo lo contrario, y puedes contarlo con ejemplos de tus clases.",
+            "tags": ["Contenido", "Mitos"],
+            "guion": "GANCHO: \"Si crees que moverte suave es no hacer nada, déjame contarte lo que he visto en mis clases durante años.\"\n\nCUERPO: Nos han enseñado que solo cuenta lo que cuesta: sudar, apretar, aguantar. Pero en taichí hay una imagen que lo explica muy bien: el agua es lo más blando que existe y, aun así, acaba dando forma a la piedra. No por fuerza, por constancia. En clase he visto a personas que llegaban tensas y con prisa descubrir que moverse despacio les exigía más atención, más presencia y más honestidad con su cuerpo que cualquier ejercicio intenso. Lo suave no es lo fácil: es lo que puedes sostener en el tiempo.\n\nCIERRE: La próxima vez que algo te parezca \"demasiado suave para servir\", pregúntate si de verdad es flojo o si simplemente no hace ruido.",
             "referente": {
-                "nombre": "Álvaro Bilbao",
-                "porque": "Neuropsicólogo español que divulga en libros y redes, con un lenguaje sencillo y cercano, cómo funciona el cerebro en procesos de cambio, aprendizaje y gestión emocional."
+                "nombre": "Elena Malova",
+                "porque": "Profesora de yoga con uno de los canales de YouTube en español más seguidos. Fíjate en cómo explica cada práctica con un lenguaje sencillo y un tono cercano, sin presumir de posturas difíciles: un buen ejemplo de cómo enseñar movimiento suave a través de una pantalla."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy os quería compartir algo sencillo: la paciencia, entrenada, no se vuelve más dura, se vuelve más cómoda. Si estáis esperando algo que no depende solo de vosotras, no es que os falte fuerza de voluntad, es que las cosas buenas también necesitan su tiempo. Un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una imagen que me acompaña desde mis clases de taichí: el agua es lo más blando que hay y, aun así, con el tiempo da forma a la piedra. No lo consigue empujando, lo consigue volviendo cada día. Si hoy solo podéis hacer algo pequeño y suave por vosotras, también cuenta. Un abrazo grande 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Ahora que ya tienes las 7 sesiones en el calendario, dedica 15 minutos a decidir la fecha exacta de inicio y compártela con tu comunidad de WhatsApp con un mensaje sencillo: solo anunciar que se acerca ya genera ilusión y compromiso.",
-            "tags": ["Idea", "Lanzamiento"],
-            "aprendizaje": "Anunciar una fecha concreta, aunque falten semanas, cumple una doble función: te compromete a ti a sostenerla, y genera expectación en quien te sigue. No hace falta esperar a tenerlo todo perfecto para poner fecha, la fecha misma ayuda a terminar de organizar lo demás.",
+            "idea": "Dedica 15-20 minutos a escribir en una sola hoja el esquema de la primera sesión en directo, dividido en bloques con sus minutos: bienvenida, idea principal del día, una práctica o dinámica breve, tiempo para preguntas y cierre. No hace falta redactar lo que vas a decir, solo el orden y cuánto dura cada parte.",
+            "tags": ["Idea", "Sesiones en directo"],
+            "aprendizaje": "En una sesión en directo suele funcionar mejor una sola idea importante bien trabajada que muchas ideas con prisa. Deja también pensado de antemano qué parte podrías saltarte si el grupo necesita más tiempo en otra: así no tendrás que improvisar el recorte en mitad de la clase.",
             "recurso": {
-                "titulo": "5 estrategias para anunciar un curso online y agotar el cupo",
+                "titulo": "Cómo planear lecciones eficaces para su clase en línea",
                 "tipo": "artículo",
-                "porque": "Explica en español, con ejemplos prácticos, cómo generar expectación antes de abrir las plazas de un curso, justo lo que te conviene ahora que ya tienes las sesiones organizadas.",
-                "url": "https://www.infomatika.app/anunciar-curso-online/"
+                "porque": "Explica en español, paso a paso, cómo preparar una clase online: fijar un objetivo claro para cada sesión, dividir el contenido en partes cortas y recoger después la opinión del grupo para ir ajustando. Te sirve de guía para el esquema de tu primera sesión.",
+                "url": "https://creately.com/blog/es/educacion/como-planear-lecciones-eficaces-para-su-clase-en-linea/"
             }
         }
     }

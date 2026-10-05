@@ -1,42 +1,42 @@
 {
-    "date": "2026-10-04",
+    "date": "2026-10-05",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy te propongo un rato tranquilo de oficio: recuerda las imágenes que usabas en clase para explicar un movimiento sin tecnicismos (\"como si movieras las manos dentro del agua\", \"como una nube que pasa\") y apunta en una libreta las tres que mejor funcionaban. Es tu caja de herramientas de formadora, y sigue siendo tuya aunque ahora no estés en la sala.",
-            "tags": ["Oficio", "Enseñar con imágenes"],
-            "aprendizaje": "Los estudios sobre cómo aprendemos movimientos apuntan a que una buena imagen suele ayudar más que una lista de instrucciones técnicas: la persona deja de vigilar cada parte del cuerpo y el gesto sale más fluido. Por eso una metáfora bien elegida no es un adorno de la clase, es una forma de enseñar.",
+            "idea": "Hoy te propongo algo muy sencillo: elige una canción que te guste de verdad, de esas que te llevan a un momento concreto de tu vida, y escúchala entera sin hacer nada más. Ni móvil, ni tareas a la vez. Solo tú, la música y lo que vaya apareciendo: un recuerdo, una emoción, unas ganas de tararear.",
+            "tags": ["Bienestar", "Música y emociones"],
+            "aprendizaje": "La música que nos gusta activa en el cerebro zonas relacionadas con la memoria y las emociones, por eso una canción puede devolvernos de golpe a un lugar o a una persona. Escucharla con atención, y no solo de fondo, es una forma amable de cambiar de estado de ánimo sin tener que esforzarte.",
             "frase": {
-                "texto": "Nada hay en el mundo más blando y débil que el agua, pero nada la supera para vencer lo duro y lo fuerte.",
-                "autor": "Lao Tse, «Tao Te Ching» (capítulo 78)"
+                "texto": "Sin música, la vida sería un error.",
+                "autor": "Friedrich Nietzsche, «El crepúsculo de los ídolos» (1889)"
             },
             "noticia": {
-                "titulo": "Cuáles son los increíbles beneficios del Tai Chi para la salud, según la Universidad de Harvard",
-                "resumen": "El Universal recoge (en un artículo de julio de 2024) cómo Harvard describe el taichí como una actividad para practicar toda la vida: movimientos suaves que ayudan al equilibrio, la fuerza y la flexibilidad, seguros y accesibles a cualquier edad y sin necesidad de material.",
-                "url": "https://www.eluniversal.com.mx/tendencias/cuales-son-los-increibles-beneficios-del-tai-chi-para-la-salud-segun-la-universidad-de-harvard/"
+                "titulo": "¿Por qué una canción puede activar recuerdos de hace años?",
+                "resumen": "Teletica explica (en un artículo de julio de 2026) que la música activa áreas del cerebro vinculadas con la memoria, las emociones y el aprendizaje, y que por eso una melodía puede traernos de vuelta momentos concretos de la vida. Los especialistas citados añaden que escuchar música con frecuencia puede contribuir al bienestar emocional.",
+                "url": "https://www.teletica.com/amp/otros-temas/por-que-una-cancion-puede-activar-recuerdos-de-hace-anos_411954"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Desmonta en un vídeo corto la idea de que \"suave\" significa \"flojo\". Mucha gente descarta el taichí, el yoga suave o el pilates consciente porque cree que si no suda y no sufre, no sirve. Tú has visto durante años justo lo contrario, y puedes contarlo con ejemplos de tus clases.",
-            "tags": ["Contenido", "Mitos"],
-            "guion": "GANCHO: \"Si crees que moverte suave es no hacer nada, déjame contarte lo que he visto en mis clases durante años.\"\n\nCUERPO: Nos han enseñado que solo cuenta lo que cuesta: sudar, apretar, aguantar. Pero en taichí hay una imagen que lo explica muy bien: el agua es lo más blando que existe y, aun así, acaba dando forma a la piedra. No por fuerza, por constancia. En clase he visto a personas que llegaban tensas y con prisa descubrir que moverse despacio les exigía más atención, más presencia y más honestidad con su cuerpo que cualquier ejercicio intenso. Lo suave no es lo fácil: es lo que puedes sostener en el tiempo.\n\nCIERRE: La próxima vez que algo te parezca \"demasiado suave para servir\", pregúntate si de verdad es flojo o si simplemente no hace ruido.",
+            "idea": "Cuenta a tu audiencia cuál es \"tu canción de volver a ti\": esa que te pones cuando necesitas cambiar de ánimo o recordar quién eres. Explica por qué la elegiste y a qué momento te lleva, e invita a que cada persona comparta la suya en comentarios. Es un contenido fácil de grabar y que da pie a mucha conversación.",
+            "tags": ["Contenido", "Historia personal"],
+            "guion": "GANCHO: \"Hay una canción que me pongo cuando el día se me tuerce. Te cuento cuál es y por qué creo que tú también necesitas la tuya.\"\n\nCUERPO: Durante años elegí con mucho cuidado la música de mis clases, porque veía cómo cambiaba el ambiente de la sala en cuanto sonaba la canción adecuada: la gente soltaba los hombros, respiraba distinto, sonreía sin darse cuenta. Ahora que estoy en una etapa de pausa, he descubierto que eso mismo funciona conmigo. Una canción que me gusta me lleva a un recuerdo bonito y me cambia el ánimo en tres minutos. No hace falta nada más: sentarte, escucharla entera y dejar que haga su trabajo.\n\nCIERRE: Dime en comentarios cuál es tu canción de volver a ti. Me encantará escucharlas todas.",
             "referente": {
-                "nombre": "Elena Malova",
-                "porque": "Profesora de yoga con uno de los canales de YouTube en español más seguidos. Fíjate en cómo explica cada práctica con un lenguaje sencillo y un tono cercano, sin presumir de posturas difíciles: un buen ejemplo de cómo enseñar movimiento suave a través de una pantalla."
+                "nombre": "Jordi A. Jauset",
+                "porque": "Divulgador español que explica la relación entre la música y el cerebro, autor del libro «Cerebro y música, una pareja saludable». Fíjate en cómo convierte un tema científico en algo que cualquiera entiende y puede aplicar en su día a día: es justo lo que tú haces con el movimiento consciente."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una imagen que me acompaña desde mis clases de taichí: el agua es lo más blando que hay y, aun así, con el tiempo da forma a la piedra. No lo consigue empujando, lo consigue volviendo cada día. Si hoy solo podéis hacer algo pequeño y suave por vosotras, también cuenta. Un abrazo grande 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy os propongo un regalo pequeño para vosotras: elegid una canción que os guste de verdad, de las que os llevan a un momento bonito, y escuchadla entera sin hacer nada más. Tres minutos solo para eso. Si os apetece, contadme cuál habéis elegido, me hará mucha ilusión saberlo. Un abrazo 🎶"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15-20 minutos a escribir en una sola hoja el esquema de la primera sesión en directo, dividido en bloques con sus minutos: bienvenida, idea principal del día, una práctica o dinámica breve, tiempo para preguntas y cierre. No hace falta redactar lo que vas a decir, solo el orden y cuánto dura cada parte.",
-            "tags": ["Idea", "Sesiones en directo"],
-            "aprendizaje": "En una sesión en directo suele funcionar mejor una sola idea importante bien trabajada que muchas ideas con prisa. Deja también pensado de antemano qué parte podrías saltarte si el grupo necesita más tiempo en otra: así no tendrás que improvisar el recorte en mitad de la clase.",
+            "idea": "Dedica 15-20 minutos a escribir la plantilla del mensaje que enviarás al grupo después de cada sesión en directo: un gracias, la idea principal del día en una o dos frases, una pequeña invitación para practicar durante la semana y el recordatorio de la fecha de la siguiente sesión. Con la plantilla hecha, cada semana solo tendrás que rellenar los huecos.",
+            "tags": ["Idea", "Acompañar entre sesiones"],
+            "aprendizaje": "En una formación en directo, lo que pasa entre una sesión y la siguiente cuenta tanto como la sesión misma. Un mensaje breve el mismo día o al día siguiente ayuda a que la gente recuerde lo trabajado y sienta que sigues ahí, y a ti te evita tener que improvisarlo cada semana.",
             "recurso": {
-                "titulo": "Cómo planear lecciones eficaces para su clase en línea",
+                "titulo": "8 correos electrónicos automatizados para webinars",
                 "tipo": "artículo",
-                "porque": "Explica en español, paso a paso, cómo preparar una clase online: fijar un objetivo claro para cada sesión, dividir el contenido en partes cortas y recoger después la opinión del grupo para ir ajustando. Te sirve de guía para el esquema de tu primera sesión.",
-                "url": "https://creately.com/blog/es/educacion/como-planear-lecciones-eficaces-para-su-clase-en-linea/"
+                "porque": "Repasa en español qué mensajes conviene enviar antes y después de un encuentro en directo. Quédate sobre todo con la parte de después: el agradecimiento el mismo día y el envío de materiales al día siguiente. Está pensado para empresas, así que toma solo la idea y adáptala a tu tono cercano y a tu grupo pequeño.",
+                "url": "https://www.activecampaign.com/es/blog/8-correos-electronicos-automatizados-webinars"
             }
         }
     }

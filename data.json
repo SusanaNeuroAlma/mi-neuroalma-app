@@ -1,42 +1,42 @@
 {
-    "date": "2026-10-06",
+    "date": "2026-10-07",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy mírate como principiante con cariño. En redes y en lo de montar una academia online estás empezando, y eso es un regalo para tu oficio: te recuerda desde dentro cómo se siente quien llega nueva a una clase. Apunta en un papel dos cosas que a ti te ayudan cuando aprendes algo desde cero (que te lo expliquen despacio, un ejemplo, que nadie dé nada por sabido) y guárdalas como recordatorio para cuando vuelvas a enseñar.",
-            "tags": ["Oficio", "Mente de principiante"],
-            "aprendizaje": "Cuanto más sabemos de algo, más nos cuesta recordar cómo era no saberlo: se llama la maldición del conocimiento. Por eso a quien lleva años enseñando se le escapan palabras y pasos que para una persona nueva no son nada evidentes. El remedio es sencillo: partir siempre de lo que la otra persona ya conoce y apoyarse en ejemplos e imágenes de la vida diaria.",
+            "idea": "Hoy regálate cinco minutos con papel y boli, en una postura en la que estés cómoda. Escribe lo que tengas en la cabeza tal como salga, sin cuidar la letra ni buscar frases bonitas: lo que te preocupa, lo que te ha alegrado, lo que estás esperando. No es para enseñárselo a nadie, es para vaciar un poco la mochila.",
+            "tags": ["Bienestar", "Escribir para ordenarse"],
+            "aprendizaje": "Poner en palabras lo que sentimos nos ayuda a tomar distancia de ello: lo que daba vueltas en la cabeza pasa a estar delante, en el papel, y pesa menos. Además, escribir a mano va más despacio que pensar, y ese ritmo lento obliga a la mente a ir de una cosa en una, lo que por sí solo ya calma.",
             "frase": {
-                "texto": "En la mente del principiante hay muchas posibilidades, pero en la del experto hay pocas.",
-                "autor": "Shunryu Suzuki, «Mente zen, mente de principiante» (1970)"
+                "texto": "El papel es más paciente que los hombres.",
+                "autor": "Ana Frank, «Diario» (anotación del 20 de junio de 1942)"
             },
             "noticia": {
-                "titulo": "Maldición del conocimiento (sesgo cognitivo): qué es y cómo nos afecta",
-                "resumen": "La psicóloga Laura Ruiz Mitjana explica en Psicología y Mente (artículo actualizado en mayo de 2026) por qué quien sabe mucho de un tema tiende a dar por hecho que los demás también lo saben, y cómo eso complica la enseñanza. Para evitarlo propone partir de lo que el alumno ya conoce y usar comparaciones, historias y varios sentidos a la vez.",
-                "url": "https://psicologiaymente.com/social/maldicion-conocimiento"
+                "titulo": "Los beneficios para el cerebro de volver a escribir a mano",
+                "resumen": "El Independiente recoge (en un artículo de octubre de 2025) que escribir a mano ayuda a reducir los pensamientos repetitivos y el estrés, y que mejora la atención y la memoria al no tener las distracciones de una pantalla. El texto habla de «diversos estudios» sin detallarlos, así que tómalo como una invitación a probar más que como una verdad cerrada.",
+                "url": "https://www.elindependiente.com/vida-sana/2025/10/25/escribir-mano-beneficios/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Cuenta lo que nadie te explicó en tu primera clase de yoga, pilates o taichí y que a ti te habría venido muy bien saber. Ponte en la piel de quien todavía no se ha atrevido a ir: sus dudas suelen ser muy sencillas (qué ropa llevo, y si no llego, y si me pierdo) y casi nadie las responde. Es un contenido que acerca mucho a las personas que empiezan de cero.",
-            "tags": ["Contenido", "Principiantes"],
-            "guion": "GANCHO: \"Tres cosas que nadie te dice antes de tu primera clase de movimiento consciente, y que te quitarían la mitad de los nervios.\"\n\nCUERPO: Después de muchos años enseñando, he visto llegar a muchísimas personas con la misma cara de susto el primer día. Y casi siempre por lo mismo. Uno: nadie te está mirando, cada persona está ocupada con su propio cuerpo. Dos: no tienes que llegar a ninguna postura, la clase empieza donde tú estás hoy. Y tres: perderse es parte de aprender, a todas nos ha pasado y nos sigue pasando. Ahora que yo soy la nueva en esto de las redes, me acuerdo mucho de esa sensación, y me repito lo mismo que les decía a ellas.\n\nCIERRE: Si estás pensando en empezar y algo te frena, cuéntamelo en comentarios. Seguro que no eres la única.",
+            "idea": "Enseña tu cuaderno. Cuenta que en esta etapa de pausa has vuelto al papel y al boli, y comparte la pregunta sencilla con la que empiezas a escribir cuando no sabes por dónde tirar. Invita a tu audiencia a probarla esta noche durante cinco minutos. Mostrar un objeto tan cotidiano acerca mucho y da una imagen muy tuya, sin necesidad de salir hablando a cámara todo el rato.",
+            "tags": ["Contenido", "Hábitos sencillos"],
+            "guion": "GANCHO: \"Cuando tengo la cabeza llena y el cuerpo me pide parar, no medito. Hago esto otro, y me lleva cinco minutos.\"\n\nCUERPO: Cojo un cuaderno cualquiera y contesto por escrito a una sola pregunta: ¿qué llevo hoy en la mochila? Escribo lo que salga, sin orden y sin releer. Preocupaciones, recados, alguna alegría que se me había pasado. Durante años pensé que para calmar la mente había que mover el cuerpo o sentarse a respirar. Ahora que mi cuerpo me ha pedido una pausa, he descubierto que escribir a mano también es una forma de parar: vas tan despacio que la cabeza no tiene más remedio que seguirte el paso.\n\nCIERRE: Pruébalo esta noche con esa misma pregunta y cuéntame mañana cómo te ha sentado.",
             "referente": {
-                "nombre": "Pablo d'Ors",
-                "porque": "Escritor español, autor de «Biografía del silencio», donde cuenta su aprendizaje de la meditación sin esconder su torpeza de principiante. Fíjate en cómo habla desde su propia experiencia y no desde el pedestal del experto: esa honestidad es lo que hace que tanta gente se anime a empezar."
+                "nombre": "Silvia Adela Kohan",
+                "porque": "Filóloga y escritora argentina afincada en España, autora de «La escritura terapéutica» y de muchos libros sobre cómo escribir. Fíjate en cómo propone ejercicios muy concretos y cortos que cualquiera puede hacer en casa: es una buena inspiración para convertir tus ideas en pequeñas invitaciones prácticas."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy me he acordado de lo valiente que es empezar algo desde cero. Si esta semana estáis aprendiendo algo nuevo, lo que sea, y os sentís torpes, recordad que esa torpeza es la señal de que estáis creciendo. Nadie nace sabiendo, y a ser principiante también se aprende. Un abrazo grande 🌱"
+            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una pregunta para contestar con papel y boli, solo para vosotras: ¿qué llevo hoy en la mochila? Cinco minutos escribiendo lo que salga, sin releer y sin juzgar. A veces basta con sacarlo de la cabeza para que pese menos. Un abrazo y buena tarde ✍️"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15 minutos a hacer tu pequeño diccionario de Neuroalma: anota cinco palabras que usas mucho al hablar del método (las que a ti te suenan normales pero una persona nueva quizá no conoce) y escribe al lado cómo se la explicarías a una amiga en una sola frase. Te servirá para la primera sesión y para cualquier texto en el que presentes la formación.",
-            "tags": ["Idea", "Lenguaje claro"],
-            "aprendizaje": "En una formación online, la gente rara vez pregunta lo que no entiende: simplemente se desconecta. Explicar cada palabra nueva la primera vez que aparece, aunque te parezca obvia, hace que nadie se quede atrás y que el grupo se sienta en confianza desde el principio.",
+            "idea": "Dedica 15 minutos a crear en Google Drive una carpeta llamada \"Neuroalma - validación\" y, dentro, siete carpetas numeradas, una por sesión (\"1 - Sesión 1\", \"2 - Sesión 2\"...). Mete ya en cada una lo que tengas: apuntes, ideas, el guion si existe. Así sabrás siempre dónde está cada cosa y no perderás tiempo buscando el día del directo.",
+            "tags": ["Idea", "Orden de materiales"],
+            "aprendizaje": "Una academia pequeña se sostiene mejor con orden que con herramientas caras. Tener un único sitio para los materiales, con nombres claros y numerados, te quita nervios antes de cada sesión y te deja el camino hecho para cuando quieras repetir la formación con otro grupo.",
             "recurso": {
-                "titulo": "Qué es el lenguaje claro en la comunicación accesible",
-                "tipo": "guía",
-                "porque": "Una guía breve en español, del portal educativo argentino Educ.ar, con pautas muy concretas para escribir de forma que todo el mundo entienda: una sola idea por frase, frases cortas, palabras de todos los días y nada de tecnicismos sin explicar. Úsala como lista de comprobación al repasar tus cinco definiciones.",
-                "url": "https://www.educ.ar/recursos/158978/que-es-el-lenguaje-claro-en-la-comunicacion-accesible"
+                "titulo": "Organizar tus archivos en Google Drive",
+                "tipo": "guía de ayuda oficial",
+                "porque": "La página de ayuda de Google, en español, explica paso a paso cómo crear carpetas, mover archivos dentro de ellas y ponerles colores para distinguirlas de un vistazo. Es justo lo que necesitas para la tarea de hoy, sin nada más.",
+                "url": "https://support.google.com/drive/answer/2375091?hl=es"
             }
         }
     }

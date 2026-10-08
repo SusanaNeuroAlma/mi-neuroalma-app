@@ -2725,5 +2725,48 @@
                 }
             }
         }
+    },
+    {
+        "date": "2026-10-07",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Hoy regálate cinco minutos con papel y boli, en una postura en la que estés cómoda. Escribe lo que tengas en la cabeza tal como salga, sin cuidar la letra ni buscar frases bonitas: lo que te preocupa, lo que te ha alegrado, lo que estás esperando. No es para enseñárselo a nadie, es para vaciar un poco la mochila.",
+                "tags": ["Bienestar", "Escribir para ordenarse"],
+                "aprendizaje": "Poner en palabras lo que sentimos nos ayuda a tomar distancia de ello: lo que daba vueltas en la cabeza pasa a estar delante, en el papel, y pesa menos. Además, escribir a mano va más despacio que pensar, y ese ritmo lento obliga a la mente a ir de una cosa en una, lo que por sí solo ya calma.",
+                "frase": {
+                    "texto": "El papel es más paciente que los hombres.",
+                    "autor": "Ana Frank, «Diario» (anotación del 20 de junio de 1942)"
+                },
+                "noticia": {
+                    "titulo": "Los beneficios para el cerebro de volver a escribir a mano",
+                    "resumen": "El Independiente recoge (en un artículo de octubre de 2025) que escribir a mano ayuda a reducir los pensamientos repetitivos y el estrés, y que mejora la atención y la memoria al no tener las distracciones de una pantalla. El texto habla de «diversos estudios» sin detallarlos, así que tómalo como una invitación a probar más que como una verdad cerrada.",
+                    "url": "https://www.elindependiente.com/vida-sana/2025/10/25/escribir-mano-beneficios/"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Enseña tu cuaderno. Cuenta que en esta etapa de pausa has vuelto al papel y al boli, y comparte la pregunta sencilla con la que empiezas a escribir cuando no sabes por dónde tirar. Invita a tu audiencia a probarla esta noche durante cinco minutos. Mostrar un objeto tan cotidiano acerca mucho y da una imagen muy tuya, sin necesidad de salir hablando a cámara todo el rato.",
+                "tags": ["Contenido", "Hábitos sencillos"],
+                "guion": "GANCHO: \"Cuando tengo la cabeza llena y el cuerpo me pide parar, no medito. Hago esto otro, y me lleva cinco minutos.\"\n\nCUERPO: Cojo un cuaderno cualquiera y contesto por escrito a una sola pregunta: ¿qué llevo hoy en la mochila? Escribo lo que salga, sin orden y sin releer. Preocupaciones, recados, alguna alegría que se me había pasado. Durante años pensé que para calmar la mente había que mover el cuerpo o sentarse a respirar. Ahora que mi cuerpo me ha pedido una pausa, he descubierto que escribir a mano también es una forma de parar: vas tan despacio que la cabeza no tiene más remedio que seguirte el paso.\n\nCIERRE: Pruébalo esta noche con esa misma pregunta y cuéntame mañana cómo te ha sentado.",
+                "referente": {
+                    "nombre": "Silvia Adela Kohan",
+                    "porque": "Filóloga y escritora argentina afincada en España, autora de «La escritura terapéutica» y de muchos libros sobre cómo escribir. Fíjate en cómo propone ejercicios muy concretos y cortos que cualquiera puede hacer en casa: es una buena inspiración para convertir tus ideas en pequeñas invitaciones prácticas."
+                },
+                "mensajeWhatsapp": "Hola a todas! Hoy os dejo una pregunta para contestar con papel y boli, solo para vosotras: ¿qué llevo hoy en la mochila? Cinco minutos escribiendo lo que salga, sin releer y sin juzgar. A veces basta con sacarlo de la cabeza para que pese menos. Un abrazo y buena tarde ✍️"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Dedica 15 minutos a crear en Google Drive una carpeta llamada \"Neuroalma - validación\" y, dentro, siete carpetas numeradas, una por sesión (\"1 - Sesión 1\", \"2 - Sesión 2\"...). Mete ya en cada una lo que tengas: apuntes, ideas, el guion si existe. Así sabrás siempre dónde está cada cosa y no perderás tiempo buscando el día del directo.",
+                "tags": ["Idea", "Orden de materiales"],
+                "aprendizaje": "Una academia pequeña se sostiene mejor con orden que con herramientas caras. Tener un único sitio para los materiales, con nombres claros y numerados, te quita nervios antes de cada sesión y te deja el camino hecho para cuando quieras repetir la formación con otro grupo.",
+                "recurso": {
+                    "titulo": "Organizar tus archivos en Google Drive",
+                    "tipo": "guía de ayuda oficial",
+                    "porque": "La página de ayuda de Google, en español, explica paso a paso cómo crear carpetas, mover archivos dentro de ellas y ponerles colores para distinguirlas de un vistazo. Es justo lo que necesitas para la tarea de hoy, sin nada más.",
+                    "url": "https://support.google.com/drive/answer/2375091?hl=es"
+                }
+            }
+        }
     }
 ]

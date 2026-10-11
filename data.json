@@ -1,42 +1,42 @@
 {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy es el Día Mundial de la Salud Mental, y es buena excusa para mirar tu propia red de apoyo. Piensa en dos o tres personas con las que puedes ser tú sin arreglarte por dentro, y escribe a una de ellas solo para decirle cómo estás de verdad, sin el «bien, tirando». Si te apetece moverte un poco, que sea a tu ritmo y como te pida el día, sin exigirte nada.",
-            "tags": ["Bienestar", "Red de apoyo"],
-            "aprendizaje": "Estás acostumbrada a ser la que sostiene, y quien sostiene suele olvidarse de dejarse sostener. Pedir compañía no es una debilidad ni una carga para el otro: a la mayoría de las personas les gusta sentirse útiles para alguien a quien quieren. Tu etapa de recuperación también es un buen momento para practicar eso de recibir.",
+            "idea": "Hoy te propongo un rato de oficio sin moverte del sofá: recuerda cuánto silencio dejabas en tus clases después de dar una indicación o de hacer una pregunta. La próxima vez que hables con alguien, prueba a contar tres segundos por dentro antes de rellenar un silencio, y observa qué hace la otra persona con ese hueco. Y si hoy el cuerpo te pide un paseo o un poco de movimiento, que sea suave y a tu aire.",
+            "tags": ["Oficio", "Silencio y pausas"],
+            "aprendizaje": "Quien guía a un grupo suele esperar muy poco después de preguntar o indicar algo, a menudo apenas un segundo, porque el silencio se nos hace largo. Las investigaciones clásicas sobre el «tiempo de espera» en el aula observaron que, al alargar esa pausa a tres segundos o más, las personas responden más, con más calma y con más detalle. En movimiento consciente pasa igual: el silencio es el rato en el que cada alumna siente por sí misma lo que le acabas de proponer.",
             "frase": {
-                "texto": "Sin amigos nadie querría vivir, aunque tuviera todos los otros bienes.",
-                "autor": "Aristóteles, «Ética a Nicómaco» (libro VIII)"
+                "texto": "Toda la desgracia de los hombres viene de una sola cosa: no saber permanecer en reposo en una habitación.",
+                "autor": "Blaise Pascal, «Pensamientos» (1670)"
             },
             "noticia": {
-                "titulo": "Día Mundial de la Salud Mental 2026: qué es, cuál es su lema y cómo participar",
-                "resumen": "Psicología y Mente explica (artículo del 29 de septiembre de 2026) que el lema internacional de este año pide escuchar a quienes han vivido un problema de salud mental en primera persona: «voces reales, cambios reales». En España, la Confederación Salud Mental España ha elegido «Haz match con tu salud mental», centrado en la importancia de las redes de apoyo. El artículo recuerda que participar empieza por algo muy sencillo: escuchar sin juzgar.",
-                "url": "https://psicologiaymente.com/psicologia/dia-mundial-de-la-salud-mental-2026-que-es-cual-es-su-lema-y-como-participar"
+                "titulo": "Cómo utilizar el silencio como herramienta comunicativa en el aula",
+                "resumen": "En este artículo de Educación 3.0 (publicado en noviembre de 2022, no es de esta semana pero sigue vigente), el docente Ismael Ruiz Arroyo defiende que el silencio de quien enseña comunica tanto como sus palabras, y que alzar la voz para pedir calma es una contradicción. Propone recursos sencillos como quedarse quieta, mirar al grupo y usar señales acordadas, y recuerda que hacen falta paciencia y pactos con el grupo para que funcionen.",
+                "url": "https://www.educaciontrespuntocero.com/opinion/silencio-herramienta/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Aprovecha el Día Mundial de la Salud Mental para contar algo tuyo y sencillo: lo que te ha costado dejarte cuidar durante la baja, tú que siempre has sido la que cuidaba al grupo. No hace falta contar nada íntimo, basta con un momento concreto (alguien que te trajo la compra, una amiga que te llamó sin motivo) y lo que aprendiste al aceptar esa ayuda. Es un tema en el que se reconoce cualquier persona que cuida de otros.",
-            "tags": ["Contenido", "Dejarse cuidar"],
-            "guion": "GANCHO: \"Llevo años enseñando a otras personas a parar y a cuidarse. Y cuando me tocó a mí, descubrí que no sabía dejar que me cuidaran.\"\n\nCUERPO: En clase yo era la que estaba pendiente de todo el mundo: de quien llegaba cansada, de quien ese día no podía con la postura, de quien necesitaba una palabra. Cuando llegó mi lesión cervical, a la que llamo Rigoberto, me tocó cambiar de sitio. Y me costó muchísimo. Decía «estoy bien, no te preocupes» casi sin pensarlo. Hasta que un día dejé que alguien me ayudara de verdad y me di cuenta de dos cosas: que yo descansaba, y que la otra persona se iba contenta de haber podido estar. Hoy es el Día Mundial de la Salud Mental, y creo que cuidarla también es esto: tener a quién decirle cómo estás, y decírselo.\n\nCIERRE: Si tú también eres de las que cuidan a todo el mundo, hoy prueba a cambiar un «estoy bien» por un «pues mira, regular». Cuéntame a quién se lo dirías.",
+            "idea": "Habla de lo que ocurre en los silencios de una clase, que es justo lo que no se ve en un vídeo. Cuenta que al principio te ponían nerviosa y los llenabas de explicaciones, y que con los años entendiste que ahí es donde la alumna nota su cuerpo de verdad. Puedes grabarlo con una pausa real en mitad del vídeo, para que quien te vea lo sienta en vez de solo escucharlo.",
+            "tags": ["Contenido", "El valor del silencio"],
+            "guion": "GANCHO: \"Lo más importante de mis clases era lo que pasaba cuando yo me callaba.\"\n\nCUERPO: Cuando empecé a dar clase, el silencio me daba pánico. Pensaba que si no hablaba, la gente creería que no sabía qué decir. Así que explicaba, corregía, añadía detalles, y no dejaba ni un hueco. Con los años me di cuenta de algo: mientras yo hablaba, mis alumnas me escuchaban a mí. Cuando me callaba, se escuchaban a ellas. Ese ratito sin palabras era donde alguien notaba por primera vez que tenía los hombros en las orejas, o que llevaba todo el día sin respirar hondo. Vamos a probarlo ahora mismo. Yo me callo cinco segundos y tú solo observa cómo estás. (Pausa real de cinco segundos.) Ya está. Eso que acabas de notar no te lo he dicho yo.\n\nCIERRE: Hoy regálate un minuto así, sin móvil y sin música. Y cuéntame qué notaste en ese silencio.",
             "referente": {
-                "nombre": "Ángel Martín",
-                "porque": "Humorista y comunicador español que cuenta en primera persona, en su libro «Por si las voces vuelven» y en sus redes, cómo vivió un problema de salud mental. Fíjate en cómo habla de algo muy serio con naturalidad, sin dramatizar y sin dar lecciones: cuenta lo que le pasó a él y deja que cada uno saque lo suyo. Es un buen ejemplo de cómo compartir tu historia con Rigoberto sin que suene a queja ni a consejo."
+                "nombre": "Javier García Campayo",
+                "porque": "Psiquiatra y catedrático de la Universidad de Zaragoza, donde coordina el máster de mindfulness, y autor de libros divulgativos en español como «Mindfulness y ciencia». Fíjate en cómo explica temas profundos con frases cortas, sin prisa y sin adornos: no necesita llenar cada hueco para que se le entienda. Es un buen modelo para ti a la hora de hablar despacio y con pausas delante de la cámara."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy es el Día Mundial de la Salud Mental y os traigo una idea muy sencilla: tener a alguien a quien poder decirle cómo estamos de verdad es una de las cosas que más nos cuida por dentro. Si hoy os viene alguien a la cabeza, mandadle un mensajito, aunque sea corto. Y si necesitáis que os lo manden a vosotras, también vale pedirlo. Un abrazo grande 🌿"
+            "mensajeWhatsapp": "Buenos días a todas! Hoy os dejo una idea pequeñita para el domingo: no todos los silencios hay que llenarlos. A veces, un minuto sin móvil, sin música y sin hacer nada es justo lo que necesitamos para enterarnos de cómo estamos. Si os apetece, probadlo en algún momento del día, sin más objetivo que escucharos un poco. Feliz domingo 🍂"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15 minutos a escribir, con tus palabras, qué pasa si alguien se apunta a Neuroalma y luego no puede seguir: hasta cuándo puede echarse atrás, si le devuelves todo o una parte, y qué ocurre si eres tú quien tiene que cambiar una fecha. Con cuatro o cinco frases claras es suficiente por ahora. Guárdalo como borrador y enséñaselo a tu gestoría antes de publicarlo, para asegurarte de que encaja con la ley.",
-            "tags": ["Idea", "Condiciones claras"],
-            "aprendizaje": "Las condiciones de baja y devolución no son un trámite frío: son una forma de cuidar a tus alumnas y de cuidarte tú. Cuando alguien sabe de antemano qué pasa si le surge un imprevisto, se apunta con más tranquilidad, y tú no tienes que decidir sobre la marcha en un momento incómodo. Mejor pocas normas, escritas de forma sencilla y fáciles de encontrar antes de pagar.",
+            "idea": "Dedica 15 minutos a escribir tres preguntas sencillas para abrir la participación en tus sesiones en directo: una para el inicio (por ejemplo, «con qué palabra llegas hoy»), una para la mitad y una para el cierre. Al lado de cada una, apunta cómo quieres que respondan: por el chat, levantando la mano o abriendo el micro. Guárdalo en la carpeta de la sesión 1 para tenerlo a mano el día del directo.",
+            "tags": ["Idea", "Participación en directo"],
+            "aprendizaje": "En una videollamada los silencios parecen más largos de lo que son, porque la gente tarda en encontrar el micro o en animarse a escribir. Cuando lances una pregunta, espera con tranquilidad unos segundos más de lo que te pida el cuerpo y di en voz alta que no hay prisa. Ofrecer el chat como alternativa ayuda mucho a las personas más tímidas, y en un grupo pequeño cada voz cuenta.",
             "recurso": {
-                "titulo": "Desistimiento en contenidos y servicios digitales (Ministerio de Derechos Sociales, Consumo y Agenda 2030)",
-                "tipo": "folleto oficial en PDF",
-                "porque": "Folleto breve y en español, editado en septiembre de 2026, que explica el derecho a cancelar una compra por internet en 14 días naturales y sus excepciones, y menciona expresamente los cursos online. Está escrito para quien compra, así que te ayuda a ponerte en la piel de tu alumna. No detalla el caso de sesiones en directo como las tuyas, por eso conviene confirmarlo con tu gestoría.",
-                "url": "https://www.dsca.gob.es/sites/default/files/DGC_desistimiento_productos_digitales.rev_.pdf"
+                "titulo": "10 consejos para dinamizar las clases online",
+                "tipo": "artículo",
+                "porque": "Artículo breve y en español de Educación 3.0 con ideas prácticas de un profesor, Ignacio Olavarría, para que una clase por videollamada no sea un monólogo: usar el chat para respuestas rápidas, dar a una alumna el papel de ayudante o aprovechar la música en los minutos de espera. Está pensado para un colegio, así que quédate solo con las dos o tres ideas que encajen con un grupo pequeño de adultas.",
+                "url": "https://www.educaciontrespuntocero.com/noticias/consejos-para-dinamizar-las-clases-online/"
             }
         }
     }

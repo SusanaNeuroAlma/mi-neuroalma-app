@@ -2811,5 +2811,48 @@
                 }
             }
         }
+    },
+    {
+        "date": "2026-10-10",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Hoy es el Día Mundial de la Salud Mental, y es buena excusa para mirar tu propia red de apoyo. Piensa en dos o tres personas con las que puedes ser tú sin arreglarte por dentro, y escribe a una de ellas solo para decirle cómo estás de verdad, sin el «bien, tirando». Si te apetece moverte un poco, que sea a tu ritmo y como te pida el día, sin exigirte nada.",
+                "tags": ["Bienestar", "Red de apoyo"],
+                "aprendizaje": "Estás acostumbrada a ser la que sostiene, y quien sostiene suele olvidarse de dejarse sostener. Pedir compañía no es una debilidad ni una carga para el otro: a la mayoría de las personas les gusta sentirse útiles para alguien a quien quieren. Tu etapa de recuperación también es un buen momento para practicar eso de recibir.",
+                "frase": {
+                    "texto": "Sin amigos nadie querría vivir, aunque tuviera todos los otros bienes.",
+                    "autor": "Aristóteles, «Ética a Nicómaco» (libro VIII)"
+                },
+                "noticia": {
+                    "titulo": "Día Mundial de la Salud Mental 2026: qué es, cuál es su lema y cómo participar",
+                    "resumen": "Psicología y Mente explica (artículo del 29 de septiembre de 2026) que el lema internacional de este año pide escuchar a quienes han vivido un problema de salud mental en primera persona: «voces reales, cambios reales». En España, la Confederación Salud Mental España ha elegido «Haz match con tu salud mental», centrado en la importancia de las redes de apoyo. El artículo recuerda que participar empieza por algo muy sencillo: escuchar sin juzgar.",
+                    "url": "https://psicologiaymente.com/psicologia/dia-mundial-de-la-salud-mental-2026-que-es-cual-es-su-lema-y-como-participar"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Aprovecha el Día Mundial de la Salud Mental para contar algo tuyo y sencillo: lo que te ha costado dejarte cuidar durante la baja, tú que siempre has sido la que cuidaba al grupo. No hace falta contar nada íntimo, basta con un momento concreto (alguien que te trajo la compra, una amiga que te llamó sin motivo) y lo que aprendiste al aceptar esa ayuda. Es un tema en el que se reconoce cualquier persona que cuida de otros.",
+                "tags": ["Contenido", "Dejarse cuidar"],
+                "guion": "GANCHO: \"Llevo años enseñando a otras personas a parar y a cuidarse. Y cuando me tocó a mí, descubrí que no sabía dejar que me cuidaran.\"\n\nCUERPO: En clase yo era la que estaba pendiente de todo el mundo: de quien llegaba cansada, de quien ese día no podía con la postura, de quien necesitaba una palabra. Cuando llegó mi lesión cervical, a la que llamo Rigoberto, me tocó cambiar de sitio. Y me costó muchísimo. Decía «estoy bien, no te preocupes» casi sin pensarlo. Hasta que un día dejé que alguien me ayudara de verdad y me di cuenta de dos cosas: que yo descansaba, y que la otra persona se iba contenta de haber podido estar. Hoy es el Día Mundial de la Salud Mental, y creo que cuidarla también es esto: tener a quién decirle cómo estás, y decírselo.\n\nCIERRE: Si tú también eres de las que cuidan a todo el mundo, hoy prueba a cambiar un «estoy bien» por un «pues mira, regular». Cuéntame a quién se lo dirías.",
+                "referente": {
+                    "nombre": "Ángel Martín",
+                    "porque": "Humorista y comunicador español que cuenta en primera persona, en su libro «Por si las voces vuelven» y en sus redes, cómo vivió un problema de salud mental. Fíjate en cómo habla de algo muy serio con naturalidad, sin dramatizar y sin dar lecciones: cuenta lo que le pasó a él y deja que cada uno saque lo suyo. Es un buen ejemplo de cómo compartir tu historia con Rigoberto sin que suene a queja ni a consejo."
+                },
+                "mensajeWhatsapp": "Hola a todas! Hoy es el Día Mundial de la Salud Mental y os traigo una idea muy sencilla: tener a alguien a quien poder decirle cómo estamos de verdad es una de las cosas que más nos cuida por dentro. Si hoy os viene alguien a la cabeza, mandadle un mensajito, aunque sea corto. Y si necesitáis que os lo manden a vosotras, también vale pedirlo. Un abrazo grande 🌿"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Dedica 15 minutos a escribir, con tus palabras, qué pasa si alguien se apunta a Neuroalma y luego no puede seguir: hasta cuándo puede echarse atrás, si le devuelves todo o una parte, y qué ocurre si eres tú quien tiene que cambiar una fecha. Con cuatro o cinco frases claras es suficiente por ahora. Guárdalo como borrador y enséñaselo a tu gestoría antes de publicarlo, para asegurarte de que encaja con la ley.",
+                "tags": ["Idea", "Condiciones claras"],
+                "aprendizaje": "Las condiciones de baja y devolución no son un trámite frío: son una forma de cuidar a tus alumnas y de cuidarte tú. Cuando alguien sabe de antemano qué pasa si le surge un imprevisto, se apunta con más tranquilidad, y tú no tienes que decidir sobre la marcha en un momento incómodo. Mejor pocas normas, escritas de forma sencilla y fáciles de encontrar antes de pagar.",
+                "recurso": {
+                    "titulo": "Desistimiento en contenidos y servicios digitales (Ministerio de Derechos Sociales, Consumo y Agenda 2030)",
+                    "tipo": "folleto oficial en PDF",
+                    "porque": "Folleto breve y en español, editado en septiembre de 2026, que explica el derecho a cancelar una compra por internet en 14 días naturales y sus excepciones, y menciona expresamente los cursos online. Está escrito para quien compra, así que te ayuda a ponerte en la piel de tu alumna. No detalla el caso de sesiones en directo como las tuyas, por eso conviene confirmarlo con tu gestoría.",
+                    "url": "https://www.dsca.gob.es/sites/default/files/DGC_desistimiento_productos_digitales.rev_.pdf"
+                }
+            }
+        }
     }
 ]

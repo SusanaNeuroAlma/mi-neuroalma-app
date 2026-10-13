@@ -1,42 +1,42 @@
 {
-    "date": "2026-10-11",
+    "date": "2026-10-13",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy te propongo un rato de oficio sin moverte del sofá: recuerda cuánto silencio dejabas en tus clases después de dar una indicación o de hacer una pregunta. La próxima vez que hables con alguien, prueba a contar tres segundos por dentro antes de rellenar un silencio, y observa qué hace la otra persona con ese hueco. Y si hoy el cuerpo te pide un paseo o un poco de movimiento, que sea suave y a tu aire.",
-            "tags": ["Oficio", "Silencio y pausas"],
-            "aprendizaje": "Quien guía a un grupo suele esperar muy poco después de preguntar o indicar algo, a menudo apenas un segundo, porque el silencio se nos hace largo. Las investigaciones clásicas sobre el «tiempo de espera» en el aula observaron que, al alargar esa pausa a tres segundos o más, las personas responden más, con más calma y con más detalle. En movimiento consciente pasa igual: el silencio es el rato en el que cada alumna siente por sí misma lo que le acabas de proponer.",
+            "idea": "Hoy mírate por dentro con una pregunta sencilla: ¿a qué he dicho que sí esta semana cuando en realidad quería decir que no? Apunta una sola cosa y, al lado, la frase corta que te habría gustado decir, sin justificaciones largas. Y si el cuerpo te pide moverte un poco o salir a que te dé el aire, hazle caso con suavidad y a tu ritmo.",
+            "tags": ["Bienestar", "Poner límites"],
+            "aprendizaje": "La culpa que aparece al decir que no suele ser solo la incomodidad de cambiar una costumbre, no la prueba de que hayas hecho algo mal. Un límite es una forma de contar a los demás con qué energía cuentas de verdad, y en una etapa de recuperación esa información es más valiosa que nunca. Empezar por «noes» pequeños, en cosas de poca importancia, ayuda a ganar soltura.",
             "frase": {
-                "texto": "Toda la desgracia de los hombres viene de una sola cosa: no saber permanecer en reposo en una habitación.",
-                "autor": "Blaise Pascal, «Pensamientos» (1670)"
+                "texto": "Abarca pocas actividades, dice, si quieres mantener el buen humor.",
+                "autor": "Marco Aurelio, «Meditaciones» (libro IV, 24)"
             },
             "noticia": {
-                "titulo": "Cómo utilizar el silencio como herramienta comunicativa en el aula",
-                "resumen": "En este artículo de Educación 3.0 (publicado en noviembre de 2022, no es de esta semana pero sigue vigente), el docente Ismael Ruiz Arroyo defiende que el silencio de quien enseña comunica tanto como sus palabras, y que alzar la voz para pedir calma es una contradicción. Propone recursos sencillos como quedarse quieta, mirar al grupo y usar señales acordadas, y recuerda que hacen falta paciencia y pactos con el grupo para que funcionen.",
-                "url": "https://www.educaciontrespuntocero.com/opinion/silencio-herramienta/"
+                "titulo": "Aprender a decir «no» sin sentir culpa",
+                "resumen": "En este artículo de Psicología y Mente (25 de agosto de 2026), la psicóloga Karol Correa Granados explica que saber decir que no protege la salud mental, aunque cueste por miedo a decepcionar o a ser rechazada. Cuenta que la culpa al poner un límite es una reacción normal al cambio de hábito, que los límites sanos cuidan las relaciones porque evitan el desgaste y el resentimiento, y que un «no» puede decirse con claridad y respeto sin dar largas explicaciones.",
+                "url": "https://psicologiaymente.com/psicologia/aprender-a-decir-no-sin-sentir-culpa"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Habla de lo que ocurre en los silencios de una clase, que es justo lo que no se ve en un vídeo. Cuenta que al principio te ponían nerviosa y los llenabas de explicaciones, y que con los años entendiste que ahí es donde la alumna nota su cuerpo de verdad. Puedes grabarlo con una pausa real en mitad del vídeo, para que quien te vea lo sienta en vez de solo escucharlo.",
-            "tags": ["Contenido", "El valor del silencio"],
-            "guion": "GANCHO: \"Lo más importante de mis clases era lo que pasaba cuando yo me callaba.\"\n\nCUERPO: Cuando empecé a dar clase, el silencio me daba pánico. Pensaba que si no hablaba, la gente creería que no sabía qué decir. Así que explicaba, corregía, añadía detalles, y no dejaba ni un hueco. Con los años me di cuenta de algo: mientras yo hablaba, mis alumnas me escuchaban a mí. Cuando me callaba, se escuchaban a ellas. Ese ratito sin palabras era donde alguien notaba por primera vez que tenía los hombros en las orejas, o que llevaba todo el día sin respirar hondo. Vamos a probarlo ahora mismo. Yo me callo cinco segundos y tú solo observa cómo estás. (Pausa real de cinco segundos.) Ya está. Eso que acabas de notar no te lo he dicho yo.\n\nCIERRE: Hoy regálate un minuto así, sin móvil y sin música. Y cuéntame qué notaste en ese silencio.",
+            "idea": "Cuenta cómo una lesión te ha obligado a aprender algo que llevabas años enseñando a otras: que parar y decir «hoy no» también es cuidarse. Habla de lo que te costaba decir que no a una clase más, a una sustitución o a un favor, y de lo que has descubierto ahora que el cuerpo ha decidido por ti. Es un tema con el que muchas mujeres se van a sentir reflejadas.",
+            "tags": ["Contenido", "Decir que no"],
+            "guion": "GANCHO: \"Me pasé años enseñando a escuchar el cuerpo y yo era la primera que no le hacía ni caso al mío.\"\n\nCUERPO: Yo era de las que decían que sí a todo. Una clase más, una sustitución de última hora, un favor a alguien aunque estuviera agotada. Pensaba que decir que no era quedar mal, o fallarle a alguien. Hasta que mi cuello dijo «no» por mí, y de golpe. Yo lo llamo Rigoberto Cervical, y es el maestro más estricto que he tenido. Con él he aprendido que cada vez que decía sí sin ganas, le estaba diciendo que no a mi descanso, a mi salud y a mi calma. Y que un «no» dicho a tiempo y con cariño no rompe nada: al contrario, hace que tus «síes» sean de verdad.\n\nCIERRE: Esta semana prueba con un «no» pequeñito, de esos que no hacen daño a nadie. Y cuéntame: ¿a qué te cuesta más decir que no?",
             "referente": {
-                "nombre": "Javier García Campayo",
-                "porque": "Psiquiatra y catedrático de la Universidad de Zaragoza, donde coordina el máster de mindfulness, y autor de libros divulgativos en español como «Mindfulness y ciencia». Fíjate en cómo explica temas profundos con frases cortas, sin prisa y sin adornos: no necesita llenar cada hueco para que se le entienda. Es un buen modelo para ti a la hora de hablar despacio y con pausas delante de la cámara."
+                "nombre": "Alba Cardalda",
+                "porque": "Psicóloga y neuropsicóloga española, autora del libro «Cómo mandar a la mierda de forma educada» (Vergara, 2023), dedicado por completo a poner límites con asertividad. Fíjate en cómo convierte un tema incómodo en algo cercano y hasta divertido, con ejemplos de la vida diaria y frases concretas que cualquiera puede usar. Es un buen modelo para ti a la hora de dar a tu audiencia palabras exactas, y no solo ideas generales."
             },
-            "mensajeWhatsapp": "Buenos días a todas! Hoy os dejo una idea pequeñita para el domingo: no todos los silencios hay que llenarlos. A veces, un minuto sin móvil, sin música y sin hacer nada es justo lo que necesitamos para enterarnos de cómo estamos. Si os apetece, probadlo en algún momento del día, sin más objetivo que escucharos un poco. Feliz domingo 🍂"
+            "mensajeWhatsapp": "Buenos días a todas! Hoy os dejo una idea para ir rumiando: cada vez que decimos «sí» sin ganas, le estamos diciendo «no» a algo nuestro, casi siempre al descanso. No hace falta cambiarlo todo de golpe; basta con fijarse hoy en un «sí» que nos sale por costumbre y preguntarnos si de verdad queremos darlo. Que tengáis un martes tranquilo 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15 minutos a escribir tres preguntas sencillas para abrir la participación en tus sesiones en directo: una para el inicio (por ejemplo, «con qué palabra llegas hoy»), una para la mitad y una para el cierre. Al lado de cada una, apunta cómo quieres que respondan: por el chat, levantando la mano o abriendo el micro. Guárdalo en la carpeta de la sesión 1 para tenerlo a mano el día del directo.",
-            "tags": ["Idea", "Participación en directo"],
-            "aprendizaje": "En una videollamada los silencios parecen más largos de lo que son, porque la gente tarda en encontrar el micro o en animarse a escribir. Cuando lances una pregunta, espera con tranquilidad unos segundos más de lo que te pida el cuerpo y di en voz alta que no hay prisa. Ofrecer el chat como alternativa ayuda mucho a las personas más tímidas, y en un grupo pequeño cada voz cuenta.",
+            "idea": "Dedica 15 minutos a escribir tu «horario de respuesta» para las alumnas de Neuroalma: qué días y a qué horas contestas mensajes, en cuánto tiempo sueles responder y por dónde prefieres que te escriban. Redáctalo en tres o cuatro líneas, con tu tono cálido, y guárdalo junto al mensaje de bienvenida para compartirlo el primer día.",
+            "tags": ["Idea", "Disponibilidad clara"],
+            "aprendizaje": "En una formación pequeña es fácil acabar contestando mensajes a cualquier hora, y eso desgasta mucho sin que nadie te lo haya pedido. Cuando dices desde el principio cuándo respondes, las alumnas no lo viven como frialdad sino como seriedad: saben a qué atenerse y tú proteges tu descanso. Es más fácil dejarlo claro el primer día que corregirlo a mitad del curso.",
             "recurso": {
-                "titulo": "10 consejos para dinamizar las clases online",
-                "tipo": "artículo",
-                "porque": "Artículo breve y en español de Educación 3.0 con ideas prácticas de un profesor, Ignacio Olavarría, para que una clase por videollamada no sea un monólogo: usar el chat para respuestas rápidas, dar a una alumna el papel de ayudante o aprovechar la música en los minutos de espera. Está pensado para un colegio, así que quédate solo con las dos o tres ideas que encajen con un grupo pequeño de adultas.",
-                "url": "https://www.educaciontrespuntocero.com/noticias/consejos-para-dinamizar-las-clases-online/"
+                "titulo": "Cómo usar los mensajes de ausencia",
+                "tipo": "guía oficial",
+                "porque": "Página en español del centro de ayuda oficial de WhatsApp que explica, paso a paso, cómo programar una respuesta automática para cuando no estás disponible, eligiendo el horario y a quién se envía. Ten en cuenta que esta función solo existe en la aplicación WhatsApp Business (gratuita), no en el WhatsApp normal; si usas el normal, te basta con el texto de tu horario de respuesta que has escrito hoy.",
+                "url": "https://faq.whatsapp.com/2565868990219715/?locale=es_LA"
             }
         }
     }

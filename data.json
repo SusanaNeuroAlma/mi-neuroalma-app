@@ -1,42 +1,42 @@
 {
-    "date": "2026-10-13",
+    "date": "2026-10-15",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy mírate por dentro con una pregunta sencilla: ¿a qué he dicho que sí esta semana cuando en realidad quería decir que no? Apunta una sola cosa y, al lado, la frase corta que te habría gustado decir, sin justificaciones largas. Y si el cuerpo te pide moverte un poco o salir a que te dé el aire, hazle caso con suavidad y a tu ritmo.",
-            "tags": ["Bienestar", "Poner límites"],
-            "aprendizaje": "La culpa que aparece al decir que no suele ser solo la incomodidad de cambiar una costumbre, no la prueba de que hayas hecho algo mal. Un límite es una forma de contar a los demás con qué energía cuentas de verdad, y en una etapa de recuperación esa información es más valiosa que nunca. Empezar por «noes» pequeños, en cosas de poca importancia, ayuda a ganar soltura.",
+            "idea": "Hoy piensa en cómo terminabas tus clases de yoga, pilates o taichí: ¿qué hacías en los últimos cinco minutos y qué cara se llevaban tus alumnas al salir? Escribe en una libreta tres gestos de cierre que te gustaban (una frase, un silencio, una forma de despedirte) y uno que te gustaría cuidar más cuando vuelvas. Y si te apetece moverte un poco hoy, hazlo con suavidad y siempre a tu ritmo.",
+            "tags": ["Oficio", "El cierre de la clase"],
+            "aprendizaje": "La memoria no guarda una clase entera minuto a minuto: el psicólogo Daniel Kahneman y su equipo comprobaron que recordamos una experiencia sobre todo por su momento más intenso y por cómo termina. Por eso los últimos minutos de una sesión pesan tanto: un cierre tranquilo y cuidado hace que las alumnas recuerden toda la clase con más cariño, aunque por el camino haya habido momentos difíciles.",
             "frase": {
-                "texto": "Abarca pocas actividades, dice, si quieres mantener el buen humor.",
-                "autor": "Marco Aurelio, «Meditaciones» (libro IV, 24)"
+                "texto": "Bien está lo que bien acaba; el final es siempre la corona.",
+                "autor": "William Shakespeare, «Bien está lo que bien acaba» (acto IV, escena 4)"
             },
             "noticia": {
-                "titulo": "Aprender a decir «no» sin sentir culpa",
-                "resumen": "En este artículo de Psicología y Mente (25 de agosto de 2026), la psicóloga Karol Correa Granados explica que saber decir que no protege la salud mental, aunque cueste por miedo a decepcionar o a ser rechazada. Cuenta que la culpa al poner un límite es una reacción normal al cambio de hábito, que los límites sanos cuidan las relaciones porque evitan el desgaste y el resentimiento, y que un «no» puede decirse con claridad y respeto sin dar largas explicaciones.",
-                "url": "https://psicologiaymente.com/psicologia/aprender-a-decir-no-sin-sentir-culpa"
+                "titulo": "¿En qué difieren nuestros recuerdos de nuestras experiencias?",
+                "resumen": "Artículo divulgativo en español de The Decision Lab (publicado en 2019) sobre la llamada «regla del pico y el final». Explica que juzgamos lo vivido por sus momentos más intensos y por cómo acaba, y cuenta el famoso experimento de Kahneman en el que la gente prefería repetir una prueba de agua fría más larga solo porque al final el agua se templaba. Incluye un ejemplo educativo: cuando una valoración termina con lo positivo, se recuerda como más agradable.",
+                "url": "https://thedecisionlab.com/es/biases/peak-end-rule"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Cuenta cómo una lesión te ha obligado a aprender algo que llevabas años enseñando a otras: que parar y decir «hoy no» también es cuidarse. Habla de lo que te costaba decir que no a una clase más, a una sustitución o a un favor, y de lo que has descubierto ahora que el cuerpo ha decidido por ti. Es un tema con el que muchas mujeres se van a sentir reflejadas.",
-            "tags": ["Contenido", "Decir que no"],
-            "guion": "GANCHO: \"Me pasé años enseñando a escuchar el cuerpo y yo era la primera que no le hacía ni caso al mío.\"\n\nCUERPO: Yo era de las que decían que sí a todo. Una clase más, una sustitución de última hora, un favor a alguien aunque estuviera agotada. Pensaba que decir que no era quedar mal, o fallarle a alguien. Hasta que mi cuello dijo «no» por mí, y de golpe. Yo lo llamo Rigoberto Cervical, y es el maestro más estricto que he tenido. Con él he aprendido que cada vez que decía sí sin ganas, le estaba diciendo que no a mi descanso, a mi salud y a mi calma. Y que un «no» dicho a tiempo y con cariño no rompe nada: al contrario, hace que tus «síes» sean de verdad.\n\nCIERRE: Esta semana prueba con un «no» pequeñito, de esos que no hacen daño a nadie. Y cuéntame: ¿a qué te cuesta más decir que no?",
+            "idea": "Comparte cómo cerrabas tus clases y por qué ese momento final te parecía el más importante de todos. Es un contenido que enseña sin dar lecciones: cualquier persona entiende lo bien que sienta terminar algo con calma, ya sea una clase, una reunión o el propio día. Y de paso muestras tu manera de acompañar, que es lo que hace única a Zen en Zapatillas.",
+            "tags": ["Contenido", "Terminar con calma"],
+            "guion": "GANCHO: \"Durante años, los cinco minutos que más cuidaba de mis clases eran los últimos.\"\n\nCUERPO: Al final de cada clase bajaba la luz, dejaba un rato de silencio y, antes de que nadie cogiera el móvil, decía una frase corta para llevarse a casa. Muchas alumnas me decían que era su momento favorito. Ahora sé por qué: nuestra memoria recuerda las cosas sobre todo por cómo terminan. Un final tranquilo hace que recordemos toda la experiencia con más cariño. Y eso no vale solo para una clase: también para una conversación difícil, una tarde con los peques o tu propio día.\n\nCIERRE: Esta noche, antes de dormir, regálate un final bonito: un minuto de silencio, una respiración tranquila o una sola cosa buena del día. Y cuéntame: ¿cómo sueles terminar tú el día?",
             "referente": {
-                "nombre": "Alba Cardalda",
-                "porque": "Psicóloga y neuropsicóloga española, autora del libro «Cómo mandar a la mierda de forma educada» (Vergara, 2023), dedicado por completo a poner límites con asertividad. Fíjate en cómo convierte un tema incómodo en algo cercano y hasta divertido, con ejemplos de la vida diaria y frases concretas que cualquiera puede usar. Es un buen modelo para ti a la hora de dar a tu audiencia palabras exactas, y no solo ideas generales."
+                "nombre": "Laura Ribas",
+                "porque": "Consultora de marketing online española, con años creando contenido para ayudar a emprendedoras a hacerse visibles en internet a través de su blog, su pódcast y sus redes. Fíjate en cómo explica cosas útiles con un tono cercano y muy práctico, contando lo que le ha funcionado a ella. Es un buen modelo para aprender a enseñar mientras cuentas tu propia experiencia, sin parecer que estás vendiendo."
             },
-            "mensajeWhatsapp": "Buenos días a todas! Hoy os dejo una idea para ir rumiando: cada vez que decimos «sí» sin ganas, le estamos diciendo «no» a algo nuestro, casi siempre al descanso. No hace falta cambiarlo todo de golpe; basta con fijarse hoy en un «sí» que nos sale por costumbre y preguntarnos si de verdad queremos darlo. Que tengáis un martes tranquilo 🌿"
+            "mensajeWhatsapp": "Buenos días! Hoy os comparto una curiosidad bonita: nuestra memoria recuerda las experiencias, sobre todo, por cómo terminan. Por eso un final tranquilo cambia el recuerdo de todo un día. Esta noche, antes de dormir, podéis probar a regalaros un minuto de calma o pensar en una sola cosa buena del día. Feliz jueves 🌙"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15 minutos a escribir tu «horario de respuesta» para las alumnas de Neuroalma: qué días y a qué horas contestas mensajes, en cuánto tiempo sueles responder y por dónde prefieres que te escriban. Redáctalo en tres o cuatro líneas, con tu tono cálido, y guárdalo junto al mensaje de bienvenida para compartirlo el primer día.",
-            "tags": ["Idea", "Disponibilidad clara"],
-            "aprendizaje": "En una formación pequeña es fácil acabar contestando mensajes a cualquier hora, y eso desgasta mucho sin que nadie te lo haya pedido. Cuando dices desde el principio cuándo respondes, las alumnas no lo viven como frialdad sino como seriedad: saben a qué atenerse y tú proteges tu descanso. Es más fácil dejarlo claro el primer día que corregirlo a mitad del curso.",
+            "idea": "Dedica 15 minutos a diseñar el cierre que repetirás al final de cada una de las 7 sesiones en directo de Neuroalma. Escribe tres pasos sencillos: una pregunta para que cada alumna diga en una frase qué se lleva, un momento breve de calma y una despedida que anticipe de qué irá la próxima sesión. Guárdalo con tus notas de las sesiones para tenerlo siempre a mano.",
+            "tags": ["Idea", "Cierre de sesiones"],
+            "aprendizaje": "En las formaciones en directo es muy habitual que el tiempo se alargue y la sesión acabe de golpe, con un «bueno, que se nos ha hecho tarde». Si reservas siempre los últimos diez minutos para cerrar, las alumnas ordenan lo aprendido, se van con buena sensación y llegan con más ganas a la siguiente. Un cierre que se repite cada día además da seguridad: el grupo sabe que ese momento siempre llega.",
             "recurso": {
-                "titulo": "Cómo usar los mensajes de ausencia",
-                "tipo": "guía oficial",
-                "porque": "Página en español del centro de ayuda oficial de WhatsApp que explica, paso a paso, cómo programar una respuesta automática para cuando no estás disponible, eligiendo el horario y a quién se envía. Ten en cuenta que esta función solo existe en la aplicación WhatsApp Business (gratuita), no en el WhatsApp normal; si usas el normal, te basta con el texto de tu horario de respuesta que has escrito hoy.",
-                "url": "https://faq.whatsapp.com/2565868990219715/?locale=es_LA"
+                "titulo": "El momento del cierre de la clase: prácticas evaluativas y metacognitivas en la formación del profesorado",
+                "tipo": "artículo de investigación (PDF)",
+                "porque": "Estudio en español de Claudine Benoit Ríos y Humberto Álvarez Sepúlveda, publicado en la revista Prometeica en 2025, que trata el cierre como un momento clave para asentar lo aprendido. Recoge prácticas muy sencillas que usan los docentes, como pedir a cada persona que cuente con sus palabras lo que se lleva o hacer una pregunta final para reflexionar. Es un texto académico, así que basta con leer el resumen y las conclusiones.",
+                "url": "https://periodicos.unifesp.br/index.php/prometeica/article/download/20617/14565"
             }
         }
     }

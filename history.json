@@ -2940,5 +2940,48 @@
                 }
             }
         }
+    },
+{
+    "date": "2026-10-15",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Hoy piensa en cómo terminabas tus clases de yoga, pilates o taichí: ¿qué hacías en los últimos cinco minutos y qué cara se llevaban tus alumnas al salir? Escribe en una libreta tres gestos de cierre que te gustaban (una frase, un silencio, una forma de despedirte) y uno que te gustaría cuidar más cuando vuelvas. Y si te apetece moverte un poco hoy, hazlo con suavidad y siempre a tu ritmo.",
+            "tags": ["Oficio", "El cierre de la clase"],
+            "aprendizaje": "La memoria no guarda una clase entera minuto a minuto: el psicólogo Daniel Kahneman y su equipo comprobaron que recordamos una experiencia sobre todo por su momento más intenso y por cómo termina. Por eso los últimos minutos de una sesión pesan tanto: un cierre tranquilo y cuidado hace que las alumnas recuerden toda la clase con más cariño, aunque por el camino haya habido momentos difíciles.",
+            "frase": {
+                "texto": "Bien está lo que bien acaba; el final es siempre la corona.",
+                "autor": "William Shakespeare, «Bien está lo que bien acaba» (acto IV, escena 4)"
+            },
+            "noticia": {
+                "titulo": "¿En qué difieren nuestros recuerdos de nuestras experiencias?",
+                "resumen": "Artículo divulgativo en español de The Decision Lab (publicado en 2019) sobre la llamada «regla del pico y el final». Explica que juzgamos lo vivido por sus momentos más intensos y por cómo acaba, y cuenta el famoso experimento de Kahneman en el que la gente prefería repetir una prueba de agua fría más larga solo porque al final el agua se templaba. Incluye un ejemplo educativo: cuando una valoración termina con lo positivo, se recuerda como más agradable.",
+                "url": "https://thedecisionlab.com/es/biases/peak-end-rule"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Comparte cómo cerrabas tus clases y por qué ese momento final te parecía el más importante de todos. Es un contenido que enseña sin dar lecciones: cualquier persona entiende lo bien que sienta terminar algo con calma, ya sea una clase, una reunión o el propio día. Y de paso muestras tu manera de acompañar, que es lo que hace única a Zen en Zapatillas.",
+            "tags": ["Contenido", "Terminar con calma"],
+            "guion": "GANCHO: \"Durante años, los cinco minutos que más cuidaba de mis clases eran los últimos.\"\n\nCUERPO: Al final de cada clase bajaba la luz, dejaba un rato de silencio y, antes de que nadie cogiera el móvil, decía una frase corta para llevarse a casa. Muchas alumnas me decían que era su momento favorito. Ahora sé por qué: nuestra memoria recuerda las cosas sobre todo por cómo terminan. Un final tranquilo hace que recordemos toda la experiencia con más cariño. Y eso no vale solo para una clase: también para una conversación difícil, una tarde con los peques o tu propio día.\n\nCIERRE: Esta noche, antes de dormir, regálate un final bonito: un minuto de silencio, una respiración tranquila o una sola cosa buena del día. Y cuéntame: ¿cómo sueles terminar tú el día?",
+            "referente": {
+                "nombre": "Laura Ribas",
+                "porque": "Consultora de marketing online española, con años creando contenido para ayudar a emprendedoras a hacerse visibles en internet a través de su blog, su pódcast y sus redes. Fíjate en cómo explica cosas útiles con un tono cercano y muy práctico, contando lo que le ha funcionado a ella. Es un buen modelo para aprender a enseñar mientras cuentas tu propia experiencia, sin parecer que estás vendiendo."
+            },
+            "mensajeWhatsapp": "Buenos días! Hoy os comparto una curiosidad bonita: nuestra memoria recuerda las experiencias, sobre todo, por cómo terminan. Por eso un final tranquilo cambia el recuerdo de todo un día. Esta noche, antes de dormir, podéis probar a regalaros un minuto de calma o pensar en una sola cosa buena del día. Feliz jueves 🌙"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Dedica 15 minutos a diseñar el cierre que repetirás al final de cada una de las 7 sesiones en directo de Neuroalma. Escribe tres pasos sencillos: una pregunta para que cada alumna diga en una frase qué se lleva, un momento breve de calma y una despedida que anticipe de qué irá la próxima sesión. Guárdalo con tus notas de las sesiones para tenerlo siempre a mano.",
+            "tags": ["Idea", "Cierre de sesiones"],
+            "aprendizaje": "En las formaciones en directo es muy habitual que el tiempo se alargue y la sesión acabe de golpe, con un «bueno, que se nos ha hecho tarde». Si reservas siempre los últimos diez minutos para cerrar, las alumnas ordenan lo aprendido, se van con buena sensación y llegan con más ganas a la siguiente. Un cierre que se repite cada día además da seguridad: el grupo sabe que ese momento siempre llega.",
+            "recurso": {
+                "titulo": "El momento del cierre de la clase: prácticas evaluativas y metacognitivas en la formación del profesorado",
+                "tipo": "artículo de investigación (PDF)",
+                "porque": "Estudio en español de Claudine Benoit Ríos y Humberto Álvarez Sepúlveda, publicado en la revista Prometeica en 2025, que trata el cierre como un momento clave para asentar lo aprendido. Recoge prácticas muy sencillas que usan los docentes, como pedir a cada persona que cuente con sus palabras lo que se lleva o hacer una pregunta final para reflexionar. Es un texto académico, así que basta con leer el resumen y las conclusiones.",
+                "url": "https://periodicos.unifesp.br/index.php/prometeica/article/download/20617/14565"
+            }
+        }
     }
+}
 ]

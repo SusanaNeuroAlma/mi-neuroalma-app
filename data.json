@@ -1,42 +1,42 @@
 {
-    "date": "2026-10-15",
+    "date": "2026-10-17",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy piensa en cómo terminabas tus clases de yoga, pilates o taichí: ¿qué hacías en los últimos cinco minutos y qué cara se llevaban tus alumnas al salir? Escribe en una libreta tres gestos de cierre que te gustaban (una frase, un silencio, una forma de despedirte) y uno que te gustaría cuidar más cuando vuelvas. Y si te apetece moverte un poco hoy, hazlo con suavidad y siempre a tu ritmo.",
-            "tags": ["Oficio", "El cierre de la clase"],
-            "aprendizaje": "La memoria no guarda una clase entera minuto a minuto: el psicólogo Daniel Kahneman y su equipo comprobaron que recordamos una experiencia sobre todo por su momento más intenso y por cómo termina. Por eso los últimos minutos de una sesión pesan tanto: un cierre tranquilo y cuidado hace que las alumnas recuerden toda la clase con más cariño, aunque por el camino haya habido momentos difíciles.",
+            "idea": "Hoy regálate un rato de luz de la mañana: sal a la terraza, abre bien la ventana o da un paseo tranquilo, sin prisa y a tu ritmo, en las primeras horas del día. Fíjate en cómo cambia tu ánimo cuando el día empieza con claridad, y anota en una frase cómo te has sentido. En otoño, con los días más cortos, ese pequeño gesto cuida mucho más de lo que parece.",
+            "tags": ["Bienestar", "La luz de la mañana"],
+            "aprendizaje": "Nuestro cerebro tiene un reloj interno que se pone en hora sobre todo con la luz que nos llega por la mañana. Esa luz le dice al cuerpo que es de día, nos ayuda a estar más despiertas y prepara que por la noche aparezca a su hora la melatonina, la sustancia que nos trae el sueño. Por eso, en los meses de menos luz, buscar claridad temprano y bajar las luces por la noche ayuda a dormir mejor y a sentirse con más ánimo.",
             "frase": {
-                "texto": "Bien está lo que bien acaba; el final es siempre la corona.",
-                "autor": "William Shakespeare, «Bien está lo que bien acaba» (acto IV, escena 4)"
+                "texto": "La fe es el pájaro que siente la luz y canta cuando el alba todavía está oscura.",
+                "autor": "Rabindranath Tagore, «Luciérnagas» (1928)"
             },
             "noticia": {
-                "titulo": "¿En qué difieren nuestros recuerdos de nuestras experiencias?",
-                "resumen": "Artículo divulgativo en español de The Decision Lab (publicado en 2019) sobre la llamada «regla del pico y el final». Explica que juzgamos lo vivido por sus momentos más intensos y por cómo acaba, y cuenta el famoso experimento de Kahneman en el que la gente prefería repetir una prueba de agua fría más larga solo porque al final el agua se templaba. Incluye un ejemplo educativo: cuando una valoración termina con lo positivo, se recuerda como más agradable.",
-                "url": "https://thedecisionlab.com/es/biases/peak-end-rule"
+                "titulo": "¿Es recomendable mantener el cambio de hora? La evidencia científica advierte de sus efectos en el sueño, la salud y los ritmos circadianos",
+                "resumen": "Artículo de Infocop, la web de noticias del Consejo General de la Psicología de España (marzo de 2026). Repasa estudios que relacionan los cambios de hora con peor descanso, menos atención y más problemas de salud, y explica que muchos expertos en sueño prefieren mantener el horario de invierno porque encaja mejor con la luz de la mañana. También recuerda que en España el reloj oficial va por delante de la hora solar, y que la decisión europea sobre eliminar el cambio de hora sigue pendiente.",
+                "url": "https://www.infocop.es/es-recomendable-mantener-el-cambio-de-hora-la-evidencia-cientifica-advierte-de-sus-efectos-en-el-sueno-la-salud-y-los-ritmos-circadianos/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte cómo cerrabas tus clases y por qué ese momento final te parecía el más importante de todos. Es un contenido que enseña sin dar lecciones: cualquier persona entiende lo bien que sienta terminar algo con calma, ya sea una clase, una reunión o el propio día. Y de paso muestras tu manera de acompañar, que es lo que hace única a Zen en Zapatillas.",
-            "tags": ["Contenido", "Terminar con calma"],
-            "guion": "GANCHO: \"Durante años, los cinco minutos que más cuidaba de mis clases eran los últimos.\"\n\nCUERPO: Al final de cada clase bajaba la luz, dejaba un rato de silencio y, antes de que nadie cogiera el móvil, decía una frase corta para llevarse a casa. Muchas alumnas me decían que era su momento favorito. Ahora sé por qué: nuestra memoria recuerda las cosas sobre todo por cómo terminan. Un final tranquilo hace que recordemos toda la experiencia con más cariño. Y eso no vale solo para una clase: también para una conversación difícil, una tarde con los peques o tu propio día.\n\nCIERRE: Esta noche, antes de dormir, regálate un final bonito: un minuto de silencio, una respiración tranquila o una sola cosa buena del día. Y cuéntame: ¿cómo sueles terminar tú el día?",
+            "idea": "Comparte un hábito sencillo para estos días de otoño: buscar luz por la mañana para que el cuerpo sepa que ha empezado el día. Es un consejo que cualquiera puede probar mañana mismo, sin material ni tiempo extra, y conecta tu curiosidad por el cerebro con el cuidado de lo cotidiano. Puedes contarlo desde tu propia experiencia: cómo te ayuda a ti en esta etapa de recuperación.",
+            "tags": ["Contenido", "Luz de otoño"],
+            "guion": "GANCHO: \"¿Te cuesta más levantarte ahora que los días son más cortos? No es pereza: es tu reloj interno.\"\n\nCUERPO: Nuestro cerebro tiene un reloj que se pone en hora con la luz. Cuando por la mañana nos llega claridad, el cuerpo entiende que es de día, nos despejamos y, por la noche, el sueño llega a su hora. En otoño hay menos luz y a ese reloj le cuesta más. Yo he empezado a hacer algo muy sencillo: nada más levantarme, abro bien la ventana o salgo un ratito a la terraza con el desayuno. Cinco o diez minutos. Y por la noche, bajo las luces de casa. Parece poca cosa, pero se nota en el ánimo y en el descanso.\n\nCIERRE: Mañana prueba a empezar el día buscando un poco de luz. Y cuéntame: ¿tú eres más de mañanas o de noches?",
             "referente": {
-                "nombre": "Laura Ribas",
-                "porque": "Consultora de marketing online española, con años creando contenido para ayudar a emprendedoras a hacerse visibles en internet a través de su blog, su pódcast y sus redes. Fíjate en cómo explica cosas útiles con un tono cercano y muy práctico, contando lo que le ha funcionado a ella. Es un buen modelo para aprender a enseñar mientras cuentas tu propia experiencia, sin parecer que estás vendiendo."
+                "nombre": "Marta Garaulet",
+                "porque": "Catedrática de la Universidad de Murcia y una de las grandes divulgadoras en español sobre cronobiología, es decir, cómo funcionan nuestros relojes internos. Su libro «Los relojes de tu vida» (Paidós, 2017) explica con palabras sencillas cómo la luz, las comidas y el sueño marcan nuestro bienestar. Fíjate en cómo convierte la ciencia en consejos que cualquiera puede aplicar al día siguiente: es justo lo que tú puedes hacer al unir cerebro y vida cotidiana."
             },
-            "mensajeWhatsapp": "Buenos días! Hoy os comparto una curiosidad bonita: nuestra memoria recuerda las experiencias, sobre todo, por cómo terminan. Por eso un final tranquilo cambia el recuerdo de todo un día. Esta noche, antes de dormir, podéis probar a regalaros un minuto de calma o pensar en una sola cosa buena del día. Feliz jueves 🌙"
+            "mensajeWhatsapp": "Buenos días! Os comparto una curiosidad para estos días de otoño: nuestro cerebro pone en hora su reloj interno con la luz de la mañana. Por eso abrir bien la ventana o salir un ratito fuera nada más levantarnos ayuda a despejarnos y, por la noche, a dormir mejor. Un gesto pequeño que cuida mucho. Feliz sábado ☀️"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15 minutos a diseñar el cierre que repetirás al final de cada una de las 7 sesiones en directo de Neuroalma. Escribe tres pasos sencillos: una pregunta para que cada alumna diga en una frase qué se lleva, un momento breve de calma y una despedida que anticipe de qué irá la próxima sesión. Guárdalo con tus notas de las sesiones para tenerlo siempre a mano.",
-            "tags": ["Idea", "Cierre de sesiones"],
-            "aprendizaje": "En las formaciones en directo es muy habitual que el tiempo se alargue y la sesión acabe de golpe, con un «bueno, que se nos ha hecho tarde». Si reservas siempre los últimos diez minutos para cerrar, las alumnas ordenan lo aprendido, se van con buena sensación y llegan con más ganas a la siguiente. Un cierre que se repite cada día además da seguridad: el grupo sabe que ese momento siempre llega.",
+            "idea": "Dedica 15 minutos a entrar en Facilita RGPD, la herramienta gratuita de la Agencia Española de Protección de Datos, y leer qué te pregunta. Antes, apunta en una libreta qué datos vas a pedir a tus alumnas al inscribirse (nombre, correo, teléfono…) y para qué los usarás. No hace falta terminarla hoy: el objetivo es saber qué te va a pedir y tener tu lista preparada.",
+            "tags": ["Idea", "Datos de las alumnas"],
+            "aprendizaje": "Cuando alguien se apunta a tu formación te confía sus datos, y la ley pide explicarle de forma clara quién los guarda, para qué y cómo puede pedir que se borren. Tenerlo resuelto desde el principio da tranquilidad a las alumnas y a ti. Un consejo útil: pide solo los datos que de verdad vas a necesitar, porque cuantos menos guardes, más sencillo es cuidarlos.",
             "recurso": {
-                "titulo": "El momento del cierre de la clase: prácticas evaluativas y metacognitivas en la formación del profesorado",
-                "tipo": "artículo de investigación (PDF)",
-                "porque": "Estudio en español de Claudine Benoit Ríos y Humberto Álvarez Sepúlveda, publicado en la revista Prometeica en 2025, que trata el cierre como un momento clave para asentar lo aprendido. Recoge prácticas muy sencillas que usan los docentes, como pedir a cada persona que cuente con sus palabras lo que se lleva o hacer una pregunta final para reflexionar. Es un texto académico, así que basta con leer el resumen y las conclusiones.",
-                "url": "https://periodicos.unifesp.br/index.php/prometeica/article/download/20617/14565"
+                "titulo": "Facilita RGPD",
+                "tipo": "herramienta online gratuita (Agencia Española de Protección de Datos)",
+                "porque": "Es la herramienta oficial y gratuita de la AEPD para pequeños negocios y profesionales que tratan datos sencillos, como los de sus clientas. Con tres pantallas de preguntas te prepara los textos informativos para tus formularios de inscripción y un registro básico de lo que guardas. Ojo: si en Neuroalma fueras a pedir datos de salud, la herramienta no basta y convendría consultar a una persona experta.",
+                "url": "https://www.aepd.es/guias-y-herramientas/herramientas/facilita-rgpd"
             }
         }
     }

@@ -2983,5 +2983,48 @@
             }
         }
     }
+},
+{
+    "date": "2026-10-17",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Hoy regálate un rato de luz de la mañana: sal a la terraza, abre bien la ventana o da un paseo tranquilo, sin prisa y a tu ritmo, en las primeras horas del día. Fíjate en cómo cambia tu ánimo cuando el día empieza con claridad, y anota en una frase cómo te has sentido. En otoño, con los días más cortos, ese pequeño gesto cuida mucho más de lo que parece.",
+            "tags": ["Bienestar", "La luz de la mañana"],
+            "aprendizaje": "Nuestro cerebro tiene un reloj interno que se pone en hora sobre todo con la luz que nos llega por la mañana. Esa luz le dice al cuerpo que es de día, nos ayuda a estar más despiertas y prepara que por la noche aparezca a su hora la melatonina, la sustancia que nos trae el sueño. Por eso, en los meses de menos luz, buscar claridad temprano y bajar las luces por la noche ayuda a dormir mejor y a sentirse con más ánimo.",
+            "frase": {
+                "texto": "La fe es el pájaro que siente la luz y canta cuando el alba todavía está oscura.",
+                "autor": "Rabindranath Tagore, «Luciérnagas» (1928)"
+            },
+            "noticia": {
+                "titulo": "¿Es recomendable mantener el cambio de hora? La evidencia científica advierte de sus efectos en el sueño, la salud y los ritmos circadianos",
+                "resumen": "Artículo de Infocop, la web de noticias del Consejo General de la Psicología de España (marzo de 2026). Repasa estudios que relacionan los cambios de hora con peor descanso, menos atención y más problemas de salud, y explica que muchos expertos en sueño prefieren mantener el horario de invierno porque encaja mejor con la luz de la mañana. También recuerda que en España el reloj oficial va por delante de la hora solar, y que la decisión europea sobre eliminar el cambio de hora sigue pendiente.",
+                "url": "https://www.infocop.es/es-recomendable-mantener-el-cambio-de-hora-la-evidencia-cientifica-advierte-de-sus-efectos-en-el-sueno-la-salud-y-los-ritmos-circadianos/"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Comparte un hábito sencillo para estos días de otoño: buscar luz por la mañana para que el cuerpo sepa que ha empezado el día. Es un consejo que cualquiera puede probar mañana mismo, sin material ni tiempo extra, y conecta tu curiosidad por el cerebro con el cuidado de lo cotidiano. Puedes contarlo desde tu propia experiencia: cómo te ayuda a ti en esta etapa de recuperación.",
+            "tags": ["Contenido", "Luz de otoño"],
+            "guion": "GANCHO: \"¿Te cuesta más levantarte ahora que los días son más cortos? No es pereza: es tu reloj interno.\"\n\nCUERPO: Nuestro cerebro tiene un reloj que se pone en hora con la luz. Cuando por la mañana nos llega claridad, el cuerpo entiende que es de día, nos despejamos y, por la noche, el sueño llega a su hora. En otoño hay menos luz y a ese reloj le cuesta más. Yo he empezado a hacer algo muy sencillo: nada más levantarme, abro bien la ventana o salgo un ratito a la terraza con el desayuno. Cinco o diez minutos. Y por la noche, bajo las luces de casa. Parece poca cosa, pero se nota en el ánimo y en el descanso.\n\nCIERRE: Mañana prueba a empezar el día buscando un poco de luz. Y cuéntame: ¿tú eres más de mañanas o de noches?",
+            "referente": {
+                "nombre": "Marta Garaulet",
+                "porque": "Catedrática de la Universidad de Murcia y una de las grandes divulgadoras en español sobre cronobiología, es decir, cómo funcionan nuestros relojes internos. Su libro «Los relojes de tu vida» (Paidós, 2017) explica con palabras sencillas cómo la luz, las comidas y el sueño marcan nuestro bienestar. Fíjate en cómo convierte la ciencia en consejos que cualquiera puede aplicar al día siguiente: es justo lo que tú puedes hacer al unir cerebro y vida cotidiana."
+            },
+            "mensajeWhatsapp": "Buenos días! Os comparto una curiosidad para estos días de otoño: nuestro cerebro pone en hora su reloj interno con la luz de la mañana. Por eso abrir bien la ventana o salir un ratito fuera nada más levantarnos ayuda a despejarnos y, por la noche, a dormir mejor. Un gesto pequeño que cuida mucho. Feliz sábado ☀️"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Dedica 15 minutos a entrar en Facilita RGPD, la herramienta gratuita de la Agencia Española de Protección de Datos, y leer qué te pregunta. Antes, apunta en una libreta qué datos vas a pedir a tus alumnas al inscribirse (nombre, correo, teléfono…) y para qué los usarás. No hace falta terminarla hoy: el objetivo es saber qué te va a pedir y tener tu lista preparada.",
+            "tags": ["Idea", "Datos de las alumnas"],
+            "aprendizaje": "Cuando alguien se apunta a tu formación te confía sus datos, y la ley pide explicarle de forma clara quién los guarda, para qué y cómo puede pedir que se borren. Tenerlo resuelto desde el principio da tranquilidad a las alumnas y a ti. Un consejo útil: pide solo los datos que de verdad vas a necesitar, porque cuantos menos guardes, más sencillo es cuidarlos.",
+            "recurso": {
+                "titulo": "Facilita RGPD",
+                "tipo": "herramienta online gratuita (Agencia Española de Protección de Datos)",
+                "porque": "Es la herramienta oficial y gratuita de la AEPD para pequeños negocios y profesionales que tratan datos sencillos, como los de sus clientas. Con tres pantallas de preguntas te prepara los textos informativos para tus formularios de inscripción y un registro básico de lo que guardas. Ojo: si en Neuroalma fueras a pedir datos de salud, la herramienta no basta y convendría consultar a una persona experta.",
+                "url": "https://www.aepd.es/guias-y-herramientas/herramientas/facilita-rgpd"
+            }
+        }
+    }
 }
 ]

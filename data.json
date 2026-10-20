@@ -1,42 +1,42 @@
 {
-    "date": "2026-10-18",
+    "date": "2026-10-20",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy piensa en una clase tuya y busca un momento en el que podrías dar a elegir en lugar de indicar una sola forma: dos variantes, un ritmo propio, ojos abiertos o cerrados. Escribe en tu libreta tres frases de invitación que te gustaría tener a mano, del tipo «puedes quedarte aquí o…». No hace falta mover el cuerpo para esto: es un trabajo de mirada y de palabras, perfecto para esta etapa.",
-            "tags": ["Oficio", "Dar a elegir"],
-            "aprendizaje": "Cuando una persona puede elegir algo en clase, aunque sea pequeño, se siente más dueña de lo que hace y se implica más. Un estudio de la Universidad de Murcia con adolescentes en educación física lo comprobó: el grupo que podía elegir sus tareas terminó con más motivación que el que seguía siempre la misma consigna. Ofrecer opciones no es perder el control del grupo, es invitar a cada cuerpo a escucharse.",
+            "idea": "Hoy elige una canción que te siente bien y escúchala entera, sin hacer nada más: sin móvil en la mano, sin tareas, solo con tu atención puesta en ella. Mejor a un volumen suave. Es un descanso que no pide mover el cuerpo, pensado para esta etapa.",
+            "tags": ["Bienestar", "Música"],
+            "aprendizaje": "Los Institutos Nacionales de la Salud de EE. UU. recogen revisiones de estudios según las cuales escuchar música puede ayudar a rebajar el estrés y a mejorar la calidad del sueño percibida. Eso sí, la propia fuente aclara que buena parte de la investigación es todavía preliminar, así que no es un remedio mágico: es un recurso amable que conviene probar y notar cómo te sienta a ti.",
             "frase": {
-                "texto": "La mente no necesita ser llenada como un vaso, sino que, como la leña, necesita una chispa que la encienda y despierte en ella el deseo de buscar.",
-                "autor": "Plutarco, «Sobre cómo se debe escuchar» (Moralia), traducción libre"
+                "texto": "La música expresa lo que no puede decirse y sobre lo que es imposible permanecer callado.",
+                "autor": "Victor Hugo, «William Shakespeare» (1864)"
             },
             "noticia": {
-                "titulo": "Un estudio del efecto de la cesión de autonomía en la motivación sobre las clases de educación física",
-                "resumen": "Investigación de Juan Antonio Moreno Murcia, Antonio Gómez Rijo y Eduardo Cervelló, publicada en el European Journal of Human Movement (2010). Compararon dos grupos de 68 adolescentes durante seis sesiones: uno podía elegir sus tareas y el otro no. Al final, quienes pudieron elegir se sentían con más autonomía y más motivados por la actividad. No es una noticia de esta semana, pero es un trabajo en español muy útil para tu oficio.",
-                "url": "https://portalinvestigacion.um.es/documentos/631fe0beb9f2ad6505ff2d0f"
+                "titulo": "Música y salud: lo que tiene que saber",
+                "resumen": "Guía en español del Centro Nacional de Salud Complementaria e Integral de los NIH. Repasa lo que se sabe sobre música y estrés, dolor, estado de ánimo y sueño. Reconoce efectos beneficiosos en varias revisiones, pero advierte de que muchos estudios son pequeños o preliminares, y recuerda cuidar el volumen para no dañar el oído. No es una noticia de esta semana, pero es una fuente fiable y fácil de leer.",
+                "url": "https://www.nccih.nih.gov/health/espanol/musica-y-salud-lo-que-tiene-que-saber"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte una idea liberadora para quien practica en casa o en clase: no hay una única forma correcta de hacer una postura, y elegir tu variante también es practicar. Puedes contarlo desde tu mirada de formadora, explicando por qué siempre has dado opciones a tus alumnas. Es un mensaje que quita presión y conecta con tu manera de acompañar.",
-            "tags": ["Contenido", "Tu propia versión"],
-            "guion": "GANCHO: \"¿Alguna vez has mirado a la persona de al lado en clase y has pensado que lo estabas haciendo mal?\"\n\nCUERPO: En mis clases siempre he intentado dar opciones: puedes quedarte aquí, puedes ir un poco más allá, puedes descansar. No es por ser blanda. Es porque cuando eliges tú, tu cerebro se implica de otra manera: estás atenta a lo que sientes, no a copiar a nadie. Y hay estudios en educación física que lo muestran: cuando las personas pueden elegir, se sienten más motivadas. La postura perfecta no existe. Existe la tuya de hoy.\n\nCIERRE: La próxima vez que practiques, pregúntate: ¿qué versión me pide hoy mi cuerpo? Y cuéntame en comentarios si te cuesta darte ese permiso.",
+            "idea": "Pregunta a tu comunidad qué sonido o canción les devuelve a la calma y cuéntales el tuyo. Es una pregunta fácil de contestar, genera conversación y te da pistas de lo que a tu gente le ayuda a regularse, sin necesidad de explicar nada técnico.",
+            "tags": ["Contenido", "Conversación"],
+            "guion": "GANCHO: \"¿Qué sonido te devuelve a la calma en dos segundos?\"\n\nCUERPO: En mis clases, la relajación final siempre ha tenido su música de fondo. Y muchas veces, lo que las alumnas me cuentan después no es la postura que hicieron, sino el sonido que las acompañó: unas olas, una melodía suave, el silencio justo. El cuerpo recuerda lo que lo calmó, aunque la cabeza no sepa explicarlo.\n\nCIERRE: Cuéntame en comentarios: ¿qué sonido o qué canción te devuelve a ti a la calma? Yo los iré leyendo todos.",
             "referente": {
-                "nombre": "Mariano Sigman",
-                "porque": "Neurocientífico argentino y divulgador, autor de «La vida secreta de la mente» (Debate, 2015), donde explica cómo tomamos decisiones y cómo aprende el cerebro con historias muy cercanas. Fíjate en cómo convierte un experimento en una anécdota que cualquiera entiende: es un buen modelo para contar tu curiosidad por el cerebro sin tecnicismos."
+                "nombre": "Estanislao Bachrach",
+                "porque": "Biólogo argentino, divulgador y autor de «Ágilmente» (2012), conocido por explicar cómo funciona el cerebro y cómo cambiar hábitos con un lenguaje sencillo y cercano. Fíjate en cómo plantea preguntas al público para que cada persona se reconozca en lo que cuenta: es un buen modelo para animar la conversación con tu comunidad."
             },
-            "mensajeWhatsapp": "Feliz domingo! Os dejo una idea para hoy: cuando hagáis algo para cuidaros, sea un paseo, estirar un poco o un rato de calma, daos permiso para elegir cómo hacerlo. Nuestro cerebro se implica más cuando siente que la decisión es nuestra. No hay una forma perfecta, hay la vuestra de hoy 🌿"
+            "mensajeWhatsapp": "Hola a todas! Os dejo una pregunta sencilla para esta semana: ¿qué canción o qué sonido os devuelve a la calma? Según revisiones recogidas por los institutos de salud de EE. UU., escuchar música puede ayudar a rebajar el estrés, aunque cada persona responde a su manera. Si os apetece, contadme el vuestro, y probad a escucharlo entero un ratito, sin hacer nada más 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 15 minutos a preparar tu plan B por si se corta la conexión en una sesión en directo. Escribe ya el mensaje que enviarías al grupo de WhatsApp («Se me ha caído la conexión, vuelvo en cinco minutos con el mismo enlace») y apunta tres pasos sencillos: compartir datos desde el móvil, volver a entrar con el mismo enlace y, si no se puede, avisar de cuándo se recupera la sesión.",
-            "tags": ["Idea", "Plan B en directo"],
-            "aprendizaje": "En una formación en directo, lo que más tranquiliza a las alumnas no es que nunca falle nada, sino ver que tú sabes qué hacer cuando falla. Tener un plan B escrito y contárselo en la primera sesión («si me desconecto, esperad cinco minutos y mirad el WhatsApp») convierte un susto en algo previsto. Y a ti te quita mucha presión antes de cada directo.",
+            "idea": "Dedica 15 minutos a escribir tres señales concretas con las que sabrás que este primer lanzamiento de validación ha ido bien. Por ejemplo: cuántas alumnas llegan hasta la última sesión, qué dicen en la encuesta final y cuántas se ofrecen a contar su experiencia. Con eso en papel, no tendrás que juzgar el resultado «a ojo» cuando llegue.",
+            "tags": ["Idea", "Validación"],
+            "aprendizaje": "En un primer lanzamiento pequeño, lo valioso no es vender mucho sino aprender. Decidir antes de empezar qué vas a mirar (cuántas personas terminan, qué opinan, qué mejorarías) te protege de quedarte solo con la impresión del momento. Basta con dos o tres indicadores sencillos que puedas anotar al final de cada sesión.",
             "recurso": {
-                "titulo": "¿Cómo habilitar a un anfitrión o co-anfitrión dentro de una reunión de Zoom?",
-                "tipo": "guía paso a paso con capturas (Universitat de Barcelona)",
-                "porque": "Explica en seis pasos cómo dar el papel de coanfitriona a otra persona durante una reunión de Zoom. Si alguien de confianza está en la sesión y tu cuenta lo permite, nombrarla coanfitriona ayuda a que la sala siga abierta y atendida si tú pierdes la conexión un momento. Ten en cuenta que es una guía pensada para la universidad, así que algún menú puede verse un poco distinto en tu cuenta.",
-                "url": "https://www.ub.edu/campusvirtualub/es/node/2260"
+                "titulo": "¿Cómo medir el éxito de un curso online?",
+                "tipo": "artículo de blog",
+                "porque": "Artículo en español sobre qué indicadores mirar para saber si un curso online funciona. Es un blog de una empresa del sector, así que tómalo como orientación y quédate con lo que encaje con tu formato de sesiones en directo.",
+                "url": "https://bcasapp.com/blog/como-medir-el-exito-de-un-curso-online"
             }
         }
     }

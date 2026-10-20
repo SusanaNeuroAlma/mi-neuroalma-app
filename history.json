@@ -3026,5 +3026,48 @@
             }
         }
     }
+},
+{
+    "date": "2026-10-18",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Hoy piensa en una clase tuya y busca un momento en el que podrías dar a elegir en lugar de indicar una sola forma: dos variantes, un ritmo propio, ojos abiertos o cerrados. Escribe en tu libreta tres frases de invitación que te gustaría tener a mano, del tipo «puedes quedarte aquí o…». No hace falta mover el cuerpo para esto: es un trabajo de mirada y de palabras, perfecto para esta etapa.",
+            "tags": ["Oficio", "Dar a elegir"],
+            "aprendizaje": "Cuando una persona puede elegir algo en clase, aunque sea pequeño, se siente más dueña de lo que hace y se implica más. Un estudio de la Universidad de Murcia con adolescentes en educación física lo comprobó: el grupo que podía elegir sus tareas terminó con más motivación que el que seguía siempre la misma consigna. Ofrecer opciones no es perder el control del grupo, es invitar a cada cuerpo a escucharse.",
+            "frase": {
+                "texto": "La mente no necesita ser llenada como un vaso, sino que, como la leña, necesita una chispa que la encienda y despierte en ella el deseo de buscar.",
+                "autor": "Plutarco, «Sobre cómo se debe escuchar» (Moralia), traducción libre"
+            },
+            "noticia": {
+                "titulo": "Un estudio del efecto de la cesión de autonomía en la motivación sobre las clases de educación física",
+                "resumen": "Investigación de Juan Antonio Moreno Murcia, Antonio Gómez Rijo y Eduardo Cervelló, publicada en el European Journal of Human Movement (2010). Compararon dos grupos de 68 adolescentes durante seis sesiones: uno podía elegir sus tareas y el otro no. Al final, quienes pudieron elegir se sentían con más autonomía y más motivados por la actividad. No es una noticia de esta semana, pero es un trabajo en español muy útil para tu oficio.",
+                "url": "https://portalinvestigacion.um.es/documentos/631fe0beb9f2ad6505ff2d0f"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Comparte una idea liberadora para quien practica en casa o en clase: no hay una única forma correcta de hacer una postura, y elegir tu variante también es practicar. Puedes contarlo desde tu mirada de formadora, explicando por qué siempre has dado opciones a tus alumnas. Es un mensaje que quita presión y conecta con tu manera de acompañar.",
+            "tags": ["Contenido", "Tu propia versión"],
+            "guion": "GANCHO: \"¿Alguna vez has mirado a la persona de al lado en clase y has pensado que lo estabas haciendo mal?\"\n\nCUERPO: En mis clases siempre he intentado dar opciones: puedes quedarte aquí, puedes ir un poco más allá, puedes descansar. No es por ser blanda. Es porque cuando eliges tú, tu cerebro se implica de otra manera: estás atenta a lo que sientes, no a copiar a nadie. Y hay estudios en educación física que lo muestran: cuando las personas pueden elegir, se sienten más motivadas. La postura perfecta no existe. Existe la tuya de hoy.\n\nCIERRE: La próxima vez que practiques, pregúntate: ¿qué versión me pide hoy mi cuerpo? Y cuéntame en comentarios si te cuesta darte ese permiso.",
+            "referente": {
+                "nombre": "Mariano Sigman",
+                "porque": "Neurocientífico argentino y divulgador, autor de «La vida secreta de la mente» (Debate, 2015), donde explica cómo tomamos decisiones y cómo aprende el cerebro con historias muy cercanas. Fíjate en cómo convierte un experimento en una anécdota que cualquiera entiende: es un buen modelo para contar tu curiosidad por el cerebro sin tecnicismos."
+            },
+            "mensajeWhatsapp": "Feliz domingo! Os dejo una idea para hoy: cuando hagáis algo para cuidaros, sea un paseo, estirar un poco o un rato de calma, daos permiso para elegir cómo hacerlo. Nuestro cerebro se implica más cuando siente que la decisión es nuestra. No hay una forma perfecta, hay la vuestra de hoy 🌿"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Dedica 15 minutos a preparar tu plan B por si se corta la conexión en una sesión en directo. Escribe ya el mensaje que enviarías al grupo de WhatsApp («Se me ha caído la conexión, vuelvo en cinco minutos con el mismo enlace») y apunta tres pasos sencillos: compartir datos desde el móvil, volver a entrar con el mismo enlace y, si no se puede, avisar de cuándo se recupera la sesión.",
+            "tags": ["Idea", "Plan B en directo"],
+            "aprendizaje": "En una formación en directo, lo que más tranquiliza a las alumnas no es que nunca falle nada, sino ver que tú sabes qué hacer cuando falla. Tener un plan B escrito y contárselo en la primera sesión («si me desconecto, esperad cinco minutos y mirad el WhatsApp») convierte un susto en algo previsto. Y a ti te quita mucha presión antes de cada directo.",
+            "recurso": {
+                "titulo": "¿Cómo habilitar a un anfitrión o co-anfitrión dentro de una reunión de Zoom?",
+                "tipo": "guía paso a paso con capturas (Universitat de Barcelona)",
+                "porque": "Explica en seis pasos cómo dar el papel de coanfitriona a otra persona durante una reunión de Zoom. Si alguien de confianza está en la sesión y tu cuenta lo permite, nombrarla coanfitriona ayuda a que la sala siga abierta y atendida si tú pierdes la conexión un momento. Ten en cuenta que es una guía pensada para la universidad, así que algún menú puede verse un poco distinto en tu cuenta.",
+                "url": "https://www.ub.edu/campusvirtualub/es/node/2260"
+            }
+        }
+    }
 }
 ]

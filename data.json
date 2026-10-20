@@ -41,13 +41,25 @@
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Cuéntame en el chat de qué va Respira Mujer: a quién va dirigido, qué ofrece y en qué fase está. Con eso, desde la próxima actualización las ideas de esta zona serán de verdad para tu proyecto y no genéricas.",
-            "tags": ["Pendiente", "Presentación"]
+            "idea": "Dedica 15 minutos a escribir, con tus palabras, el retrato de la mujer a la que acompañas: cómo es un martes cualquiera para ella y, sobre todo, tres frases literales que dice cuando va desbordada («no me da la vida», «ya descansaré cuando acabe esto»…). Seguro que las has oído mil veces en tus clases.",
+            "tags": ["Idea", "Mujer desbordada"],
+            "aprendizaje": "Cuando alguien se reconoce en una frase concreta que ella misma diría, se siente vista y tarda mucho menos en confiar. Por eso las frases reales que has escuchado en tus clases valen más que cualquier descripción general de «mujeres con estrés». Guárdalas: serán la base de tus mensajes, de tu página y de tus primeros textos.",
+            "recurso": {
+                "titulo": "Autocuidado: 52 semanas para cuidar de ti (Patri Psicóloga y Yolanda Cuevas)",
+                "tipo": "libro",
+                "porque": "Propone una práctica pequeña de autocuidado para cada semana del año. No hace falta que lo copies, pero puede darte ideas de cómo repartir prácticas muy sencillas en el tiempo, que es justo lo que necesita una mujer sin tiempo."
+            }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Esta zona se rellenará con ideas de contenido, guiones y mensajes de Respira Mujer en cuanto me cuentes de qué va el proyecto y cómo quieres comunicarlo. Mientras tanto, apunta aquí en tus notas lo que se te ocurra.",
-            "tags": ["Pendiente", "Contenido"]
+            "idea": "Grábate un vídeo corto que ponga voz a esa frase tan universal: «descanso cuando termine esto». Con tu humor de siempre, cercana y sin sermón: se trata de que la mujer que lo vea suelte una risa de reconocimiento y se lleve una pausa de tres respiraciones.",
+            "tags": ["Contenido", "Humor con cariño"],
+            "guion": "GANCHO: \"Si en el último mes has dicho «descanso cuando termine esto» y esto no ha terminado nunca, este vídeo es para ti.\"\n\nCUERPO: Seamos sinceras: la lista de tareas no se acaba, se reproduce por la noche como los gremlins. Trabajo, casa, niños, padres, la cita que había que pedir… y tú, la última de la cola, otra vez. Y no hace falta un retiro de fin de semana ni un mes de vacaciones. A veces basta con colocar una pausa pequeñita en mitad del lío: mientras se calienta el café, mientras esperas en el semáforo.\n\nCIERRE: Ahora mismo, conmigo: tres respiraciones largas, soltando el aire despacito. Ya está. Eso también cuenta. Y si te has reconocido, cuéntame en comentarios cuál es tu «descanso cuando termine esto».",
+            "referente": {
+                "nombre": "Patri Psicóloga (Patricia Ramírez)",
+                "porque": "Psicóloga, escritora y divulgadora española, autora de «Autocuidado: 52 semanas para cuidar de ti» junto a Yolanda Cuevas. Fíjate en cómo convierte el autocuidado en gestos pequeños y cotidianos: encaja con tu idea de herramientas para el día a día, sin retiros ni grandes cambios."
+            },
+            "mensajeWhatsapp": "Hola guapas! Pregunta para hoy: ¿cuándo fue la última vez que paraste un minuto SIN que nadie te lo pidiera? Prueba esto sin salir de donde estás: tres respiraciones largas, soltando el aire despacito. Sí, ahora. Que la lista de tareas puede esperar tres respiraciones. Un abrazo 🌿"
         }
     }
 }

@@ -38,6 +38,16 @@
                 "porque": "Artículo en español sobre qué indicadores mirar para saber si un curso online funciona. Es un blog de una empresa del sector, así que tómalo como orientación y quédate con lo que encaje con tu formato de sesiones en directo.",
                 "url": "https://bcasapp.com/blog/como-medir-el-exito-de-un-curso-online"
             }
+        },
+        "respira": {
+            "title": "Respira Mujer",
+            "idea": "Cuéntame en el chat de qué va Respira Mujer: a quién va dirigido, qué ofrece y en qué fase está. Con eso, desde la próxima actualización las ideas de esta zona serán de verdad para tu proyecto y no genéricas.",
+            "tags": ["Pendiente", "Presentación"]
+        },
+        "respiramarca": {
+            "title": "Marca personal Respira Mujer",
+            "idea": "Esta zona se rellenará con ideas de contenido, guiones y mensajes de Respira Mujer en cuanto me cuentes de qué va el proyecto y cómo quieres comunicarlo. Mientras tanto, apunta aquí en tus notas lo que se te ocurra.",
+            "tags": ["Pendiente", "Contenido"]
         }
     }
 }

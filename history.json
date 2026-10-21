@@ -3069,5 +3069,70 @@
             }
         }
     }
+},
+{
+    "date": "2026-10-20",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Hoy elige una canción que te siente bien y escúchala entera, sin hacer nada más: sin móvil en la mano, sin tareas, solo con tu atención puesta en ella. Mejor a un volumen suave. Es un descanso que no pide mover el cuerpo, pensado para esta etapa.",
+            "tags": ["Bienestar", "Música"],
+            "aprendizaje": "Los Institutos Nacionales de la Salud de EE. UU. recogen revisiones de estudios según las cuales escuchar música puede ayudar a rebajar el estrés y a mejorar la calidad del sueño percibida. Eso sí, la propia fuente aclara que buena parte de la investigación es todavía preliminar, así que no es un remedio mágico: es un recurso amable que conviene probar y notar cómo te sienta a ti.",
+            "frase": {
+                "texto": "La música expresa lo que no puede decirse y sobre lo que es imposible permanecer callado.",
+                "autor": "Victor Hugo, «William Shakespeare» (1864)"
+            },
+            "noticia": {
+                "titulo": "Música y salud: lo que tiene que saber",
+                "resumen": "Guía en español del Centro Nacional de Salud Complementaria e Integral de los NIH. Repasa lo que se sabe sobre música y estrés, dolor, estado de ánimo y sueño. Reconoce efectos beneficiosos en varias revisiones, pero advierte de que muchos estudios son pequeños o preliminares, y recuerda cuidar el volumen para no dañar el oído. No es una noticia de esta semana, pero es una fuente fiable y fácil de leer.",
+                "url": "https://www.nccih.nih.gov/health/espanol/musica-y-salud-lo-que-tiene-que-saber"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Pregunta a tu comunidad qué sonido o canción les devuelve a la calma y cuéntales el tuyo. Es una pregunta fácil de contestar, genera conversación y te da pistas de lo que a tu gente le ayuda a regularse, sin necesidad de explicar nada técnico.",
+            "tags": ["Contenido", "Conversación"],
+            "guion": "GANCHO: \"¿Qué sonido te devuelve a la calma en dos segundos?\"\n\nCUERPO: En mis clases, la relajación final siempre ha tenido su música de fondo. Y muchas veces, lo que las alumnas me cuentan después no es la postura que hicieron, sino el sonido que las acompañó: unas olas, una melodía suave, el silencio justo. El cuerpo recuerda lo que lo calmó, aunque la cabeza no sepa explicarlo.\n\nCIERRE: Cuéntame en comentarios: ¿qué sonido o qué canción te devuelve a ti a la calma? Yo los iré leyendo todos.",
+            "referente": {
+                "nombre": "Estanislao Bachrach",
+                "porque": "Biólogo argentino, divulgador y autor de «Ágilmente» (2012), conocido por explicar cómo funciona el cerebro y cómo cambiar hábitos con un lenguaje sencillo y cercano. Fíjate en cómo plantea preguntas al público para que cada persona se reconozca en lo que cuenta: es un buen modelo para animar la conversación con tu comunidad."
+            },
+            "mensajeWhatsapp": "Hola a todas! Os dejo una pregunta sencilla para esta semana: ¿qué canción o qué sonido os devuelve a la calma? Según revisiones recogidas por los institutos de salud de EE. UU., escuchar música puede ayudar a rebajar el estrés, aunque cada persona responde a su manera. Si os apetece, contadme el vuestro, y probad a escucharlo entero un ratito, sin hacer nada más 🌿"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Dedica 15 minutos a escribir tres señales concretas con las que sabrás que este primer lanzamiento de validación ha ido bien. Por ejemplo: cuántas alumnas llegan hasta la última sesión, qué dicen en la encuesta final y cuántas se ofrecen a contar su experiencia. Con eso en papel, no tendrás que juzgar el resultado «a ojo» cuando llegue.",
+            "tags": ["Idea", "Validación"],
+            "aprendizaje": "En un primer lanzamiento pequeño, lo valioso no es vender mucho sino aprender. Decidir antes de empezar qué vas a mirar (cuántas personas terminan, qué opinan, qué mejorarías) te protege de quedarte solo con la impresión del momento. Basta con dos o tres indicadores sencillos que puedas anotar al final de cada sesión.",
+            "recurso": {
+                "titulo": "¿Cómo medir el éxito de un curso online?",
+                "tipo": "artículo de blog",
+                "porque": "Artículo en español sobre qué indicadores mirar para saber si un curso online funciona. Es un blog de una empresa del sector, así que tómalo como orientación y quédate con lo que encaje con tu formato de sesiones en directo.",
+                "url": "https://bcasapp.com/blog/como-medir-el-exito-de-un-curso-online"
+            }
+        },
+        "respira": {
+            "title": "Respira Mujer",
+            "idea": "Dedica 15 minutos a fijar el orden definitivo de los 8 módulos de la masterclass y a apuntar el título final de cada uno en una sola hoja (los documentos tienen numeraciones distintas: el botón mágico aparece como vídeo 3 y como vídeo 4, «Volver a ti» como vídeo 10…). Con esa lista cerrada, todo lo demás (página, mensajes, reto) se apoya en ella.",
+            "tags": ["Idea", "Orden de módulos"],
+            "aprendizaje": "Cuando un producto ya está grabado, lo que más frena el lanzamiento no suele ser el contenido sino las pequeñas decisiones sin cerrar: el orden, los títulos, el precio, la fecha. Cerrar una cada día, aunque sea la más pequeña, te acerca más que seguir puliendo vídeos que ya están hechos.",
+            "recurso": {
+                "titulo": "Autocuidado: 52 semanas para cuidar de ti (Patri Psicóloga y Yolanda Cuevas)",
+                "tipo": "libro",
+                "porque": "Propone una práctica pequeña de autocuidado para cada semana del año. No hace falta que lo copies, pero puede darte ideas de cómo repartir prácticas muy sencillas en el tiempo, que es justo lo que necesita una mujer sin tiempo."
+            }
+        },
+        "respiramarca": {
+            "title": "Marca personal Respira Mujer",
+            "idea": "Grábate un vídeo corto que ponga voz a esa frase tan universal: «descanso cuando termine esto». Con tu humor de siempre, cercana y sin sermón: se trata de que la mujer que lo vea suelte una risa de reconocimiento y se lleve una pausa de tres respiraciones.",
+            "tags": ["Contenido", "Humor con cariño"],
+            "guion": "GANCHO: \"Si en el último mes has dicho «descanso cuando termine esto» y esto no ha terminado nunca, este vídeo es para ti.\"\n\nCUERPO: Seamos sinceras: la lista de tareas no se acaba, se reproduce por la noche como los gremlins. Trabajo, casa, niños, padres, la cita que había que pedir… y tú, la última de la cola, otra vez. Y no hace falta un retiro de fin de semana ni un mes de vacaciones. A veces basta con colocar una pausa pequeñita en mitad del lío: mientras se calienta el café, mientras esperas en el semáforo.\n\nCIERRE: Ahora mismo, conmigo: tres respiraciones largas, soltando el aire despacito. Ya está. Eso también cuenta. Y si te has reconocido, cuéntame en comentarios cuál es tu «descanso cuando termine esto».",
+            "referente": {
+                "nombre": "Patri Psicóloga (Patricia Ramírez)",
+                "porque": "Psicóloga, escritora y divulgadora española, autora de «Autocuidado: 52 semanas para cuidar de ti» junto a Yolanda Cuevas. Fíjate en cómo convierte el autocuidado en gestos pequeños y cotidianos: encaja con tu idea de herramientas para el día a día, sin retiros ni grandes cambios."
+            },
+            "mensajeWhatsapp": "Hola guapas! Pregunta para hoy: ¿cuándo fue la última vez que paraste un minuto SIN que nadie te lo pidiera? Prueba esto sin salir de donde estás: tres respiraciones largas, soltando el aire despacito. Sí, ahora. Que la lista de tareas puede esperar tres respiraciones. Un abrazo 🌿"
+        }
+    }
 }
 ]

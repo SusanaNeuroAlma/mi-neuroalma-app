@@ -1,64 +1,66 @@
 {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Estos días te toca cambiar de lado de la esterilla: vas a ser tú la que llega nueva, con dudas y con un cuerpo que pide paciencia. Te propongo un ejercicio de oficio que no pide mover nada: fíjate, con curiosidad, en qué gestos y palabras de quien te atiende te hacen sentir segura y cuáles te dejan con dudas. Si te apetece, apunta dos o tres en una libreta; sin prisa, cuando tengas un rato tranquilo.",
-            "tags": ["Oficio", "Ser la alumna"],
-            "aprendizaje": "Los estudios sobre la relación entre fisioterapeuta y paciente coinciden en algo que también vale para una clase de yoga, pilates o taichí: la confianza crece cuando la persona entiende lo que está pasando, tiene objetivos que ve alcanzables y siente que participa en las decisiones. Lo que notes estos días como paciente será, más adelante, oro para tu forma de acompañar.",
+            "idea": "Hoy empiezas la rehabilitación, y con ella llegan los ratos de espera: en la sala, en el trayecto, antes de dormir. Te propongo un pequeño regalo para ti: en alguno de esos ratos, deja el móvil en el bolso y permite que tu mente divague a su aire, sin tarea ni objetivo. No es perder el tiempo; es dejar que tu cerebro ordene por dentro lo que estás viviendo.",
+            "tags": ["Bienestar", "Mente en reposo"],
+            "aprendizaje": "Durante años se pensó que el cerebro solo «repasaba» lo vivido mientras dormimos. Hoy hay cada vez más investigaciones que apuntan a que también lo hace en los ratos de reposo tranquilo estando despiertas, cuando no le pedimos nada. Todavía es un campo en estudio, pero invita a mirar los momentos de no hacer nada con más cariño.",
             "frase": {
-                "texto": "La atención es la forma más rara y más pura de la generosidad.",
-                "autor": "Simone Weil, carta a Joë Bousquet (1942)"
+                "texto": "Tenga paciencia con todo lo que no está resuelto en su corazón e intente amar las preguntas mismas.",
+                "autor": "Rainer Maria Rilke, «Cartas a un joven poeta» (carta del 16 de julio de 1903)"
             },
             "noticia": {
-                "titulo": "Comunicación centrada en la persona y alianza terapéutica en fisioterapia",
-                "resumen": "Revisión publicada en la Revista Española de Comunicación en Salud (2018) por autores de las universidades de León, CEU Cardenal Herrera y Rovira i Virgili. Concluye que comunicarse poniendo a la persona en el centro mejora la alianza con el paciente, le permite participar más en las decisiones y aumenta su satisfacción con el tratamiento. Los propios autores reconocen que falta una herramienta específica para medir esa comunicación. No es una noticia de esta semana, pero es una fuente académica en español y encaja con lo que vas a vivir estos días.",
-                "url": "https://e-revistas.uc3m.es/index.php/RECS/article/view/4257"
+                "titulo": "Los beneficios de soñar despierto y su inesperado papel en la memoria",
+                "resumen": "Artículo de Psicología Hoy (abril de 2026) de Barbara Blatchley, profesora de Psicología y Neurociencia en el Agnes Scott College. Repasa estudios en los que la «reactivación» de lo aprendido, que se creía propia del sueño, aparece también en momentos de reposo tranquilo estando despiertos. La propia autora presenta la investigación como algo en curso, y los estudios miden el reposo después de una tarea más que el soñar despierto en sí, así que tómalo como una pista interesante, no como algo demostrado.",
+                "url": "https://www.psychologytoday.com/cl/blog/los-beneficios-de-sonar-despierto-y-su-inesperado-papel-en-la-memoria"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una reflexión sobre la paciencia en los procesos: cómo cada alumna avanza a su ritmo y por qué empujar rara vez acelera nada. Es un tema que cualquier profesional del movimiento reconoce y que conecta con la mirada de Neuroalma, sin necesidad de entrar en explicaciones técnicas.",
-            "tags": ["Contenido", "Ritmos de cada alumna"],
-            "guion": "GANCHO: \"La alumna que más tarda en avanzar no siempre es la que menos aprende.\"\n\nCUERPO: En mis años de clases he visto alumnas que lo pillaban todo a la primera y alumnas que necesitaban semanas para sentirse cómodas en una postura sencilla. Y muchas veces, las segundas eran las que más se conocían al final. Cuando como profe meto prisa, aunque sea con la mejor intención, la alumna deja de escucharse a sí misma para intentar llegar a donde yo quiero. Acompañar también es saber esperar.\n\nCIERRE: Si eres profe de movimiento, cuéntame: ¿qué te ha enseñado a ti la alumna que iba más despacio?",
+            "idea": "Comparte con tu comunidad una reflexión sobre los primeros cinco minutos con una alumna nueva: lo que le dices, cómo la recibes y qué le preguntas antes de empezar. Es un momento que todos los profesionales del movimiento viven a menudo y que marca la confianza de todo lo que viene después.",
+            "tags": ["Contenido", "La primera clase"],
+            "guion": "GANCHO: \"Lo más importante de la primera clase pasa antes de que la alumna se suba a la esterilla.\"\n\nCUERPO: Cuando alguien llega nuevo, casi siempre trae una mezcla de ilusión y de miedo: a no saber hacerlo, a quedarse atrás, a que le duela algo. En esos primeros minutos no necesita una explicación del método. Necesita sentir que la ves. Preguntarle cómo llega hoy, contarle qué va a pasar en la clase y recordarle que puede parar cuando quiera parece poca cosa, pero el cerebro de esa persona lo registra como «aquí estoy segura». Y desde ahí se aprende mucho mejor.\n\nCIERRE: Si das clases, cuéntame: ¿qué es lo primero que le dices a una alumna nueva?",
             "referente": {
-                "nombre": "Víctor Küppers",
-                "porque": "Formador y conferenciante afincado en España, conocido por sus charlas sobre la actitud y el entusiasmo. Fíjate en cómo cuenta anécdotas sencillas de su día a día con humor y cercanía para transmitir una idea profunda: es un buen modelo para tus vídeos cuando quieras contar algo de tus clases sin sonar a lección."
+                "nombre": "Marcos Vázquez (Fitness Revolucionario)",
+                "porque": "Divulgador español de salud y movimiento, autor de libros como «Salud revolucionaria». Fíjate en cómo explica estudios científicos con un lenguaje muy llano y ejemplos cotidianos, sin perder el rigor: es un buen espejo para cuando quieras hablar de cuerpo y cerebro a otros profesionales sin sonar a manual."
             },
-            "mensajeWhatsapp": "Hola a todas! Os dejo una pregunta para pensar con calma esta semana: ¿qué os ha enseñado la alumna que más despacio avanzaba? A veces el ritmo lento es justo el que deja espacio para que la persona se escuche. Si os apetece, contadme vuestra experiencia, que me encanta leeros 🌿"
+            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una pregunta para pensar sin prisa: ¿qué le decís a una alumna en su primera clase, antes de empezar a moverse? A veces son esos minutos los que hacen que alguien vuelva. Me encantará leer cómo lo hacéis vosotras 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Dedica 10 minutos a escribir una «nota de regreso» para Neuroalma: en una sola hoja, apunta dónde se quedó cada cosa pendiente (por ejemplo, el temario de las 7 sesiones, la página de venta, los mensajes a la comunidad) y, al lado de cada una, el siguiente paso más pequeño posible. Así, cuando tengas energía para retomarlo, no tendrás que recordar nada: solo leer la hoja.",
-            "tags": ["Idea", "Pausa con orden"],
-            "aprendizaje": "Dejar un proyecto en pausa no es abandonarlo, siempre que lo dejes bien aparcado. Lo que más cuesta al volver no es el trabajo en sí, sino recordar dónde estabas y por dónde seguir. Una nota breve con «la próxima acción» de cada tarea te ahorra ese esfuerzo y hace que retomar sea mucho más amable.",
+            "idea": "Dedica 5 minutos a crear tu «cajón de ideas» de Neuroalma en WhatsApp: abre el chat contigo misma, ponle una chincheta para tenerlo a mano y escribe la primera idea que te venga sobre el programa, por pequeña que sea. A partir de ahora, si en la sala de espera o en el sofá se te ocurre algo, lo dejas ahí con una nota de voz y te olvidas. Sin obligación de hacer nada con ello todavía.",
+            "tags": ["Idea", "Cajón de ideas"],
+            "aprendizaje": "En un proyecto en pausa, las ideas siguen apareciendo cuando menos lo esperas. Tenerlas recogidas en un solo sitio te quita la presión de recordarlas y separa dos momentos distintos: el de tener la idea y el de decidir qué hacer con ella. Cuando vuelvas a tener energía, tendrás material listo para revisar con calma.",
             "recurso": {
-                "titulo": "Organízate con eficacia (David Allen, Empresa Activa)",
-                "tipo": "libro",
-                "porque": "Es la versión en español del conocido método «Getting Things Done». Su idea más útil para ti ahora es sencilla: para cada tarea pendiente, apuntar cuál es la siguiente acción concreta. No hace falta leerlo entero ni seguir todo el sistema; con esa idea ya tienes mucho."
+                "titulo": "Cómo enviarte un mensaje a ti mismo en WhatsApp (Xataka)",
+                "tipo": "artículo",
+                "porque": "Explica paso a paso cómo encontrar el chat contigo misma dentro de WhatsApp para usarlo como libreta de notas, recordatorios o enlaces. Si en tu móvil los nombres de los menús cambian un poco, la idea es la misma: buscar tu propio nombre al iniciar un chat nuevo.",
+                "url": "https://www.xataka.com.co/aplicaciones/como-enviarte-mensaje-a-ti-whatsapp"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Dedica 10 minutos a escribir, sin enviarlas todavía, tres preguntas sencillas para las mujeres que ya compraron la masterclass. Por ejemplo: qué herramienta usan todavía, en qué momento del día les ha servido y qué echarían de menos si no la tuvieran. Cuando te encuentres con fuerzas, ya las tendrás listas para mandarlas con calma.",
-            "tags": ["Idea", "Opiniones reales"],
-            "aprendizaje": "Las opiniones más útiles para lanzar una masterclass no se piden con un «¿qué te pareció?», sino con preguntas concretas sobre lo que la persona ha hecho con ella. Esas respuestas te dicen qué contar en tus mensajes y, si la mujer te da permiso, pueden convertirse en testimonios reales con sus propias palabras.",
+            "idea": "Dedica 10 minutos a escribir, sin enviarlo, un mensaje corto para las mujeres que podrían estar interesadas en el programa: que estás preparando algo para ellas y que, si quieren, les avisarás cuando esté listo. Sin fechas ni precio, solo la invitación a apuntarse para recibir el aviso. Así lo tendrás preparado para cuando te encuentres con fuerzas.",
+            "tags": ["Idea", "Lista de interesadas"],
+            "aprendizaje": "Antes de abrir plazas, tener una pequeña lista de mujeres que han dicho «avísame» te da dos cosas: saber si hay interés real y empezar la venta hablando con personas que ya levantaron la mano. No hace falta ninguna herramienta especial; para empezar, basta con apuntar sus nombres en una nota.",
             "recurso": {
-                "titulo": "Tu cerebro tiene hambre (Boticaria García)",
-                "tipo": "libro",
-                "porque": "Libro de divulgación de la farmacéutica Marián García sobre la relación entre alimentación, cerebro y emociones. No es para copiar contenido, sino para fijarte en cómo explica ciencia con humor y sin asustar: justo el equilibrio que buscas cuando hablas del cortisol y el estrés."
+                "titulo": "Lista de espera (podcast Marketing Online, episodio 2771)",
+                "tipo": "podcast",
+                "porque": "Episodio en español que explica cómo funciona una lista de espera antes de lanzar un curso, empezando por tener clara la oferta: qué ofreces y para quién. Es un audio, así que puedes escucharlo tranquilamente sin mirar la pantalla.",
+                "url": "https://poderato.com/shows/marketing-online/2771-lista-de-espera"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Graba un vídeo corto presentando las anclas de calma: un gesto pequeño que la mujer elige y que, a base de repetirlo en momentos tranquilos, le recuerda volver a la respiración cuando todo se acelera. Tono cómplice, ejemplos del día a día y una invitación a elegir su propia ancla.",
-            "tags": ["Contenido", "Anclas de calma"],
-            "guion": "GANCHO: \"¿Y si tu calma cupiera en un gesto tan pequeño que nadie a tu alrededor se diera cuenta?\"\n\nCUERPO: Amiga mía, no necesitas convertirte en Buda con WiFi. Necesitas un ancla. Un gesto sencillo que eliges tú: apoyar la mano en el pecho, juntar las yemas de los dedos, notar los pies en el suelo. Lo practicas en momentos tranquilos, acompañado de una respiración lenta, y poco a poco ese gesto se convierte en un recordatorio: «eh, vuelve aquí». En la cola del súper, en una reunión, cuando los niños discuten por quinta vez. Nadie lo ve. Tú sí lo notas.\n\nCIERRE: Hoy elige tu ancla y pruébala tres veces antes de dormir. Y cuéntame en comentarios cuál has elegido. Un abrazo con oxígeno.",
+            "idea": "Prepara un vídeo corto sobre la culpa por parar: esa vocecita que aparece justo cuando te sientas cinco minutos. Tono cómplice, con humor y sin sermón, y una propuesta pequeña para que la mujer se dé permiso hoy mismo.",
+            "tags": ["Contenido", "La culpa por parar"],
+            "guion": "GANCHO: \"¿Te has sentado cinco minutos y ha aparecido una voz diciendo «con todo lo que tienes pendiente»?\"\n\nCUERPO: Amiga mía, esa voz no es tu conciencia, es la costumbre. Llevas tanto tiempo sosteniéndolo todo que tu cuerpo ha aprendido que parar es peligroso. Pero parar no es abandonar a nadie. Es recargar. Igual que no conducirías con el coche en reserva todo el día, tú tampoco puedes cuidar de todos con el depósito vacío. Y aquí va el spoiler: la lista de tareas va a seguir ahí dentro de cinco minutos. Tú, en cambio, vas a volver un poquito más entera.\n\nCIERRE: Hoy regálate cinco minutos sin pedir perdón. Y si aparece la vocecita, salúdala y dile: «ahora no, estoy respirando». Un abrazo con oxígeno.",
             "referente": {
-                "nombre": "Boticaria García (Marián García)",
-                "porque": "Farmacéutica y divulgadora de salud española, autora de libros como «Tu cerebro tiene hambre». Fíjate en cómo mezcla humor y rigor: desmonta mitos sin culpabilizar a nadie y matiza cuando la ciencia no es tan rotunda. Es un buen espejo para tu tono canallita cuando hables de estrés y cortisol."
+                "nombre": "Lucía Galán (Lucía mi pediatra)",
+                "porque": "Pediatra y divulgadora española, muy seguida por familias en redes y autora de varios libros. Fíjate en cómo habla a madres agotadas con cercanía y sentido del humor, quitando culpa en lugar de añadirla: es justo el tono que necesitas cuando hables de la culpa por parar."
             },
-            "mensajeWhatsapp": "Hola, amiga! Te propongo un pequeño juego para hoy: elige un gesto sencillo, como apoyar la mano en el pecho o notar los pies en el suelo, y acompáñalo de una respiración lenta. Repítelo un par de veces cuando estés tranquila. Será tu ancla para cuando el día se acelere. Un abrazo con oxígeno 🌿"
+            "mensajeWhatsapp": "Hola, amiga! Hoy te propongo algo muy sencillo: busca cinco minutos para sentarte sin hacer nada, ni móvil ni lista de tareas. Si aparece la culpa, déjala estar y respira despacio. Parar también es cuidar, empezando por ti. Un abrazo con oxígeno 🌿"
         }
     }
 }

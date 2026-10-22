@@ -3134,5 +3134,69 @@
             "mensajeWhatsapp": "Hola guapas! Pregunta para hoy: ¿cuándo fue la última vez que paraste un minuto SIN que nadie te lo pidiera? Prueba esto sin salir de donde estás: tres respiraciones largas, soltando el aire despacito. Sí, ahora. Que la lista de tareas puede esperar tres respiraciones. Un abrazo 🌿"
         }
     }
-}
+},
+    {
+        "date": "2026-10-21",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Estos días te toca cambiar de lado de la esterilla: vas a ser tú la que llega nueva, con dudas y con un cuerpo que pide paciencia. Te propongo un ejercicio de oficio que no pide mover nada: fíjate, con curiosidad, en qué gestos y palabras de quien te atiende te hacen sentir segura y cuáles te dejan con dudas. Si te apetece, apunta dos o tres en una libreta; sin prisa, cuando tengas un rato tranquilo.",
+                "tags": ["Oficio", "Ser la alumna"],
+                "aprendizaje": "Los estudios sobre la relación entre fisioterapeuta y paciente coinciden en algo que también vale para una clase de yoga, pilates o taichí: la confianza crece cuando la persona entiende lo que está pasando, tiene objetivos que ve alcanzables y siente que participa en las decisiones. Lo que notes estos días como paciente será, más adelante, oro para tu forma de acompañar.",
+                "frase": {
+                    "texto": "La atención es la forma más rara y más pura de la generosidad.",
+                    "autor": "Simone Weil, carta a Joë Bousquet (1942)"
+                },
+                "noticia": {
+                    "titulo": "Comunicación centrada en la persona y alianza terapéutica en fisioterapia",
+                    "resumen": "Revisión publicada en la Revista Española de Comunicación en Salud (2018) por autores de las universidades de León, CEU Cardenal Herrera y Rovira i Virgili. Concluye que comunicarse poniendo a la persona en el centro mejora la alianza con el paciente, le permite participar más en las decisiones y aumenta su satisfacción con el tratamiento. Los propios autores reconocen que falta una herramienta específica para medir esa comunicación. No es una noticia de esta semana, pero es una fuente académica en español y encaja con lo que vas a vivir estos días.",
+                    "url": "https://e-revistas.uc3m.es/index.php/RECS/article/view/4257"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Comparte con tu comunidad una reflexión sobre la paciencia en los procesos: cómo cada alumna avanza a su ritmo y por qué empujar rara vez acelera nada. Es un tema que cualquier profesional del movimiento reconoce y que conecta con la mirada de Neuroalma, sin necesidad de entrar en explicaciones técnicas.",
+                "tags": ["Contenido", "Ritmos de cada alumna"],
+                "guion": "GANCHO: \"La alumna que más tarda en avanzar no siempre es la que menos aprende.\"\n\nCUERPO: En mis años de clases he visto alumnas que lo pillaban todo a la primera y alumnas que necesitaban semanas para sentirse cómodas en una postura sencilla. Y muchas veces, las segundas eran las que más se conocían al final. Cuando como profe meto prisa, aunque sea con la mejor intención, la alumna deja de escucharse a sí misma para intentar llegar a donde yo quiero. Acompañar también es saber esperar.\n\nCIERRE: Si eres profe de movimiento, cuéntame: ¿qué te ha enseñado a ti la alumna que iba más despacio?",
+                "referente": {
+                    "nombre": "Víctor Küppers",
+                    "porque": "Formador y conferenciante afincado en España, conocido por sus charlas sobre la actitud y el entusiasmo. Fíjate en cómo cuenta anécdotas sencillas de su día a día con humor y cercanía para transmitir una idea profunda: es un buen modelo para tus vídeos cuando quieras contar algo de tus clases sin sonar a lección."
+                },
+                "mensajeWhatsapp": "Hola a todas! Os dejo una pregunta para pensar con calma esta semana: ¿qué os ha enseñado la alumna que más despacio avanzaba? A veces el ritmo lento es justo el que deja espacio para que la persona se escuche. Si os apetece, contadme vuestra experiencia, que me encanta leeros 🌿"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Dedica 10 minutos a escribir una «nota de regreso» para Neuroalma: en una sola hoja, apunta dónde se quedó cada cosa pendiente (por ejemplo, el temario de las 7 sesiones, la página de venta, los mensajes a la comunidad) y, al lado de cada una, el siguiente paso más pequeño posible. Así, cuando tengas energía para retomarlo, no tendrás que recordar nada: solo leer la hoja.",
+                "tags": ["Idea", "Pausa con orden"],
+                "aprendizaje": "Dejar un proyecto en pausa no es abandonarlo, siempre que lo dejes bien aparcado. Lo que más cuesta al volver no es el trabajo en sí, sino recordar dónde estabas y por dónde seguir. Una nota breve con «la próxima acción» de cada tarea te ahorra ese esfuerzo y hace que retomar sea mucho más amable.",
+                "recurso": {
+                    "titulo": "Organízate con eficacia (David Allen, Empresa Activa)",
+                    "tipo": "libro",
+                    "porque": "Es la versión en español del conocido método «Getting Things Done». Su idea más útil para ti ahora es sencilla: para cada tarea pendiente, apuntar cuál es la siguiente acción concreta. No hace falta leerlo entero ni seguir todo el sistema; con esa idea ya tienes mucho."
+                }
+            },
+            "respira": {
+                "title": "Respira Mujer",
+                "idea": "Dedica 10 minutos a escribir, sin enviarlas todavía, tres preguntas sencillas para las mujeres que ya compraron la masterclass. Por ejemplo: qué herramienta usan todavía, en qué momento del día les ha servido y qué echarían de menos si no la tuvieran. Cuando te encuentres con fuerzas, ya las tendrás listas para mandarlas con calma.",
+                "tags": ["Idea", "Opiniones reales"],
+                "aprendizaje": "Las opiniones más útiles para lanzar una masterclass no se piden con un «¿qué te pareció?», sino con preguntas concretas sobre lo que la persona ha hecho con ella. Esas respuestas te dicen qué contar en tus mensajes y, si la mujer te da permiso, pueden convertirse en testimonios reales con sus propias palabras.",
+                "recurso": {
+                    "titulo": "Tu cerebro tiene hambre (Boticaria García)",
+                    "tipo": "libro",
+                    "porque": "Libro de divulgación de la farmacéutica Marián García sobre la relación entre alimentación, cerebro y emociones. No es para copiar contenido, sino para fijarte en cómo explica ciencia con humor y sin asustar: justo el equilibrio que buscas cuando hablas del cortisol y el estrés."
+                }
+            },
+            "respiramarca": {
+                "title": "Marca personal Respira Mujer",
+                "idea": "Graba un vídeo corto presentando las anclas de calma: un gesto pequeño que la mujer elige y que, a base de repetirlo en momentos tranquilos, le recuerda volver a la respiración cuando todo se acelera. Tono cómplice, ejemplos del día a día y una invitación a elegir su propia ancla.",
+                "tags": ["Contenido", "Anclas de calma"],
+                "guion": "GANCHO: \"¿Y si tu calma cupiera en un gesto tan pequeño que nadie a tu alrededor se diera cuenta?\"\n\nCUERPO: Amiga mía, no necesitas convertirte en Buda con WiFi. Necesitas un ancla. Un gesto sencillo que eliges tú: apoyar la mano en el pecho, juntar las yemas de los dedos, notar los pies en el suelo. Lo practicas en momentos tranquilos, acompañado de una respiración lenta, y poco a poco ese gesto se convierte en un recordatorio: «eh, vuelve aquí». En la cola del súper, en una reunión, cuando los niños discuten por quinta vez. Nadie lo ve. Tú sí lo notas.\n\nCIERRE: Hoy elige tu ancla y pruébala tres veces antes de dormir. Y cuéntame en comentarios cuál has elegido. Un abrazo con oxígeno.",
+                "referente": {
+                    "nombre": "Boticaria García (Marián García)",
+                    "porque": "Farmacéutica y divulgadora de salud española, autora de libros como «Tu cerebro tiene hambre». Fíjate en cómo mezcla humor y rigor: desmonta mitos sin culpabilizar a nadie y matiza cuando la ciencia no es tan rotunda. Es un buen espejo para tu tono canallita cuando hables de estrés y cortisol."
+                },
+                "mensajeWhatsapp": "Hola, amiga! Te propongo un pequeño juego para hoy: elige un gesto sencillo, como apoyar la mano en el pecho o notar los pies en el suelo, y acompáñalo de una respiración lenta. Repítelo un par de veces cuando estés tranquila. Será tu ancla para cuando el día se acelere. Un abrazo con oxígeno 🌿"
+            }
+        }
+    }
 ]

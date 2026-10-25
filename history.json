@@ -3198,5 +3198,71 @@
                 "mensajeWhatsapp": "Hola, amiga! Te propongo un pequeño juego para hoy: elige un gesto sencillo, como apoyar la mano en el pecho o notar los pies en el suelo, y acompáñalo de una respiración lenta. Repítelo un par de veces cuando estés tranquila. Será tu ancla para cuando el día se acelere. Un abrazo con oxígeno 🌿"
             }
         }
+    },
+    {
+        "date": "2026-10-22",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Hoy empiezas la rehabilitación, y con ella llegan los ratos de espera: en la sala, en el trayecto, antes de dormir. Te propongo un pequeño regalo para ti: en alguno de esos ratos, deja el móvil en el bolso y permite que tu mente divague a su aire, sin tarea ni objetivo. No es perder el tiempo; es dejar que tu cerebro ordene por dentro lo que estás viviendo.",
+                "tags": ["Bienestar", "Mente en reposo"],
+                "aprendizaje": "Durante años se pensó que el cerebro solo «repasaba» lo vivido mientras dormimos. Hoy hay cada vez más investigaciones que apuntan a que también lo hace en los ratos de reposo tranquilo estando despiertas, cuando no le pedimos nada. Todavía es un campo en estudio, pero invita a mirar los momentos de no hacer nada con más cariño.",
+                "frase": {
+                    "texto": "Tenga paciencia con todo lo que no está resuelto en su corazón e intente amar las preguntas mismas.",
+                    "autor": "Rainer Maria Rilke, «Cartas a un joven poeta» (carta del 16 de julio de 1903)"
+                },
+                "noticia": {
+                    "titulo": "Los beneficios de soñar despierto y su inesperado papel en la memoria",
+                    "resumen": "Artículo de Psicología Hoy (abril de 2026) de Barbara Blatchley, profesora de Psicología y Neurociencia en el Agnes Scott College. Repasa estudios en los que la «reactivación» de lo aprendido, que se creía propia del sueño, aparece también en momentos de reposo tranquilo estando despiertos. La propia autora presenta la investigación como algo en curso, y los estudios miden el reposo después de una tarea más que el soñar despierto en sí, así que tómalo como una pista interesante, no como algo demostrado.",
+                    "url": "https://www.psychologytoday.com/cl/blog/los-beneficios-de-sonar-despierto-y-su-inesperado-papel-en-la-memoria"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Comparte con tu comunidad una reflexión sobre los primeros cinco minutos con una alumna nueva: lo que le dices, cómo la recibes y qué le preguntas antes de empezar. Es un momento que todos los profesionales del movimiento viven a menudo y que marca la confianza de todo lo que viene después.",
+                "tags": ["Contenido", "La primera clase"],
+                "guion": "GANCHO: \"Lo más importante de la primera clase pasa antes de que la alumna se suba a la esterilla.\"\n\nCUERPO: Cuando alguien llega nuevo, casi siempre trae una mezcla de ilusión y de miedo: a no saber hacerlo, a quedarse atrás, a que le duela algo. En esos primeros minutos no necesita una explicación del método. Necesita sentir que la ves. Preguntarle cómo llega hoy, contarle qué va a pasar en la clase y recordarle que puede parar cuando quiera parece poca cosa, pero el cerebro de esa persona lo registra como «aquí estoy segura». Y desde ahí se aprende mucho mejor.\n\nCIERRE: Si das clases, cuéntame: ¿qué es lo primero que le dices a una alumna nueva?",
+                "referente": {
+                    "nombre": "Marcos Vázquez (Fitness Revolucionario)",
+                    "porque": "Divulgador español de salud y movimiento, autor de libros como «Salud revolucionaria». Fíjate en cómo explica estudios científicos con un lenguaje muy llano y ejemplos cotidianos, sin perder el rigor: es un buen espejo para cuando quieras hablar de cuerpo y cerebro a otros profesionales sin sonar a manual."
+                },
+                "mensajeWhatsapp": "Hola a todas! Hoy os dejo una pregunta para pensar sin prisa: ¿qué le decís a una alumna en su primera clase, antes de empezar a moverse? A veces son esos minutos los que hacen que alguien vuelva. Me encantará leer cómo lo hacéis vosotras 🌿"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Dedica 5 minutos a crear tu «cajón de ideas» de Neuroalma en WhatsApp: abre el chat contigo misma, ponle una chincheta para tenerlo a mano y escribe la primera idea que te venga sobre el programa, por pequeña que sea. A partir de ahora, si en la sala de espera o en el sofá se te ocurre algo, lo dejas ahí con una nota de voz y te olvidas. Sin obligación de hacer nada con ello todavía.",
+                "tags": ["Idea", "Cajón de ideas"],
+                "aprendizaje": "En un proyecto en pausa, las ideas siguen apareciendo cuando menos lo esperas. Tenerlas recogidas en un solo sitio te quita la presión de recordarlas y separa dos momentos distintos: el de tener la idea y el de decidir qué hacer con ella. Cuando vuelvas a tener energía, tendrás material listo para revisar con calma.",
+                "recurso": {
+                    "titulo": "Cómo enviarte un mensaje a ti mismo en WhatsApp (Xataka)",
+                    "tipo": "artículo",
+                    "porque": "Explica paso a paso cómo encontrar el chat contigo misma dentro de WhatsApp para usarlo como libreta de notas, recordatorios o enlaces. Si en tu móvil los nombres de los menús cambian un poco, la idea es la misma: buscar tu propio nombre al iniciar un chat nuevo.",
+                    "url": "https://www.xataka.com.co/aplicaciones/como-enviarte-mensaje-a-ti-whatsapp"
+                }
+            },
+            "respira": {
+                "title": "Respira Mujer",
+                "idea": "Dedica 10 minutos a escribir, sin enviarlo, un mensaje corto para las mujeres que podrían estar interesadas en el programa: que estás preparando algo para ellas y que, si quieren, les avisarás cuando esté listo. Sin fechas ni precio, solo la invitación a apuntarse para recibir el aviso. Así lo tendrás preparado para cuando te encuentres con fuerzas.",
+                "tags": ["Idea", "Lista de interesadas"],
+                "aprendizaje": "Antes de abrir plazas, tener una pequeña lista de mujeres que han dicho «avísame» te da dos cosas: saber si hay interés real y empezar la venta hablando con personas que ya levantaron la mano. No hace falta ninguna herramienta especial; para empezar, basta con apuntar sus nombres en una nota.",
+                "recurso": {
+                    "titulo": "Lista de espera (podcast Marketing Online, episodio 2771)",
+                    "tipo": "podcast",
+                    "porque": "Episodio en español que explica cómo funciona una lista de espera antes de lanzar un curso, empezando por tener clara la oferta: qué ofreces y para quién. Es un audio, así que puedes escucharlo tranquilamente sin mirar la pantalla.",
+                    "url": "https://poderato.com/shows/marketing-online/2771-lista-de-espera"
+                }
+            },
+            "respiramarca": {
+                "title": "Marca personal Respira Mujer",
+                "idea": "Prepara un vídeo corto sobre la culpa por parar: esa vocecita que aparece justo cuando te sientas cinco minutos. Tono cómplice, con humor y sin sermón, y una propuesta pequeña para que la mujer se dé permiso hoy mismo.",
+                "tags": ["Contenido", "La culpa por parar"],
+                "guion": "GANCHO: \"¿Te has sentado cinco minutos y ha aparecido una voz diciendo «con todo lo que tienes pendiente»?\"\n\nCUERPO: Amiga mía, esa voz no es tu conciencia, es la costumbre. Llevas tanto tiempo sosteniéndolo todo que tu cuerpo ha aprendido que parar es peligroso. Pero parar no es abandonar a nadie. Es recargar. Igual que no conducirías con el coche en reserva todo el día, tú tampoco puedes cuidar de todos con el depósito vacío. Y aquí va el spoiler: la lista de tareas va a seguir ahí dentro de cinco minutos. Tú, en cambio, vas a volver un poquito más entera.\n\nCIERRE: Hoy regálate cinco minutos sin pedir perdón. Y si aparece la vocecita, salúdala y dile: «ahora no, estoy respirando». Un abrazo con oxígeno.",
+                "referente": {
+                    "nombre": "Lucía Galán (Lucía mi pediatra)",
+                    "porque": "Pediatra y divulgadora española, muy seguida por familias en redes y autora de varios libros. Fíjate en cómo habla a madres agotadas con cercanía y sentido del humor, quitando culpa en lugar de añadirla: es justo el tono que necesitas cuando hables de la culpa por parar."
+                },
+                "mensajeWhatsapp": "Hola, amiga! Hoy te propongo algo muy sencillo: busca cinco minutos para sentarte sin hacer nada, ni móvil ni lista de tareas. Si aparece la culpa, déjala estar y respira despacio. Parar también es cuidar, empezando por ti. Un abrazo con oxígeno 🌿"
+            }
+        }
     }
 ]

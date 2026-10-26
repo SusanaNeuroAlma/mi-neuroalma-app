@@ -1,64 +1,65 @@
 {
-    "date": "2026-10-25",
+    "date": "2026-10-26",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy, solo para pensar y sin prisa: recuerda alguna indicación que dabas en clase y que «funcionaba», de esas que hacían que el grupo entero se moviera mejor sin esfuerzo. Muchas veces no hablaban de músculos, sino de imágenes de fuera del cuerpo: empujar el suelo, crecer hacia el techo, abrazar un árbol. Esta semana toca descansar y dejar que el cuerpo haga su trabajo; guarda esa indicación en tu cajón de ideas, que algún día volverá a tus clases.",
-            "tags": ["Oficio", "Dar indicaciones"],
-            "aprendizaje": "En el estudio del aprendizaje del movimiento se habla de «foco interno» (fijarse en una parte del propio cuerpo) y «foco externo» (fijarse en el efecto del movimiento o en algo de fuera). Bastantes estudios apuntan a que el foco externo ayuda a aprender con más soltura, aunque no todos lo confirman. Para una profesora es una pista práctica: probar las dos formas y observar cuál le sirve a cada alumna.",
+            "idea": "Mañana es día de infiltración, así que hoy la única tarea importante es cuidarte y descansar sin culpa. Si te apetece, antes de dormir apunta en una libreta una sola frase sobre cómo te sientes, sin juzgarla. El resto del trabajo lo hacen tu cuerpo y el tiempo: tú solo tienes que dejarles espacio.",
+            "tags": ["Bienestar", "Descanso"],
+            "aprendizaje": "Mientras dormimos, el cerebro no se apaga: aprovecha ese tiempo para tareas de mantenimiento y para ordenar lo vivido durante el día. Por eso el descanso no es tiempo perdido, sino parte de la recuperación. En semanas de cambios en el cuerpo, dormir y bajar el ritmo también es avanzar.",
             "frase": {
-                "texto": "Los límites de mi lenguaje significan los límites de mi mundo.",
-                "autor": "Ludwig Wittgenstein, «Tractatus logico-philosophicus» (proposición 5.6)"
+                "texto": "Lo que carece de descanso alterno no es duradero.",
+                "autor": "Ovidio, «Heroidas» (carta IV, verso 89), traducción libre"
             },
             "noticia": {
-                "titulo": "La focalización interna de la atención disminuye el aprendizaje motor de los adolescentes",
-                "resumen": "Estudio publicado en la revista científica española Retos (junio de 2025). 77 adolescentes practicaron una tarea de tiempo de reacción y recibieron distintas instrucciones: fijarse en el movimiento de sus brazos, en unas luces, en un cono o ninguna indicación. Quienes se fijaban en sus propios brazos rindieron peor en la práctica y también al repetir la prueba un día después. Es una tarea muy concreta y con jóvenes, así que tómalo como una pista para tus indicaciones, no como una regla para todas las clases.",
-                "url": "https://revistaretos.org/index.php/retos/article/view/114334"
+                "titulo": "Descansar sin dormir gracias a la optogenética: hackeando el sueño",
+                "resumen": "Artículo de Muy Interesante (junio de 2026) sobre un estudio publicado en Nature Neuroscience con ratones. Los investigadores provocaron, con pulsos de luz, un ritmo parecido al del sueño profundo en una pequeña zona del cerebro de ratones despiertos y faltos de sueño, y esa zona mostró señales de haberse recuperado. Es ciencia básica en animales, con una técnica muy invasiva: no es un truco para dormir menos, pero sí una bonita pista de lo mucho que el cerebro necesita sus ratos de descanso.",
+                "url": "https://muyinteresante.okdiario.com/ciencia/recuperacion-cerebral-sin-sueno-optogenetica.html"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Esta madrugada ha cambiado la hora y muchas alumnas llegarán esta semana a clase algo más cansadas o despistadas. Comparte con tu comunidad una reflexión sencilla: cómo adaptar la clase en semanas así, bajando un poco el ritmo y dando más espacio a la llegada, sin convertirlo en un drama.",
-            "tags": ["Contenido", "Cambio de hora"],
-            "guion": "GANCHO: \"Esta semana tus alumnas no están vagas: están ajustando el reloj por dentro.\"\n\nCUERPO: Con el cambio de hora, a muchas personas les cuesta unos días encontrar su ritmo: se duermen antes, se despiertan raras o llegan a clase con la cabeza en otra parte. Como profesional del movimiento, no hace falta cambiar toda la sesión. Basta con alargar un poco el momento de llegada, proponer movimientos más amables al principio y recordar al grupo que no pasa nada si hoy el cuerpo va más lento. Adaptarte a cómo llega la gente también es enseñar.\n\nCIERRE: ¿Notas en tus clases los cambios de hora o de estación? Cuéntame cómo los acompañas.",
+            "idea": "Comparte con tu comunidad una reflexión sobre las pausas dentro de la clase: esos segundos de quietud entre una propuesta y otra en los que el cuerpo «se entera» de lo que acaba de hacer. Muchas profesionales los recortan por miedo a que parezca que no pasa nada, y justo ahí pasa mucho.",
+            "tags": ["Contenido", "Las pausas en clase"],
+            "guion": "GANCHO: \"El momento más importante de tu clase puede ser aquel en el que no estás diciendo nada.\"\n\nCUERPO: Cuando terminamos una secuencia, solemos encadenar enseguida la siguiente, como si el silencio fuera un hueco que hay que tapar. Pero esa pequeña pausa es cuando la alumna nota cómo se ha quedado su cuerpo, cómo respira, qué ha cambiado. Sin ese momento, el movimiento se hace; con él, además, se siente. Prueba a dejar unos segundos de quietud entre propuestas y a decir solo: «observa cómo estás ahora». A veces enseñar es saber callar a tiempo.\n\nCIERRE: ¿Te cuesta dejar silencios en tus clases? Cuéntame cómo los vives.",
             "referente": {
-                "nombre": "Vilma Núñez",
-                "porque": "Estratega de marketing digital, dominicana afincada en España, fundadora de Convierte Más y autora de libros sobre marca personal. Fíjate en cómo explica el marketing con ejemplos muy prácticos y paso a paso, pensando en personas que empiezan: te puede ayudar a ver la marca personal como algo ordenado y abordable, sin agobio."
+                "nombre": "Eduard Estivill",
+                "porque": "Médico español especialista en sueño, con muchos años de consulta y varios libros de divulgación sobre el descanso. Fíjate en cómo explica algo científico con palabras de andar por casa y consejos muy concretos: es un buen modelo para hablar del cerebro y el descanso a tu comunidad sin sonar a manual."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy ha cambiado la hora y quizá notéis estos días a vuestras alumnas (y a vosotras) un poco más lentas. Os dejo una idea sencilla: alargad un par de minutos la llegada a clase y empezad con algo suave. A veces adaptar el ritmo es lo más profesional que podemos hacer 🍂"
+            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una idea pequeña para vuestras clases: después de una secuencia, regalad al grupo unos segundos de quietud antes de pasar a lo siguiente. Solo «observa cómo estás ahora». Esa pausa también es parte de la práctica 🌙"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, papel y boli: dibuja dos columnas. En la izquierda, escribe cómo llega a Neuroalma la profesional del movimiento (qué siente, qué le preocupa de sus clases). En la derecha, cómo te gustaría que saliera. Solo unas palabras sueltas en cada lado; no hace falta que quede bonito ni completo.",
-            "tags": ["Idea", "Antes y después"],
-            "aprendizaje": "Cuando tienes claro el «antes» y el «después» de tu alumna, muchas decisiones de la academia se vuelven más fáciles: qué incluir en las sesiones, qué dejar fuera y cómo explicar el programa sin rodeos. No hace falta prometer resultados exactos; basta con que la persona se reconozca en el punto de partida y le apetezca el de llegada.",
+            "idea": "Tarea de 5-10 minutos, sin pantalla: apunta en una libreta tres momentos de tus años dando clase en los que sentiste que el grupo «conectaba» de verdad. Solo una línea por recuerdo, sin pulirlos. Son semillas de historias que algún día podrás contar en las sesiones de Neuroalma.",
+            "tags": ["Idea", "Tus historias"],
+            "aprendizaje": "En una academia pequeña, tus propias historias son uno de tus materiales más valiosos: hacen que la teoría se entienda y que la gente se acuerde de ti. Merece la pena tener un sitio fijo (una libreta o una nota) donde irlas guardando cuando aparecen, para no tener que inventarlas con prisa el día que las necesitas.",
             "recurso": {
-                "titulo": "Diseñando la propuesta de valor (Alexander Osterwalder y otros, Deusto)",
+                "titulo": "¡Será mejor que lo cuentes! (Antonio Núñez, Empresa Activa)",
                 "tipo": "libro",
-                "porque": "Libro traducido al español, muy visual, que enseña a mirar a tu cliente con un «perfil» de lo que necesita, lo que le frustra y lo que desea. Está pensado para empresas, así que no hace falta leerlo entero: con hojear la parte del perfil del cliente tienes suficiente para tu ejercicio de antes y después, cuando tengas energía."
+                "porque": "Libro escrito en español sobre cómo usar historias para comunicar mejor. Es ameno y lleno de ejemplos; no hace falta leerlo entero: hojear los primeros capítulos te dará ideas para convertir tus recuerdos de clase en pequeñas historias para Neuroalma, cuando tengas energía."
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Dedica 10-15 minutos a esbozar solo la primera semana del reto de 21 días: siete líneas, una por día, con una herramienta que ya está en la masterclass (el botón mágico, un ancla de calma, una micropausa, el ritual exprés, un mantra...). Nada de redactar todavía; solo el título de cada día. El resto puede esperar.",
-            "tags": ["Idea", "Reto de 21 días"],
-            "aprendizaje": "Un reto funciona mejor cuando cada día pide algo muy pequeño y conocido, porque así la mujer siente que puede cumplirlo incluso en un día caótico. Y un detalle honesto: los 21 días son un buen marco para un reto, pero no un número mágico para crear un hábito; a cada persona le lleva su tiempo, y eso también se lo puedes contar.",
+            "idea": "Tarea de 10 minutos, solo de pensar y escribir: anota en tres líneas para quién NO es Respira Mujer. Por ejemplo, que no sustituye a un tratamiento médico ni a la terapia, o que no es para quien busca un retiro largo de meditación. No hace falta decidir nada más; guárdalo para la futura página del programa.",
+            "tags": ["Idea", "Para quién no es"],
+            "aprendizaje": "Decir con claridad para quién no es tu propuesta no espanta a nadie: genera confianza, evita malentendidos y ayuda a que la mujer adecuada piense «esto es para mí». En un programa de autocuidado, además, dejar claro que no es terapia es una forma de cuidar a quien lo lee.",
             "recurso": {
-                "titulo": "Hábitos atómicos (James Clear, Editorial Diana)",
-                "tipo": "libro",
-                "porque": "Es un libro escrito en inglés, pero tiene edición en español muy fácil de encontrar. Explica cómo los cambios muy pequeños y repetidos son los que se quedan, una idea que encaja con el espíritu del reto. Puedes leer solo los primeros capítulos, a tu ritmo."
+                "titulo": "Escribir para vender (podcast de Maïder Tomasena)",
+                "tipo": "podcast",
+                "porque": "Podcast en español de una de las copywriters más conocidas de España, de la Escuela de Copywriting. Habla de cómo escribir textos que conecten sin sonar a vendedora agresiva. Puedes escuchar un episodio corto cuando te apetezca, tumbada y sin mirar la pantalla.",
+                "url": "https://www.ivoox.com/en/podcast-escribir-para-vender_sq_f1703184_1.html"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Aprovecha el cambio de hora para un vídeo corto y con humor: «hoy tenemos una hora extra»... que probablemente acabará doblando ropa o contestando mensajes. La propuesta: regalarse aunque sea una micropausa de esa hora.",
-            "tags": ["Contenido", "La hora extra"],
-            "guion": "GANCHO: \"Hoy el reloj nos ha regalado una hora. Spoiler: ya sabes en qué se te va a ir.\"\n\nCUERPO: En lavadoras, en mensajes, en adelantar la semana. Porque cuando sobra tiempo, lo primero que hacemos es llenarlo de tareas. Amiga mía, no necesitas convertirte en Buda con WiFi ni dedicar la hora entera a meditar. Te propongo algo más pequeño: tres minutos de esa hora para ti. Siéntate, apoya los pies en el suelo y haz unas respiraciones lentas, con la salida más larga que la entrada. Eso es una micropausa, y cabe en cualquier día, incluso en el más caótico.\n\nCIERRE: Dime en comentarios qué has hecho con tu hora extra. Y si la respuesta es «poner lavadoras», no pasa nada: aún te quedan tres minutos. Un abrazo con oxígeno.",
+            "idea": "Un vídeo corto y con humor para presentar el botón mágico: cómo pasar del rojo alerta al verde calma con la respiración 4-2-6, en el sitio más poco zen que se te ocurra (la cola del súper, el coche aparcado, la puerta del cole).",
+            "tags": ["Contenido", "El botón mágico"],
+            "guion": "GANCHO: \"Tienes un botón para bajar revoluciones y lo llevas encima desde que naciste. Spoiler: no está en el móvil.\"\n\nCUERPO: Cuando vas en modo botón rojo, con el corazón acelerado y la lista de tareas gritando, tu cuerpo cree que hay un tigre detrás de ti. Pero puedes avisarle de que no. Prueba esto: toma aire contando hasta 4, sostenlo suave contando 2 y suéltalo despacio contando 6. Repite unas cuantas veces. Esa salida más larga es como decirle a tu sistema nervioso autónomo: «tranquilo, que aquí no hay tigre, solo una cola larga». No necesitas incienso ni silencio: funciona hasta con el carro de la compra delante.\n\nCIERRE: Cuéntame en comentarios dónde vas a probar hoy tu botón mágico. Un abrazo con oxígeno.",
             "referente": {
-                "nombre": "Sara Tarrés (Mamá Psicóloga Infantil)",
-                "porque": "Psicóloga española que divulga desde hace años sobre crianza y emociones en su canal Mamá Psicóloga Infantil, y autora del libro «Mi hijo me cae mal». Fíjate en cómo se atreve a nombrar emociones incómodas de las madres sin juzgarlas: es una buena inspiración para hablar de la culpa y el cansancio con verdad y cariño."
+                "nombre": "Laura Baena (Club de Malasmadres)",
+                "porque": "Creadora española del Club de Malasmadres, una comunidad enorme que habla de maternidad, cansancio y conciliación con humor y sin postureo. Fíjate en cómo convierte frases cotidianas y un poco canallas en mensajes que hacen sentirse acompañadas a muchas mujeres desbordadas: es muy cercano a tu tono."
             },
-            "mensajeWhatsapp": "Hola, amiga! Hoy hemos ganado una hora con el cambio de horario. Antes de que se llene de tareas, te propongo quedarte con tres minutos para ti: pies en el suelo, respiraciones lentas y nada más. Esa pequeña pausa también cuenta. Un abrazo con oxígeno 🌿"
+            "mensajeWhatsapp": "Hola, amiga! Hoy te propongo pulsar tu botón mágico: toma aire contando 4, sostenlo 2 y suéltalo despacito contando 6. Unas cuantas veces, donde estés. Del rojo al verde, sin moverte del sitio. Un abrazo con oxígeno 🌿"
         }
     }
 }

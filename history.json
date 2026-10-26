@@ -3264,5 +3264,69 @@
                 "mensajeWhatsapp": "Hola, amiga! Hoy te propongo algo muy sencillo: busca cinco minutos para sentarte sin hacer nada, ni móvil ni lista de tareas. Si aparece la culpa, déjala estar y respira despacio. Parar también es cuidar, empezando por ti. Un abrazo con oxígeno 🌿"
             }
         }
+    },
+    {
+        "date": "2026-10-25",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Hoy, solo para pensar y sin prisa: recuerda alguna indicación que dabas en clase y que «funcionaba», de esas que hacían que el grupo entero se moviera mejor sin esfuerzo. Muchas veces no hablaban de músculos, sino de imágenes de fuera del cuerpo: empujar el suelo, crecer hacia el techo, abrazar un árbol. Esta semana toca descansar y dejar que el cuerpo haga su trabajo; guarda esa indicación en tu cajón de ideas, que algún día volverá a tus clases.",
+                "tags": ["Oficio", "Dar indicaciones"],
+                "aprendizaje": "En el estudio del aprendizaje del movimiento se habla de «foco interno» (fijarse en una parte del propio cuerpo) y «foco externo» (fijarse en el efecto del movimiento o en algo de fuera). Bastantes estudios apuntan a que el foco externo ayuda a aprender con más soltura, aunque no todos lo confirman. Para una profesora es una pista práctica: probar las dos formas y observar cuál le sirve a cada alumna.",
+                "frase": {
+                    "texto": "Los límites de mi lenguaje significan los límites de mi mundo.",
+                    "autor": "Ludwig Wittgenstein, «Tractatus logico-philosophicus» (proposición 5.6)"
+                },
+                "noticia": {
+                    "titulo": "La focalización interna de la atención disminuye el aprendizaje motor de los adolescentes",
+                    "resumen": "Estudio publicado en la revista científica española Retos (junio de 2025). 77 adolescentes practicaron una tarea de tiempo de reacción y recibieron distintas instrucciones: fijarse en el movimiento de sus brazos, en unas luces, en un cono o ninguna indicación. Quienes se fijaban en sus propios brazos rindieron peor en la práctica y también al repetir la prueba un día después. Es una tarea muy concreta y con jóvenes, así que tómalo como una pista para tus indicaciones, no como una regla para todas las clases.",
+                    "url": "https://revistaretos.org/index.php/retos/article/view/114334"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Esta madrugada ha cambiado la hora y muchas alumnas llegarán esta semana a clase algo más cansadas o despistadas. Comparte con tu comunidad una reflexión sencilla: cómo adaptar la clase en semanas así, bajando un poco el ritmo y dando más espacio a la llegada, sin convertirlo en un drama.",
+                "tags": ["Contenido", "Cambio de hora"],
+                "guion": "GANCHO: \"Esta semana tus alumnas no están vagas: están ajustando el reloj por dentro.\"\n\nCUERPO: Con el cambio de hora, a muchas personas les cuesta unos días encontrar su ritmo: se duermen antes, se despiertan raras o llegan a clase con la cabeza en otra parte. Como profesional del movimiento, no hace falta cambiar toda la sesión. Basta con alargar un poco el momento de llegada, proponer movimientos más amables al principio y recordar al grupo que no pasa nada si hoy el cuerpo va más lento. Adaptarte a cómo llega la gente también es enseñar.\n\nCIERRE: ¿Notas en tus clases los cambios de hora o de estación? Cuéntame cómo los acompañas.",
+                "referente": {
+                    "nombre": "Vilma Núñez",
+                    "porque": "Estratega de marketing digital, dominicana afincada en España, fundadora de Convierte Más y autora de libros sobre marca personal. Fíjate en cómo explica el marketing con ejemplos muy prácticos y paso a paso, pensando en personas que empiezan: te puede ayudar a ver la marca personal como algo ordenado y abordable, sin agobio."
+                },
+                "mensajeWhatsapp": "Hola a todas! Hoy ha cambiado la hora y quizá notéis estos días a vuestras alumnas (y a vosotras) un poco más lentas. Os dejo una idea sencilla: alargad un par de minutos la llegada a clase y empezad con algo suave. A veces adaptar el ritmo es lo más profesional que podemos hacer 🍂"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Tarea de 10 minutos, papel y boli: dibuja dos columnas. En la izquierda, escribe cómo llega a Neuroalma la profesional del movimiento (qué siente, qué le preocupa de sus clases). En la derecha, cómo te gustaría que saliera. Solo unas palabras sueltas en cada lado; no hace falta que quede bonito ni completo.",
+                "tags": ["Idea", "Antes y después"],
+                "aprendizaje": "Cuando tienes claro el «antes» y el «después» de tu alumna, muchas decisiones de la academia se vuelven más fáciles: qué incluir en las sesiones, qué dejar fuera y cómo explicar el programa sin rodeos. No hace falta prometer resultados exactos; basta con que la persona se reconozca en el punto de partida y le apetezca el de llegada.",
+                "recurso": {
+                    "titulo": "Diseñando la propuesta de valor (Alexander Osterwalder y otros, Deusto)",
+                    "tipo": "libro",
+                    "porque": "Libro traducido al español, muy visual, que enseña a mirar a tu cliente con un «perfil» de lo que necesita, lo que le frustra y lo que desea. Está pensado para empresas, así que no hace falta leerlo entero: con hojear la parte del perfil del cliente tienes suficiente para tu ejercicio de antes y después, cuando tengas energía."
+                }
+            },
+            "respira": {
+                "title": "Respira Mujer",
+                "idea": "Dedica 10-15 minutos a esbozar solo la primera semana del reto de 21 días: siete líneas, una por día, con una herramienta que ya está en la masterclass (el botón mágico, un ancla de calma, una micropausa, el ritual exprés, un mantra...). Nada de redactar todavía; solo el título de cada día. El resto puede esperar.",
+                "tags": ["Idea", "Reto de 21 días"],
+                "aprendizaje": "Un reto funciona mejor cuando cada día pide algo muy pequeño y conocido, porque así la mujer siente que puede cumplirlo incluso en un día caótico. Y un detalle honesto: los 21 días son un buen marco para un reto, pero no un número mágico para crear un hábito; a cada persona le lleva su tiempo, y eso también se lo puedes contar.",
+                "recurso": {
+                    "titulo": "Hábitos atómicos (James Clear, Editorial Diana)",
+                    "tipo": "libro",
+                    "porque": "Es un libro escrito en inglés, pero tiene edición en español muy fácil de encontrar. Explica cómo los cambios muy pequeños y repetidos son los que se quedan, una idea que encaja con el espíritu del reto. Puedes leer solo los primeros capítulos, a tu ritmo."
+                }
+            },
+            "respiramarca": {
+                "title": "Marca personal Respira Mujer",
+                "idea": "Aprovecha el cambio de hora para un vídeo corto y con humor: «hoy tenemos una hora extra»... que probablemente acabará doblando ropa o contestando mensajes. La propuesta: regalarse aunque sea una micropausa de esa hora.",
+                "tags": ["Contenido", "La hora extra"],
+                "guion": "GANCHO: \"Hoy el reloj nos ha regalado una hora. Spoiler: ya sabes en qué se te va a ir.\"\n\nCUERPO: En lavadoras, en mensajes, en adelantar la semana. Porque cuando sobra tiempo, lo primero que hacemos es llenarlo de tareas. Amiga mía, no necesitas convertirte en Buda con WiFi ni dedicar la hora entera a meditar. Te propongo algo más pequeño: tres minutos de esa hora para ti. Siéntate, apoya los pies en el suelo y haz unas respiraciones lentas, con la salida más larga que la entrada. Eso es una micropausa, y cabe en cualquier día, incluso en el más caótico.\n\nCIERRE: Dime en comentarios qué has hecho con tu hora extra. Y si la respuesta es «poner lavadoras», no pasa nada: aún te quedan tres minutos. Un abrazo con oxígeno.",
+                "referente": {
+                    "nombre": "Sara Tarrés (Mamá Psicóloga Infantil)",
+                    "porque": "Psicóloga española que divulga desde hace años sobre crianza y emociones en su canal Mamá Psicóloga Infantil, y autora del libro «Mi hijo me cae mal». Fíjate en cómo se atreve a nombrar emociones incómodas de las madres sin juzgarlas: es una buena inspiración para hablar de la culpa y el cansancio con verdad y cariño."
+                },
+                "mensajeWhatsapp": "Hola, amiga! Hoy hemos ganado una hora con el cambio de horario. Antes de que se llene de tareas, te propongo quedarte con tres minutos para ti: pies en el suelo, respiraciones lentas y nada más. Esa pequeña pausa también cuenta. Un abrazo con oxígeno 🌿"
+            }
+        }
     }
 ]

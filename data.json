@@ -1,65 +1,65 @@
 {
-    "date": "2026-10-26",
+    "date": "2026-10-28",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Mañana es día de infiltración, así que hoy la única tarea importante es cuidarte y descansar sin culpa. Si te apetece, antes de dormir apunta en una libreta una sola frase sobre cómo te sientes, sin juzgarla. El resto del trabajo lo hacen tu cuerpo y el tiempo: tú solo tienes que dejarles espacio.",
-            "tags": ["Bienestar", "Descanso"],
-            "aprendizaje": "Mientras dormimos, el cerebro no se apaga: aprovecha ese tiempo para tareas de mantenimiento y para ordenar lo vivido durante el día. Por eso el descanso no es tiempo perdido, sino parte de la recuperación. En semanas de cambios en el cuerpo, dormir y bajar el ritmo también es avanzar.",
+            "idea": "Estos días estás al otro lado: eres tú la que llega con dolor, con preguntas y con un cuerpo que va a su ritmo. Sin buscarlo, eso también es aprendizaje de oficio, porque cuando vuelvas a acompañar grupos entenderás desde dentro a la alumna que llega con miedo a moverse. Hoy no tienes que hacer nada con ello; solo, si te apetece, apunta un gesto o una frase de alguien que te esté tratando que te haya hecho sentir acompañada.",
+            "tags": ["Oficio", "Al otro lado"],
+            "aprendizaje": "Cuando alguien nos explica qué nos va a pasar y por qué, la incertidumbre baja, y al cerebro la incertidumbre le inquieta mucho. En clase ocurre igual: anunciar lo que viene y contar el sentido de cada propuesta ayuda a que la alumna se relaje y confíe.",
             "frase": {
-                "texto": "Lo que carece de descanso alterno no es duradero.",
-                "autor": "Ovidio, «Heroidas» (carta IV, verso 89), traducción libre"
+                "texto": "Parte de la curación está en querer curarse.",
+                "autor": "Séneca, «Fedra» (verso 249), traducción libre"
             },
             "noticia": {
-                "titulo": "Descansar sin dormir gracias a la optogenética: hackeando el sueño",
-                "resumen": "Artículo de Muy Interesante (junio de 2026) sobre un estudio publicado en Nature Neuroscience con ratones. Los investigadores provocaron, con pulsos de luz, un ritmo parecido al del sueño profundo en una pequeña zona del cerebro de ratones despiertos y faltos de sueño, y esa zona mostró señales de haberse recuperado. Es ciencia básica en animales, con una técnica muy invasiva: no es un truco para dormir menos, pero sí una bonita pista de lo mucho que el cerebro necesita sus ratos de descanso.",
-                "url": "https://muyinteresante.okdiario.com/ciencia/recuperacion-cerebral-sin-sueno-optogenetica.html"
+                "titulo": "El Premio Nobel de Fisiología o Medicina 2026 distingue trabajo en neurociencia",
+                "resumen": "Artículo de The New York Times publicado en español por Infobae el 5 de octubre de 2026. El Nobel ha sido para Karl Deisseroth, Peter Hegemann y Georg Nagel, que hicieron posible la optogenética: una forma de encender neuronas concretas con pulsos de luz, la misma técnica de la que hablaba la noticia de hace un par de días. De momento es sobre todo una herramienta para investigar cómo funciona el cerebro, aunque el artículo menciona que da pistas para estudiar problemas como la ceguera, la depresión o la demencia.",
+                "url": "https://www.infobae.com/america/the-new-york-times/2026/10/05/el-premio-nobel-de-fisiologia-o-medicina-2026-distingue-trabajo-en-neurociencia/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una reflexión sobre las pausas dentro de la clase: esos segundos de quietud entre una propuesta y otra en los que el cuerpo «se entera» de lo que acaba de hacer. Muchas profesionales los recortan por miedo a que parezca que no pasa nada, y justo ahí pasa mucho.",
-            "tags": ["Contenido", "Las pausas en clase"],
-            "guion": "GANCHO: \"El momento más importante de tu clase puede ser aquel en el que no estás diciendo nada.\"\n\nCUERPO: Cuando terminamos una secuencia, solemos encadenar enseguida la siguiente, como si el silencio fuera un hueco que hay que tapar. Pero esa pequeña pausa es cuando la alumna nota cómo se ha quedado su cuerpo, cómo respira, qué ha cambiado. Sin ese momento, el movimiento se hace; con él, además, se siente. Prueba a dejar unos segundos de quietud entre propuestas y a decir solo: «observa cómo estás ahora». A veces enseñar es saber callar a tiempo.\n\nCIERRE: ¿Te cuesta dejar silencios en tus clases? Cuéntame cómo los vives.",
+            "idea": "Comparte con tu comunidad una reflexión sobre cómo recibir en clase a una alumna que llega con dolor o con miedo a moverse. Antes que cualquier adaptación, lo que necesita es sentirse vista y saber que puede elegir. Es un tema que ahora vives muy de cerca, aunque no hace falta que cuentes nada personal si no te apetece.",
+            "tags": ["Contenido", "La alumna con dolor"],
+            "guion": "GANCHO: \"Cuando una alumna llega con dolor, lo primero que necesita no es un ejercicio. Es sentirse vista.\"\n\nCUERPO: Muchas veces llegan a clase calladas, escondidas al fondo, con miedo a que el movimiento les duela o a quedar mal delante del grupo. Si al empezar preguntas cómo llega cada una, recuerdas que pueden parar cuando quieran y les ofreces siempre una opción más suave, les estás diciendo: aquí tu cuerpo manda. Y cuando el cerebro se siente seguro, el cuerpo suele soltar un poquito más. Para lo concreto de cada lesión, la última palabra es de su médico o fisio; lo nuestro es crear un espacio donde se atrevan a volver a moverse.\n\nCIERRE: ¿Cómo recibes tú a las alumnas que llegan con dolor? Te leo.",
             "referente": {
-                "nombre": "Eduard Estivill",
-                "porque": "Médico español especialista en sueño, con muchos años de consulta y varios libros de divulgación sobre el descanso. Fíjate en cómo explica algo científico con palabras de andar por casa y consejos muy concretos: es un buen modelo para hablar del cerebro y el descanso a tu comunidad sin sonar a manual."
+                "nombre": "Arturo Goicoechea",
+                "porque": "Neurólogo español que lleva años divulgando en su blog y en sus libros cómo el cerebro participa en el dolor. Fíjate en cómo explica algo tan delicado con calma y sin asustar: es una buena inspiración para hablar a profesionales del movimiento sobre dolor y miedo a moverse sin invadir el terreno del médico."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una idea pequeña para vuestras clases: después de una secuencia, regalad al grupo unos segundos de quietud antes de pasar a lo siguiente. Solo «observa cómo estás ahora». Esa pausa también es parte de la práctica 🌙"
+            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una pregunta sencilla para empezar vuestras clases: «¿cómo llega hoy tu cuerpo?». A veces, solo con sentirse escuchada, una alumna con dolor ya se atreve a moverse un poquito más 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 5-10 minutos, sin pantalla: apunta en una libreta tres momentos de tus años dando clase en los que sentiste que el grupo «conectaba» de verdad. Solo una línea por recuerdo, sin pulirlos. Son semillas de historias que algún día podrás contar en las sesiones de Neuroalma.",
-            "tags": ["Idea", "Tus historias"],
-            "aprendizaje": "En una academia pequeña, tus propias historias son uno de tus materiales más valiosos: hacen que la teoría se entienda y que la gente se acuerde de ti. Merece la pena tener un sitio fijo (una libreta o una nota) donde irlas guardando cuando aparecen, para no tener que inventarlas con prisa el día que las necesitas.",
+            "idea": "Tarea de 5 minutos, sin pantalla: escribe en tu libreta tres palabras que describan cómo te gustaría que se sintiera el grupo de Neuroalma cuando se conecte a una sesión (por ejemplo: en confianza, con curiosidad, sin prisa). No hay que hacer nada más con ellas por ahora.",
+            "tags": ["Idea", "El clima del grupo"],
+            "aprendizaje": "En una academia pequeña, tener claro el ambiente que quieres crear te ahorra muchas decisiones: te ayuda a elegir el tono de los mensajes, cómo das la bienvenida o qué normas pones en el grupo. Es como el hilo que une todo lo demás, y se puede definir con muy pocas palabras.",
             "recurso": {
-                "titulo": "¡Será mejor que lo cuentes! (Antonio Núñez, Empresa Activa)",
+                "titulo": "Tribus (Seth Godin, editorial Gestión 2000)",
                 "tipo": "libro",
-                "porque": "Libro escrito en español sobre cómo usar historias para comunicar mejor. Es ameno y lleno de ejemplos; no hace falta leerlo entero: hojear los primeros capítulos te dará ideas para convertir tus recuerdos de clase en pequeñas historias para Neuroalma, cuando tengas energía."
+                "porque": "Libro corto de un autor estadounidense, traducido al español, sobre cómo nacen y se cuidan las comunidades de personas que comparten una idea. Se lee a ratos, en capítulos muy breves, y te puede dar ideas para cuidar a tu pequeña comunidad de Neuroalma cuando tengas energía."
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, solo de pensar y escribir: anota en tres líneas para quién NO es Respira Mujer. Por ejemplo, que no sustituye a un tratamiento médico ni a la terapia, o que no es para quien busca un retiro largo de meditación. No hace falta decidir nada más; guárdalo para la futura página del programa.",
-            "tags": ["Idea", "Para quién no es"],
-            "aprendizaje": "Decir con claridad para quién no es tu propuesta no espanta a nadie: genera confianza, evita malentendidos y ayuda a que la mujer adecuada piense «esto es para mí». En un programa de autocuidado, además, dejar claro que no es terapia es una forma de cuidar a quien lo lee.",
+            "idea": "Tarea de 10 minutos, solo de pensar: apunta tres posibles nombres para el futuro grupo o canal de las mujeres de Respira Mujer. No hace falta elegir ninguno todavía; solo dejar que salgan y guardarlos en tu libreta.",
+            "tags": ["Idea", "Nombre del canal"],
+            "aprendizaje": "El nombre de un espacio de comunidad ayuda a que se sienta como un lugar al que se pertenece, no solo como un grupo más del móvil. Suele funcionar mejor algo sencillo, que se entienda a la primera y que suene a ti; no tiene que ser perfecto, se puede cambiar más adelante.",
             "recurso": {
-                "titulo": "Escribir para vender (podcast de Maïder Tomasena)",
-                "tipo": "podcast",
-                "porque": "Podcast en español de una de las copywriters más conocidas de España, de la Escuela de Copywriting. Habla de cómo escribir textos que conecten sin sonar a vendedora agresiva. Puedes escuchar un episodio corto cuando te apetezca, tumbada y sin mirar la pantalla.",
-                "url": "https://www.ivoox.com/en/podcast-escribir-para-vender_sq_f1703184_1.html"
+                "titulo": "Centro de ayuda de WhatsApp: comunidades y canales",
+                "tipo": "web",
+                "porque": "Las páginas oficiales de ayuda de WhatsApp, en español, explican la diferencia entre un grupo, una comunidad y un canal. Cuando tengas ganas, te servirán para decidir qué formato encaja mejor con Respira Mujer, sin prisa.",
+                "url": "https://faq.whatsapp.com/"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto y con humor para presentar el botón mágico: cómo pasar del rojo alerta al verde calma con la respiración 4-2-6, en el sitio más poco zen que se te ocurra (la cola del súper, el coche aparcado, la puerta del cole).",
-            "tags": ["Contenido", "El botón mágico"],
-            "guion": "GANCHO: \"Tienes un botón para bajar revoluciones y lo llevas encima desde que naciste. Spoiler: no está en el móvil.\"\n\nCUERPO: Cuando vas en modo botón rojo, con el corazón acelerado y la lista de tareas gritando, tu cuerpo cree que hay un tigre detrás de ti. Pero puedes avisarle de que no. Prueba esto: toma aire contando hasta 4, sostenlo suave contando 2 y suéltalo despacio contando 6. Repite unas cuantas veces. Esa salida más larga es como decirle a tu sistema nervioso autónomo: «tranquilo, que aquí no hay tigre, solo una cola larga». No necesitas incienso ni silencio: funciona hasta con el carro de la compra delante.\n\nCIERRE: Cuéntame en comentarios dónde vas a probar hoy tu botón mágico. Un abrazo con oxígeno.",
+            "idea": "Un vídeo corto sobre los mantras de Respira Mujer: una frase pequeña que te dices a ti misma cuando todo aprieta, para recordarte que no tienes que poder con todo a la vez. Puedes cerrar regalando una «Frase para guardar».",
+            "tags": ["Contenido", "Tu mantra"],
+            "guion": "GANCHO: \"Te pasas el día hablándote. La pregunta es: ¿te hablas como a tu mejor amiga o como a una jefa insoportable?\"\n\nCUERPO: Cuando vas a mil, esa vocecita interior suele decir cosas como «no llegas», «otra vez tarde», «tendrías que poder con todo». Un mantra es justo lo contrario: una frase cortita y amable que eliges tú y que te dices cuando el día se pone cuesta arriba. No hace falta que sea en sánscrito ni que suene a taza de desayuno. Basta con algo como «paso a paso» o «ahora, solo esto». Respira, dila por dentro, y vuelve a lo que estabas haciendo un poquito más suave contigo.\n\nCIERRE: Frase para guardar: no estás rota, estás saturada. ¿Cuál sería tu mantra de hoy? Cuéntamelo en comentarios. Un abrazo con oxígeno.",
             "referente": {
-                "nombre": "Laura Baena (Club de Malasmadres)",
-                "porque": "Creadora española del Club de Malasmadres, una comunidad enorme que habla de maternidad, cansancio y conciliación con humor y sin postureo. Fíjate en cómo convierte frases cotidianas y un poco canallas en mensajes que hacen sentirse acompañadas a muchas mujeres desbordadas: es muy cercano a tu tono."
+                "nombre": "Mónica Esgueva",
+                "porque": "Autora y divulgadora española de meditación y crecimiento personal, con libros como «Mindfulness: una guía práctica para encontrar la paz interior». Fíjate en cómo acerca la calma y la meditación a gente con vidas muy ocupadas, sin tono místico: muy en la línea de tu autocuidado que cabe en el caos."
             },
-            "mensajeWhatsapp": "Hola, amiga! Hoy te propongo pulsar tu botón mágico: toma aire contando 4, sostenlo 2 y suéltalo despacito contando 6. Unas cuantas veces, donde estés. Del rojo al verde, sin moverte del sitio. Un abrazo con oxígeno 🌿"
+            "mensajeWhatsapp": "Hola, amiga! Hoy te propongo elegir un mantra pequeñito para los momentos en que todo aprieta, algo como «paso a paso» o «ahora, solo esto». Respira y dítelo por dentro. Un abrazo con oxígeno 🌿"
         }
     }
 }

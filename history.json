@@ -3630,5 +3630,70 @@
                                            "mensajeWhatsapp":  "Hola, amiga! Hoy te propongo pulsar tu botón mágico: toma aire contando 4, sostenlo 2 y suéltalo despacito contando 6. Unas cuantas veces, donde estés. Del rojo al verde, sin moverte del sitio. Un abrazo con oxígeno 🌿"
                                        }
                   }
+    },
+{
+    "date": "2026-10-28",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Estos días estás al otro lado: eres tú la que llega con dolor, con preguntas y con un cuerpo que va a su ritmo. Sin buscarlo, eso también es aprendizaje de oficio, porque cuando vuelvas a acompañar grupos entenderás desde dentro a la alumna que llega con miedo a moverse. Hoy no tienes que hacer nada con ello; solo, si te apetece, apunta un gesto o una frase de alguien que te esté tratando que te haya hecho sentir acompañada.",
+            "tags": ["Oficio", "Al otro lado"],
+            "aprendizaje": "Cuando alguien nos explica qué nos va a pasar y por qué, la incertidumbre baja, y al cerebro la incertidumbre le inquieta mucho. En clase ocurre igual: anunciar lo que viene y contar el sentido de cada propuesta ayuda a que la alumna se relaje y confíe.",
+            "frase": {
+                "texto": "Parte de la curación está en querer curarse.",
+                "autor": "Séneca, «Fedra» (verso 249), traducción libre"
+            },
+            "noticia": {
+                "titulo": "El Premio Nobel de Fisiología o Medicina 2026 distingue trabajo en neurociencia",
+                "resumen": "Artículo de The New York Times publicado en español por Infobae el 5 de octubre de 2026. El Nobel ha sido para Karl Deisseroth, Peter Hegemann y Georg Nagel, que hicieron posible la optogenética: una forma de encender neuronas concretas con pulsos de luz, la misma técnica de la que hablaba la noticia de hace un par de días. De momento es sobre todo una herramienta para investigar cómo funciona el cerebro, aunque el artículo menciona que da pistas para estudiar problemas como la ceguera, la depresión o la demencia.",
+                "url": "https://www.infobae.com/america/the-new-york-times/2026/10/05/el-premio-nobel-de-fisiologia-o-medicina-2026-distingue-trabajo-en-neurociencia/"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Comparte con tu comunidad una reflexión sobre cómo recibir en clase a una alumna que llega con dolor o con miedo a moverse. Antes que cualquier adaptación, lo que necesita es sentirse vista y saber que puede elegir. Es un tema que ahora vives muy de cerca, aunque no hace falta que cuentes nada personal si no te apetece.",
+            "tags": ["Contenido", "La alumna con dolor"],
+            "guion": "GANCHO: \"Cuando una alumna llega con dolor, lo primero que necesita no es un ejercicio. Es sentirse vista.\"\n\nCUERPO: Muchas veces llegan a clase calladas, escondidas al fondo, con miedo a que el movimiento les duela o a quedar mal delante del grupo. Si al empezar preguntas cómo llega cada una, recuerdas que pueden parar cuando quieran y les ofreces siempre una opción más suave, les estás diciendo: aquí tu cuerpo manda. Y cuando el cerebro se siente seguro, el cuerpo suele soltar un poquito más. Para lo concreto de cada lesión, la última palabra es de su médico o fisio; lo nuestro es crear un espacio donde se atrevan a volver a moverse.\n\nCIERRE: ¿Cómo recibes tú a las alumnas que llegan con dolor? Te leo.",
+            "referente": {
+                "nombre": "Arturo Goicoechea",
+                "porque": "Neurólogo español que lleva años divulgando en su blog y en sus libros cómo el cerebro participa en el dolor. Fíjate en cómo explica algo tan delicado con calma y sin asustar: es una buena inspiración para hablar a profesionales del movimiento sobre dolor y miedo a moverse sin invadir el terreno del médico."
+            },
+            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una pregunta sencilla para empezar vuestras clases: «¿cómo llega hoy tu cuerpo?». A veces, solo con sentirse escuchada, una alumna con dolor ya se atreve a moverse un poquito más 🌿"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Tarea de 5 minutos, sin pantalla: escribe en tu libreta tres palabras que describan cómo te gustaría que se sintiera el grupo de Neuroalma cuando se conecte a una sesión (por ejemplo: en confianza, con curiosidad, sin prisa). No hay que hacer nada más con ellas por ahora.",
+            "tags": ["Idea", "El clima del grupo"],
+            "aprendizaje": "En una academia pequeña, tener claro el ambiente que quieres crear te ahorra muchas decisiones: te ayuda a elegir el tono de los mensajes, cómo das la bienvenida o qué normas pones en el grupo. Es como el hilo que une todo lo demás, y se puede definir con muy pocas palabras.",
+            "recurso": {
+                "titulo": "Tribus (Seth Godin, editorial Gestión 2000)",
+                "tipo": "libro",
+                "porque": "Libro corto de un autor estadounidense, traducido al español, sobre cómo nacen y se cuidan las comunidades de personas que comparten una idea. Se lee a ratos, en capítulos muy breves, y te puede dar ideas para cuidar a tu pequeña comunidad de Neuroalma cuando tengas energía."
+            }
+        },
+        "respira": {
+            "title": "Respira Mujer",
+            "idea": "Tarea de 10 minutos, solo de pensar: apunta tres posibles nombres para el futuro grupo o canal de las mujeres de Respira Mujer. No hace falta elegir ninguno todavía; solo dejar que salgan y guardarlos en tu libreta.",
+            "tags": ["Idea", "Nombre del canal"],
+            "aprendizaje": "El nombre de un espacio de comunidad ayuda a que se sienta como un lugar al que se pertenece, no solo como un grupo más del móvil. Suele funcionar mejor algo sencillo, que se entienda a la primera y que suene a ti; no tiene que ser perfecto, se puede cambiar más adelante.",
+            "recurso": {
+                "titulo": "Centro de ayuda de WhatsApp: comunidades y canales",
+                "tipo": "web",
+                "porque": "Las páginas oficiales de ayuda de WhatsApp, en español, explican la diferencia entre un grupo, una comunidad y un canal. Cuando tengas ganas, te servirán para decidir qué formato encaja mejor con Respira Mujer, sin prisa.",
+                "url": "https://faq.whatsapp.com/"
+            }
+        },
+        "respiramarca": {
+            "title": "Marca personal Respira Mujer",
+            "idea": "Un vídeo corto sobre los mantras de Respira Mujer: una frase pequeña que te dices a ti misma cuando todo aprieta, para recordarte que no tienes que poder con todo a la vez. Puedes cerrar regalando una «Frase para guardar».",
+            "tags": ["Contenido", "Tu mantra"],
+            "guion": "GANCHO: \"Te pasas el día hablándote. La pregunta es: ¿te hablas como a tu mejor amiga o como a una jefa insoportable?\"\n\nCUERPO: Cuando vas a mil, esa vocecita interior suele decir cosas como «no llegas», «otra vez tarde», «tendrías que poder con todo». Un mantra es justo lo contrario: una frase cortita y amable que eliges tú y que te dices cuando el día se pone cuesta arriba. No hace falta que sea en sánscrito ni que suene a taza de desayuno. Basta con algo como «paso a paso» o «ahora, solo esto». Respira, dila por dentro, y vuelve a lo que estabas haciendo un poquito más suave contigo.\n\nCIERRE: Frase para guardar: no estás rota, estás saturada. ¿Cuál sería tu mantra de hoy? Cuéntamelo en comentarios. Un abrazo con oxígeno.",
+            "referente": {
+                "nombre": "Mónica Esgueva",
+                "porque": "Autora y divulgadora española de meditación y crecimiento personal, con libros como «Mindfulness: una guía práctica para encontrar la paz interior». Fíjate en cómo acerca la calma y la meditación a gente con vidas muy ocupadas, sin tono místico: muy en la línea de tu autocuidado que cabe en el caos."
+            },
+            "mensajeWhatsapp": "Hola, amiga! Hoy te propongo elegir un mantra pequeñito para los momentos en que todo aprieta, algo como «paso a paso» o «ahora, solo esto». Respira y dítelo por dentro. Un abrazo con oxígeno 🌿"
+        }
     }
+}
 ]

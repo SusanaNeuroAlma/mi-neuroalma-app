@@ -1,65 +1,64 @@
 {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Estos días estás al otro lado: eres tú la que llega con dolor, con preguntas y con un cuerpo que va a su ritmo. Sin buscarlo, eso también es aprendizaje de oficio, porque cuando vuelvas a acompañar grupos entenderás desde dentro a la alumna que llega con miedo a moverse. Hoy no tienes que hacer nada con ello; solo, si te apetece, apunta un gesto o una frase de alguien que te esté tratando que te haya hecho sentir acompañada.",
-            "tags": ["Oficio", "Al otro lado"],
-            "aprendizaje": "Cuando alguien nos explica qué nos va a pasar y por qué, la incertidumbre baja, y al cerebro la incertidumbre le inquieta mucho. En clase ocurre igual: anunciar lo que viene y contar el sentido de cada propuesta ayuda a que la alumna se relaje y confíe.",
+            "idea": "Hace solo un par de días de la infiltración y es normal no notar todavía gran cosa: el cuerpo se toma su tiempo y tu única tarea ahora es dejarle hacerlo. Si te apetece, hoy regálate unos minutos mirando algo verde, un árbol desde la ventana o una planta de casa, sin hacer nada más. Mirar sin buscar nada también es una forma de descanso.",
+            "tags": ["Bienestar", "Mirar lo verde"],
+            "aprendizaje": "Hay una idea en psicología llamada teoría de la restauración de la atención: estar muchas horas concentrada cansa la mente, y los paisajes naturales captan nuestro interés sin exigir esfuerzo, así que la atención puede recargarse un poco. No es magia ni sustituye a nada, pero es un descanso amable que no pide energía.",
             "frase": {
-                "texto": "Parte de la curación está en querer curarse.",
-                "autor": "Séneca, «Fedra» (verso 249), traducción libre"
+                "texto": "Adopta el ritmo de la naturaleza: su secreto es la paciencia.",
+                "autor": "Ralph Waldo Emerson, ensayo «Education», traducción libre"
             },
             "noticia": {
-                "titulo": "El Premio Nobel de Fisiología o Medicina 2026 distingue trabajo en neurociencia",
-                "resumen": "Artículo de The New York Times publicado en español por Infobae el 5 de octubre de 2026. El Nobel ha sido para Karl Deisseroth, Peter Hegemann y Georg Nagel, que hicieron posible la optogenética: una forma de encender neuronas concretas con pulsos de luz, la misma técnica de la que hablaba la noticia de hace un par de días. De momento es sobre todo una herramienta para investigar cómo funciona el cerebro, aunque el artículo menciona que da pistas para estudiar problemas como la ceguera, la depresión o la demencia.",
-                "url": "https://www.infobae.com/america/the-new-york-times/2026/10/05/el-premio-nobel-de-fisiologia-o-medicina-2026-distingue-trabajo-en-neurociencia/"
+                "titulo": "La psicología dice que 20 minutos de naturaleza a partir de los 65 años pueden cambiar el ánimo y la atención",
+                "resumen": "Artículo de El Español (12 de octubre de 2026) sobre un ensayo con 120 personas mayores de Taiwán que pasaron 20 minutos sentadas, sin hacer ejercicio, en un parque, en un entorno urbano o viendo un parque con gafas de realidad virtual. Quienes estuvieron en el parque real mejoraron su ánimo, aunque no tanto su atención en las pruebas; el grupo de realidad virtual sí mejoró en una prueba de memoria. Es un estudio de una sola sesión, así que no demuestra efectos a largo plazo, pero apunta a que un rato tranquilo cerca de lo verde puede sentar bien al ánimo.",
+                "url": "https://www.elespanol.com/ciencia/20261012/psicologia-dice-minutos-naturaleza-partir-anos-pueden-cambiar-animo-atencion/1003744390827_0.html"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una reflexión sobre cómo recibir en clase a una alumna que llega con dolor o con miedo a moverse. Antes que cualquier adaptación, lo que necesita es sentirse vista y saber que puede elegir. Es un tema que ahora vives muy de cerca, aunque no hace falta que cuentes nada personal si no te apetece.",
-            "tags": ["Contenido", "La alumna con dolor"],
-            "guion": "GANCHO: \"Cuando una alumna llega con dolor, lo primero que necesita no es un ejercicio. Es sentirse vista.\"\n\nCUERPO: Muchas veces llegan a clase calladas, escondidas al fondo, con miedo a que el movimiento les duela o a quedar mal delante del grupo. Si al empezar preguntas cómo llega cada una, recuerdas que pueden parar cuando quieran y les ofreces siempre una opción más suave, les estás diciendo: aquí tu cuerpo manda. Y cuando el cerebro se siente seguro, el cuerpo suele soltar un poquito más. Para lo concreto de cada lesión, la última palabra es de su médico o fisio; lo nuestro es crear un espacio donde se atrevan a volver a moverse.\n\nCIERRE: ¿Cómo recibes tú a las alumnas que llegan con dolor? Te leo.",
+            "idea": "Comparte con tu comunidad una reflexión sobre el progreso de las alumnas: casi nunca va en línea recta. Hay semanas en las que parece que retroceden y, de repente, un día algo encaja. Recordarlo ayuda a la profesora a no desanimarse y a transmitir paciencia al grupo.",
+            "tags": ["Contenido", "El progreso no es lineal"],
+            "guion": "GANCHO: \"Si una alumna parece ir hacia atrás, no siempre es que no aprenda. A veces es que su cerebro está colocando las piezas.\"\n\nCUERPO: Aprender un movimiento, una respiración o una forma nueva de estar en el cuerpo lleva tiempo y repetición. Hay días buenos, días torpes y días de cansancio, y todo eso forma parte del camino. Si como profesora lo tienes presente, cambias el «esto no te sale» por un «hoy tu cuerpo te pide otra cosa, y está bien». Y esa mirada tranquila se contagia: el grupo aprende a tenerse paciencia también.\n\nCIERRE: ¿Recuerdas a alguna alumna que un día, sin avisar, dio un salto? Cuéntamelo.",
             "referente": {
-                "nombre": "Arturo Goicoechea",
-                "porque": "Neurólogo español que lleva años divulgando en su blog y en sus libros cómo el cerebro participa en el dolor. Fíjate en cómo explica algo tan delicado con calma y sin asustar: es una buena inspiración para hablar a profesionales del movimiento sobre dolor y miedo a moverse sin invadir el terreno del médico."
+                "nombre": "Marta Romo",
+                "porque": "Divulgadora española sobre neurociencia aplicada al aprendizaje, autora de «Entrena tu cerebro». Fíjate en cómo explica con sencillez que el cerebro cambia con práctica y tiempo: te puede inspirar para hablar a profesionales del movimiento de paciencia y aprendizaje sin sonar técnica."
             },
-            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una pregunta sencilla para empezar vuestras clases: «¿cómo llega hoy tu cuerpo?». A veces, solo con sentirse escuchada, una alumna con dolor ya se atreve a moverse un poquito más 🌿"
+            "mensajeWhatsapp": "Hola a todas! Un recordatorio pequeñito para esta semana: el progreso de vuestras alumnas (y el vuestro) casi nunca va en línea recta. Los días torpes también cuentan 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 5 minutos, sin pantalla: escribe en tu libreta tres palabras que describan cómo te gustaría que se sintiera el grupo de Neuroalma cuando se conecte a una sesión (por ejemplo: en confianza, con curiosidad, sin prisa). No hay que hacer nada más con ellas por ahora.",
-            "tags": ["Idea", "El clima del grupo"],
-            "aprendizaje": "En una academia pequeña, tener claro el ambiente que quieres crear te ahorra muchas decisiones: te ayuda a elegir el tono de los mensajes, cómo das la bienvenida o qué normas pones en el grupo. Es como el hilo que une todo lo demás, y se puede definir con muy pocas palabras.",
+            "idea": "Tarea de 5-10 minutos, en tu libreta: piensa en una de las personas de tu comunidad de WhatsApp y apunta qué crees que le preocupa ahora mismo en sus clases. Solo una frase. No hace falta preguntárselo todavía; es para empezar a ponerte en su lugar.",
+            "tags": ["Idea", "Sus preocupaciones"],
+            "aprendizaje": "En una academia pequeña, lo que mejor funciona es conocer de verdad los problemas de las personas a las que quieres ayudar. Cuanto mejor los entiendes, más fácil es preparar las sesiones y hablarles de Neuroalma con sus propias palabras, sin tener que convencer a nadie.",
             "recurso": {
-                "titulo": "Tribus (Seth Godin, editorial Gestión 2000)",
+                "titulo": "El método Lean Startup (Eric Ries, editorial Deusto)",
                 "tipo": "libro",
-                "porque": "Libro corto de un autor estadounidense, traducido al español, sobre cómo nacen y se cuidan las comunidades de personas que comparten una idea. Se lee a ratos, en capítulos muy breves, y te puede dar ideas para cuidar a tu pequeña comunidad de Neuroalma cuando tengas energía."
+                "porque": "Libro de un autor estadounidense, traducido al español, sobre cómo probar una idea en pequeño, escuchar a las personas y aprender antes de invertir mucho esfuerzo. Encaja con la fase de validación de Neuroalma; puedes leerlo poco a poco cuando tengas energía, sin prisa."
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, solo de pensar: apunta tres posibles nombres para el futuro grupo o canal de las mujeres de Respira Mujer. No hace falta elegir ninguno todavía; solo dejar que salgan y guardarlos en tu libreta.",
-            "tags": ["Idea", "Nombre del canal"],
-            "aprendizaje": "El nombre de un espacio de comunidad ayuda a que se sienta como un lugar al que se pertenece, no solo como un grupo más del móvil. Suele funcionar mejor algo sencillo, que se entienda a la primera y que suene a ti; no tiene que ser perfecto, se puede cambiar más adelante.",
+            "idea": "Tarea de 10 minutos, solo de escribir: haz un primer borrador, a mano y sin corregir, del mensaje de bienvenida que recibiría una mujer justo al apuntarse a Respira Mujer. Unas pocas líneas cálidas, con tu tono. No hay que enviarlo ni decidir nada más.",
+            "tags": ["Idea", "Mensaje de bienvenida"],
+            "aprendizaje": "El primer mensaje después de apuntarse es muy importante: es cuando la persona se pregunta si ha hecho bien. Un mensaje cercano que le diga «estás en el sitio adecuado» y le explique el primer paso sencillo le da tranquilidad y la anima a empezar.",
             "recurso": {
-                "titulo": "Centro de ayuda de WhatsApp: comunidades y canales",
-                "tipo": "web",
-                "porque": "Las páginas oficiales de ayuda de WhatsApp, en español, explican la diferencia entre un grupo, una comunidad y un canal. Cuando tengas ganas, te servirán para decidir qué formato encaja mejor con Respira Mujer, sin prisa.",
-                "url": "https://faq.whatsapp.com/"
+                "titulo": "Comunicación no violenta (Marshall B. Rosenberg)",
+                "tipo": "libro",
+                "porque": "Libro de un psicólogo estadounidense, traducido al español, sobre cómo hablar desde la empatía y la escucha. Te puede ayudar a escribir mensajes que acompañan sin presionar, justo lo que buscas con las mujeres de Respira Mujer. Se puede leer a trocitos."
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre los mantras de Respira Mujer: una frase pequeña que te dices a ti misma cuando todo aprieta, para recordarte que no tienes que poder con todo a la vez. Puedes cerrar regalando una «Frase para guardar».",
-            "tags": ["Contenido", "Tu mantra"],
-            "guion": "GANCHO: \"Te pasas el día hablándote. La pregunta es: ¿te hablas como a tu mejor amiga o como a una jefa insoportable?\"\n\nCUERPO: Cuando vas a mil, esa vocecita interior suele decir cosas como «no llegas», «otra vez tarde», «tendrías que poder con todo». Un mantra es justo lo contrario: una frase cortita y amable que eliges tú y que te dices cuando el día se pone cuesta arriba. No hace falta que sea en sánscrito ni que suene a taza de desayuno. Basta con algo como «paso a paso» o «ahora, solo esto». Respira, dila por dentro, y vuelve a lo que estabas haciendo un poquito más suave contigo.\n\nCIERRE: Frase para guardar: no estás rota, estás saturada. ¿Cuál sería tu mantra de hoy? Cuéntamelo en comentarios. Un abrazo con oxígeno.",
+            "idea": "Un vídeo corto sobre por qué vamos siempre en alerta, apoyado en el módulo 2: el «tigre moderno». Antes el peligro era un animal; ahora son los mensajes, las prisas y la lista infinita, y el cuerpo reacciona casi igual.",
+            "tags": ["Contenido", "El tigre moderno"],
+            "guion": "GANCHO: \"Tu cuerpo cree que te persigue un tigre. Y el tigre es el grupo de WhatsApp del cole.\"\n\nCUERPO: Nuestro sistema nervioso autónomo está diseñado para salvarnos de peligros de verdad: se acelera el corazón, se tensan los hombros y vamos a mil. El problema es que hoy los tigres son modernos: el correo urgente, la cena sin hacer, el «mamá, ¿dónde está…?». Y el cuerpo, muy aplicado él, reacciona como si fuera la sabana. No estás exagerando, amiga mía; estás en alerta casi todo el día. La buena noticia es que también puedes avisarle de que el tigre se ha ido, con algo tan sencillo como soltar el aire despacito.\n\nCIERRE: ¿Cuál es tu tigre moderno de hoy? Te leo. Un abrazo con oxígeno.",
             "referente": {
-                "nombre": "Mónica Esgueva",
-                "porque": "Autora y divulgadora española de meditación y crecimiento personal, con libros como «Mindfulness: una guía práctica para encontrar la paz interior». Fíjate en cómo acerca la calma y la meditación a gente con vidas muy ocupadas, sin tono místico: muy en la línea de tu autocuidado que cabe en el caos."
+                "nombre": "Marian Rojas Estapé",
+                "porque": "Psiquiatra y divulgadora española, autora de «Cómo hacer que te pasen cosas buenas». Fíjate en cómo explica el estrés y el estado de alerta con ejemplos del día a día que cualquiera entiende: te puede inspirar para contar la parte de cerebro de Respira Mujer de forma cercana."
             },
-            "mensajeWhatsapp": "Hola, amiga! Hoy te propongo elegir un mantra pequeñito para los momentos en que todo aprieta, algo como «paso a paso» o «ahora, solo esto». Respira y dítelo por dentro. Un abrazo con oxígeno 🌿"
+            "mensajeWhatsapp": "Hola, amiga! Hoy, cuando notes que vas a mil, prueba a decirte por dentro: «no hay ningún tigre, puedo bajar una marcha». Y suelta el aire despacito. Un abrazo con oxígeno 🌿"
         }
     }
 }

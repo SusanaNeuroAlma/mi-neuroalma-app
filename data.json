@@ -1,65 +1,66 @@
 {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Un pensamiento tranquilo para hoy sobre tu oficio, sin nada que hacer: cuando un grupo respira o se mueve a la vez, pasa algo que no ocurre cuando cada una va por su lado. Recuerda alguna clase tuya en la que notaste que todas estabais en la misma onda. Quédate solo con ese recuerdo; tu cuerpo sigue a lo suyo, recuperándose, y no hace falta nada más.",
-            "tags": ["Oficio", "La sintonía del grupo"],
-            "aprendizaje": "Sostener a un grupo no es solo dar indicaciones: también es encontrar un ritmo común. Un inicio lento y compartido, como unas respiraciones juntas, ayuda a que personas que llegan de sitios y prisas distintas empiecen a estar en la misma sala de verdad.",
+            "idea": "Un juego tranquilo para este sábado, sin moverte del sofá: cuando notes algo por dentro, busca la palabra exacta. No «bien» ni «ahí vamos», sino «impaciente», «aburrida», «esperanzada» o la que sea de verdad. Tú ya tienes práctica, que a tu lesión la llamaste Rigoberto. Y si hoy la palabra es «harta», también vale: el cuerpo sigue a su ritmo y no hay que cambiar nada.",
+            "tags": ["Bienestar", "Ponerle nombre"],
+            "aprendizaje": "Poner nombre a lo que sientes no lo hace desaparecer, pero puede suavizarlo un poco y ayudarte a seguir con otra cosa. Cuanto más precisa es la palabra, mejor: por eso merece la pena ir un poco más allá del «bien» de siempre.",
             "frase": {
-                "texto": "Solos podemos hacer muy poco; juntos podemos hacer mucho.",
-                "autor": "Helen Keller, en sus charlas de los años veinte, recogida en la biografía de Joseph P. Lash (1980), traducción libre"
+                "texto": "Un afecto que es una pasión deja de ser una pasión tan pronto como nos formamos de él una idea clara y distinta.",
+                "autor": "Baruch Spinoza, «Ética» (parte V, proposición 3), traducción libre"
             },
             "noticia": {
-                "titulo": "La reveladora demostración de la ciencia sobre los cerebros de los bailarines de tango",
-                "resumen": "Nota de Tiempo de San Juan (8 de mayo de 2026) sobre un estudio de la Universidad de Colorado Boulder con cinco parejas de tango argentino, que bailaron con sensores de actividad cerebral y de movimiento. Cuando se movían al unísono, su actividad cerebral también se parecía mucho más; cuando los pasos no coincidían, tampoco coincidía esa actividad. Es un estudio muy pequeño y con parejas de baile, no con clases de grupo, así que tómalo como una curiosidad bonita y no como una conclusión sobre yoga, pilates o taichí.",
-                "url": "https://www.tiempodesanjuan.com/el-mundo/la-reveladora-demostracion-la-ciencia-los-cerebros-los-bailarines-tango-n429779"
+                "titulo": "Día 1: En serio, ¿cómo estás?",
+                "resumen": "Artículo de Tara Parker-Pope para The New York Times, publicado en Montevideo Portal el 25 de mayo de 2021, así que no es una novedad de esta semana. Explica que, en estudios con escáner cerebral de Matt Lieberman (Universidad de California, Los Ángeles), la amígdala se calmaba en quienes nombraban la emoción que veían en un rostro, y se activaba una zona que ayuda a gestionar las reacciones. Son experimentos de laboratorio, no un tratamiento; tómalo como una curiosidad práctica.",
+                "url": "https://www.montevideo.com.uy/Archivo/Dia-1-En-serio--como-estas--uc787545"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una idea sencilla: antes de que empiece la clase, lo primero que entra en la sala es el estado de la profesora. Unos segundos para llegar a ti misma antes de saludar cambian cómo recibes al grupo.",
-            "tags": ["Contenido", "Llegar antes de empezar"],
-            "guion": "GANCHO: \"Tu clase no empieza cuando dices «buenos días». Empieza cuando entras por la puerta.\"\n\nCUERPO: Llegas corriendo, con la cabeza en lo que has dejado a medias, y sin darte cuenta le prestas esas prisas al grupo. Las alumnas lo notan antes de que abras la boca: en tu voz, en tu ritmo, en cómo las miras. No hace falta un ritual largo. Basta con parar unos segundos antes de empezar, soltar el aire y preguntarte: ¿cómo llego yo hoy? No es para estar perfecta. Es para estar presente.\n\nCIERRE: ¿Qué haces tú justo antes de empezar una clase? Te leo.",
+            "idea": "Cuéntale a tu comunidad por qué tu lesión se llama Rigoberto y qué te ha enseñado eso para tus clases: lo que tiene nombre se puede mirar y se puede hablar. De ahí sale una propuesta muy sencilla para el inicio de una sesión: una palabra para decir cómo llega cada una.",
+            "tags": ["Contenido", "Una palabra al llegar"],
+            "guion": "GANCHO: \"Mi lesión de cuello se llama Rigoberto. Y sí, ya es uno más en casa.\"\n\nCUERPO: Le puse nombre porque con humor se lleva mejor que con drama. Y ahí entendí algo que vale para cualquier clase: lo que tiene nombre deja de ser una nube que lo tapa todo. Tus alumnas llegan diciendo «bien», y muchas veces no están tan bien. Prueba a preguntar al empezar: si eligieras una sola palabra para cómo llegas hoy, ¿cuál sería? Sin explicarla y sin que nadie la arregle. Y quien prefiera callar, también vale, porque acompañar no es invadir.\n\nCIERRE: ¿Tú le has puesto nombre a algo tuyo? Cuéntamelo, que Rigoberto quiere hacer amigos.",
             "referente": {
-                "nombre": "Francisco Mora",
-                "porque": "Médico y neurocientífico español, autor de «Neuroeducación: solo se puede aprender aquello que se ama» (Alianza Editorial). Fíjate en cómo une emoción y aprendizaje con palabras claras: te puede inspirar para hablar a profesionales del movimiento de por qué cómo se sienten en clase importa tanto como lo que enseñan."
+                "nombre": "Isra Bravo",
+                "porque": "Copywriter español, autor de «Escribo porque me gusta ganar dinero» y «300 palabras». Fíjate en cómo convierte cosas de su vida en textos cortos y fáciles de leer. Su estilo es bastante más descarado que el tuyo: quédate con la sencillez y deja la actitud."
             },
-            "mensajeWhatsapp": "Hola a todas! Una idea pequeñita para vuestra próxima clase: antes de saludar, parad unos segundos y preguntaos «¿cómo llego yo hoy?». Sin arreglar nada, solo para saberlo 🌿"
+            "mensajeWhatsapp": "Hola a todas! Una preguntita para este sábado: si tuvierais que elegir una sola palabra para cómo llegáis hoy, ¿cuál sería? No hace falta contestar, es solo para vosotras 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 5-10 minutos, en tu libreta: apunta dos o tres cosas de Neuroalma que pueden esperar sin problema a una edición futura. Solo escribirlas, sin decidir nada más. Es una forma de quitarte peso de encima mientras el proyecto madura.",
-            "tags": ["Idea", "Lo que puede esperar"],
-            "aprendizaje": "En una academia pequeña no hace falta tenerlo todo en la primera edición. Decidir qué se queda fuera por ahora es tan importante como decidir qué entra: te ahorra energía y deja más espacio para cuidar lo esencial, que en tu caso son las sesiones en directo.",
+            "idea": "Tarea de 10 minutos, en tu libreta: apunta tres personas que te conozcan bien y que podrían hablarle de Neuroalma a alguien de su mundo, como una compañera de formación o una antigua profesora. Solo los nombres, sin escribir a nadie. Queda guardado para cuando tengas energía.",
+            "tags": ["Idea", "Boca a boca"],
+            "aprendizaje": "En una academia pequeña, la recomendación de alguien de confianza suele pesar más que cualquier anuncio. Ayuda mucho que quien te conoce sepa explicar en una frase qué haces y para quién: así le pones fácil hablar de ti sin que tengas que pedir nada.",
             "recurso": {
-                "titulo": "Esencialismo: logra el máximo resultado con el mínimo esfuerzo (Greg McKeown, editorial Conecta)",
+                "titulo": "Contagioso: cómo conseguir que tus productos e ideas tengan éxito (Jonah Berger, Gestión 2000)",
                 "tipo": "libro",
-                "porque": "Libro traducido al español sobre elegir lo que de verdad importa y soltar el resto, sin culpa. Encaja con este momento en el que tu energía es limitada; se puede leer a trocitos, cuando te apetezca."
+                "porque": "Libro traducido al español sobre por qué unas ideas se comparten y otras no, explicado en seis factores. No es para hoy: guárdalo para cuando te apetezca leer un poco y pensar en cómo hacer que se hable de Neuroalma sin presionar a nadie.",
+                "url": "https://www.planetadelibros.com/libro-contagioso/112405"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, a mano y sin pantalla: apunta las tres ideas de la masterclass que te gustaría que una mujer tuviera siempre a mano, por ejemplo en la puerta de la nevera. Será la semilla del PDF de apoyo. No hay que diseñar nada todavía.",
-            "tags": ["Idea", "PDF de apoyo"],
-            "aprendizaje": "Un material de apoyo funciona mejor cuando es corto y fácil de usar. Una sola página con tres ideas y un gesto práctico tiene más posibilidades de usarse que un documento largo, y además ayuda a recordar lo aprendido cuando ya ha pasado la emoción del primer día.",
+            "idea": "Tarea de 10 minutos, en papel: escribe cinco nombres posibles para el programa de acompañamiento de dos meses. Valen los malos y los graciosos, que a veces abren la puerta a los buenos. No hay que elegir hoy: déjalos reposar y ya verás cuál te sigue gustando dentro de unos días.",
+            "tags": ["Idea", "Nombre del programa"],
+            "aprendizaje": "Un buen nombre dice para quién es y qué va a pasar antes que sonar bonito. Dilo en voz alta, como se lo dirías a una amiga: si necesitas explicarlo después, quizá todavía no esté.",
             "recurso": {
-                "titulo": "Ayuda de Canva: descargar tu diseño como PDF",
+                "titulo": "Guía completa: cómo vender cursos online en 2026 (Hostinger)",
                 "tipo": "guía",
-                "porque": "Explicación oficial en español de Canva para guardar un diseño como PDF. No es para hoy: guárdala para cuando quieras pasar a limpio tus tres ideas y te sientas con ganas de ponerte delante de la pantalla.",
-                "url": "https://www.canva.com/es_es/help/download-or-purchase/"
+                "porque": "Guía en español; para esta tarea basta el apartado 2, «Escribe un título de curso atractivo», con pautas como que sea claro, concreto y de menos de 50 caracteres. Algunas palabras que propone, como «probado», no van con tu tono: quédate con la claridad.",
+                "url": "https://www.hostinger.com/ar/tutoriales/?p=35743"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto con humor, apoyado en el módulo 3: el cortisol como esa amiga dramática que no sabe cuándo irse de la fiesta. Primero te ayuda, luego sube la música, y lo que necesitas es enseñarle que la fiesta terminó, sin pelearte con ella.",
-            "tags": ["Contenido", "La amiga dramática"],
-            "guion": "GANCHO: \"Tu cortisol es esa amiga dramática que no sabe cuándo irse de la fiesta.\"\n\nCUERPO: Y ojo, que no es la mala de la película. Te despierta por las mañanas y te saca de los apuros de verdad. El lío llega cuando se queda a vivir contigo: enciende las luces, sube la música y tú solo quieres silencio. Y acabas cansada pero acelerada, durmiendo regular y contestando con un tono que ni tú te reconoces. No se trata de echarla a gritos, amiga mía. Se trata de avisarle de que ya está, con gestos pequeños: una respiración larga, una pausa de tres minutos, no contestar ese WhatsApp en caliente.\n\nCIERRE: ¿Qué hace tu amiga dramática cuando se viene arriba? Te leo. Un abrazo con oxígeno.",
+            "idea": "Un vídeo corto a partir del cuento del módulo 1, la mujer del saco invisible: todo lo que cargamos sin que nadie lo vea y cómo empezar a soltar sin dramas, sacando una sola cosa que no sea tuya.",
+            "tags": ["Contenido", "El saco invisible"],
+            "guion": "GANCHO: \"Llevas a la espalda un saco que nadie ve. Y cada día pesa un poco más.\"\n\nCUERPO: Dentro van las listas, los silencios, los «sí» que querían ser «no» y unas cuantas culpas que ni siquiera son tuyas. Hay quien lo decora con flores y frases motivadoras para disimular, pero pesar, pesa igual. Spoiler: no estás rota, estás saturada. Y tampoco hace falta tirar el saco por la ventana. Empieza por abrirlo un momento, sacar una sola cosa que no sea tuya y decir: «esto sí, esto ya no».\n\nCIERRE: ¿Qué sacarías hoy de tu saco? Frase para guardar: no necesitas hacer más, necesitas volver a ti.",
             "referente": {
-                "nombre": "Nazareth Castellanos",
-                "porque": "Neurocientífica española, autora de «El espejo del cerebro» y «Neurociencia del cuerpo». Fíjate en cómo cuenta la relación entre el cuerpo, la respiración y el cerebro con calma y sencillez: te puede inspirar para explicar la parte científica de Respira Mujer sin perder cercanía."
+                "nombre": "Pilar Sordo",
+                "porque": "Psicóloga chilena, autora de «¡Viva la diferencia!» y «Bienvenido dolor», y conferenciante con charlas como «Dime cómo te hablas y te diré cuánto te quieres». Fíjate en cómo habla de la vida cotidiana con cercanía: te puede inspirar para tratar el autocuidado sin sermones."
             },
-            "mensajeWhatsapp": "Hola, amiga! Si hoy tu cortisol ha montado fiesta y no se quiere ir, no te pelees con él. Suelta el aire despacito y recuérdale que la fiesta ya terminó. Un abrazo con oxígeno 🌿"
+            "mensajeWhatsapp": "Hola, amiga! Hoy no te pido que hagas más. Mira dentro de tu saco invisible y saca una sola cosa que no sea tuya. Con una basta por hoy 🌿"
         }
     }
 }

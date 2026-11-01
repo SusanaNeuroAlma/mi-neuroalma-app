@@ -1,66 +1,65 @@
 {
-    "date": "2026-10-31",
+    "date": "2026-11-01",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Un juego tranquilo para este sábado, sin moverte del sofá: cuando notes algo por dentro, busca la palabra exacta. No «bien» ni «ahí vamos», sino «impaciente», «aburrida», «esperanzada» o la que sea de verdad. Tú ya tienes práctica, que a tu lesión la llamaste Rigoberto. Y si hoy la palabra es «harta», también vale: el cuerpo sigue a su ritmo y no hay que cambiar nada.",
-            "tags": ["Bienestar", "Ponerle nombre"],
-            "aprendizaje": "Poner nombre a lo que sientes no lo hace desaparecer, pero puede suavizarlo un poco y ayudarte a seguir con otra cosa. Cuanto más precisa es la palabra, mejor: por eso merece la pena ir un poco más allá del «bien» de siempre.",
+            "idea": "Un pensamiento de domingo sobre tu oficio, sin nada que hacer: quizá alguna vez alguien se emocionó en tu clase, en una relajación o sin saber muy bien por qué. Recuerda qué hiciste entonces, o qué te habría gustado hacer. Hoy no hay deberes: tu cuerpo sigue a lo suyo, y este recuerdo se queda guardado para cuando vuelvas a acompañar grupos.",
+            "tags": ["Oficio", "Lágrimas en clase"],
+            "aprendizaje": "Cuando alguien llora en clase casi nunca hay que arreglar nada: suele bastar con darle espacio sin señalarla, seguir con el grupo y acercarte después, con calma, para preguntarle si necesita algo. Si la emoción la desborda o se repite, lo cuidadoso es sugerirle con delicadeza que busque apoyo profesional, porque acompañar no es hacer de terapeuta.",
             "frase": {
-                "texto": "Un afecto que es una pasión deja de ser una pasión tan pronto como nos formamos de él una idea clara y distinta.",
-                "autor": "Baruch Spinoza, «Ética» (parte V, proposición 3), traducción libre"
+                "texto": "Hay lágrimas para las cosas, y lo mortal conmueve el alma.",
+                "autor": "Virgilio, «Eneida» (libro I, verso 462), traducción libre"
             },
             "noticia": {
-                "titulo": "Día 1: En serio, ¿cómo estás?",
-                "resumen": "Artículo de Tara Parker-Pope para The New York Times, publicado en Montevideo Portal el 25 de mayo de 2021, así que no es una novedad de esta semana. Explica que, en estudios con escáner cerebral de Matt Lieberman (Universidad de California, Los Ángeles), la amígdala se calmaba en quienes nombraban la emoción que veían en un rostro, y se activaba una zona que ayuda a gestionar las reacciones. Son experimentos de laboratorio, no un tratamiento; tómalo como una curiosidad práctica.",
-                "url": "https://www.montevideo.com.uy/Archivo/Dia-1-En-serio--como-estas--uc787545"
+                "titulo": "¿Lágrimas en una clase de yoga? Todo bien. Suele pasar",
+                "resumen": "Artículo de Adriana Garavito, instructora de yoga, en el blog Yogósfera de El Comercio (Perú), publicado el 27 de junio de 2016, así que no es una novedad de esta semana. Cuenta en primera persona cómo se puso a llorar en la postura del camello sin saber por qué, y cómo su profesora le dio espacio y después la tapó y le dio masajes. Es un testimonio personal con una explicación espiritual, no un estudio; fíjate sobre todo en la calma de la profesora.",
+                "url": "https://elcomercio.pe/blog/yogosfera/2016/06/lagrimas-en-una-clase-de-yoga-todo-bien-suele-pasar"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Cuéntale a tu comunidad por qué tu lesión se llama Rigoberto y qué te ha enseñado eso para tus clases: lo que tiene nombre se puede mirar y se puede hablar. De ahí sale una propuesta muy sencilla para el inicio de una sesión: una palabra para decir cómo llega cada una.",
-            "tags": ["Contenido", "Una palabra al llegar"],
-            "guion": "GANCHO: \"Mi lesión de cuello se llama Rigoberto. Y sí, ya es uno más en casa.\"\n\nCUERPO: Le puse nombre porque con humor se lleva mejor que con drama. Y ahí entendí algo que vale para cualquier clase: lo que tiene nombre deja de ser una nube que lo tapa todo. Tus alumnas llegan diciendo «bien», y muchas veces no están tan bien. Prueba a preguntar al empezar: si eligieras una sola palabra para cómo llegas hoy, ¿cuál sería? Sin explicarla y sin que nadie la arregle. Y quien prefiera callar, también vale, porque acompañar no es invadir.\n\nCIERRE: ¿Tú le has puesto nombre a algo tuyo? Cuéntamelo, que Rigoberto quiere hacer amigos.",
+            "idea": "Habla con tu comunidad de ese momento que casi nadie enseña en las formaciones: cuando una alumna se emociona en clase. Una idea sencilla para quitarle miedo: no hace falta tener la frase perfecta, sino quedarse tranquila y dejarle espacio.",
+            "tags": ["Contenido", "Cuando una alumna llora"],
+            "guion": "GANCHO: \"Una alumna se pone a llorar en la relajación. ¿Qué haces? Te adelanto una cosa: no hace falta que digas nada brillante.\"\n\nCUERPO: Imagina la escena: silencio en la sala y unas lágrimas que nadie esperaba. Lo primero que nos sale es arreglarlo. Y casi nunca hace falta. Sigue con el grupo a tu ritmo, sin señalarla, y cuando puedas, acércate con calma y pregúntale en voz baja si necesita algo. Sin pedirle explicaciones. Si ves que aquello la supera, recuérdale con cariño que hay profesionales que pueden ayudarla, porque tú acompañas, no haces de terapeuta.\n\nCIERRE: ¿Te ha pasado alguna vez en tus clases? Cuéntame qué hiciste, que de esto se habla muy poco.",
             "referente": {
-                "nombre": "Isra Bravo",
-                "porque": "Copywriter español, autor de «Escribo porque me gusta ganar dinero» y «300 palabras». Fíjate en cómo convierte cosas de su vida en textos cortos y fáciles de leer. Su estilo es bastante más descarado que el tuyo: quédate con la sencillez y deja la actitud."
+                "nombre": "Anabel González",
+                "porque": "Psiquiatra y psicoterapeuta española, autora de «Lo bueno de tener un mal día» (Planeta). Fíjate en cómo habla de reconocer y cuidar las emociones en lugar de esconderlas: es buen modelo para tratar temas delicados con claridad y sin dramatizar."
             },
-            "mensajeWhatsapp": "Hola a todas! Una preguntita para este sábado: si tuvierais que elegir una sola palabra para cómo llegáis hoy, ¿cuál sería? No hace falta contestar, es solo para vosotras 🌿"
+            "mensajeWhatsapp": "Hola a todas! Un pensamiento de domingo: si alguien se emociona en vuestra clase, no tenéis que arreglar nada. A veces lo que más sostiene es una presencia tranquila 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, en tu libreta: apunta tres personas que te conozcan bien y que podrían hablarle de Neuroalma a alguien de su mundo, como una compañera de formación o una antigua profesora. Solo los nombres, sin escribir a nadie. Queda guardado para cuando tengas energía.",
-            "tags": ["Idea", "Boca a boca"],
-            "aprendizaje": "En una academia pequeña, la recomendación de alguien de confianza suele pesar más que cualquier anuncio. Ayuda mucho que quien te conoce sepa explicar en una frase qué haces y para quién: así le pones fácil hablar de ti sin que tengas que pedir nada.",
+            "idea": "Tarea de 10 minutos, en tu libreta: completa de tres formas distintas esta frase: «Acompaño a ___ a ___». Por ejemplo, pensando en profesoras de yoga, pilates o taichí. No hay que elegir ninguna hoy: solo que salgan, y te quedarán a mano para cuando alguien te pregunte qué es Neuroalma.",
+            "tags": ["Idea", "Tu frase"],
+            "aprendizaje": "Una academia pequeña se recuerda mejor cuando se explica siempre con las mismas palabras. Cuando tengas tu frase, úsala igual en tu perfil, en WhatsApp y al hablar con la gente: repetirla no aburre, ayuda a que te recomienden.",
             "recurso": {
-                "titulo": "Contagioso: cómo conseguir que tus productos e ideas tengan éxito (Jonah Berger, Gestión 2000)",
+                "titulo": "Expertología: la ciencia de convertirse en un profesional de referencia (Andrés Pérez Ortega, Alienta)",
                 "tipo": "libro",
-                "porque": "Libro traducido al español sobre por qué unas ideas se comparten y otras no, explicado en seis factores. No es para hoy: guárdalo para cuando te apetezca leer un poco y pensar en cómo hacer que se hable de Neuroalma sin presionar a nadie.",
-                "url": "https://www.planetadelibros.com/libro-contagioso/112405"
+                "porque": "Libro práctico en español sobre marca personal, con ejercicios paso a paso. Es de 2011, así que algunas cosas sobre internet habrán cambiado, y no es para hoy: guárdalo para cuando te apetezca leer un poco y pensar en cómo presentarte.",
+                "url": "https://www.planetadelibros.com/libro-expertologia/48537"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, en papel: escribe cinco nombres posibles para el programa de acompañamiento de dos meses. Valen los malos y los graciosos, que a veces abren la puerta a los buenos. No hay que elegir hoy: déjalos reposar y ya verás cuál te sigue gustando dentro de unos días.",
-            "tags": ["Idea", "Nombre del programa"],
-            "aprendizaje": "Un buen nombre dice para quién es y qué va a pasar antes que sonar bonito. Dilo en voz alta, como se lo dirías a una amiga: si necesitas explicarlo después, quizá todavía no esté.",
+            "idea": "Tarea de 10 minutos, en papel: piensa en los bonus de compañeras que quieres incluir en el programa. Apunta dos o tres nombres y, al lado, qué dificultad de tus alumnas podría aliviar cada una con su bonus. Sin escribir a nadie todavía; solo ver si encajan.",
+            "tags": ["Idea", "Bonus de compañeras"],
+            "aprendizaje": "Un buen bonus no es «más cosas»: es lo que le quita a tu alumna un obstáculo concreto para aprovechar lo principal. A una mujer con dos minutos para respirar, un regalo enorme hasta puede agobiarla; mejor pocos, pequeños y útiles.",
             "recurso": {
-                "titulo": "Guía completa: cómo vender cursos online en 2026 (Hostinger)",
-                "tipo": "guía",
-                "porque": "Guía en español; para esta tarea basta el apartado 2, «Escribe un título de curso atractivo», con pautas como que sea claro, concreto y de menos de 50 caracteres. Algunas palabras que propone, como «probado», no van con tu tono: quédate con la claridad.",
-                "url": "https://www.hostinger.com/ar/tutoriales/?p=35743"
+                "titulo": "Ofertas de $100M (Alex Hormozi, edición en español)",
+                "tipo": "libro",
+                "porque": "Libro sobre cómo montar una oferta, también en español. Va pensado para negocios grandes y su tono de venta es muy agresivo, nada que ver contigo, así que no hace falta que lo compres: si te cruzas con él, quédate solo con la idea de que cada extra debe resolver un problema real."
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto a partir del cuento del módulo 1, la mujer del saco invisible: todo lo que cargamos sin que nadie lo vea y cómo empezar a soltar sin dramas, sacando una sola cosa que no sea tuya.",
-            "tags": ["Contenido", "El saco invisible"],
-            "guion": "GANCHO: \"Llevas a la espalda un saco que nadie ve. Y cada día pesa un poco más.\"\n\nCUERPO: Dentro van las listas, los silencios, los «sí» que querían ser «no» y unas cuantas culpas que ni siquiera son tuyas. Hay quien lo decora con flores y frases motivadoras para disimular, pero pesar, pesa igual. Spoiler: no estás rota, estás saturada. Y tampoco hace falta tirar el saco por la ventana. Empieza por abrirlo un momento, sacar una sola cosa que no sea tuya y decir: «esto sí, esto ya no».\n\nCIERRE: ¿Qué sacarías hoy de tu saco? Frase para guardar: no necesitas hacer más, necesitas volver a ti.",
+            "idea": "Un vídeo corto a partir del módulo 6, el ritual exprés: tres minutos y cuatro piezas que cada mujer elige a su medida (una respiración, un gesto ancla, una frase y un momento del día). Autocuidado que cabe en el caos, sin nada que comprar.",
+            "tags": ["Contenido", "El ritual exprés"],
+            "guion": "GANCHO: \"Tu pausa no necesita incienso, cuarzos ni música celta. Necesita tres minutos.\"\n\nCUERPO: Que si te gustan, adelante, amiga mía, pero no son obligatorios. Tu ritual exprés lleva cuatro piezas. Una respiración: la que mejor te vaya, como soltar el aire largo. Un gesto: la mano en el pecho, por ejemplo. Una frase cortita: «estoy aquí». Y un momento: al llegar a casa, antes de dormir o cuando te haga falta. Elige las tuyas y repítelas cada día. No hace falta que salga bonito; hace falta que sea tuyo.\n\nCIERRE: ¿Cuál sería tu frase? Escríbela aquí abajo. Un abrazo con oxígeno.",
             "referente": {
-                "nombre": "Pilar Sordo",
-                "porque": "Psicóloga chilena, autora de «¡Viva la diferencia!» y «Bienvenido dolor», y conferenciante con charlas como «Dime cómo te hablas y te diré cuánto te quieres». Fíjate en cómo habla de la vida cotidiana con cercanía: te puede inspirar para tratar el autocuidado sin sermones."
+                "nombre": "Laura Rojas-Marcos",
+                "porque": "Psicóloga clínica y autora de «El sentimiento de culpa», un libro que distingue entre la culpa real y la falsa. Fíjate en cómo explica de forma sencilla un tema muy cercano al de tus alumnas: esa culpa que aparece justo cuando por fin paras."
             },
-            "mensajeWhatsapp": "Hola, amiga! Hoy no te pido que hagas más. Mira dentro de tu saco invisible y saca una sola cosa que no sea tuya. Con una basta por hoy 🌿"
+            "mensajeWhatsapp": "Amiga mía, tres minutos también cuentan. Hoy, al llegar a casa, mano en el pecho, suelta el aire despacio y dite: «estoy aquí». Ya está, eso es todo 🌿"
         }
     }
 }

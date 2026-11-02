@@ -1,65 +1,66 @@
 {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Un pensamiento de domingo sobre tu oficio, sin nada que hacer: quizá alguna vez alguien se emocionó en tu clase, en una relajación o sin saber muy bien por qué. Recuerda qué hiciste entonces, o qué te habría gustado hacer. Hoy no hay deberes: tu cuerpo sigue a lo suyo, y este recuerdo se queda guardado para cuando vuelvas a acompañar grupos.",
-            "tags": ["Oficio", "Lágrimas en clase"],
-            "aprendizaje": "Cuando alguien llora en clase casi nunca hay que arreglar nada: suele bastar con darle espacio sin señalarla, seguir con el grupo y acercarte después, con calma, para preguntarle si necesita algo. Si la emoción la desborda o se repite, lo cuidadoso es sugerirle con delicadeza que busque apoyo profesional, porque acompañar no es hacer de terapeuta.",
+            "idea": "Hoy, sin moverte del sitio: acerca a la nariz algo que tengas a mano, una taza de café, una naranja o una toalla recién lavada, y mira si te trae algún recuerdo. Si no viene ninguno, tampoco pasa nada. Tu cuerpo sigue a su ritmo, sin prisa, y hoy no tiene que demostrarte nada.",
+            "tags": ["Bienestar", "Olores y recuerdos"],
+            "aprendizaje": "Un olor puede devolverte a un recuerdo de golpe, y no es solo una impresión: en los experimentos, un recuerdo personal se evoca con más facilidad a través de su olor que a través del nombre de ese olor. La nariz también guarda parte de tu historia.",
             "frase": {
-                "texto": "Hay lágrimas para las cosas, y lo mortal conmueve el alma.",
-                "autor": "Virgilio, «Eneida» (libro I, verso 462), traducción libre"
+                "texto": "Cuando nada subsiste de un pasado antiguo, el olor y el sabor permanecen aún mucho tiempo.",
+                "autor": "Marcel Proust, «Por el camino de Swann» (1913), traducción libre"
             },
             "noticia": {
-                "titulo": "¿Lágrimas en una clase de yoga? Todo bien. Suele pasar",
-                "resumen": "Artículo de Adriana Garavito, instructora de yoga, en el blog Yogósfera de El Comercio (Perú), publicado el 27 de junio de 2016, así que no es una novedad de esta semana. Cuenta en primera persona cómo se puso a llorar en la postura del camello sin saber por qué, y cómo su profesora le dio espacio y después la tapó y le dio masajes. Es un testimonio personal con una explicación espiritual, no un estudio; fíjate sobre todo en la calma de la profesora.",
-                "url": "https://elcomercio.pe/blog/yogosfera/2016/06/lagrimas-en-una-clase-de-yoga-todo-bien-suele-pasar"
+                "titulo": "¿Por qué recordamos los olores del pasado?",
+                "resumen": "Artículo de José María Delgado García, profesor emérito de neurociencia de la Universidad Pablo de Olavide, publicado en The Conversation en 2021, así que no es una novedad de esta semana. Explica el llamado fenómeno Proust y cuenta que las vías del olfato conectan con zonas del cerebro ligadas a la emoción y a la memoria, como la amígdala y el hipocampo. Termina reconociendo que aún queda por responder cómo un sabor se convierte en recuerdo.",
+                "url": "https://www.upo.es/diario/?p=30869205"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Habla con tu comunidad de ese momento que casi nadie enseña en las formaciones: cuando una alumna se emociona en clase. Una idea sencilla para quitarle miedo: no hace falta tener la frase perfecta, sino quedarse tranquila y dejarle espacio.",
-            "tags": ["Contenido", "Cuando una alumna llora"],
-            "guion": "GANCHO: \"Una alumna se pone a llorar en la relajación. ¿Qué haces? Te adelanto una cosa: no hace falta que digas nada brillante.\"\n\nCUERPO: Imagina la escena: silencio en la sala y unas lágrimas que nadie esperaba. Lo primero que nos sale es arreglarlo. Y casi nunca hace falta. Sigue con el grupo a tu ritmo, sin señalarla, y cuando puedas, acércate con calma y pregúntale en voz baja si necesita algo. Sin pedirle explicaciones. Si ves que aquello la supera, recuérdale con cariño que hay profesionales que pueden ayudarla, porque tú acompañas, no haces de terapeuta.\n\nCIERRE: ¿Te ha pasado alguna vez en tus clases? Cuéntame qué hiciste, que de esto se habla muy poco.",
+            "idea": "Habla con tu comunidad de algo que casi nadie piensa al preparar una clase: el olor de la sala. Un incienso que a ti te relaja a otra persona puede molestarle o traerle un mal recuerdo, y preguntar antes es una forma sencilla de cuidar al grupo.",
+            "tags": ["Contenido", "El olor de la sala"],
+            "guion": "GANCHO: \"Preparas la sala con todo el cariño, enciendes tu incienso favorito... y a una alumna se le cierra la garganta.\"\n\nCUERPO: Lo que huele a calma para ti no huele a calma para todo el mundo. A una persona puede darle alergia o dolor de cabeza, y a otra recordarle algo que preferiría no recordar. Los olores van muy unidos a la memoria y a las emociones. No hace falta quitar nada de golpe: basta con preguntar antes, ventilar bien y dejar que el aroma sea una opción, no algo que el grupo tenga que aguantar.\n\nCIERRE: ¿A qué huele tu sala? Cuéntamelo, que me encanta saber estos detalles.",
             "referente": {
-                "nombre": "Anabel González",
-                "porque": "Psiquiatra y psicoterapeuta española, autora de «Lo bueno de tener un mal día» (Planeta). Fíjate en cómo habla de reconocer y cuidar las emociones en lugar de esconderlas: es buen modelo para tratar temas delicados con claridad y sin dramatizar."
+                "nombre": "José Ramón Alonso",
+                "porque": "Neurobiólogo de la Universidad de Salamanca y divulgador científico, coautor con Laura López-Mascaraque de «El olfato» (CSIC y Los Libros de la Catarata, 2017). Fíjate en cómo acerca la ciencia del cerebro al público general: es un buen modelo para ti, que quieres hablar de neurociencia sin perder a nadie por el camino."
             },
-            "mensajeWhatsapp": "Hola a todas! Un pensamiento de domingo: si alguien se emociona en vuestra clase, no tenéis que arreglar nada. A veces lo que más sostiene es una presencia tranquila 🌿"
+            "mensajeWhatsapp": "Buenos días a todas! Una curiosidad para hoy: los olores van muy unidos a nuestros recuerdos. Lo que a ti te relaja en clase puede evocarle algo muy distinto a otra persona. Preguntar antes también es acompañar 🌿"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, en tu libreta: completa de tres formas distintas esta frase: «Acompaño a ___ a ___». Por ejemplo, pensando en profesoras de yoga, pilates o taichí. No hay que elegir ninguna hoy: solo que salgan, y te quedarán a mano para cuando alguien te pregunte qué es Neuroalma.",
-            "tags": ["Idea", "Tu frase"],
-            "aprendizaje": "Una academia pequeña se recuerda mejor cuando se explica siempre con las mismas palabras. Cuando tengas tu frase, úsala igual en tu perfil, en WhatsApp y al hablar con la gente: repetirla no aburre, ayuda a que te recomienden.",
+            "idea": "Tarea de 10 minutos, en tu libreta: piensa en las 7 sesiones en directo y escribe una sola línea por sesión: «Al salir de aquí, mi alumna podrá ___». Si hoy solo te salen tres, ya está bien. Lo demás puede esperar tranquilamente.",
+            "tags": ["Idea", "Una línea por sesión"],
+            "aprendizaje": "En una formación, cada sesión se entiende y se recuerda mejor cuando tiene un resultado claro, dicho en palabras de la alumna. Esa misma línea te sirve después para preparar la sesión y para explicar a alguien qué se va a llevar.",
             "recurso": {
-                "titulo": "Expertología: la ciencia de convertirse en un profesional de referencia (Andrés Pérez Ortega, Alienta)",
+                "titulo": "¿Cómo aprendemos? Una aproximación científica al aprendizaje y la enseñanza (Héctor Ruiz Martín, Graó)",
                 "tipo": "libro",
-                "porque": "Libro práctico en español sobre marca personal, con ejercicios paso a paso. Es de 2011, así que algunas cosas sobre internet habrán cambiado, y no es para hoy: guárdalo para cuando te apetezca leer un poco y pensar en cómo presentarte.",
-                "url": "https://www.planetadelibros.com/libro-expertologia/48537"
+                "porque": "Libro en español sobre cómo funcionan la memoria y el aprendizaje, muy cercano a tu interés por el cerebro. Tiene más de 300 páginas y no es para ahora: guárdalo para cuando te apetezca leer con calma y pensar en cómo diseñar tus sesiones.",
+                "url": "https://www.casadellibro.com.co/libro-como-aprendemos-una-aproximacion-cientifica-al-aprendizaje-y-la-ensenanza/9788418058059/11254348"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, en papel: piensa en los bonus de compañeras que quieres incluir en el programa. Apunta dos o tres nombres y, al lado, qué dificultad de tus alumnas podría aliviar cada una con su bonus. Sin escribir a nadie todavía; solo ver si encajan.",
-            "tags": ["Idea", "Bonus de compañeras"],
-            "aprendizaje": "Un buen bonus no es «más cosas»: es lo que le quita a tu alumna un obstáculo concreto para aprovechar lo principal. A una mujer con dos minutos para respirar, un regalo enorme hasta puede agobiarla; mejor pocos, pequeños y útiles.",
+            "idea": "Tarea de 10 minutos, en papel: piensa en el test que tienes entre los extras de la masterclass. Escribe solo dos cosas: qué te gustaría que descubriera una mujer al terminarlo y qué pequeño paso le propondrías después. Sin grabar nada ni abrir el ordenador.",
+            "tags": ["Idea", "El test"],
+            "aprendizaje": "Un test pequeño puede ser una buena puerta de entrada si ayuda aunque la persona no compre nada: pocas preguntas, palabras claras y un resultado que le dé una idea útil. En tu caso, que sea siempre una forma de conocerse y no un diagnóstico.",
             "recurso": {
-                "titulo": "Ofertas de $100M (Alex Hormozi, edición en español)",
-                "tipo": "libro",
-                "porque": "Libro sobre cómo montar una oferta, también en español. Va pensado para negocios grandes y su tono de venta es muy agresivo, nada que ver contigo, así que no hace falta que lo compres: si te cruzas con él, quédate solo con la idea de que cada extra debe resolver un problema real."
+                "titulo": "Cómo crear un quiz online (guía completa de involve.me)",
+                "tipo": "artículo",
+                "porque": "Guía en español que explica los pasos para montar un test y da consejos sencillos, como hacerlo corto y probarlo antes de publicarlo. Es de una empresa que vende su propia herramienta, así que quédate con las ideas: no necesitas pagar nada.",
+                "url": "https://www.involve.me/es/blog/como-crear-un-quiz-online"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto a partir del módulo 6, el ritual exprés: tres minutos y cuatro piezas que cada mujer elige a su medida (una respiración, un gesto ancla, una frase y un momento del día). Autocuidado que cabe en el caos, sin nada que comprar.",
-            "tags": ["Contenido", "El ritual exprés"],
-            "guion": "GANCHO: \"Tu pausa no necesita incienso, cuarzos ni música celta. Necesita tres minutos.\"\n\nCUERPO: Que si te gustan, adelante, amiga mía, pero no son obligatorios. Tu ritual exprés lleva cuatro piezas. Una respiración: la que mejor te vaya, como soltar el aire largo. Un gesto: la mano en el pecho, por ejemplo. Una frase cortita: «estoy aquí». Y un momento: al llegar a casa, antes de dormir o cuando te haga falta. Elige las tuyas y repítelas cada día. No hace falta que salga bonito; hace falta que sea tuyo.\n\nCIERRE: ¿Cuál sería tu frase? Escríbela aquí abajo. Un abrazo con oxígeno.",
+            "idea": "Un vídeo corto a partir del módulo 8, volver a ti: esa trampa de creer que solo puedes cuidarte cuando todo esté en orden. Con humor y sin sermón, para recordar que el cuidado también cabe en mitad del lío.",
+            "tags": ["Contenido", "Empezar mientras tanto"],
+            "guion": "GANCHO: \"Cuando acabe esta semana, me cuido. Spoiler: nunca está todo en orden.\"\n\nCUERPO: Primero la colada, luego el trabajo, luego los demás y, si queda algo, tú. Y no queda, amiga mía. Volver a ti no es dejarlo todo y marcharte al Himalaya a meditar con el Yeti. Es parar cinco minutos y respirar con ganas. Es decir que no cuando algo te pesa. No subestimes lo pequeño: la clave está en los gestos cortitos que repites, no en esperar al lunes perfecto.\n\nCIERRE: Frase para guardar: no hace falta que todo esté bien para empezar a estar mejor. ¿Qué estás dejando para cuando todo esté en orden? Cuéntamelo.",
             "referente": {
-                "nombre": "Laura Rojas-Marcos",
-                "porque": "Psicóloga clínica y autora de «El sentimiento de culpa», un libro que distingue entre la culpa real y la falsa. Fíjate en cómo explica de forma sencilla un tema muy cercano al de tus alumnas: esa culpa que aparece justo cuando por fin paras."
+                "nombre": "Molo Cebrián",
+                "porque": "Presenta y produce el pódcast «Entiende tu mente», junto a Luis Muiño y Mónica González, uno de los más escuchados de psicología en español. Fíjate en cómo habla de estrés y emociones con palabras de andar por casa, sin dar lecciones."
             },
-            "mensajeWhatsapp": "Amiga mía, tres minutos también cuentan. Hoy, al llegar a casa, mano en el pecho, suelta el aire despacio y dite: «estoy aquí». Ya está, eso es todo 🌿"
+            "mensajeWhatsapp": "¿Esperando a que todo esté en orden para cuidarte? Spoiler: nunca lo está. Así que más vale empezar mientras tanto. Hoy, cinco minutos y a respirar con ganas 🌿"
         }
     }
 }

@@ -1,66 +1,66 @@
 {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy, sin moverte del sitio: acerca a la nariz algo que tengas a mano, una taza de café, una naranja o una toalla recién lavada, y mira si te trae algún recuerdo. Si no viene ninguno, tampoco pasa nada. Tu cuerpo sigue a su ritmo, sin prisa, y hoy no tiene que demostrarte nada.",
-            "tags": ["Bienestar", "Olores y recuerdos"],
-            "aprendizaje": "Un olor puede devolverte a un recuerdo de golpe, y no es solo una impresión: en los experimentos, un recuerdo personal se evoca con más facilidad a través de su olor que a través del nombre de ese olor. La nariz también guarda parte de tu historia.",
+            "idea": "Un pensamiento tranquilo sobre tu oficio, solo para recordar: piensa en alguna alumna en la que creíste antes de que ella creyera en sí misma. ¿Qué le dijiste o qué hiciste para que lo notara? Y si te apetece, prueba a mirarte hoy a ti con esos mismos ojos, con la paciencia de quien sabe que la recuperación también lleva su tiempo.",
+            "tags": ["Oficio", "La mirada de quien enseña"],
+            "aprendizaje": "Al efecto de las expectativas de quien enseña se le llama efecto Pigmalión o efecto Rosenthal, por un estudio de 1968 en escuelas. Lo interesante es cómo funciona: cuando esperamos mucho de alguien, sin darnos cuenta solemos tratarle con más calidez y le damos más atención y mejores indicaciones. Lo que crees de tu grupo se cuela en tu manera de acompañarlo.",
             "frase": {
-                "texto": "Cuando nada subsiste de un pasado antiguo, el olor y el sabor permanecen aún mucho tiempo.",
-                "autor": "Marcel Proust, «Por el camino de Swann» (1913), traducción libre"
+                "texto": "Si tomamos a las personas tal como son, las hacemos peores; si las tratamos como si fueran lo que deberían ser, las llevamos a donde pueden llegar.",
+                "autor": "Johann Wolfgang von Goethe, «Los años de aprendizaje de Wilhelm Meister» (libro VIII, capítulo 4), traducción libre"
             },
             "noticia": {
-                "titulo": "¿Por qué recordamos los olores del pasado?",
-                "resumen": "Artículo de José María Delgado García, profesor emérito de neurociencia de la Universidad Pablo de Olavide, publicado en The Conversation en 2021, así que no es una novedad de esta semana. Explica el llamado fenómeno Proust y cuenta que las vías del olfato conectan con zonas del cerebro ligadas a la emoción y a la memoria, como la amígdala y el hipocampo. Termina reconociendo que aún queda por responder cómo un sabor se convierte en recuerdo.",
-                "url": "https://www.upo.es/diario/?p=30869205"
+                "titulo": "Cómo las expectativas de los profesores moldean la experiencia de los alumnos en el aula",
+                "resumen": "Artículo divulgativo en español de The Decision Lab, no una novedad de esta semana. Explica que el efecto Pigmalión también se llama efecto Rosenthal desde 1968 y que, cuanto más alto espera un docente de un alumno, más cálido es su trato y mejor la retroalimentación que le da. También avisa de que los prejuicios que no vemos pueden orientar esas expectativas sin que nos demos cuenta.",
+                "url": "https://thedecisionlab.com/es/insights/uncategorized/how-teacher-expectations-shape-students-experience-in-the-classroom"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Habla con tu comunidad de algo que casi nadie piensa al preparar una clase: el olor de la sala. Un incienso que a ti te relaja a otra persona puede molestarle o traerle un mal recuerdo, y preguntar antes es una forma sencilla de cuidar al grupo.",
-            "tags": ["Contenido", "El olor de la sala"],
-            "guion": "GANCHO: \"Preparas la sala con todo el cariño, enciendes tu incienso favorito... y a una alumna se le cierra la garganta.\"\n\nCUERPO: Lo que huele a calma para ti no huele a calma para todo el mundo. A una persona puede darle alergia o dolor de cabeza, y a otra recordarle algo que preferiría no recordar. Los olores van muy unidos a la memoria y a las emociones. No hace falta quitar nada de golpe: basta con preguntar antes, ventilar bien y dejar que el aroma sea una opción, no algo que el grupo tenga que aguantar.\n\nCIERRE: ¿A qué huele tu sala? Cuéntamelo, que me encanta saber estos detalles.",
+            "idea": "Comparte con tu comunidad una idea sencilla sobre el oficio: lo que crees de tus alumnas se nota, aunque no lo digas. La mirada con la que recibes a alguien nuevo en clase también enseña.",
+            "tags": ["Contenido", "Lo que crees de tu grupo"],
+            "guion": "GANCHO: \"Tus alumnas notan lo que piensas de ellas, aunque no digas ni una palabra.\"\n\nCUERPO: Cuando esperas poco de alguien, sin querer le hablas menos, le corriges menos y le miras menos. Y cuando confías en alguien, le das más tiempo, más calidez y mejores indicaciones. A esto se le llama efecto Pigmalión, y se estudia desde hace décadas en las aulas. En una clase de movimiento pasa igual: esa alumna rígida o insegura puede florecer si alguien la mira como si ya pudiera.\n\nCIERRE: ¿Recuerdas a alguien que creyó en ti antes que tú? Cuéntamelo, me encantará leerte.",
             "referente": {
-                "nombre": "José Ramón Alonso",
-                "porque": "Neurobiólogo de la Universidad de Salamanca y divulgador científico, coautor con Laura López-Mascaraque de «El olfato» (CSIC y Los Libros de la Catarata, 2017). Fíjate en cómo acerca la ciencia del cerebro al público general: es un buen modelo para ti, que quieres hablar de neurociencia sin perder a nadie por el camino."
+                "nombre": "César Bona",
+                "porque": "Maestro de Primaria aragonés, finalista del Global Teacher Prize en 2015 y autor de «La nueva educación» (Plaza & Janés, 2015). Fíjate en cómo habla de confiar en el alumnado y de escucharlo, con historias de su propia aula y sin tecnicismos: es justo el tono cercano que buscas para hablar de tu oficio."
             },
-            "mensajeWhatsapp": "Buenos días a todas! Una curiosidad para hoy: los olores van muy unidos a nuestros recuerdos. Lo que a ti te relaja en clase puede evocarle algo muy distinto a otra persona. Preguntar antes también es acompañar 🌿"
+            "mensajeWhatsapp": "Buenos días a todas! Una reflexión para hoy: la forma en que miramos a una alumna también enseña. Cuando confiamos en alguien, sin darnos cuenta le damos más tiempo y más calidez. ¿Quién creyó en ti antes que tú? 🌱"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, en tu libreta: piensa en las 7 sesiones en directo y escribe una sola línea por sesión: «Al salir de aquí, mi alumna podrá ___». Si hoy solo te salen tres, ya está bien. Lo demás puede esperar tranquilamente.",
-            "tags": ["Idea", "Una línea por sesión"],
-            "aprendizaje": "En una formación, cada sesión se entiende y se recuerda mejor cuando tiene un resultado claro, dicho en palabras de la alumna. Esa misma línea te sirve después para preparar la sesión y para explicar a alguien qué se va a llevar.",
+            "idea": "Tarea de 10 minutos, en tu libreta: escribe tres preguntas que te gustaría hacer a cada alumna antes de la primera sesión. Por ejemplo, qué espera llevarse, qué le preocupa de sus clases y cómo le gusta aprender. Solo las preguntas; cómo enviarlas puede esperar.",
+            "tags": ["Idea", "Preguntas antes de empezar"],
+            "aprendizaje": "Saber qué espera cada alumna antes de empezar te ayuda a ajustar las sesiones y a evitar malentendidos. Además, desde el primer día sienten que hay alguien que se interesa por ellas, y eso hace grupo antes incluso de conectarse.",
             "recurso": {
-                "titulo": "¿Cómo aprendemos? Una aproximación científica al aprendizaje y la enseñanza (Héctor Ruiz Martín, Graó)",
-                "tipo": "libro",
-                "porque": "Libro en español sobre cómo funcionan la memoria y el aprendizaje, muy cercano a tu interés por el cerebro. Tiene más de 300 páginas y no es para ahora: guárdalo para cuando te apetezca leer con calma y pensar en cómo diseñar tus sesiones.",
-                "url": "https://www.casadellibro.com.co/libro-como-aprendemos-una-aproximacion-cientifica-al-aprendizaje-y-la-ensenanza/9788418058059/11254348"
+                "titulo": "Cómo usar Formularios de Google (centro de ayuda de Google, en español)",
+                "tipo": "guía",
+                "porque": "Ayuda oficial y gratuita para crear un cuestionario sencillo y recoger las respuestas en un solo sitio. No es para hoy: guárdala para cuando tengas tus tres preguntas y te apetezca pasarlas a limpio.",
+                "url": "https://support.google.com/docs/answer/6281888?hl=es"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, en papel: piensa en el test que tienes entre los extras de la masterclass. Escribe solo dos cosas: qué te gustaría que descubriera una mujer al terminarlo y qué pequeño paso le propondrías después. Sin grabar nada ni abrir el ordenador.",
-            "tags": ["Idea", "El test"],
-            "aprendizaje": "Un test pequeño puede ser una buena puerta de entrada si ayuda aunque la persona no compre nada: pocas preguntas, palabras claras y un resultado que le dé una idea útil. En tu caso, que sea siempre una forma de conocerse y no un diagnóstico.",
+            "idea": "Tarea de 10 minutos, en papel: escribe un borrador del primer mensaje que recibiría una mujer justo después de apuntarse a Respira Mujer. Tres o cuatro líneas: un saludo cálido, por dónde empezar y cuánto tiempo le llevará. Sin enviarlo ni pasarlo al ordenador.",
+            "tags": ["Idea", "El primer mensaje"],
+            "aprendizaje": "El recibo de pago le dice a la persona que su compra ha ido bien; el mensaje de bienvenida le dice qué hacer ahora. Para una mujer saturada, una sola indicación clara, como empezar por el primer vídeo, vale más que una lista larga de cosas que hacer.",
             "recurso": {
-                "titulo": "Cómo crear un quiz online (guía completa de involve.me)",
+                "titulo": "Incorporación de estudiantes: cómo dar la bienvenida a tus alumnos (blog de MemberPress, en español)",
                 "tipo": "artículo",
-                "porque": "Guía en español que explica los pasos para montar un test y da consejos sencillos, como hacerlo corto y probarlo antes de publicarlo. Es de una empresa que vende su propia herramienta, así que quédate con las ideas: no necesitas pagar nada.",
-                "url": "https://www.involve.me/es/blog/como-crear-un-quiz-online"
+                "porque": "Explica qué conviene incluir en la bienvenida de un curso online: cómo empezar, en qué centrarse primero y cómo avanzar. Es de una empresa que vende su propia herramienta para WordPress, así que quédate solo con las ideas; tú ya tienes tu academia.",
+                "url": "https://memberpress.com/es/blog/onboarding-students/"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto a partir del módulo 8, volver a ti: esa trampa de creer que solo puedes cuidarte cuando todo esté en orden. Con humor y sin sermón, para recordar que el cuidado también cabe en mitad del lío.",
-            "tags": ["Contenido", "Empezar mientras tanto"],
-            "guion": "GANCHO: \"Cuando acabe esta semana, me cuido. Spoiler: nunca está todo en orden.\"\n\nCUERPO: Primero la colada, luego el trabajo, luego los demás y, si queda algo, tú. Y no queda, amiga mía. Volver a ti no es dejarlo todo y marcharte al Himalaya a meditar con el Yeti. Es parar cinco minutos y respirar con ganas. Es decir que no cuando algo te pesa. No subestimes lo pequeño: la clave está en los gestos cortitos que repites, no en esperar al lunes perfecto.\n\nCIERRE: Frase para guardar: no hace falta que todo esté bien para empezar a estar mejor. ¿Qué estás dejando para cuando todo esté en orden? Cuéntamelo.",
+            "idea": "Un vídeo corto sobre las micropausas: esos parones de un minuto que caben entre lavadora y lavadora. Con humor, para desmontar la idea de que cuidarse necesita una tarde libre que nunca llega.",
+            "tags": ["Contenido", "Micropausas"],
+            "guion": "GANCHO: \"No tienes una hora para ti. Ya lo sé. ¿Y un minuto?\"\n\nCUERPO: Esperamos al hueco perfecto para cuidarnos: la tarde libre, el fin de semana tranquilo, las vacaciones. Y mientras tanto, vamos en modo botón rojo todo el día. Las micropausas son otra cosa: un minuto mientras se calienta el café, una respiración lenta antes de abrir el correo, soltar los hombros en un semáforo. No hace falta convertirte en Buda con WiFi. Pequeñas pausas, repetidas, pueden ayudar a tu cuerpo a salir un ratito del modo alerta.\n\nCIERRE: Frase para guardar: no necesitas más tiempo, necesitas pequeños huecos para volver a ti. ¿Dónde vas a esconder tu micropausa de hoy?",
             "referente": {
-                "nombre": "Molo Cebrián",
-                "porque": "Presenta y produce el pódcast «Entiende tu mente», junto a Luis Muiño y Mónica González, uno de los más escuchados de psicología en español. Fíjate en cómo habla de estrés y emociones con palabras de andar por casa, sin dar lecciones."
+                "nombre": "María Jesús Álava Reyes",
+                "porque": "Psicóloga española, autora de «La inutilidad del sufrimiento» (La Esfera de los Libros) y habitual en radio y televisión. Fíjate en cómo da ideas prácticas para gestionar el estrés del día a día con frases cortas y fáciles de recordar, sin sonar a consulta."
             },
-            "mensajeWhatsapp": "¿Esperando a que todo esté en orden para cuidarte? Spoiler: nunca lo está. Así que más vale empezar mientras tanto. Hoy, cinco minutos y a respirar con ganas 🌿"
+            "mensajeWhatsapp": "¿Esperando la tarde libre para cuidarte? Prueba hoy algo más pequeño: un minuto mientras se calienta el café, respirando despacio y soltando los hombros. Eso también cuenta 🌿"
         }
     }
 }

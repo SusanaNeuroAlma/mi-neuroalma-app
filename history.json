@@ -3955,5 +3955,71 @@
             "mensajeWhatsapp": "Amiga mía, tres minutos también cuentan. Hoy, al llegar a casa, mano en el pecho, suelta el aire despacio y dite: «estoy aquí». Ya está, eso es todo 🌿"
         }
     }
+},
+{
+    "date": "2026-11-02",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Hoy, sin moverte del sitio: acerca a la nariz algo que tengas a mano, una taza de café, una naranja o una toalla recién lavada, y mira si te trae algún recuerdo. Si no viene ninguno, tampoco pasa nada. Tu cuerpo sigue a su ritmo, sin prisa, y hoy no tiene que demostrarte nada.",
+            "tags": ["Bienestar", "Olores y recuerdos"],
+            "aprendizaje": "Un olor puede devolverte a un recuerdo de golpe, y no es solo una impresión: en los experimentos, un recuerdo personal se evoca con más facilidad a través de su olor que a través del nombre de ese olor. La nariz también guarda parte de tu historia.",
+            "frase": {
+                "texto": "Cuando nada subsiste de un pasado antiguo, el olor y el sabor permanecen aún mucho tiempo.",
+                "autor": "Marcel Proust, «Por el camino de Swann» (1913), traducción libre"
+            },
+            "noticia": {
+                "titulo": "¿Por qué recordamos los olores del pasado?",
+                "resumen": "Artículo de José María Delgado García, profesor emérito de neurociencia de la Universidad Pablo de Olavide, publicado en The Conversation en 2021, así que no es una novedad de esta semana. Explica el llamado fenómeno Proust y cuenta que las vías del olfato conectan con zonas del cerebro ligadas a la emoción y a la memoria, como la amígdala y el hipocampo. Termina reconociendo que aún queda por responder cómo un sabor se convierte en recuerdo.",
+                "url": "https://www.upo.es/diario/?p=30869205"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Habla con tu comunidad de algo que casi nadie piensa al preparar una clase: el olor de la sala. Un incienso que a ti te relaja a otra persona puede molestarle o traerle un mal recuerdo, y preguntar antes es una forma sencilla de cuidar al grupo.",
+            "tags": ["Contenido", "El olor de la sala"],
+            "guion": "GANCHO: \"Preparas la sala con todo el cariño, enciendes tu incienso favorito... y a una alumna se le cierra la garganta.\"\n\nCUERPO: Lo que huele a calma para ti no huele a calma para todo el mundo. A una persona puede darle alergia o dolor de cabeza, y a otra recordarle algo que preferiría no recordar. Los olores van muy unidos a la memoria y a las emociones. No hace falta quitar nada de golpe: basta con preguntar antes, ventilar bien y dejar que el aroma sea una opción, no algo que el grupo tenga que aguantar.\n\nCIERRE: ¿A qué huele tu sala? Cuéntamelo, que me encanta saber estos detalles.",
+            "referente": {
+                "nombre": "José Ramón Alonso",
+                "porque": "Neurobiólogo de la Universidad de Salamanca y divulgador científico, coautor con Laura López-Mascaraque de «El olfato» (CSIC y Los Libros de la Catarata, 2017). Fíjate en cómo acerca la ciencia del cerebro al público general: es un buen modelo para ti, que quieres hablar de neurociencia sin perder a nadie por el camino."
+            },
+            "mensajeWhatsapp": "Buenos días a todas! Una curiosidad para hoy: los olores van muy unidos a nuestros recuerdos. Lo que a ti te relaja en clase puede evocarle algo muy distinto a otra persona. Preguntar antes también es acompañar 🌿"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Tarea de 10 minutos, en tu libreta: piensa en las 7 sesiones en directo y escribe una sola línea por sesión: «Al salir de aquí, mi alumna podrá ___». Si hoy solo te salen tres, ya está bien. Lo demás puede esperar tranquilamente.",
+            "tags": ["Idea", "Una línea por sesión"],
+            "aprendizaje": "En una formación, cada sesión se entiende y se recuerda mejor cuando tiene un resultado claro, dicho en palabras de la alumna. Esa misma línea te sirve después para preparar la sesión y para explicar a alguien qué se va a llevar.",
+            "recurso": {
+                "titulo": "¿Cómo aprendemos? Una aproximación científica al aprendizaje y la enseñanza (Héctor Ruiz Martín, Graó)",
+                "tipo": "libro",
+                "porque": "Libro en español sobre cómo funcionan la memoria y el aprendizaje, muy cercano a tu interés por el cerebro. Tiene más de 300 páginas y no es para ahora: guárdalo para cuando te apetezca leer con calma y pensar en cómo diseñar tus sesiones.",
+                "url": "https://www.casadellibro.com.co/libro-como-aprendemos-una-aproximacion-cientifica-al-aprendizaje-y-la-ensenanza/9788418058059/11254348"
+            }
+        },
+        "respira": {
+            "title": "Respira Mujer",
+            "idea": "Tarea de 10 minutos, en papel: piensa en el test que tienes entre los extras de la masterclass. Escribe solo dos cosas: qué te gustaría que descubriera una mujer al terminarlo y qué pequeño paso le propondrías después. Sin grabar nada ni abrir el ordenador.",
+            "tags": ["Idea", "El test"],
+            "aprendizaje": "Un test pequeño puede ser una buena puerta de entrada si ayuda aunque la persona no compre nada: pocas preguntas, palabras claras y un resultado que le dé una idea útil. En tu caso, que sea siempre una forma de conocerse y no un diagnóstico.",
+            "recurso": {
+                "titulo": "Cómo crear un quiz online (guía completa de involve.me)",
+                "tipo": "artículo",
+                "porque": "Guía en español que explica los pasos para montar un test y da consejos sencillos, como hacerlo corto y probarlo antes de publicarlo. Es de una empresa que vende su propia herramienta, así que quédate con las ideas: no necesitas pagar nada.",
+                "url": "https://www.involve.me/es/blog/como-crear-un-quiz-online"
+            }
+        },
+        "respiramarca": {
+            "title": "Marca personal Respira Mujer",
+            "idea": "Un vídeo corto a partir del módulo 8, volver a ti: esa trampa de creer que solo puedes cuidarte cuando todo esté en orden. Con humor y sin sermón, para recordar que el cuidado también cabe en mitad del lío.",
+            "tags": ["Contenido", "Empezar mientras tanto"],
+            "guion": "GANCHO: \"Cuando acabe esta semana, me cuido. Spoiler: nunca está todo en orden.\"\n\nCUERPO: Primero la colada, luego el trabajo, luego los demás y, si queda algo, tú. Y no queda, amiga mía. Volver a ti no es dejarlo todo y marcharte al Himalaya a meditar con el Yeti. Es parar cinco minutos y respirar con ganas. Es decir que no cuando algo te pesa. No subestimes lo pequeño: la clave está en los gestos cortitos que repites, no en esperar al lunes perfecto.\n\nCIERRE: Frase para guardar: no hace falta que todo esté bien para empezar a estar mejor. ¿Qué estás dejando para cuando todo esté en orden? Cuéntamelo.",
+            "referente": {
+                "nombre": "Molo Cebrián",
+                "porque": "Presenta y produce el pódcast «Entiende tu mente», junto a Luis Muiño y Mónica González, uno de los más escuchados de psicología en español. Fíjate en cómo habla de estrés y emociones con palabras de andar por casa, sin dar lecciones."
+            },
+            "mensajeWhatsapp": "¿Esperando a que todo esté en orden para cuidarte? Spoiler: nunca lo está. Así que más vale empezar mientras tanto. Hoy, cinco minutos y a respirar con ganas 🌿"
+        }
+    }
 }
 ]

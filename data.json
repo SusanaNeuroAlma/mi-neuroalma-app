@@ -1,66 +1,65 @@
 {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Un pensamiento tranquilo sobre tu oficio, solo para recordar: piensa en alguna alumna en la que creíste antes de que ella creyera en sí misma. ¿Qué le dijiste o qué hiciste para que lo notara? Y si te apetece, prueba a mirarte hoy a ti con esos mismos ojos, con la paciencia de quien sabe que la recuperación también lleva su tiempo.",
-            "tags": ["Oficio", "La mirada de quien enseña"],
-            "aprendizaje": "Al efecto de las expectativas de quien enseña se le llama efecto Pigmalión o efecto Rosenthal, por un estudio de 1968 en escuelas. Lo interesante es cómo funciona: cuando esperamos mucho de alguien, sin darnos cuenta solemos tratarle con más calidez y le damos más atención y mejores indicaciones. Lo que crees de tu grupo se cuela en tu manera de acompañarlo.",
+            "idea": "Una curiosidad para estos días de recuperación: tu cerebro no se apaga cuando no haces nada. Si hoy te pilla un rato de aburrimiento, en el sofá o mirando por la ventana, prueba a no llenarlo con el móvil. No es tiempo perdido: también es parte de descansar y de tener paciencia contigo.",
+            "tags": ["Bienestar", "El valor de no hacer nada"],
+            "aprendizaje": "Cuando dejamos de atender a lo de fuera se activa una red del cerebro llamada red neuronal por defecto, relacionada con divagar, recordar e imaginar. Muchos estudios la vinculan con la creatividad, aunque todavía se investiga cómo funciona exactamente. Lo que sí parece claro es que la estimulación constante le deja poco espacio.",
             "frase": {
-                "texto": "Si tomamos a las personas tal como son, las hacemos peores; si las tratamos como si fueran lo que deberían ser, las llevamos a donde pueden llegar.",
-                "autor": "Johann Wolfgang von Goethe, «Los años de aprendizaje de Wilhelm Meister» (libro VIII, capítulo 4), traducción libre"
+                "texto": "He dicho a menudo que toda la desdicha de los hombres viene de una sola cosa: no saber quedarse tranquilos en una habitación.",
+                "autor": "Blaise Pascal, «Pensamientos» (1670), traducción libre"
             },
             "noticia": {
-                "titulo": "Cómo las expectativas de los profesores moldean la experiencia de los alumnos en el aula",
-                "resumen": "Artículo divulgativo en español de The Decision Lab, no una novedad de esta semana. Explica que el efecto Pigmalión también se llama efecto Rosenthal desde 1968 y que, cuanto más alto espera un docente de un alumno, más cálido es su trato y mejor la retroalimentación que le da. También avisa de que los prejuicios que no vemos pueden orientar esas expectativas sin que nos demos cuenta.",
-                "url": "https://thedecisionlab.com/es/insights/uncategorized/how-teacher-expectations-shape-students-experience-in-the-classroom"
+                "titulo": "Por qué el aburrimiento estratégico es beneficioso para el cerebro",
+                "resumen": "Artículo divulgativo del diario argentino La Gaceta que defiende que aburrirse de vez en cuando, sin taparlo con estímulos, puede sentarle bien al cerebro.",
+                "url": "https://www.lagaceta.com.ar/nota/1141279/sociedad/por-aburrimiento-estrategico-beneficioso-para-cerebro.html"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una idea sencilla sobre el oficio: lo que crees de tus alumnas se nota, aunque no lo digas. La mirada con la que recibes a alguien nuevo en clase también enseña.",
-            "tags": ["Contenido", "Lo que crees de tu grupo"],
-            "guion": "GANCHO: \"Tus alumnas notan lo que piensas de ellas, aunque no digas ni una palabra.\"\n\nCUERPO: Cuando esperas poco de alguien, sin querer le hablas menos, le corriges menos y le miras menos. Y cuando confías en alguien, le das más tiempo, más calidez y mejores indicaciones. A esto se le llama efecto Pigmalión, y se estudia desde hace décadas en las aulas. En una clase de movimiento pasa igual: esa alumna rígida o insegura puede florecer si alguien la mira como si ya pudiera.\n\nCIERRE: ¿Recuerdas a alguien que creyó en ti antes que tú? Cuéntamelo, me encantará leerte.",
+            "idea": "Comparte con tu comunidad una reflexión sobre el silencio en clase: no hace falta llenar cada segundo con indicaciones. A veces, lo que más enseña es callarse un momento y dejar que el cuerpo de cada alumna hable.",
+            "tags": ["Contenido", "El silencio en clase"],
+            "guion": "GANCHO: \"¿Y si lo mejor que puedes decir en tu próxima clase es nada?\"\n\nCUERPO: Cuando empezamos a dar clase nos da miedo el silencio. Parece que si no hablamos, el grupo se pierde. Así que explicamos, corregimos y animamos sin parar. Pero un silencio a tiempo, después de una postura o antes de cerrar, le da a cada alumna espacio para notar lo que está pasando dentro. El silencio no es un hueco vacío: también es una forma de acompañar.\n\nCIERRE: Próxima clase, regálate un minuto de silencio sin rellenarlo. Y luego cuéntame qué pasó en la sala.",
             "referente": {
-                "nombre": "César Bona",
-                "porque": "Maestro de Primaria aragonés, finalista del Global Teacher Prize en 2015 y autor de «La nueva educación» (Plaza & Janés, 2015). Fíjate en cómo habla de confiar en el alumnado y de escucharlo, con historias de su propia aula y sin tecnicismos: es justo el tono cercano que buscas para hablar de tu oficio."
+                "nombre": "Pablo d'Ors",
+                "porque": "Escritor madrileño y fundador de la red de meditadores Amigos del Desierto, autor de «Biografía del silencio» (Siruela, 2012; luego reeditado por Galaxia Gutenberg), un ensayo breve sobre meditación con muchísimos lectores. Fíjate en cómo habla del silencio con frases sencillas y su propia experiencia, sin palabras raras: es un buen espejo para hablar de pausa a profesionales del movimiento."
             },
-            "mensajeWhatsapp": "Buenos días a todas! Una reflexión para hoy: la forma en que miramos a una alumna también enseña. Cuando confiamos en alguien, sin darnos cuenta le damos más tiempo y más calidez. ¿Quién creyó en ti antes que tú? 🌱"
+            "mensajeWhatsapp": "Buenos días a todas! Una idea para vuestra próxima clase: probad a regalar un minuto de silencio, sin explicar ni corregir nada. Solo dejar que cada alumna note su cuerpo. A veces el silencio enseña más que las palabras 🍃"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, en tu libreta: escribe tres preguntas que te gustaría hacer a cada alumna antes de la primera sesión. Por ejemplo, qué espera llevarse, qué le preocupa de sus clases y cómo le gusta aprender. Solo las preguntas; cómo enviarlas puede esperar.",
-            "tags": ["Idea", "Preguntas antes de empezar"],
-            "aprendizaje": "Saber qué espera cada alumna antes de empezar te ayuda a ajustar las sesiones y a evitar malentendidos. Además, desde el primer día sienten que hay alguien que se interesa por ellas, y eso hace grupo antes incluso de conectarse.",
+            "idea": "Tarea de 10 minutos, sin pantalla: elige en tu agenda un único hueco tranquilo a la semana, de unos 20 minutos, que será solo para pensar en Neuroalma. Apunta el día y la hora. Nada más; el resto de la semana, Neuroalma puede madurar sola.",
+            "tags": ["Idea", "Un rato fijo a la semana"],
+            "aprendizaje": "Cuando llevas tu propia academia, es fácil que el proyecto se cuele a ratos sueltos y te canse más de la cuenta. Un rato corto y fijo, sin móvil ni prisas, cunde más que muchos ratos dispersos, y además te deja descansar el resto del tiempo sin sentir que lo abandonas.",
             "recurso": {
-                "titulo": "Cómo usar Formularios de Google (centro de ayuda de Google, en español)",
-                "tipo": "guía",
-                "porque": "Ayuda oficial y gratuita para crear un cuestionario sencillo y recoger las respuestas en un solo sitio. No es para hoy: guárdala para cuando tengas tus tres preguntas y te apetezca pasarlas a limpio.",
-                "url": "https://support.google.com/docs/answer/6281888?hl=es"
+                "titulo": "Céntrate (Deep Work), de Cal Newport (Ediciones Península, 2022)",
+                "tipo": "libro",
+                "porque": "Edición en español de un libro sobre cómo trabajar con concentración en un mundo lleno de distracciones; una de sus ideas es aprender a convivir con el aburrimiento. Es un libro para leer poco a poco cuando tengas energía, no ahora: quédate con la idea de proteger un rato tranquilo para lo importante."
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, en papel: escribe un borrador del primer mensaje que recibiría una mujer justo después de apuntarse a Respira Mujer. Tres o cuatro líneas: un saludo cálido, por dónde empezar y cuánto tiempo le llevará. Sin enviarlo ni pasarlo al ordenador.",
-            "tags": ["Idea", "El primer mensaje"],
-            "aprendizaje": "El recibo de pago le dice a la persona que su compra ha ido bien; el mensaje de bienvenida le dice qué hacer ahora. Para una mujer saturada, una sola indicación clara, como empezar por el primer vídeo, vale más que una lista larga de cosas que hacer.",
+            "idea": "Tarea de 10 minutos, en papel: escribe tres preguntas abiertas que te gustaría hacer a las mujeres que ya vieron la masterclass. Por ejemplo, cómo estaba antes, qué herramienta le sirvió más y qué le diría a una amiga que duda. Solo escribirlas; enviarlas puede esperar.",
+            "tags": ["Idea", "Preguntas para pedir opinión"],
+            "aprendizaje": "Las preguntas abiertas ayudan a que la persona cuente su experiencia con sus propias palabras, en vez de responder con un simple \"me gustó\". Y esas palabras suyas serán muy útiles cuando más adelante expliques a quién ayuda Respira Mujer.",
             "recurso": {
-                "titulo": "Incorporación de estudiantes: cómo dar la bienvenida a tus alumnos (blog de MemberPress, en español)",
+                "titulo": "Cómo solicitar un testimonio de satisfacción a un cliente (blog de HubSpot, en español)",
                 "tipo": "artículo",
-                "porque": "Explica qué conviene incluir en la bienvenida de un curso online: cómo empezar, en qué centrarse primero y cómo avanzar. Es de una empresa que vende su propia herramienta para WordPress, así que quédate solo con las ideas; tú ya tienes tu academia.",
-                "url": "https://memberpress.com/es/blog/onboarding-students/"
+                "porque": "Guía en español que recomienda hacer preguntas abiertas, preguntar por el problema que la persona tenía antes y cómo fue su experiencia, y pedirlo con un mensaje breve y personal. Es de una empresa de software, así que quédate solo con las ideas.",
+                "url": "https://blog.hubspot.es/service/solicitar-testimonio-clientes"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre las micropausas: esos parones de un minuto que caben entre lavadora y lavadora. Con humor, para desmontar la idea de que cuidarse necesita una tarde libre que nunca llega.",
-            "tags": ["Contenido", "Micropausas"],
-            "guion": "GANCHO: \"No tienes una hora para ti. Ya lo sé. ¿Y un minuto?\"\n\nCUERPO: Esperamos al hueco perfecto para cuidarnos: la tarde libre, el fin de semana tranquilo, las vacaciones. Y mientras tanto, vamos en modo botón rojo todo el día. Las micropausas son otra cosa: un minuto mientras se calienta el café, una respiración lenta antes de abrir el correo, soltar los hombros en un semáforo. No hace falta convertirte en Buda con WiFi. Pequeñas pausas, repetidas, pueden ayudar a tu cuerpo a salir un ratito del modo alerta.\n\nCIERRE: Frase para guardar: no necesitas más tiempo, necesitas pequeños huecos para volver a ti. ¿Dónde vas a esconder tu micropausa de hoy?",
+            "idea": "Un vídeo corto sobre la culpa por parar: esa vocecita que salta en cuanto te sientas cinco minutos. Con humor y cariño, para recordar que descansar no es un capricho, es mantenimiento básico.",
+            "tags": ["Contenido", "La culpa por parar"],
+            "guion": "GANCHO: \"Te sientas cinco minutos y, de repente, aparece la vocecita: 'con todo lo que tienes que hacer...'\"\n\nCUERPO: Amiga mía, esa voz no es tu conciencia, es la costumbre. Llevamos tanto tiempo sosteniendo a todo el mundo que parar nos parece casi un delito. Pero piensa en el móvil: nadie le pide que funcione sin cargarlo. Tú tampoco puedes ir siempre en modo botón rojo. Parar un rato no te hace egoísta; te ayuda a volver a ti con algo más de calma.\n\nCIERRE: Frase para guardar: descansar no es abandonar a nadie, es cargar la batería. ¿Qué le vas a contestar hoy a tu vocecita?",
             "referente": {
-                "nombre": "María Jesús Álava Reyes",
-                "porque": "Psicóloga española, autora de «La inutilidad del sufrimiento» (La Esfera de los Libros) y habitual en radio y televisión. Fíjate en cómo da ideas prácticas para gestionar el estrés del día a día con frases cortas y fáciles de recordar, sin sonar a consulta."
+                "nombre": "Elsa Punset",
+                "porque": "Escritora y divulgadora española sobre emociones, autora de libros como «Brújula para navegantes emocionales» y «Una mochila para el universo». Fíjate en cómo explica temas de bienestar emocional con un lenguaje cotidiano y cercano, pensado para cualquiera, sin sonar a terapia."
             },
-            "mensajeWhatsapp": "¿Esperando la tarde libre para cuidarte? Prueba hoy algo más pequeño: un minuto mientras se calienta el café, respirando despacio y soltando los hombros. Eso también cuenta 🌿"
+            "mensajeWhatsapp": "Si hoy te sientas un ratito y aparece la vocecita de \"con todo lo que tienes que hacer...\", contéstale con cariño: estoy cargando la batería. Descansar también es cuidarte 🌿"
         }
     }
 }

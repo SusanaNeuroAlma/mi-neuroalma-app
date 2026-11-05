@@ -4087,5 +4087,70 @@
             "mensajeWhatsapp": "¿Esperando la tarde libre para cuidarte? Prueba hoy algo más pequeño: un minuto mientras se calienta el café, respirando despacio y soltando los hombros. Eso también cuenta 🌿"
         }
     }
+},
+{
+    "date": "2026-11-04",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Una curiosidad para estos días de recuperación: tu cerebro no se apaga cuando no haces nada. Si hoy te pilla un rato de aburrimiento, en el sofá o mirando por la ventana, prueba a no llenarlo con el móvil. No es tiempo perdido: también es parte de descansar y de tener paciencia contigo.",
+            "tags": ["Bienestar", "El valor de no hacer nada"],
+            "aprendizaje": "Cuando dejamos de atender a lo de fuera se activa una red del cerebro llamada red neuronal por defecto, relacionada con divagar, recordar e imaginar. Muchos estudios la vinculan con la creatividad, aunque todavía se investiga cómo funciona exactamente. Lo que sí parece claro es que la estimulación constante le deja poco espacio.",
+            "frase": {
+                "texto": "He dicho a menudo que toda la desdicha de los hombres viene de una sola cosa: no saber quedarse tranquilos en una habitación.",
+                "autor": "Blaise Pascal, «Pensamientos» (1670), traducción libre"
+            },
+            "noticia": {
+                "titulo": "Por qué el aburrimiento estratégico es beneficioso para el cerebro",
+                "resumen": "Artículo divulgativo del diario argentino La Gaceta que defiende que aburrirse de vez en cuando, sin taparlo con estímulos, puede sentarle bien al cerebro.",
+                "url": "https://www.lagaceta.com.ar/nota/1141279/sociedad/por-aburrimiento-estrategico-beneficioso-para-cerebro.html"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Comparte con tu comunidad una reflexión sobre el silencio en clase: no hace falta llenar cada segundo con indicaciones. A veces, lo que más enseña es callarse un momento y dejar que el cuerpo de cada alumna hable.",
+            "tags": ["Contenido", "El silencio en clase"],
+            "guion": "GANCHO: \"¿Y si lo mejor que puedes decir en tu próxima clase es nada?\"\n\nCUERPO: Cuando empezamos a dar clase nos da miedo el silencio. Parece que si no hablamos, el grupo se pierde. Así que explicamos, corregimos y animamos sin parar. Pero un silencio a tiempo, después de una postura o antes de cerrar, le da a cada alumna espacio para notar lo que está pasando dentro. El silencio no es un hueco vacío: también es una forma de acompañar.\n\nCIERRE: Próxima clase, regálate un minuto de silencio sin rellenarlo. Y luego cuéntame qué pasó en la sala.",
+            "referente": {
+                "nombre": "Pablo d'Ors",
+                "porque": "Escritor madrileño y fundador de la red de meditadores Amigos del Desierto, autor de «Biografía del silencio» (Siruela, 2012; luego reeditado por Galaxia Gutenberg), un ensayo breve sobre meditación con muchísimos lectores. Fíjate en cómo habla del silencio con frases sencillas y su propia experiencia, sin palabras raras: es un buen espejo para hablar de pausa a profesionales del movimiento."
+            },
+            "mensajeWhatsapp": "Buenos días a todas! Una idea para vuestra próxima clase: probad a regalar un minuto de silencio, sin explicar ni corregir nada. Solo dejar que cada alumna note su cuerpo. A veces el silencio enseña más que las palabras 🍃"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Tarea de 10 minutos, sin pantalla: elige en tu agenda un único hueco tranquilo a la semana, de unos 20 minutos, que será solo para pensar en Neuroalma. Apunta el día y la hora. Nada más; el resto de la semana, Neuroalma puede madurar sola.",
+            "tags": ["Idea", "Un rato fijo a la semana"],
+            "aprendizaje": "Cuando llevas tu propia academia, es fácil que el proyecto se cuele a ratos sueltos y te canse más de la cuenta. Un rato corto y fijo, sin móvil ni prisas, cunde más que muchos ratos dispersos, y además te deja descansar el resto del tiempo sin sentir que lo abandonas.",
+            "recurso": {
+                "titulo": "Céntrate (Deep Work), de Cal Newport (Ediciones Península, 2022)",
+                "tipo": "libro",
+                "porque": "Edición en español de un libro sobre cómo trabajar con concentración en un mundo lleno de distracciones; una de sus ideas es aprender a convivir con el aburrimiento. Es un libro para leer poco a poco cuando tengas energía, no ahora: quédate con la idea de proteger un rato tranquilo para lo importante."
+            }
+        },
+        "respira": {
+            "title": "Respira Mujer",
+            "idea": "Tarea de 10 minutos, en papel: escribe tres preguntas abiertas que te gustaría hacer a las mujeres que ya vieron la masterclass. Por ejemplo, cómo estaba antes, qué herramienta le sirvió más y qué le diría a una amiga que duda. Solo escribirlas; enviarlas puede esperar.",
+            "tags": ["Idea", "Preguntas para pedir opinión"],
+            "aprendizaje": "Las preguntas abiertas ayudan a que la persona cuente su experiencia con sus propias palabras, en vez de responder con un simple \"me gustó\". Y esas palabras suyas serán muy útiles cuando más adelante expliques a quién ayuda Respira Mujer.",
+            "recurso": {
+                "titulo": "Cómo solicitar un testimonio de satisfacción a un cliente (blog de HubSpot, en español)",
+                "tipo": "artículo",
+                "porque": "Guía en español que recomienda hacer preguntas abiertas, preguntar por el problema que la persona tenía antes y cómo fue su experiencia, y pedirlo con un mensaje breve y personal. Es de una empresa de software, así que quédate solo con las ideas.",
+                "url": "https://blog.hubspot.es/service/solicitar-testimonio-clientes"
+            }
+        },
+        "respiramarca": {
+            "title": "Marca personal Respira Mujer",
+            "idea": "Un vídeo corto sobre la culpa por parar: esa vocecita que salta en cuanto te sientas cinco minutos. Con humor y cariño, para recordar que descansar no es un capricho, es mantenimiento básico.",
+            "tags": ["Contenido", "La culpa por parar"],
+            "guion": "GANCHO: \"Te sientas cinco minutos y, de repente, aparece la vocecita: 'con todo lo que tienes que hacer...'\"\n\nCUERPO: Amiga mía, esa voz no es tu conciencia, es la costumbre. Llevamos tanto tiempo sosteniendo a todo el mundo que parar nos parece casi un delito. Pero piensa en el móvil: nadie le pide que funcione sin cargarlo. Tú tampoco puedes ir siempre en modo botón rojo. Parar un rato no te hace egoísta; te ayuda a volver a ti con algo más de calma.\n\nCIERRE: Frase para guardar: descansar no es abandonar a nadie, es cargar la batería. ¿Qué le vas a contestar hoy a tu vocecita?",
+            "referente": {
+                "nombre": "Elsa Punset",
+                "porque": "Escritora y divulgadora española sobre emociones, autora de libros como «Brújula para navegantes emocionales» y «Una mochila para el universo». Fíjate en cómo explica temas de bienestar emocional con un lenguaje cotidiano y cercano, pensado para cualquiera, sin sonar a terapia."
+            },
+            "mensajeWhatsapp": "Si hoy te sientas un ratito y aparece la vocecita de \"con todo lo que tienes que hacer...\", contéstale con cariño: estoy cargando la batería. Descansar también es cuidarte 🌿"
+        }
+    }
 }
 ]

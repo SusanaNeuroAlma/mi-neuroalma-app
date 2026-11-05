@@ -1,65 +1,66 @@
 {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Una curiosidad para estos días de recuperación: tu cerebro no se apaga cuando no haces nada. Si hoy te pilla un rato de aburrimiento, en el sofá o mirando por la ventana, prueba a no llenarlo con el móvil. No es tiempo perdido: también es parte de descansar y de tener paciencia contigo.",
-            "tags": ["Bienestar", "El valor de no hacer nada"],
-            "aprendizaje": "Cuando dejamos de atender a lo de fuera se activa una red del cerebro llamada red neuronal por defecto, relacionada con divagar, recordar e imaginar. Muchos estudios la vinculan con la creatividad, aunque todavía se investiga cómo funciona exactamente. Lo que sí parece claro es que la estimulación constante le deja poco espacio.",
+            "idea": "Una idea para tu oficio, para pensarla sin prisa desde el sofá: en casi todas las clases hay alguna alumna que mira de reojo a la de al lado y se siente menos. Recuerda alguna frase tuya que ayudaba a que cada una volviera a su propio cuerpo, en vez de compararse. Hoy basta con recordarla; no hay que hacer nada más.",
+            "tags": ["Oficio", "La alumna que se compara"],
+            "aprendizaje": "Hace ya muchos años, el psicólogo Leon Festinger explicó que las personas tendemos a medirnos comparándonos con los demás, sobre todo cuando no tenemos otra referencia clara. Por eso, cuando en clase invitas a cada alumna a fijarse en cómo se siente ella hoy, le das una referencia propia y la comparación pierde fuerza.",
             "frase": {
-                "texto": "He dicho a menudo que toda la desdicha de los hombres viene de una sola cosa: no saber quedarse tranquilos en una habitación.",
-                "autor": "Blaise Pascal, «Pensamientos» (1670), traducción libre"
+                "texto": "Cada hombre lleva en sí la forma entera de la condición humana.",
+                "autor": "Michel de Montaigne, «Ensayos» (libro III), traducción libre"
             },
             "noticia": {
-                "titulo": "Por qué el aburrimiento estratégico es beneficioso para el cerebro",
-                "resumen": "Artículo divulgativo del diario argentino La Gaceta que defiende que aburrirse de vez en cuando, sin taparlo con estímulos, puede sentarle bien al cerebro.",
-                "url": "https://www.lagaceta.com.ar/nota/1141279/sociedad/por-aburrimiento-estrategico-beneficioso-para-cerebro.html"
+                "titulo": "La comparación que nos roba la calma: una mirada desde la psicología y la neurociencia",
+                "resumen": "Artículo divulgativo de Psicología y Mente que repasa la teoría de la comparación social de Festinger y explica cómo compararnos con los demás puede quitarnos tranquilidad.",
+                "url": "https://psicologiaymente.com/psicologia/comparacion-que-nos-roba-calma-mirada-desde-psicologia-y-neurociencia"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una reflexión sobre el silencio en clase: no hace falta llenar cada segundo con indicaciones. A veces, lo que más enseña es callarse un momento y dejar que el cuerpo de cada alumna hable.",
-            "tags": ["Contenido", "El silencio en clase"],
-            "guion": "GANCHO: \"¿Y si lo mejor que puedes decir en tu próxima clase es nada?\"\n\nCUERPO: Cuando empezamos a dar clase nos da miedo el silencio. Parece que si no hablamos, el grupo se pierde. Así que explicamos, corregimos y animamos sin parar. Pero un silencio a tiempo, después de una postura o antes de cerrar, le da a cada alumna espacio para notar lo que está pasando dentro. El silencio no es un hueco vacío: también es una forma de acompañar.\n\nCIERRE: Próxima clase, regálate un minuto de silencio sin rellenarlo. Y luego cuéntame qué pasó en la sala.",
+            "idea": "Comparte con tu comunidad algo muy humano: equivocarse delante del grupo. Decir derecha cuando era izquierda, perder el hilo o confundir una secuencia. Cómo lo vives tú enseña al grupo más que cualquier postura perfecta.",
+            "tags": ["Contenido", "Equivocarse en clase"],
+            "guion": "GANCHO: \"Dije derecha, todo el grupo fue a la izquierda... y la que se equivocó fui yo.\"\n\nCUERPO: A todas nos ha pasado. Por un segundo sientes que has perdido la autoridad y te entran ganas de disimular. Pero cuando te ríes con cariño y dices \"perdón, quería decir izquierda\", pasa algo bonito: el grupo se relaja. Ven que aquí nadie tiene que ser perfecta, tampoco la profe. Y una sala donde se puede fallar es una sala donde se aprende con más tranquilidad.\n\nCIERRE: ¿Cuál ha sido tu despiste más gracioso en clase? Cuéntamelo, que seguro que no eres la única.",
             "referente": {
-                "nombre": "Pablo d'Ors",
-                "porque": "Escritor madrileño y fundador de la red de meditadores Amigos del Desierto, autor de «Biografía del silencio» (Siruela, 2012; luego reeditado por Galaxia Gutenberg), un ensayo breve sobre meditación con muchísimos lectores. Fíjate en cómo habla del silencio con frases sencillas y su propia experiencia, sin palabras raras: es un buen espejo para hablar de pausa a profesionales del movimiento."
+                "nombre": "Antoni Bolinches",
+                "porque": "Psicólogo clínico de Barcelona, considerado uno de los introductores de la psicología humanista en España y autor de «El secreto de la autoestima». Una de las ideas de ese libro es que los buenos momentos son para disfrutarlos y los malos para aprender. Fíjate en cómo habla de los errores como parte del crecimiento, con un lenguaje sencillo, sin dramatizar."
             },
-            "mensajeWhatsapp": "Buenos días a todas! Una idea para vuestra próxima clase: probad a regalar un minuto de silencio, sin explicar ni corregir nada. Solo dejar que cada alumna note su cuerpo. A veces el silencio enseña más que las palabras 🍃"
+            "mensajeWhatsapp": "Buenos días! Una pregunta para sonreír un poco: ¿cuál ha sido vuestro despiste más gracioso dando clase? Equivocarse delante del grupo también enseña algo: que en esa sala nadie tiene que ser perfecta, ni siquiera la profe 🙂"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, sin pantalla: elige en tu agenda un único hueco tranquilo a la semana, de unos 20 minutos, que será solo para pensar en Neuroalma. Apunta el día y la hora. Nada más; el resto de la semana, Neuroalma puede madurar sola.",
-            "tags": ["Idea", "Un rato fijo a la semana"],
-            "aprendizaje": "Cuando llevas tu propia academia, es fácil que el proyecto se cuele a ratos sueltos y te canse más de la cuenta. Un rato corto y fijo, sin móvil ni prisas, cunde más que muchos ratos dispersos, y además te deja descansar el resto del tiempo sin sentir que lo abandonas.",
+            "idea": "Tarea de 10 minutos, en papel: pon un título provisional y corto a cada una de las 7 sesiones de Neuroalma. No tienen que ser bonitos ni definitivos; solo una o dos palabras que te recuerden de qué va cada una. Puedes dejar huecos si alguna aún no la ves clara.",
+            "tags": ["Idea", "Títulos de las sesiones"],
+            "aprendizaje": "Cuando cada sesión tiene una sola idea principal y un nombre claro, tanto tú como las alumnas sabéis siempre dónde estáis dentro del programa. Además, esos títulos te servirán más adelante para explicar Neuroalma sin tener que dar largas explicaciones.",
             "recurso": {
-                "titulo": "Céntrate (Deep Work), de Cal Newport (Ediciones Península, 2022)",
-                "tipo": "libro",
-                "porque": "Edición en español de un libro sobre cómo trabajar con concentración en un mundo lleno de distracciones; una de sus ideas es aprender a convivir con el aburrimiento. Es un libro para leer poco a poco cuando tengas energía, no ahora: quédate con la idea de proteger un rato tranquilo para lo importante."
+                "titulo": "Cómo estructurar un curso online (blog de MemberPress, en español)",
+                "tipo": "artículo",
+                "porque": "Guía en español que recomienda centrar cada módulo en una idea clara para no saturar a quien aprende. Es de una empresa de software para vender cursos, así que quédate solo con la idea de organizar y no con lo técnico.",
+                "url": "https://memberpress.com/es/blog/how-to-structure-an-online-course/"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, en papel: escribe tres preguntas abiertas que te gustaría hacer a las mujeres que ya vieron la masterclass. Por ejemplo, cómo estaba antes, qué herramienta le sirvió más y qué le diría a una amiga que duda. Solo escribirlas; enviarlas puede esperar.",
-            "tags": ["Idea", "Preguntas para pedir opinión"],
-            "aprendizaje": "Las preguntas abiertas ayudan a que la persona cuente su experiencia con sus propias palabras, en vez de responder con un simple \"me gustó\". Y esas palabras suyas serán muy útiles cuando más adelante expliques a quién ayuda Respira Mujer.",
+            "idea": "Tarea de 10 minutos, solo para pensar y apuntar: si algún día ofreces el programa de acompañamiento en varios pagos, ¿cuántos te parecerían razonables? Escribe dos o tres opciones (por ejemplo, un pago o dos) y qué te hace sentir más tranquila de cada una. No hace falta decidir nada hoy.",
+            "tags": ["Idea", "Pensar en los pagos"],
+            "aprendizaje": "Ofrecer la opción de pagar en varias veces puede ayudar a que el precio no frene a quien realmente quiere entrar. A cambio, cobras el dinero poco a poco y tienes que llevar algo más de control, así que conviene elegir una fórmula sencilla que puedas gestionar sin agobio.",
             "recurso": {
-                "titulo": "Cómo solicitar un testimonio de satisfacción a un cliente (blog de HubSpot, en español)",
+                "titulo": "Pagos a plazos: ventajas (guía de GoCardless, en español)",
                 "tipo": "artículo",
-                "porque": "Guía en español que recomienda hacer preguntas abiertas, preguntar por el problema que la persona tenía antes y cómo fue su experiencia, y pedirlo con un mensaje breve y personal. Es de una empresa de software, así que quédate solo con las ideas.",
-                "url": "https://blog.hubspot.es/service/solicitar-testimonio-clientes"
+                "porque": "Guía en español que explica qué son los pagos a plazos, cómo pueden ayudar a vender y también su lado menos bueno, como que el dinero entra más despacio. Es de una empresa de pagos, así que tómalo solo como explicación general.",
+                "url": "https://gocardless.com/es/guias/consejos/pagos-a-plazos-ventajas"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre la culpa por parar: esa vocecita que salta en cuanto te sientas cinco minutos. Con humor y cariño, para recordar que descansar no es un capricho, es mantenimiento básico.",
-            "tags": ["Contenido", "La culpa por parar"],
-            "guion": "GANCHO: \"Te sientas cinco minutos y, de repente, aparece la vocecita: 'con todo lo que tienes que hacer...'\"\n\nCUERPO: Amiga mía, esa voz no es tu conciencia, es la costumbre. Llevamos tanto tiempo sosteniendo a todo el mundo que parar nos parece casi un delito. Pero piensa en el móvil: nadie le pide que funcione sin cargarlo. Tú tampoco puedes ir siempre en modo botón rojo. Parar un rato no te hace egoísta; te ayuda a volver a ti con algo más de calma.\n\nCIERRE: Frase para guardar: descansar no es abandonar a nadie, es cargar la batería. ¿Qué le vas a contestar hoy a tu vocecita?",
+            "idea": "Un vídeo corto con la idea fuerza de Respira Mujer: no estás rota, estás saturada. Para esa mujer que se siente torpe, olvidadiza o de mal humor y cree que le pasa algo raro, cuando en realidad lleva demasiado peso encima.",
+            "tags": ["Contenido", "No estás rota"],
+            "guion": "GANCHO: \"Se te olvidan las llaves, contestas mal y lloras con un anuncio de yogures. ¿Te estás volviendo loca?\"\n\nCUERPO: Spoiler: no, amiga mía. No estás rota, estás saturada. Cuando llevas meses sosteniendo a todo el mundo, tu cuerpo vive en alerta y la cabeza va a tope. Es normal que se te escapen cosas. No necesitas arreglarte, necesitas soltar un poco de peso y regalarte momentos pequeños de calma, de esos que caben en un día cualquiera.\n\nCIERRE: Frase para guardar: no estás rota, estás saturada. Y lo saturado se puede ir aligerando, poquito a poco.",
             "referente": {
-                "nombre": "Elsa Punset",
-                "porque": "Escritora y divulgadora española sobre emociones, autora de libros como «Brújula para navegantes emocionales» y «Una mochila para el universo». Fíjate en cómo explica temas de bienestar emocional con un lenguaje cotidiano y cercano, pensado para cualquiera, sin sonar a terapia."
+                "nombre": "Raquel Córcoles (Moderna de Pueblo)",
+                "porque": "Autora de cómic de Reus que publica como Moderna de Pueblo, con libros como «Idiotizadas» o «Coñodramas». Su humor nace de situaciones cotidianas de mujeres normales y les da la vuelta con ironía y cariño. Fíjate en cómo consigue que te rías de ti misma sin sentirte juzgada: es muy parecido a tu tono un pelín canallita."
             },
-            "mensajeWhatsapp": "Si hoy te sientas un ratito y aparece la vocecita de \"con todo lo que tienes que hacer...\", contéstale con cariño: estoy cargando la batería. Descansar también es cuidarte 🌿"
+            "mensajeWhatsapp": "Si últimamente se te olvidan cosas, estás más irritable o te emocionas por cualquier tontería, recuerda esto: no estás rota, estás saturada. Hoy regálate un minuto de calma, aunque sea con el café en la mano 🌿"
         }
     }
 }

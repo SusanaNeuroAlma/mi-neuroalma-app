@@ -1,66 +1,66 @@
 {
-    "date": "2026-11-05",
+    "date": "2026-11-07",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Una idea para tu oficio, para pensarla sin prisa desde el sofá: en casi todas las clases hay alguna alumna que mira de reojo a la de al lado y se siente menos. Recuerda alguna frase tuya que ayudaba a que cada una volviera a su propio cuerpo, en vez de compararse. Hoy basta con recordarla; no hay que hacer nada más.",
-            "tags": ["Oficio", "La alumna que se compara"],
-            "aprendizaje": "Hace ya muchos años, el psicólogo Leon Festinger explicó que las personas tendemos a medirnos comparándonos con los demás, sobre todo cuando no tenemos otra referencia clara. Por eso, cuando en clase invitas a cada alumna a fijarse en cómo se siente ella hoy, le das una referencia propia y la comparación pierde fuerza.",
+            "idea": "Una curiosidad para estos días de espera: poner por escrito lo que sientes puede ayudar a ordenarlo por dentro. Si te apetece, coge un papel y escribe durante 5 o 10 minutos cómo te estás sintiendo con la recuperación, sin corregir ni releer. Y si hoy no te apetece, también está bien: descansar es parte del camino.",
+            "tags": ["Bienestar", "Escribir lo que sientes"],
+            "aprendizaje": "El psicólogo James Pennebaker empezó en los años ochenta a estudiar la llamada escritura expresiva: escribir unos minutos, varios días seguidos, sobre lo que nos preocupa o nos ha removido. Muchos estudios posteriores apuntan a que puede aliviar algo el malestar, aunque el efecto es moderado y no a todo el mundo le sirve igual. Justo después de escribir es normal sentirse un poco removida; suele pasar pronto.",
             "frase": {
-                "texto": "Cada hombre lleva en sí la forma entera de la condición humana.",
-                "autor": "Michel de Montaigne, «Ensayos» (libro III), traducción libre"
+                "texto": "Todas las penas pueden soportarse si las ponemos en una historia o contamos una historia sobre ellas.",
+                "autor": "Isak Dinesen (Karen Blixen), citada por Hannah Arendt en «La condición humana» (1958)"
             },
             "noticia": {
-                "titulo": "La comparación que nos roba la calma: una mirada desde la psicología y la neurociencia",
-                "resumen": "Artículo divulgativo de Psicología y Mente que repasa la teoría de la comparación social de Festinger y explica cómo compararnos con los demás puede quitarnos tranquilidad.",
-                "url": "https://psicologiaymente.com/psicologia/comparacion-que-nos-roba-calma-mirada-desde-psicologia-y-neurociencia"
+                "titulo": "Escritura expresiva y bienestar emocional: una revisión de estudios (artículo en Dialnet)",
+                "resumen": "Artículo en español que recoge que, en los estudios experimentales, escribir sobre experiencias estresantes, en lugar de sobre temas neutros, reduce algo la ansiedad y el ánimo bajo, con un efecto pequeño o moderado, y que en español todavía hay pocos estudios.",
+                "url": "https://dialnet.unirioja.es/descarga/articulo/10143386.pdf"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad algo muy humano: equivocarse delante del grupo. Decir derecha cuando era izquierda, perder el hilo o confundir una secuencia. Cómo lo vives tú enseña al grupo más que cualquier postura perfecta.",
-            "tags": ["Contenido", "Equivocarse en clase"],
-            "guion": "GANCHO: \"Dije derecha, todo el grupo fue a la izquierda... y la que se equivocó fui yo.\"\n\nCUERPO: A todas nos ha pasado. Por un segundo sientes que has perdido la autoridad y te entran ganas de disimular. Pero cuando te ríes con cariño y dices \"perdón, quería decir izquierda\", pasa algo bonito: el grupo se relaja. Ven que aquí nadie tiene que ser perfecta, tampoco la profe. Y una sala donde se puede fallar es una sala donde se aprende con más tranquilidad.\n\nCIERRE: ¿Cuál ha sido tu despiste más gracioso en clase? Cuéntamelo, que seguro que no eres la única.",
+            "idea": "Comparte con tu comunidad una situación que a todas nos ha tocado: la alumna que un día deja de venir sin decir nada. Es fácil pensar que hiciste algo mal, cuando casi siempre tiene que ver con su vida y no contigo.",
+            "tags": ["Contenido", "La alumna que deja de venir"],
+            "guion": "GANCHO: \"Venía todas las semanas... y un día, sin avisar, dejó de venir. ¿Qué hice mal?\"\n\nCUERPO: Si das clases, esta pregunta te habrá rondado alguna vez. Pero la mayoría de las veces no tiene nada que ver contigo: un cambio de horario, un hijo enfermo, una mala racha, falta de dinero. Lo que sí está en tu mano es dejar la puerta abierta. Un mensaje sencillo, sin reproches, del tipo \"te echamos de menos, aquí tienes tu sitio cuando quieras\", puede hacer que esa persona sienta que importa.\n\nCIERRE: ¿Te ha pasado alguna vez? ¿Cómo lo viviste? Te leo.",
             "referente": {
-                "nombre": "Antoni Bolinches",
-                "porque": "Psicólogo clínico de Barcelona, considerado uno de los introductores de la psicología humanista en España y autor de «El secreto de la autoestima». Una de las ideas de ese libro es que los buenos momentos son para disfrutarlos y los malos para aprender. Fíjate en cómo habla de los errores como parte del crecimiento, con un lenguaje sencillo, sin dramatizar."
+                "nombre": "Mar Romera",
+                "porque": "Maestra, pedagoga y psicopedagoga granadina, experta en inteligencia emocional y autora de libros como «Educar sin recetas» o «La familia, la primera escuela de las emociones». Aunque escribe sobre todo para familias y docentes, fíjate en cómo pone la relación y las emociones en el centro del aprendizaje: es justo lo que tú haces en una sala de movimiento."
             },
-            "mensajeWhatsapp": "Buenos días! Una pregunta para sonreír un poco: ¿cuál ha sido vuestro despiste más gracioso dando clase? Equivocarse delante del grupo también enseña algo: que en esa sala nadie tiene que ser perfecta, ni siquiera la profe 🙂"
+            "mensajeWhatsapp": "Buenos días! Hoy os dejo una pregunta para pensar con calma: ¿alguna vez una alumna ha dejado de venir y te has quedado dándole vueltas? Casi siempre es cosa de su vida, no de tu clase. Y un mensaje cariñoso dejando la puerta abierta puede valer muchísimo 🙂"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, en papel: pon un título provisional y corto a cada una de las 7 sesiones de Neuroalma. No tienen que ser bonitos ni definitivos; solo una o dos palabras que te recuerden de qué va cada una. Puedes dejar huecos si alguna aún no la ves clara.",
-            "tags": ["Idea", "Títulos de las sesiones"],
-            "aprendizaje": "Cuando cada sesión tiene una sola idea principal y un nombre claro, tanto tú como las alumnas sabéis siempre dónde estáis dentro del programa. Además, esos títulos te servirán más adelante para explicar Neuroalma sin tener que dar largas explicaciones.",
+            "idea": "Tarea de 10 minutos, en papel y sin prisa: apunta tres dudas que crees que podría tener una profesora de yoga o pilates antes de apuntarse a Neuroalma (por ejemplo, sobre el horario, el precio o si le servirá para sus clases). Hoy no hace falta responderlas; solo escribirlas.",
+            "tags": ["Idea", "Las dudas antes de entrar"],
+            "aprendizaje": "Muchas personas no compran una formación porque se quedan con una duda sin resolver, no porque no les interese. Si tienes a mano esas dudas frecuentes, más adelante podrás responderlas con calma en la página o en un mensaje, y la decisión les resultará más fácil.",
             "recurso": {
-                "titulo": "Cómo estructurar un curso online (blog de MemberPress, en español)",
+                "titulo": "Cómo hacer un manejo de objeciones efectivo para los compradores de tu curso online (blog de Hotmart, en español)",
                 "tipo": "artículo",
-                "porque": "Guía en español que recomienda centrar cada módulo en una idea clara para no saturar a quien aprende. Es de una empresa de software para vender cursos, así que quédate solo con la idea de organizar y no con lo técnico.",
-                "url": "https://memberpress.com/es/blog/how-to-structure-an-online-course/"
+                "porque": "Artículo en español que recomienda explicar con claridad qué incluye el curso y sus beneficios, porque la falta de información básica puede frenar la compra. Es de una plataforma de venta de cursos, así que quédate con la idea general y no con lo técnico.",
+                "url": "https://hotmart.com/es/blog/manejo-de-objeciones"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, solo para pensar y apuntar: si algún día ofreces el programa de acompañamiento en varios pagos, ¿cuántos te parecerían razonables? Escribe dos o tres opciones (por ejemplo, un pago o dos) y qué te hace sentir más tranquila de cada una. No hace falta decidir nada hoy.",
-            "tags": ["Idea", "Pensar en los pagos"],
-            "aprendizaje": "Ofrecer la opción de pagar en varias veces puede ayudar a que el precio no frene a quien realmente quiere entrar. A cambio, cobras el dinero poco a poco y tienes que llevar algo más de control, así que conviene elegir una fórmula sencilla que puedas gestionar sin agobio.",
+            "idea": "Tarea de 10 minutos, solo para pensar: si algún día quisieras regalar un trocito pequeño de Respira Mujer para que otras mujeres te conozcan, ¿qué parte elegirías? Puede ser una herramienta concreta, como el botón mágico o una micropausa. Apunta una o dos opciones; no hay que grabar ni preparar nada.",
+            "tags": ["Idea", "Un trocito de regalo"],
+            "aprendizaje": "En marketing se llama \"lead magnet\" a un pequeño contenido gratuito que ofreces a cambio de, por ejemplo, el correo de la persona. Funciona mejor cuando es breve, claro y resuelve un problema concreto: así quien lo prueba se hace una idea real de cómo acompañas.",
             "recurso": {
-                "titulo": "Pagos a plazos: ventajas (guía de GoCardless, en español)",
+                "titulo": "¿Qué es un lead magnet? (Mailchimp, en español)",
                 "tipo": "artículo",
-                "porque": "Guía en español que explica qué son los pagos a plazos, cómo pueden ayudar a vender y también su lado menos bueno, como que el dinero entra más despacio. Es de una empresa de pagos, así que tómalo solo como explicación general.",
-                "url": "https://gocardless.com/es/guias/consejos/pagos-a-plazos-ventajas"
+                "porque": "Explicación en español de qué es un contenido gratuito para atraer personas interesadas y algunos ejemplos. Es de una empresa de correo electrónico, así que tómalo solo como explicación general.",
+                "url": "https://mailchimp.com/es/resources/what-is-a-lead-magnet/"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto con la idea fuerza de Respira Mujer: no estás rota, estás saturada. Para esa mujer que se siente torpe, olvidadiza o de mal humor y cree que le pasa algo raro, cuando en realidad lleva demasiado peso encima.",
-            "tags": ["Contenido", "No estás rota"],
-            "guion": "GANCHO: \"Se te olvidan las llaves, contestas mal y lloras con un anuncio de yogures. ¿Te estás volviendo loca?\"\n\nCUERPO: Spoiler: no, amiga mía. No estás rota, estás saturada. Cuando llevas meses sosteniendo a todo el mundo, tu cuerpo vive en alerta y la cabeza va a tope. Es normal que se te escapen cosas. No necesitas arreglarte, necesitas soltar un poco de peso y regalarte momentos pequeños de calma, de esos que caben en un día cualquiera.\n\nCIERRE: Frase para guardar: no estás rota, estás saturada. Y lo saturado se puede ir aligerando, poquito a poco.",
+            "idea": "Un vídeo corto con una pregunta sencilla: ¿cuándo fue la última vez que hiciste algo solo porque te apetecía? Para esa mujer que se pasa el día cuidando de todo y de todos, y se ha olvidado de lo que le gusta a ella.",
+            "tags": ["Contenido", "Algo solo para ti"],
+            "guion": "GANCHO: \"¿Cuándo fue la última vez que hiciste algo solo porque te apetecía? Y no vale ir al súper sola.\"\n\nCUERPO: Si te ha costado responder, no eres un caso raro, amiga mía. Cuando sostienes a todo el mundo, lo tuyo va quedando para \"cuando haya tiempo\". Y ese día nunca llega. Volver a ti no es irte de retiro una semana: es recuperar pequeñas cosas tuyas. Una canción que te encanta, un café sin prisa, cinco minutos mirando por la ventana. Cosas pequeñas que te recuerdan quién eres además de todo lo que haces.\n\nCIERRE: Frase para guardar: no tienes que ganarte el derecho a disfrutar. Hoy elige una cosa pequeña solo para ti.",
             "referente": {
-                "nombre": "Raquel Córcoles (Moderna de Pueblo)",
-                "porque": "Autora de cómic de Reus que publica como Moderna de Pueblo, con libros como «Idiotizadas» o «Coñodramas». Su humor nace de situaciones cotidianas de mujeres normales y les da la vuelta con ironía y cariño. Fíjate en cómo consigue que te rías de ti misma sin sentirte juzgada: es muy parecido a tu tono un pelín canallita."
+                "nombre": "Lorena Pronsky",
+                "porque": "Psicóloga y escritora argentina de La Plata, autora de libros como «Rota se camina igual», «Despierta» o «Cúrame», que empezó compartiendo sus textos en redes. Fíjate en cómo escribe sobre el cansancio y las emociones de las mujeres con frases cortas y muy directas, que llegan sin sonar a sermón."
             },
-            "mensajeWhatsapp": "Si últimamente se te olvidan cosas, estás más irritable o te emocionas por cualquier tontería, recuerda esto: no estás rota, estás saturada. Hoy regálate un minuto de calma, aunque sea con el café en la mano 🌿"
+            "mensajeWhatsapp": "Una pregunta para hoy: ¿qué es eso pequeño que te encantaba hacer y hace tiempo que no haces? Una canción, un paseo, un café sin prisa... Elige una cosa y regálatela esta semana. No hace falta ganárselo 🌿"
         }
     }
 }

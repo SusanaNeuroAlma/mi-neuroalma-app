@@ -3631,592 +3631,808 @@
                                        }
                   }
     },
-{
-    "date": "2026-10-28",
-    "zones": {
-        "desarrollo": {
-            "title": "Desarrollo personal",
-            "idea": "Estos días estás al otro lado: eres tú la que llega con dolor, con preguntas y con un cuerpo que va a su ritmo. Sin buscarlo, eso también es aprendizaje de oficio, porque cuando vuelvas a acompañar grupos entenderás desde dentro a la alumna que llega con miedo a moverse. Hoy no tienes que hacer nada con ello; solo, si te apetece, apunta un gesto o una frase de alguien que te esté tratando que te haya hecho sentir acompañada.",
-            "tags": ["Oficio", "Al otro lado"],
-            "aprendizaje": "Cuando alguien nos explica qué nos va a pasar y por qué, la incertidumbre baja, y al cerebro la incertidumbre le inquieta mucho. En clase ocurre igual: anunciar lo que viene y contar el sentido de cada propuesta ayuda a que la alumna se relaje y confíe.",
-            "frase": {
-                "texto": "Parte de la curación está en querer curarse.",
-                "autor": "Séneca, «Fedra» (verso 249), traducción libre"
-            },
-            "noticia": {
-                "titulo": "El Premio Nobel de Fisiología o Medicina 2026 distingue trabajo en neurociencia",
-                "resumen": "Artículo de The New York Times publicado en español por Infobae el 5 de octubre de 2026. El Nobel ha sido para Karl Deisseroth, Peter Hegemann y Georg Nagel, que hicieron posible la optogenética: una forma de encender neuronas concretas con pulsos de luz, la misma técnica de la que hablaba la noticia de hace un par de días. De momento es sobre todo una herramienta para investigar cómo funciona el cerebro, aunque el artículo menciona que da pistas para estudiar problemas como la ceguera, la depresión o la demencia.",
-                "url": "https://www.infobae.com/america/the-new-york-times/2026/10/05/el-premio-nobel-de-fisiologia-o-medicina-2026-distingue-trabajo-en-neurociencia/"
-            }
-        },
-        "marca": {
-            "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una reflexión sobre cómo recibir en clase a una alumna que llega con dolor o con miedo a moverse. Antes que cualquier adaptación, lo que necesita es sentirse vista y saber que puede elegir. Es un tema que ahora vives muy de cerca, aunque no hace falta que cuentes nada personal si no te apetece.",
-            "tags": ["Contenido", "La alumna con dolor"],
-            "guion": "GANCHO: \"Cuando una alumna llega con dolor, lo primero que necesita no es un ejercicio. Es sentirse vista.\"\n\nCUERPO: Muchas veces llegan a clase calladas, escondidas al fondo, con miedo a que el movimiento les duela o a quedar mal delante del grupo. Si al empezar preguntas cómo llega cada una, recuerdas que pueden parar cuando quieran y les ofreces siempre una opción más suave, les estás diciendo: aquí tu cuerpo manda. Y cuando el cerebro se siente seguro, el cuerpo suele soltar un poquito más. Para lo concreto de cada lesión, la última palabra es de su médico o fisio; lo nuestro es crear un espacio donde se atrevan a volver a moverse.\n\nCIERRE: ¿Cómo recibes tú a las alumnas que llegan con dolor? Te leo.",
-            "referente": {
-                "nombre": "Arturo Goicoechea",
-                "porque": "Neurólogo español que lleva años divulgando en su blog y en sus libros cómo el cerebro participa en el dolor. Fíjate en cómo explica algo tan delicado con calma y sin asustar: es una buena inspiración para hablar a profesionales del movimiento sobre dolor y miedo a moverse sin invadir el terreno del médico."
-            },
-            "mensajeWhatsapp": "Hola a todas! Hoy os dejo una pregunta sencilla para empezar vuestras clases: «¿cómo llega hoy tu cuerpo?». A veces, solo con sentirse escuchada, una alumna con dolor ya se atreve a moverse un poquito más 🌿"
-        },
-        "neuroalma": {
-            "title": "Neuroalma",
-            "idea": "Tarea de 5 minutos, sin pantalla: escribe en tu libreta tres palabras que describan cómo te gustaría que se sintiera el grupo de Neuroalma cuando se conecte a una sesión (por ejemplo: en confianza, con curiosidad, sin prisa). No hay que hacer nada más con ellas por ahora.",
-            "tags": ["Idea", "El clima del grupo"],
-            "aprendizaje": "En una academia pequeña, tener claro el ambiente que quieres crear te ahorra muchas decisiones: te ayuda a elegir el tono de los mensajes, cómo das la bienvenida o qué normas pones en el grupo. Es como el hilo que une todo lo demás, y se puede definir con muy pocas palabras.",
-            "recurso": {
-                "titulo": "Tribus (Seth Godin, editorial Gestión 2000)",
-                "tipo": "libro",
-                "porque": "Libro corto de un autor estadounidense, traducido al español, sobre cómo nacen y se cuidan las comunidades de personas que comparten una idea. Se lee a ratos, en capítulos muy breves, y te puede dar ideas para cuidar a tu pequeña comunidad de Neuroalma cuando tengas energía."
-            }
-        },
-        "respira": {
-            "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, solo de pensar: apunta tres posibles nombres para el futuro grupo o canal de las mujeres de Respira Mujer. No hace falta elegir ninguno todavía; solo dejar que salgan y guardarlos en tu libreta.",
-            "tags": ["Idea", "Nombre del canal"],
-            "aprendizaje": "El nombre de un espacio de comunidad ayuda a que se sienta como un lugar al que se pertenece, no solo como un grupo más del móvil. Suele funcionar mejor algo sencillo, que se entienda a la primera y que suene a ti; no tiene que ser perfecto, se puede cambiar más adelante.",
-            "recurso": {
-                "titulo": "Centro de ayuda de WhatsApp: comunidades y canales",
-                "tipo": "web",
-                "porque": "Las páginas oficiales de ayuda de WhatsApp, en español, explican la diferencia entre un grupo, una comunidad y un canal. Cuando tengas ganas, te servirán para decidir qué formato encaja mejor con Respira Mujer, sin prisa.",
-                "url": "https://faq.whatsapp.com/"
-            }
-        },
-        "respiramarca": {
-            "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre los mantras de Respira Mujer: una frase pequeña que te dices a ti misma cuando todo aprieta, para recordarte que no tienes que poder con todo a la vez. Puedes cerrar regalando una «Frase para guardar».",
-            "tags": ["Contenido", "Tu mantra"],
-            "guion": "GANCHO: \"Te pasas el día hablándote. La pregunta es: ¿te hablas como a tu mejor amiga o como a una jefa insoportable?\"\n\nCUERPO: Cuando vas a mil, esa vocecita interior suele decir cosas como «no llegas», «otra vez tarde», «tendrías que poder con todo». Un mantra es justo lo contrario: una frase cortita y amable que eliges tú y que te dices cuando el día se pone cuesta arriba. No hace falta que sea en sánscrito ni que suene a taza de desayuno. Basta con algo como «paso a paso» o «ahora, solo esto». Respira, dila por dentro, y vuelve a lo que estabas haciendo un poquito más suave contigo.\n\nCIERRE: Frase para guardar: no estás rota, estás saturada. ¿Cuál sería tu mantra de hoy? Cuéntamelo en comentarios. Un abrazo con oxígeno.",
-            "referente": {
-                "nombre": "Mónica Esgueva",
-                "porque": "Autora y divulgadora española de meditación y crecimiento personal, con libros como «Mindfulness: una guía práctica para encontrar la paz interior». Fíjate en cómo acerca la calma y la meditación a gente con vidas muy ocupadas, sin tono místico: muy en la línea de tu autocuidado que cabe en el caos."
-            },
-            "mensajeWhatsapp": "Hola, amiga! Hoy te propongo elegir un mantra pequeñito para los momentos en que todo aprieta, algo como «paso a paso» o «ahora, solo esto». Respira y dítelo por dentro. Un abrazo con oxígeno 🌿"
-        }
-    }
-},
-{
-    "date": "2026-10-29",
-    "zones": {
-        "desarrollo": {
-            "title": "Desarrollo personal",
-            "idea": "Hace solo un par de días de la infiltración y es normal no notar todavía gran cosa: el cuerpo se toma su tiempo y tu única tarea ahora es dejarle hacerlo. Si te apetece, hoy regálate unos minutos mirando algo verde, un árbol desde la ventana o una planta de casa, sin hacer nada más. Mirar sin buscar nada también es una forma de descanso.",
-            "tags": ["Bienestar", "Mirar lo verde"],
-            "aprendizaje": "Hay una idea en psicología llamada teoría de la restauración de la atención: estar muchas horas concentrada cansa la mente, y los paisajes naturales captan nuestro interés sin exigir esfuerzo, así que la atención puede recargarse un poco. No es magia ni sustituye a nada, pero es un descanso amable que no pide energía.",
-            "frase": {
-                "texto": "Adopta el ritmo de la naturaleza: su secreto es la paciencia.",
-                "autor": "Ralph Waldo Emerson, ensayo «Education», traducción libre"
-            },
-            "noticia": {
-                "titulo": "La psicología dice que 20 minutos de naturaleza a partir de los 65 años pueden cambiar el ánimo y la atención",
-                "resumen": "Artículo de El Español (12 de octubre de 2026) sobre un ensayo con 120 personas mayores de Taiwán que pasaron 20 minutos sentadas, sin hacer ejercicio, en un parque, en un entorno urbano o viendo un parque con gafas de realidad virtual. Quienes estuvieron en el parque real mejoraron su ánimo, aunque no tanto su atención en las pruebas; el grupo de realidad virtual sí mejoró en una prueba de memoria. Es un estudio de una sola sesión, así que no demuestra efectos a largo plazo, pero apunta a que un rato tranquilo cerca de lo verde puede sentar bien al ánimo.",
-                "url": "https://www.elespanol.com/ciencia/20261012/psicologia-dice-minutos-naturaleza-partir-anos-pueden-cambiar-animo-atencion/1003744390827_0.html"
-            }
-        },
-        "marca": {
-            "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una reflexión sobre el progreso de las alumnas: casi nunca va en línea recta. Hay semanas en las que parece que retroceden y, de repente, un día algo encaja. Recordarlo ayuda a la profesora a no desanimarse y a transmitir paciencia al grupo.",
-            "tags": ["Contenido", "El progreso no es lineal"],
-            "guion": "GANCHO: \"Si una alumna parece ir hacia atrás, no siempre es que no aprenda. A veces es que su cerebro está colocando las piezas.\"\n\nCUERPO: Aprender un movimiento, una respiración o una forma nueva de estar en el cuerpo lleva tiempo y repetición. Hay días buenos, días torpes y días de cansancio, y todo eso forma parte del camino. Si como profesora lo tienes presente, cambias el «esto no te sale» por un «hoy tu cuerpo te pide otra cosa, y está bien». Y esa mirada tranquila se contagia: el grupo aprende a tenerse paciencia también.\n\nCIERRE: ¿Recuerdas a alguna alumna que un día, sin avisar, dio un salto? Cuéntamelo.",
-            "referente": {
-                "nombre": "Marta Romo",
-                "porque": "Divulgadora española sobre neurociencia aplicada al aprendizaje, autora de «Entrena tu cerebro». Fíjate en cómo explica con sencillez que el cerebro cambia con práctica y tiempo: te puede inspirar para hablar a profesionales del movimiento de paciencia y aprendizaje sin sonar técnica."
-            },
-            "mensajeWhatsapp": "Hola a todas! Un recordatorio pequeñito para esta semana: el progreso de vuestras alumnas (y el vuestro) casi nunca va en línea recta. Los días torpes también cuentan 🌿"
-        },
-        "neuroalma": {
-            "title": "Neuroalma",
-            "idea": "Tarea de 5-10 minutos, en tu libreta: piensa en una de las personas de tu comunidad de WhatsApp y apunta qué crees que le preocupa ahora mismo en sus clases. Solo una frase. No hace falta preguntárselo todavía; es para empezar a ponerte en su lugar.",
-            "tags": ["Idea", "Sus preocupaciones"],
-            "aprendizaje": "En una academia pequeña, lo que mejor funciona es conocer de verdad los problemas de las personas a las que quieres ayudar. Cuanto mejor los entiendes, más fácil es preparar las sesiones y hablarles de Neuroalma con sus propias palabras, sin tener que convencer a nadie.",
-            "recurso": {
-                "titulo": "El método Lean Startup (Eric Ries, editorial Deusto)",
-                "tipo": "libro",
-                "porque": "Libro de un autor estadounidense, traducido al español, sobre cómo probar una idea en pequeño, escuchar a las personas y aprender antes de invertir mucho esfuerzo. Encaja con la fase de validación de Neuroalma; puedes leerlo poco a poco cuando tengas energía, sin prisa."
-            }
-        },
-        "respira": {
-            "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, solo de escribir: haz un primer borrador, a mano y sin corregir, del mensaje de bienvenida que recibiría una mujer justo al apuntarse a Respira Mujer. Unas pocas líneas cálidas, con tu tono. No hay que enviarlo ni decidir nada más.",
-            "tags": ["Idea", "Mensaje de bienvenida"],
-            "aprendizaje": "El primer mensaje después de apuntarse es muy importante: es cuando la persona se pregunta si ha hecho bien. Un mensaje cercano que le diga «estás en el sitio adecuado» y le explique el primer paso sencillo le da tranquilidad y la anima a empezar.",
-            "recurso": {
-                "titulo": "Comunicación no violenta (Marshall B. Rosenberg)",
-                "tipo": "libro",
-                "porque": "Libro de un psicólogo estadounidense, traducido al español, sobre cómo hablar desde la empatía y la escucha. Te puede ayudar a escribir mensajes que acompañan sin presionar, justo lo que buscas con las mujeres de Respira Mujer. Se puede leer a trocitos."
-            }
-        },
-        "respiramarca": {
-            "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre por qué vamos siempre en alerta, apoyado en el módulo 2: el «tigre moderno». Antes el peligro era un animal; ahora son los mensajes, las prisas y la lista infinita, y el cuerpo reacciona casi igual.",
-            "tags": ["Contenido", "El tigre moderno"],
-            "guion": "GANCHO: \"Tu cuerpo cree que te persigue un tigre. Y el tigre es el grupo de WhatsApp del cole.\"\n\nCUERPO: Nuestro sistema nervioso autónomo está diseñado para salvarnos de peligros de verdad: se acelera el corazón, se tensan los hombros y vamos a mil. El problema es que hoy los tigres son modernos: el correo urgente, la cena sin hacer, el «mamá, ¿dónde está…?». Y el cuerpo, muy aplicado él, reacciona como si fuera la sabana. No estás exagerando, amiga mía; estás en alerta casi todo el día. La buena noticia es que también puedes avisarle de que el tigre se ha ido, con algo tan sencillo como soltar el aire despacito.\n\nCIERRE: ¿Cuál es tu tigre moderno de hoy? Te leo. Un abrazo con oxígeno.",
-            "referente": {
-                "nombre": "Marian Rojas Estapé",
-                "porque": "Psiquiatra y divulgadora española, autora de «Cómo hacer que te pasen cosas buenas». Fíjate en cómo explica el estrés y el estado de alerta con ejemplos del día a día que cualquiera entiende: te puede inspirar para contar la parte de cerebro de Respira Mujer de forma cercana."
-            },
-            "mensajeWhatsapp": "Hola, amiga! Hoy, cuando notes que vas a mil, prueba a decirte por dentro: «no hay ningún tigre, puedo bajar una marcha». Y suelta el aire despacito. Un abrazo con oxígeno 🌿"
-        }
-    }
-},
-{
-    "date": "2026-10-30",
-    "zones": {
-        "desarrollo": {
-            "title": "Desarrollo personal",
-            "idea": "Un pensamiento tranquilo para hoy sobre tu oficio, sin nada que hacer: cuando un grupo respira o se mueve a la vez, pasa algo que no ocurre cuando cada una va por su lado. Recuerda alguna clase tuya en la que notaste que todas estabais en la misma onda. Quédate solo con ese recuerdo; tu cuerpo sigue a lo suyo, recuperándose, y no hace falta nada más.",
-            "tags": ["Oficio", "La sintonía del grupo"],
-            "aprendizaje": "Sostener a un grupo no es solo dar indicaciones: también es encontrar un ritmo común. Un inicio lento y compartido, como unas respiraciones juntas, ayuda a que personas que llegan de sitios y prisas distintas empiecen a estar en la misma sala de verdad.",
-            "frase": {
-                "texto": "Solos podemos hacer muy poco; juntos podemos hacer mucho.",
-                "autor": "Helen Keller, en sus charlas de los años veinte, recogida en la biografía de Joseph P. Lash (1980), traducción libre"
-            },
-            "noticia": {
-                "titulo": "La reveladora demostración de la ciencia sobre los cerebros de los bailarines de tango",
-                "resumen": "Nota de Tiempo de San Juan (8 de mayo de 2026) sobre un estudio de la Universidad de Colorado Boulder con cinco parejas de tango argentino, que bailaron con sensores de actividad cerebral y de movimiento. Cuando se movían al unísono, su actividad cerebral también se parecía mucho más; cuando los pasos no coincidían, tampoco coincidía esa actividad. Es un estudio muy pequeño y con parejas de baile, no con clases de grupo, así que tómalo como una curiosidad bonita y no como una conclusión sobre yoga, pilates o taichí.",
-                "url": "https://www.tiempodesanjuan.com/el-mundo/la-reveladora-demostracion-la-ciencia-los-cerebros-los-bailarines-tango-n429779"
-            }
-        },
-        "marca": {
-            "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una idea sencilla: antes de que empiece la clase, lo primero que entra en la sala es el estado de la profesora. Unos segundos para llegar a ti misma antes de saludar cambian cómo recibes al grupo.",
-            "tags": ["Contenido", "Llegar antes de empezar"],
-            "guion": "GANCHO: \"Tu clase no empieza cuando dices «buenos días». Empieza cuando entras por la puerta.\"\n\nCUERPO: Llegas corriendo, con la cabeza en lo que has dejado a medias, y sin darte cuenta le prestas esas prisas al grupo. Las alumnas lo notan antes de que abras la boca: en tu voz, en tu ritmo, en cómo las miras. No hace falta un ritual largo. Basta con parar unos segundos antes de empezar, soltar el aire y preguntarte: ¿cómo llego yo hoy? No es para estar perfecta. Es para estar presente.\n\nCIERRE: ¿Qué haces tú justo antes de empezar una clase? Te leo.",
-            "referente": {
-                "nombre": "Francisco Mora",
-                "porque": "Médico y neurocientífico español, autor de «Neuroeducación: solo se puede aprender aquello que se ama» (Alianza Editorial). Fíjate en cómo une emoción y aprendizaje con palabras claras: te puede inspirar para hablar a profesionales del movimiento de por qué cómo se sienten en clase importa tanto como lo que enseñan."
-            },
-            "mensajeWhatsapp": "Hola a todas! Una idea pequeñita para vuestra próxima clase: antes de saludar, parad unos segundos y preguntaos «¿cómo llego yo hoy?». Sin arreglar nada, solo para saberlo 🌿"
-        },
-        "neuroalma": {
-            "title": "Neuroalma",
-            "idea": "Tarea de 5-10 minutos, en tu libreta: apunta dos o tres cosas de Neuroalma que pueden esperar sin problema a una edición futura. Solo escribirlas, sin decidir nada más. Es una forma de quitarte peso de encima mientras el proyecto madura.",
-            "tags": ["Idea", "Lo que puede esperar"],
-            "aprendizaje": "En una academia pequeña no hace falta tenerlo todo en la primera edición. Decidir qué se queda fuera por ahora es tan importante como decidir qué entra: te ahorra energía y deja más espacio para cuidar lo esencial, que en tu caso son las sesiones en directo.",
-            "recurso": {
-                "titulo": "Esencialismo: logra el máximo resultado con el mínimo esfuerzo (Greg McKeown, editorial Conecta)",
-                "tipo": "libro",
-                "porque": "Libro traducido al español sobre elegir lo que de verdad importa y soltar el resto, sin culpa. Encaja con este momento en el que tu energía es limitada; se puede leer a trocitos, cuando te apetezca."
-            }
-        },
-        "respira": {
-            "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, a mano y sin pantalla: apunta las tres ideas de la masterclass que te gustaría que una mujer tuviera siempre a mano, por ejemplo en la puerta de la nevera. Será la semilla del PDF de apoyo. No hay que diseñar nada todavía.",
-            "tags": ["Idea", "PDF de apoyo"],
-            "aprendizaje": "Un material de apoyo funciona mejor cuando es corto y fácil de usar. Una sola página con tres ideas y un gesto práctico tiene más posibilidades de usarse que un documento largo, y además ayuda a recordar lo aprendido cuando ya ha pasado la emoción del primer día.",
-            "recurso": {
-                "titulo": "Ayuda de Canva: descargar tu diseño como PDF",
-                "tipo": "guía",
-                "porque": "Explicación oficial en español de Canva para guardar un diseño como PDF. No es para hoy: guárdala para cuando quieras pasar a limpio tus tres ideas y te sientas con ganas de ponerte delante de la pantalla.",
-                "url": "https://www.canva.com/es_es/help/download-or-purchase/"
-            }
-        },
-        "respiramarca": {
-            "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto con humor, apoyado en el módulo 3: el cortisol como esa amiga dramática que no sabe cuándo irse de la fiesta. Primero te ayuda, luego sube la música, y lo que necesitas es enseñarle que la fiesta terminó, sin pelearte con ella.",
-            "tags": ["Contenido", "La amiga dramática"],
-            "guion": "GANCHO: \"Tu cortisol es esa amiga dramática que no sabe cuándo irse de la fiesta.\"\n\nCUERPO: Y ojo, que no es la mala de la película. Te despierta por las mañanas y te saca de los apuros de verdad. El lío llega cuando se queda a vivir contigo: enciende las luces, sube la música y tú solo quieres silencio. Y acabas cansada pero acelerada, durmiendo regular y contestando con un tono que ni tú te reconoces. No se trata de echarla a gritos, amiga mía. Se trata de avisarle de que ya está, con gestos pequeños: una respiración larga, una pausa de tres minutos, no contestar ese WhatsApp en caliente.\n\nCIERRE: ¿Qué hace tu amiga dramática cuando se viene arriba? Te leo. Un abrazo con oxígeno.",
-            "referente": {
-                "nombre": "Nazareth Castellanos",
-                "porque": "Neurocientífica española, autora de «El espejo del cerebro» y «Neurociencia del cuerpo». Fíjate en cómo cuenta la relación entre el cuerpo, la respiración y el cerebro con calma y sencillez: te puede inspirar para explicar la parte científica de Respira Mujer sin perder cercanía."
-            },
-            "mensajeWhatsapp": "Hola, amiga! Si hoy tu cortisol ha montado fiesta y no se quiere ir, no te pelees con él. Suelta el aire despacito y recuérdale que la fiesta ya terminó. Un abrazo con oxígeno 🌿"
-        }
-    }
-},
     {
-        "date": "2026-10-31",
-        "zones": {
-            "desarrollo": {
-                "title": "Desarrollo personal",
-                "idea": "Un juego tranquilo para este sábado, sin moverte del sofá: cuando notes algo por dentro, busca la palabra exacta. No «bien» ni «ahí vamos», sino «impaciente», «aburrida», «esperanzada» o la que sea de verdad. Tú ya tienes práctica, que a tu lesión la llamaste Rigoberto. Y si hoy la palabra es «harta», también vale: el cuerpo sigue a su ritmo y no hay que cambiar nada.",
-                "tags": ["Bienestar", "Ponerle nombre"],
-                "aprendizaje": "Poner nombre a lo que sientes no lo hace desaparecer, pero puede suavizarlo un poco y ayudarte a seguir con otra cosa. Cuanto más precisa es la palabra, mejor: por eso merece la pena ir un poco más allá del «bien» de siempre.",
-                "frase": {
-                    "texto": "Un afecto que es una pasión deja de ser una pasión tan pronto como nos formamos de él una idea clara y distinta.",
-                    "autor": "Baruch Spinoza, «Ética» (parte V, proposición 3), traducción libre"
-                },
-                "noticia": {
-                    "titulo": "Día 1: En serio, ¿cómo estás?",
-                    "resumen": "Artículo de Tara Parker-Pope para The New York Times, publicado en Montevideo Portal el 25 de mayo de 2021, así que no es una novedad de esta semana. Explica que, en estudios con escáner cerebral de Matt Lieberman (Universidad de California, Los Ángeles), la amígdala se calmaba en quienes nombraban la emoción que veían en un rostro, y se activaba una zona que ayuda a gestionar las reacciones. Son experimentos de laboratorio, no un tratamiento; tómalo como una curiosidad práctica.",
-                    "url": "https://www.montevideo.com.uy/Archivo/Dia-1-En-serio--como-estas--uc787545"
-                }
-            },
-            "marca": {
-                "title": "Marca personal",
-                "idea": "Cuéntale a tu comunidad por qué tu lesión se llama Rigoberto y qué te ha enseñado eso para tus clases: lo que tiene nombre se puede mirar y se puede hablar. De ahí sale una propuesta muy sencilla para el inicio de una sesión: una palabra para decir cómo llega cada una.",
-                "tags": ["Contenido", "Una palabra al llegar"],
-                "guion": "GANCHO: \"Mi lesión de cuello se llama Rigoberto. Y sí, ya es uno más en casa.\"\n\nCUERPO: Le puse nombre porque con humor se lleva mejor que con drama. Y ahí entendí algo que vale para cualquier clase: lo que tiene nombre deja de ser una nube que lo tapa todo. Tus alumnas llegan diciendo «bien», y muchas veces no están tan bien. Prueba a preguntar al empezar: si eligieras una sola palabra para cómo llegas hoy, ¿cuál sería? Sin explicarla y sin que nadie la arregle. Y quien prefiera callar, también vale, porque acompañar no es invadir.\n\nCIERRE: ¿Tú le has puesto nombre a algo tuyo? Cuéntamelo, que Rigoberto quiere hacer amigos.",
-                "referente": {
-                    "nombre": "Isra Bravo",
-                    "porque": "Copywriter español, autor de «Escribo porque me gusta ganar dinero» y «300 palabras». Fíjate en cómo convierte cosas de su vida en textos cortos y fáciles de leer. Su estilo es bastante más descarado que el tuyo: quédate con la sencillez y deja la actitud."
-                },
-                "mensajeWhatsapp": "Hola a todas! Una preguntita para este sábado: si tuvierais que elegir una sola palabra para cómo llegáis hoy, ¿cuál sería? No hace falta contestar, es solo para vosotras 🌿"
-            },
-            "neuroalma": {
-                "title": "Neuroalma",
-                "idea": "Tarea de 10 minutos, en tu libreta: apunta tres personas que te conozcan bien y que podrían hablarle de Neuroalma a alguien de su mundo, como una compañera de formación o una antigua profesora. Solo los nombres, sin escribir a nadie. Queda guardado para cuando tengas energía.",
-                "tags": ["Idea", "Boca a boca"],
-                "aprendizaje": "En una academia pequeña, la recomendación de alguien de confianza suele pesar más que cualquier anuncio. Ayuda mucho que quien te conoce sepa explicar en una frase qué haces y para quién: así le pones fácil hablar de ti sin que tengas que pedir nada.",
-                "recurso": {
-                    "titulo": "Contagioso: cómo conseguir que tus productos e ideas tengan éxito (Jonah Berger, Gestión 2000)",
-                    "tipo": "libro",
-                    "porque": "Libro traducido al español sobre por qué unas ideas se comparten y otras no, explicado en seis factores. No es para hoy: guárdalo para cuando te apetezca leer un poco y pensar en cómo hacer que se hable de Neuroalma sin presionar a nadie.",
-                    "url": "https://www.planetadelibros.com/libro-contagioso/112405"
-                }
-            },
-            "respira": {
-                "title": "Respira Mujer",
-                "idea": "Tarea de 10 minutos, en papel: escribe cinco nombres posibles para el programa de acompañamiento de dos meses. Valen los malos y los graciosos, que a veces abren la puerta a los buenos. No hay que elegir hoy: déjalos reposar y ya verás cuál te sigue gustando dentro de unos días.",
-                "tags": ["Idea", "Nombre del programa"],
-                "aprendizaje": "Un buen nombre dice para quién es y qué va a pasar antes que sonar bonito. Dilo en voz alta, como se lo dirías a una amiga: si necesitas explicarlo después, quizá todavía no esté.",
-                "recurso": {
-                    "titulo": "Guía completa: cómo vender cursos online en 2026 (Hostinger)",
-                    "tipo": "guía",
-                    "porque": "Guía en español; para esta tarea basta el apartado 2, «Escribe un título de curso atractivo», con pautas como que sea claro, concreto y de menos de 50 caracteres. Algunas palabras que propone, como «probado», no van con tu tono: quédate con la claridad.",
-                    "url": "https://www.hostinger.com/ar/tutoriales/?p=35743"
-                }
-            },
-            "respiramarca": {
-                "title": "Marca personal Respira Mujer",
-                "idea": "Un vídeo corto a partir del cuento del módulo 1, la mujer del saco invisible: todo lo que cargamos sin que nadie lo vea y cómo empezar a soltar sin dramas, sacando una sola cosa que no sea tuya.",
-                "tags": ["Contenido", "El saco invisible"],
-                "guion": "GANCHO: \"Llevas a la espalda un saco que nadie ve. Y cada día pesa un poco más.\"\n\nCUERPO: Dentro van las listas, los silencios, los «sí» que querían ser «no» y unas cuantas culpas que ni siquiera son tuyas. Hay quien lo decora con flores y frases motivadoras para disimular, pero pesar, pesa igual. Spoiler: no estás rota, estás saturada. Y tampoco hace falta tirar el saco por la ventana. Empieza por abrirlo un momento, sacar una sola cosa que no sea tuya y decir: «esto sí, esto ya no».\n\nCIERRE: ¿Qué sacarías hoy de tu saco? Frase para guardar: no necesitas hacer más, necesitas volver a ti.",
-                "referente": {
-                    "nombre": "Pilar Sordo",
-                    "porque": "Psicóloga chilena, autora de «¡Viva la diferencia!» y «Bienvenido dolor», y conferenciante con charlas como «Dime cómo te hablas y te diré cuánto te quieres». Fíjate en cómo habla de la vida cotidiana con cercanía: te puede inspirar para tratar el autocuidado sin sermones."
-                },
-                "mensajeWhatsapp": "Hola, amiga! Hoy no te pido que hagas más. Mira dentro de tu saco invisible y saca una sola cosa que no sea tuya. Con una basta por hoy 🌿"
-            }
-        }
+        "date":  "2026-10-28",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Estos días estás al otro lado: eres tú la que llega con dolor, con preguntas y con un cuerpo que va a su ritmo. Sin buscarlo, eso también es aprendizaje de oficio, porque cuando vuelvas a acompañar grupos entenderás desde dentro a la alumna que llega con miedo a moverse. Hoy no tienes que hacer nada con ello; solo, si te apetece, apunta un gesto o una frase de alguien que te esté tratando que te haya hecho sentir acompañada.",
+                                         "tags":  [
+                                                      "Oficio",
+                                                      "Al otro lado"
+                                                  ],
+                                         "aprendizaje":  "Cuando alguien nos explica qué nos va a pasar y por qué, la incertidumbre baja, y al cerebro la incertidumbre le inquieta mucho. En clase ocurre igual: anunciar lo que viene y contar el sentido de cada propuesta ayuda a que la alumna se relaje y confíe.",
+                                         "frase":  {
+                                                       "texto":  "Parte de la curación está en querer curarse.",
+                                                       "autor":  "Séneca, «Fedra» (verso 249), traducción libre"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "El Premio Nobel de Fisiología o Medicina 2026 distingue trabajo en neurociencia",
+                                                         "resumen":  "Artículo de The New York Times publicado en español por Infobae el 5 de octubre de 2026. El Nobel ha sido para Karl Deisseroth, Peter Hegemann y Georg Nagel, que hicieron posible la optogenética: una forma de encender neuronas concretas con pulsos de luz, la misma técnica de la que hablaba la noticia de hace un par de días. De momento es sobre todo una herramienta para investigar cómo funciona el cerebro, aunque el artículo menciona que da pistas para estudiar problemas como la ceguera, la depresión o la demencia.",
+                                                         "url":  "https://www.infobae.com/america/the-new-york-times/2026/10/05/el-premio-nobel-de-fisiologia-o-medicina-2026-distingue-trabajo-en-neurociencia/"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Comparte con tu comunidad una reflexión sobre cómo recibir en clase a una alumna que llega con dolor o con miedo a moverse. Antes que cualquier adaptación, lo que necesita es sentirse vista y saber que puede elegir. Es un tema que ahora vives muy de cerca, aunque no hace falta que cuentes nada personal si no te apetece.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "La alumna con dolor"
+                                             ],
+                                    "guion":  "GANCHO: \"Cuando una alumna llega con dolor, lo primero que necesita no es un ejercicio. Es sentirse vista.\"\n\nCUERPO: Muchas veces llegan a clase calladas, escondidas al fondo, con miedo a que el movimiento les duela o a quedar mal delante del grupo. Si al empezar preguntas cómo llega cada una, recuerdas que pueden parar cuando quieran y les ofreces siempre una opción más suave, les estás diciendo: aquí tu cuerpo manda. Y cuando el cerebro se siente seguro, el cuerpo suele soltar un poquito más. Para lo concreto de cada lesión, la última palabra es de su médico o fisio; lo nuestro es crear un espacio donde se atrevan a volver a moverse.\n\nCIERRE: ¿Cómo recibes tú a las alumnas que llegan con dolor? Te leo.",
+                                    "referente":  {
+                                                      "nombre":  "Arturo Goicoechea",
+                                                      "porque":  "Neurólogo español que lleva años divulgando en su blog y en sus libros cómo el cerebro participa en el dolor. Fíjate en cómo explica algo tan delicado con calma y sin asustar: es una buena inspiración para hablar a profesionales del movimiento sobre dolor y miedo a moverse sin invadir el terreno del médico."
+                                                  },
+                                    "mensajeWhatsapp":  "Hola a todas! Hoy os dejo una pregunta sencilla para empezar vuestras clases: «¿cómo llega hoy tu cuerpo?». A veces, solo con sentirse escuchada, una alumna con dolor ya se atreve a moverse un poquito más 🌿"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Tarea de 5 minutos, sin pantalla: escribe en tu libreta tres palabras que describan cómo te gustaría que se sintiera el grupo de Neuroalma cuando se conecte a una sesión (por ejemplo: en confianza, con curiosidad, sin prisa). No hay que hacer nada más con ellas por ahora.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "El clima del grupo"
+                                                 ],
+                                        "aprendizaje":  "En una academia pequeña, tener claro el ambiente que quieres crear te ahorra muchas decisiones: te ayuda a elegir el tono de los mensajes, cómo das la bienvenida o qué normas pones en el grupo. Es como el hilo que une todo lo demás, y se puede definir con muy pocas palabras.",
+                                        "recurso":  {
+                                                        "titulo":  "Tribus (Seth Godin, editorial Gestión 2000)",
+                                                        "tipo":  "libro",
+                                                        "porque":  "Libro corto de un autor estadounidense, traducido al español, sobre cómo nacen y se cuidan las comunidades de personas que comparten una idea. Se lee a ratos, en capítulos muy breves, y te puede dar ideas para cuidar a tu pequeña comunidad de Neuroalma cuando tengas energía."
+                                                    }
+                                    },
+                      "respira":  {
+                                      "title":  "Respira Mujer",
+                                      "idea":  "Tarea de 10 minutos, solo de pensar: apunta tres posibles nombres para el futuro grupo o canal de las mujeres de Respira Mujer. No hace falta elegir ninguno todavía; solo dejar que salgan y guardarlos en tu libreta.",
+                                      "tags":  [
+                                                   "Idea",
+                                                   "Nombre del canal"
+                                               ],
+                                      "aprendizaje":  "El nombre de un espacio de comunidad ayuda a que se sienta como un lugar al que se pertenece, no solo como un grupo más del móvil. Suele funcionar mejor algo sencillo, que se entienda a la primera y que suene a ti; no tiene que ser perfecto, se puede cambiar más adelante.",
+                                      "recurso":  {
+                                                      "titulo":  "Centro de ayuda de WhatsApp: comunidades y canales",
+                                                      "tipo":  "web",
+                                                      "porque":  "Las páginas oficiales de ayuda de WhatsApp, en español, explican la diferencia entre un grupo, una comunidad y un canal. Cuando tengas ganas, te servirán para decidir qué formato encaja mejor con Respira Mujer, sin prisa.",
+                                                      "url":  "https://faq.whatsapp.com/"
+                                                  }
+                                  },
+                      "respiramarca":  {
+                                           "title":  "Marca personal Respira Mujer",
+                                           "idea":  "Un vídeo corto sobre los mantras de Respira Mujer: una frase pequeña que te dices a ti misma cuando todo aprieta, para recordarte que no tienes que poder con todo a la vez. Puedes cerrar regalando una «Frase para guardar».",
+                                           "tags":  [
+                                                        "Contenido",
+                                                        "Tu mantra"
+                                                    ],
+                                           "guion":  "GANCHO: \"Te pasas el día hablándote. La pregunta es: ¿te hablas como a tu mejor amiga o como a una jefa insoportable?\"\n\nCUERPO: Cuando vas a mil, esa vocecita interior suele decir cosas como «no llegas», «otra vez tarde», «tendrías que poder con todo». Un mantra es justo lo contrario: una frase cortita y amable que eliges tú y que te dices cuando el día se pone cuesta arriba. No hace falta que sea en sánscrito ni que suene a taza de desayuno. Basta con algo como «paso a paso» o «ahora, solo esto». Respira, dila por dentro, y vuelve a lo que estabas haciendo un poquito más suave contigo.\n\nCIERRE: Frase para guardar: no estás rota, estás saturada. ¿Cuál sería tu mantra de hoy? Cuéntamelo en comentarios. Un abrazo con oxígeno.",
+                                           "referente":  {
+                                                             "nombre":  "Mónica Esgueva",
+                                                             "porque":  "Autora y divulgadora española de meditación y crecimiento personal, con libros como «Mindfulness: una guía práctica para encontrar la paz interior». Fíjate en cómo acerca la calma y la meditación a gente con vidas muy ocupadas, sin tono místico: muy en la línea de tu autocuidado que cabe en el caos."
+                                                         },
+                                           "mensajeWhatsapp":  "Hola, amiga! Hoy te propongo elegir un mantra pequeñito para los momentos en que todo aprieta, algo como «paso a paso» o «ahora, solo esto». Respira y dítelo por dentro. Un abrazo con oxígeno 🌿"
+                                       }
+                  }
     },
-{
-    "date": "2026-11-01",
-    "zones": {
-        "desarrollo": {
-            "title": "Desarrollo personal",
-            "idea": "Un pensamiento de domingo sobre tu oficio, sin nada que hacer: quizá alguna vez alguien se emocionó en tu clase, en una relajación o sin saber muy bien por qué. Recuerda qué hiciste entonces, o qué te habría gustado hacer. Hoy no hay deberes: tu cuerpo sigue a lo suyo, y este recuerdo se queda guardado para cuando vuelvas a acompañar grupos.",
-            "tags": ["Oficio", "Lágrimas en clase"],
-            "aprendizaje": "Cuando alguien llora en clase casi nunca hay que arreglar nada: suele bastar con darle espacio sin señalarla, seguir con el grupo y acercarte después, con calma, para preguntarle si necesita algo. Si la emoción la desborda o se repite, lo cuidadoso es sugerirle con delicadeza que busque apoyo profesional, porque acompañar no es hacer de terapeuta.",
-            "frase": {
-                "texto": "Hay lágrimas para las cosas, y lo mortal conmueve el alma.",
-                "autor": "Virgilio, «Eneida» (libro I, verso 462), traducción libre"
-            },
-            "noticia": {
-                "titulo": "¿Lágrimas en una clase de yoga? Todo bien. Suele pasar",
-                "resumen": "Artículo de Adriana Garavito, instructora de yoga, en el blog Yogósfera de El Comercio (Perú), publicado el 27 de junio de 2016, así que no es una novedad de esta semana. Cuenta en primera persona cómo se puso a llorar en la postura del camello sin saber por qué, y cómo su profesora le dio espacio y después la tapó y le dio masajes. Es un testimonio personal con una explicación espiritual, no un estudio; fíjate sobre todo en la calma de la profesora.",
-                "url": "https://elcomercio.pe/blog/yogosfera/2016/06/lagrimas-en-una-clase-de-yoga-todo-bien-suele-pasar"
-            }
-        },
-        "marca": {
-            "title": "Marca personal",
-            "idea": "Habla con tu comunidad de ese momento que casi nadie enseña en las formaciones: cuando una alumna se emociona en clase. Una idea sencilla para quitarle miedo: no hace falta tener la frase perfecta, sino quedarse tranquila y dejarle espacio.",
-            "tags": ["Contenido", "Cuando una alumna llora"],
-            "guion": "GANCHO: \"Una alumna se pone a llorar en la relajación. ¿Qué haces? Te adelanto una cosa: no hace falta que digas nada brillante.\"\n\nCUERPO: Imagina la escena: silencio en la sala y unas lágrimas que nadie esperaba. Lo primero que nos sale es arreglarlo. Y casi nunca hace falta. Sigue con el grupo a tu ritmo, sin señalarla, y cuando puedas, acércate con calma y pregúntale en voz baja si necesita algo. Sin pedirle explicaciones. Si ves que aquello la supera, recuérdale con cariño que hay profesionales que pueden ayudarla, porque tú acompañas, no haces de terapeuta.\n\nCIERRE: ¿Te ha pasado alguna vez en tus clases? Cuéntame qué hiciste, que de esto se habla muy poco.",
-            "referente": {
-                "nombre": "Anabel González",
-                "porque": "Psiquiatra y psicoterapeuta española, autora de «Lo bueno de tener un mal día» (Planeta). Fíjate en cómo habla de reconocer y cuidar las emociones en lugar de esconderlas: es buen modelo para tratar temas delicados con claridad y sin dramatizar."
-            },
-            "mensajeWhatsapp": "Hola a todas! Un pensamiento de domingo: si alguien se emociona en vuestra clase, no tenéis que arreglar nada. A veces lo que más sostiene es una presencia tranquila 🌿"
-        },
-        "neuroalma": {
-            "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, en tu libreta: completa de tres formas distintas esta frase: «Acompaño a ___ a ___». Por ejemplo, pensando en profesoras de yoga, pilates o taichí. No hay que elegir ninguna hoy: solo que salgan, y te quedarán a mano para cuando alguien te pregunte qué es Neuroalma.",
-            "tags": ["Idea", "Tu frase"],
-            "aprendizaje": "Una academia pequeña se recuerda mejor cuando se explica siempre con las mismas palabras. Cuando tengas tu frase, úsala igual en tu perfil, en WhatsApp y al hablar con la gente: repetirla no aburre, ayuda a que te recomienden.",
-            "recurso": {
-                "titulo": "Expertología: la ciencia de convertirse en un profesional de referencia (Andrés Pérez Ortega, Alienta)",
-                "tipo": "libro",
-                "porque": "Libro práctico en español sobre marca personal, con ejercicios paso a paso. Es de 2011, así que algunas cosas sobre internet habrán cambiado, y no es para hoy: guárdalo para cuando te apetezca leer un poco y pensar en cómo presentarte.",
-                "url": "https://www.planetadelibros.com/libro-expertologia/48537"
-            }
-        },
-        "respira": {
-            "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, en papel: piensa en los bonus de compañeras que quieres incluir en el programa. Apunta dos o tres nombres y, al lado, qué dificultad de tus alumnas podría aliviar cada una con su bonus. Sin escribir a nadie todavía; solo ver si encajan.",
-            "tags": ["Idea", "Bonus de compañeras"],
-            "aprendizaje": "Un buen bonus no es «más cosas»: es lo que le quita a tu alumna un obstáculo concreto para aprovechar lo principal. A una mujer con dos minutos para respirar, un regalo enorme hasta puede agobiarla; mejor pocos, pequeños y útiles.",
-            "recurso": {
-                "titulo": "Ofertas de $100M (Alex Hormozi, edición en español)",
-                "tipo": "libro",
-                "porque": "Libro sobre cómo montar una oferta, también en español. Va pensado para negocios grandes y su tono de venta es muy agresivo, nada que ver contigo, así que no hace falta que lo compres: si te cruzas con él, quédate solo con la idea de que cada extra debe resolver un problema real."
-            }
-        },
-        "respiramarca": {
-            "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto a partir del módulo 6, el ritual exprés: tres minutos y cuatro piezas que cada mujer elige a su medida (una respiración, un gesto ancla, una frase y un momento del día). Autocuidado que cabe en el caos, sin nada que comprar.",
-            "tags": ["Contenido", "El ritual exprés"],
-            "guion": "GANCHO: \"Tu pausa no necesita incienso, cuarzos ni música celta. Necesita tres minutos.\"\n\nCUERPO: Que si te gustan, adelante, amiga mía, pero no son obligatorios. Tu ritual exprés lleva cuatro piezas. Una respiración: la que mejor te vaya, como soltar el aire largo. Un gesto: la mano en el pecho, por ejemplo. Una frase cortita: «estoy aquí». Y un momento: al llegar a casa, antes de dormir o cuando te haga falta. Elige las tuyas y repítelas cada día. No hace falta que salga bonito; hace falta que sea tuyo.\n\nCIERRE: ¿Cuál sería tu frase? Escríbela aquí abajo. Un abrazo con oxígeno.",
-            "referente": {
-                "nombre": "Laura Rojas-Marcos",
-                "porque": "Psicóloga clínica y autora de «El sentimiento de culpa», un libro que distingue entre la culpa real y la falsa. Fíjate en cómo explica de forma sencilla un tema muy cercano al de tus alumnas: esa culpa que aparece justo cuando por fin paras."
-            },
-            "mensajeWhatsapp": "Amiga mía, tres minutos también cuentan. Hoy, al llegar a casa, mano en el pecho, suelta el aire despacio y dite: «estoy aquí». Ya está, eso es todo 🌿"
-        }
-    }
-},
-{
-    "date": "2026-11-02",
-    "zones": {
-        "desarrollo": {
-            "title": "Desarrollo personal",
-            "idea": "Hoy, sin moverte del sitio: acerca a la nariz algo que tengas a mano, una taza de café, una naranja o una toalla recién lavada, y mira si te trae algún recuerdo. Si no viene ninguno, tampoco pasa nada. Tu cuerpo sigue a su ritmo, sin prisa, y hoy no tiene que demostrarte nada.",
-            "tags": ["Bienestar", "Olores y recuerdos"],
-            "aprendizaje": "Un olor puede devolverte a un recuerdo de golpe, y no es solo una impresión: en los experimentos, un recuerdo personal se evoca con más facilidad a través de su olor que a través del nombre de ese olor. La nariz también guarda parte de tu historia.",
-            "frase": {
-                "texto": "Cuando nada subsiste de un pasado antiguo, el olor y el sabor permanecen aún mucho tiempo.",
-                "autor": "Marcel Proust, «Por el camino de Swann» (1913), traducción libre"
-            },
-            "noticia": {
-                "titulo": "¿Por qué recordamos los olores del pasado?",
-                "resumen": "Artículo de José María Delgado García, profesor emérito de neurociencia de la Universidad Pablo de Olavide, publicado en The Conversation en 2021, así que no es una novedad de esta semana. Explica el llamado fenómeno Proust y cuenta que las vías del olfato conectan con zonas del cerebro ligadas a la emoción y a la memoria, como la amígdala y el hipocampo. Termina reconociendo que aún queda por responder cómo un sabor se convierte en recuerdo.",
-                "url": "https://www.upo.es/diario/?p=30869205"
-            }
-        },
-        "marca": {
-            "title": "Marca personal",
-            "idea": "Habla con tu comunidad de algo que casi nadie piensa al preparar una clase: el olor de la sala. Un incienso que a ti te relaja a otra persona puede molestarle o traerle un mal recuerdo, y preguntar antes es una forma sencilla de cuidar al grupo.",
-            "tags": ["Contenido", "El olor de la sala"],
-            "guion": "GANCHO: \"Preparas la sala con todo el cariño, enciendes tu incienso favorito... y a una alumna se le cierra la garganta.\"\n\nCUERPO: Lo que huele a calma para ti no huele a calma para todo el mundo. A una persona puede darle alergia o dolor de cabeza, y a otra recordarle algo que preferiría no recordar. Los olores van muy unidos a la memoria y a las emociones. No hace falta quitar nada de golpe: basta con preguntar antes, ventilar bien y dejar que el aroma sea una opción, no algo que el grupo tenga que aguantar.\n\nCIERRE: ¿A qué huele tu sala? Cuéntamelo, que me encanta saber estos detalles.",
-            "referente": {
-                "nombre": "José Ramón Alonso",
-                "porque": "Neurobiólogo de la Universidad de Salamanca y divulgador científico, coautor con Laura López-Mascaraque de «El olfato» (CSIC y Los Libros de la Catarata, 2017). Fíjate en cómo acerca la ciencia del cerebro al público general: es un buen modelo para ti, que quieres hablar de neurociencia sin perder a nadie por el camino."
-            },
-            "mensajeWhatsapp": "Buenos días a todas! Una curiosidad para hoy: los olores van muy unidos a nuestros recuerdos. Lo que a ti te relaja en clase puede evocarle algo muy distinto a otra persona. Preguntar antes también es acompañar 🌿"
-        },
-        "neuroalma": {
-            "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, en tu libreta: piensa en las 7 sesiones en directo y escribe una sola línea por sesión: «Al salir de aquí, mi alumna podrá ___». Si hoy solo te salen tres, ya está bien. Lo demás puede esperar tranquilamente.",
-            "tags": ["Idea", "Una línea por sesión"],
-            "aprendizaje": "En una formación, cada sesión se entiende y se recuerda mejor cuando tiene un resultado claro, dicho en palabras de la alumna. Esa misma línea te sirve después para preparar la sesión y para explicar a alguien qué se va a llevar.",
-            "recurso": {
-                "titulo": "¿Cómo aprendemos? Una aproximación científica al aprendizaje y la enseñanza (Héctor Ruiz Martín, Graó)",
-                "tipo": "libro",
-                "porque": "Libro en español sobre cómo funcionan la memoria y el aprendizaje, muy cercano a tu interés por el cerebro. Tiene más de 300 páginas y no es para ahora: guárdalo para cuando te apetezca leer con calma y pensar en cómo diseñar tus sesiones.",
-                "url": "https://www.casadellibro.com.co/libro-como-aprendemos-una-aproximacion-cientifica-al-aprendizaje-y-la-ensenanza/9788418058059/11254348"
-            }
-        },
-        "respira": {
-            "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, en papel: piensa en el test que tienes entre los extras de la masterclass. Escribe solo dos cosas: qué te gustaría que descubriera una mujer al terminarlo y qué pequeño paso le propondrías después. Sin grabar nada ni abrir el ordenador.",
-            "tags": ["Idea", "El test"],
-            "aprendizaje": "Un test pequeño puede ser una buena puerta de entrada si ayuda aunque la persona no compre nada: pocas preguntas, palabras claras y un resultado que le dé una idea útil. En tu caso, que sea siempre una forma de conocerse y no un diagnóstico.",
-            "recurso": {
-                "titulo": "Cómo crear un quiz online (guía completa de involve.me)",
-                "tipo": "artículo",
-                "porque": "Guía en español que explica los pasos para montar un test y da consejos sencillos, como hacerlo corto y probarlo antes de publicarlo. Es de una empresa que vende su propia herramienta, así que quédate con las ideas: no necesitas pagar nada.",
-                "url": "https://www.involve.me/es/blog/como-crear-un-quiz-online"
-            }
-        },
-        "respiramarca": {
-            "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto a partir del módulo 8, volver a ti: esa trampa de creer que solo puedes cuidarte cuando todo esté en orden. Con humor y sin sermón, para recordar que el cuidado también cabe en mitad del lío.",
-            "tags": ["Contenido", "Empezar mientras tanto"],
-            "guion": "GANCHO: \"Cuando acabe esta semana, me cuido. Spoiler: nunca está todo en orden.\"\n\nCUERPO: Primero la colada, luego el trabajo, luego los demás y, si queda algo, tú. Y no queda, amiga mía. Volver a ti no es dejarlo todo y marcharte al Himalaya a meditar con el Yeti. Es parar cinco minutos y respirar con ganas. Es decir que no cuando algo te pesa. No subestimes lo pequeño: la clave está en los gestos cortitos que repites, no en esperar al lunes perfecto.\n\nCIERRE: Frase para guardar: no hace falta que todo esté bien para empezar a estar mejor. ¿Qué estás dejando para cuando todo esté en orden? Cuéntamelo.",
-            "referente": {
-                "nombre": "Molo Cebrián",
-                "porque": "Presenta y produce el pódcast «Entiende tu mente», junto a Luis Muiño y Mónica González, uno de los más escuchados de psicología en español. Fíjate en cómo habla de estrés y emociones con palabras de andar por casa, sin dar lecciones."
-            },
-            "mensajeWhatsapp": "¿Esperando a que todo esté en orden para cuidarte? Spoiler: nunca lo está. Así que más vale empezar mientras tanto. Hoy, cinco minutos y a respirar con ganas 🌿"
-        }
-    }
-},
-{
-    "date": "2026-11-03",
-    "zones": {
-        "desarrollo": {
-            "title": "Desarrollo personal",
-            "idea": "Un pensamiento tranquilo sobre tu oficio, solo para recordar: piensa en alguna alumna en la que creíste antes de que ella creyera en sí misma. ¿Qué le dijiste o qué hiciste para que lo notara? Y si te apetece, prueba a mirarte hoy a ti con esos mismos ojos, con la paciencia de quien sabe que la recuperación también lleva su tiempo.",
-            "tags": ["Oficio", "La mirada de quien enseña"],
-            "aprendizaje": "Al efecto de las expectativas de quien enseña se le llama efecto Pigmalión o efecto Rosenthal, por un estudio de 1968 en escuelas. Lo interesante es cómo funciona: cuando esperamos mucho de alguien, sin darnos cuenta solemos tratarle con más calidez y le damos más atención y mejores indicaciones. Lo que crees de tu grupo se cuela en tu manera de acompañarlo.",
-            "frase": {
-                "texto": "Si tomamos a las personas tal como son, las hacemos peores; si las tratamos como si fueran lo que deberían ser, las llevamos a donde pueden llegar.",
-                "autor": "Johann Wolfgang von Goethe, «Los años de aprendizaje de Wilhelm Meister» (libro VIII, capítulo 4), traducción libre"
-            },
-            "noticia": {
-                "titulo": "Cómo las expectativas de los profesores moldean la experiencia de los alumnos en el aula",
-                "resumen": "Artículo divulgativo en español de The Decision Lab, no una novedad de esta semana. Explica que el efecto Pigmalión también se llama efecto Rosenthal desde 1968 y que, cuanto más alto espera un docente de un alumno, más cálido es su trato y mejor la retroalimentación que le da. También avisa de que los prejuicios que no vemos pueden orientar esas expectativas sin que nos demos cuenta.",
-                "url": "https://thedecisionlab.com/es/insights/uncategorized/how-teacher-expectations-shape-students-experience-in-the-classroom"
-            }
-        },
-        "marca": {
-            "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una idea sencilla sobre el oficio: lo que crees de tus alumnas se nota, aunque no lo digas. La mirada con la que recibes a alguien nuevo en clase también enseña.",
-            "tags": ["Contenido", "Lo que crees de tu grupo"],
-            "guion": "GANCHO: \"Tus alumnas notan lo que piensas de ellas, aunque no digas ni una palabra.\"\n\nCUERPO: Cuando esperas poco de alguien, sin querer le hablas menos, le corriges menos y le miras menos. Y cuando confías en alguien, le das más tiempo, más calidez y mejores indicaciones. A esto se le llama efecto Pigmalión, y se estudia desde hace décadas en las aulas. En una clase de movimiento pasa igual: esa alumna rígida o insegura puede florecer si alguien la mira como si ya pudiera.\n\nCIERRE: ¿Recuerdas a alguien que creyó en ti antes que tú? Cuéntamelo, me encantará leerte.",
-            "referente": {
-                "nombre": "César Bona",
-                "porque": "Maestro de Primaria aragonés, finalista del Global Teacher Prize en 2015 y autor de «La nueva educación» (Plaza & Janés, 2015). Fíjate en cómo habla de confiar en el alumnado y de escucharlo, con historias de su propia aula y sin tecnicismos: es justo el tono cercano que buscas para hablar de tu oficio."
-            },
-            "mensajeWhatsapp": "Buenos días a todas! Una reflexión para hoy: la forma en que miramos a una alumna también enseña. Cuando confiamos en alguien, sin darnos cuenta le damos más tiempo y más calidez. ¿Quién creyó en ti antes que tú? 🌱"
-        },
-        "neuroalma": {
-            "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, en tu libreta: escribe tres preguntas que te gustaría hacer a cada alumna antes de la primera sesión. Por ejemplo, qué espera llevarse, qué le preocupa de sus clases y cómo le gusta aprender. Solo las preguntas; cómo enviarlas puede esperar.",
-            "tags": ["Idea", "Preguntas antes de empezar"],
-            "aprendizaje": "Saber qué espera cada alumna antes de empezar te ayuda a ajustar las sesiones y a evitar malentendidos. Además, desde el primer día sienten que hay alguien que se interesa por ellas, y eso hace grupo antes incluso de conectarse.",
-            "recurso": {
-                "titulo": "Cómo usar Formularios de Google (centro de ayuda de Google, en español)",
-                "tipo": "guía",
-                "porque": "Ayuda oficial y gratuita para crear un cuestionario sencillo y recoger las respuestas en un solo sitio. No es para hoy: guárdala para cuando tengas tus tres preguntas y te apetezca pasarlas a limpio.",
-                "url": "https://support.google.com/docs/answer/6281888?hl=es"
-            }
-        },
-        "respira": {
-            "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, en papel: escribe un borrador del primer mensaje que recibiría una mujer justo después de apuntarse a Respira Mujer. Tres o cuatro líneas: un saludo cálido, por dónde empezar y cuánto tiempo le llevará. Sin enviarlo ni pasarlo al ordenador.",
-            "tags": ["Idea", "El primer mensaje"],
-            "aprendizaje": "El recibo de pago le dice a la persona que su compra ha ido bien; el mensaje de bienvenida le dice qué hacer ahora. Para una mujer saturada, una sola indicación clara, como empezar por el primer vídeo, vale más que una lista larga de cosas que hacer.",
-            "recurso": {
-                "titulo": "Incorporación de estudiantes: cómo dar la bienvenida a tus alumnos (blog de MemberPress, en español)",
-                "tipo": "artículo",
-                "porque": "Explica qué conviene incluir en la bienvenida de un curso online: cómo empezar, en qué centrarse primero y cómo avanzar. Es de una empresa que vende su propia herramienta para WordPress, así que quédate solo con las ideas; tú ya tienes tu academia.",
-                "url": "https://memberpress.com/es/blog/onboarding-students/"
-            }
-        },
-        "respiramarca": {
-            "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre las micropausas: esos parones de un minuto que caben entre lavadora y lavadora. Con humor, para desmontar la idea de que cuidarse necesita una tarde libre que nunca llega.",
-            "tags": ["Contenido", "Micropausas"],
-            "guion": "GANCHO: \"No tienes una hora para ti. Ya lo sé. ¿Y un minuto?\"\n\nCUERPO: Esperamos al hueco perfecto para cuidarnos: la tarde libre, el fin de semana tranquilo, las vacaciones. Y mientras tanto, vamos en modo botón rojo todo el día. Las micropausas son otra cosa: un minuto mientras se calienta el café, una respiración lenta antes de abrir el correo, soltar los hombros en un semáforo. No hace falta convertirte en Buda con WiFi. Pequeñas pausas, repetidas, pueden ayudar a tu cuerpo a salir un ratito del modo alerta.\n\nCIERRE: Frase para guardar: no necesitas más tiempo, necesitas pequeños huecos para volver a ti. ¿Dónde vas a esconder tu micropausa de hoy?",
-            "referente": {
-                "nombre": "María Jesús Álava Reyes",
-                "porque": "Psicóloga española, autora de «La inutilidad del sufrimiento» (La Esfera de los Libros) y habitual en radio y televisión. Fíjate en cómo da ideas prácticas para gestionar el estrés del día a día con frases cortas y fáciles de recordar, sin sonar a consulta."
-            },
-            "mensajeWhatsapp": "¿Esperando la tarde libre para cuidarte? Prueba hoy algo más pequeño: un minuto mientras se calienta el café, respirando despacio y soltando los hombros. Eso también cuenta 🌿"
-        }
-    }
-},
-{
-    "date": "2026-11-04",
-    "zones": {
-        "desarrollo": {
-            "title": "Desarrollo personal",
-            "idea": "Una curiosidad para estos días de recuperación: tu cerebro no se apaga cuando no haces nada. Si hoy te pilla un rato de aburrimiento, en el sofá o mirando por la ventana, prueba a no llenarlo con el móvil. No es tiempo perdido: también es parte de descansar y de tener paciencia contigo.",
-            "tags": ["Bienestar", "El valor de no hacer nada"],
-            "aprendizaje": "Cuando dejamos de atender a lo de fuera se activa una red del cerebro llamada red neuronal por defecto, relacionada con divagar, recordar e imaginar. Muchos estudios la vinculan con la creatividad, aunque todavía se investiga cómo funciona exactamente. Lo que sí parece claro es que la estimulación constante le deja poco espacio.",
-            "frase": {
-                "texto": "He dicho a menudo que toda la desdicha de los hombres viene de una sola cosa: no saber quedarse tranquilos en una habitación.",
-                "autor": "Blaise Pascal, «Pensamientos» (1670), traducción libre"
-            },
-            "noticia": {
-                "titulo": "Por qué el aburrimiento estratégico es beneficioso para el cerebro",
-                "resumen": "Artículo divulgativo del diario argentino La Gaceta que defiende que aburrirse de vez en cuando, sin taparlo con estímulos, puede sentarle bien al cerebro.",
-                "url": "https://www.lagaceta.com.ar/nota/1141279/sociedad/por-aburrimiento-estrategico-beneficioso-para-cerebro.html"
-            }
-        },
-        "marca": {
-            "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una reflexión sobre el silencio en clase: no hace falta llenar cada segundo con indicaciones. A veces, lo que más enseña es callarse un momento y dejar que el cuerpo de cada alumna hable.",
-            "tags": ["Contenido", "El silencio en clase"],
-            "guion": "GANCHO: \"¿Y si lo mejor que puedes decir en tu próxima clase es nada?\"\n\nCUERPO: Cuando empezamos a dar clase nos da miedo el silencio. Parece que si no hablamos, el grupo se pierde. Así que explicamos, corregimos y animamos sin parar. Pero un silencio a tiempo, después de una postura o antes de cerrar, le da a cada alumna espacio para notar lo que está pasando dentro. El silencio no es un hueco vacío: también es una forma de acompañar.\n\nCIERRE: Próxima clase, regálate un minuto de silencio sin rellenarlo. Y luego cuéntame qué pasó en la sala.",
-            "referente": {
-                "nombre": "Pablo d'Ors",
-                "porque": "Escritor madrileño y fundador de la red de meditadores Amigos del Desierto, autor de «Biografía del silencio» (Siruela, 2012; luego reeditado por Galaxia Gutenberg), un ensayo breve sobre meditación con muchísimos lectores. Fíjate en cómo habla del silencio con frases sencillas y su propia experiencia, sin palabras raras: es un buen espejo para hablar de pausa a profesionales del movimiento."
-            },
-            "mensajeWhatsapp": "Buenos días a todas! Una idea para vuestra próxima clase: probad a regalar un minuto de silencio, sin explicar ni corregir nada. Solo dejar que cada alumna note su cuerpo. A veces el silencio enseña más que las palabras 🍃"
-        },
-        "neuroalma": {
-            "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, sin pantalla: elige en tu agenda un único hueco tranquilo a la semana, de unos 20 minutos, que será solo para pensar en Neuroalma. Apunta el día y la hora. Nada más; el resto de la semana, Neuroalma puede madurar sola.",
-            "tags": ["Idea", "Un rato fijo a la semana"],
-            "aprendizaje": "Cuando llevas tu propia academia, es fácil que el proyecto se cuele a ratos sueltos y te canse más de la cuenta. Un rato corto y fijo, sin móvil ni prisas, cunde más que muchos ratos dispersos, y además te deja descansar el resto del tiempo sin sentir que lo abandonas.",
-            "recurso": {
-                "titulo": "Céntrate (Deep Work), de Cal Newport (Ediciones Península, 2022)",
-                "tipo": "libro",
-                "porque": "Edición en español de un libro sobre cómo trabajar con concentración en un mundo lleno de distracciones; una de sus ideas es aprender a convivir con el aburrimiento. Es un libro para leer poco a poco cuando tengas energía, no ahora: quédate con la idea de proteger un rato tranquilo para lo importante."
-            }
-        },
-        "respira": {
-            "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, en papel: escribe tres preguntas abiertas que te gustaría hacer a las mujeres que ya vieron la masterclass. Por ejemplo, cómo estaba antes, qué herramienta le sirvió más y qué le diría a una amiga que duda. Solo escribirlas; enviarlas puede esperar.",
-            "tags": ["Idea", "Preguntas para pedir opinión"],
-            "aprendizaje": "Las preguntas abiertas ayudan a que la persona cuente su experiencia con sus propias palabras, en vez de responder con un simple \"me gustó\". Y esas palabras suyas serán muy útiles cuando más adelante expliques a quién ayuda Respira Mujer.",
-            "recurso": {
-                "titulo": "Cómo solicitar un testimonio de satisfacción a un cliente (blog de HubSpot, en español)",
-                "tipo": "artículo",
-                "porque": "Guía en español que recomienda hacer preguntas abiertas, preguntar por el problema que la persona tenía antes y cómo fue su experiencia, y pedirlo con un mensaje breve y personal. Es de una empresa de software, así que quédate solo con las ideas.",
-                "url": "https://blog.hubspot.es/service/solicitar-testimonio-clientes"
-            }
-        },
-        "respiramarca": {
-            "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre la culpa por parar: esa vocecita que salta en cuanto te sientas cinco minutos. Con humor y cariño, para recordar que descansar no es un capricho, es mantenimiento básico.",
-            "tags": ["Contenido", "La culpa por parar"],
-            "guion": "GANCHO: \"Te sientas cinco minutos y, de repente, aparece la vocecita: 'con todo lo que tienes que hacer...'\"\n\nCUERPO: Amiga mía, esa voz no es tu conciencia, es la costumbre. Llevamos tanto tiempo sosteniendo a todo el mundo que parar nos parece casi un delito. Pero piensa en el móvil: nadie le pide que funcione sin cargarlo. Tú tampoco puedes ir siempre en modo botón rojo. Parar un rato no te hace egoísta; te ayuda a volver a ti con algo más de calma.\n\nCIERRE: Frase para guardar: descansar no es abandonar a nadie, es cargar la batería. ¿Qué le vas a contestar hoy a tu vocecita?",
-            "referente": {
-                "nombre": "Elsa Punset",
-                "porque": "Escritora y divulgadora española sobre emociones, autora de libros como «Brújula para navegantes emocionales» y «Una mochila para el universo». Fíjate en cómo explica temas de bienestar emocional con un lenguaje cotidiano y cercano, pensado para cualquiera, sin sonar a terapia."
-            },
-            "mensajeWhatsapp": "Si hoy te sientas un ratito y aparece la vocecita de \"con todo lo que tienes que hacer...\", contéstale con cariño: estoy cargando la batería. Descansar también es cuidarte 🌿"
-        }
-    }
-},
     {
-        "date": "2026-11-05",
-        "zones": {
-            "desarrollo": {
-                "title": "Desarrollo personal",
-                "idea": "Una idea para tu oficio, para pensarla sin prisa desde el sofá: en casi todas las clases hay alguna alumna que mira de reojo a la de al lado y se siente menos. Recuerda alguna frase tuya que ayudaba a que cada una volviera a su propio cuerpo, en vez de compararse. Hoy basta con recordarla; no hay que hacer nada más.",
-                "tags": ["Oficio", "La alumna que se compara"],
-                "aprendizaje": "Hace ya muchos años, el psicólogo Leon Festinger explicó que las personas tendemos a medirnos comparándonos con los demás, sobre todo cuando no tenemos otra referencia clara. Por eso, cuando en clase invitas a cada alumna a fijarse en cómo se siente ella hoy, le das una referencia propia y la comparación pierde fuerza.",
-                "frase": {
-                    "texto": "Cada hombre lleva en sí la forma entera de la condición humana.",
-                    "autor": "Michel de Montaigne, «Ensayos» (libro III), traducción libre"
-                },
-                "noticia": {
-                    "titulo": "La comparación que nos roba la calma: una mirada desde la psicología y la neurociencia",
-                    "resumen": "Artículo divulgativo de Psicología y Mente que repasa la teoría de la comparación social de Festinger y explica cómo compararnos con los demás puede quitarnos tranquilidad.",
-                    "url": "https://psicologiaymente.com/psicologia/comparacion-que-nos-roba-calma-mirada-desde-psicologia-y-neurociencia"
-                }
-            },
-            "marca": {
-                "title": "Marca personal",
-                "idea": "Comparte con tu comunidad algo muy humano: equivocarse delante del grupo. Decir derecha cuando era izquierda, perder el hilo o confundir una secuencia. Cómo lo vives tú enseña al grupo más que cualquier postura perfecta.",
-                "tags": ["Contenido", "Equivocarse en clase"],
-                "guion": "GANCHO: \"Dije derecha, todo el grupo fue a la izquierda... y la que se equivocó fui yo.\"\n\nCUERPO: A todas nos ha pasado. Por un segundo sientes que has perdido la autoridad y te entran ganas de disimular. Pero cuando te ríes con cariño y dices \"perdón, quería decir izquierda\", pasa algo bonito: el grupo se relaja. Ven que aquí nadie tiene que ser perfecta, tampoco la profe. Y una sala donde se puede fallar es una sala donde se aprende con más tranquilidad.\n\nCIERRE: ¿Cuál ha sido tu despiste más gracioso en clase? Cuéntamelo, que seguro que no eres la única.",
-                "referente": {
-                    "nombre": "Antoni Bolinches",
-                    "porque": "Psicólogo clínico de Barcelona, considerado uno de los introductores de la psicología humanista en España y autor de «El secreto de la autoestima». Una de las ideas de ese libro es que los buenos momentos son para disfrutarlos y los malos para aprender. Fíjate en cómo habla de los errores como parte del crecimiento, con un lenguaje sencillo, sin dramatizar."
-                },
-                "mensajeWhatsapp": "Buenos días! Una pregunta para sonreír un poco: ¿cuál ha sido vuestro despiste más gracioso dando clase? Equivocarse delante del grupo también enseña algo: que en esa sala nadie tiene que ser perfecta, ni siquiera la profe 🙂"
-            },
-            "neuroalma": {
-                "title": "Neuroalma",
-                "idea": "Tarea de 10 minutos, en papel: pon un título provisional y corto a cada una de las 7 sesiones de Neuroalma. No tienen que ser bonitos ni definitivos; solo una o dos palabras que te recuerden de qué va cada una. Puedes dejar huecos si alguna aún no la ves clara.",
-                "tags": ["Idea", "Títulos de las sesiones"],
-                "aprendizaje": "Cuando cada sesión tiene una sola idea principal y un nombre claro, tanto tú como las alumnas sabéis siempre dónde estáis dentro del programa. Además, esos títulos te servirán más adelante para explicar Neuroalma sin tener que dar largas explicaciones.",
-                "recurso": {
-                    "titulo": "Cómo estructurar un curso online (blog de MemberPress, en español)",
-                    "tipo": "artículo",
-                    "porque": "Guía en español que recomienda centrar cada módulo en una idea clara para no saturar a quien aprende. Es de una empresa de software para vender cursos, así que quédate solo con la idea de organizar y no con lo técnico.",
-                    "url": "https://memberpress.com/es/blog/how-to-structure-an-online-course/"
-                }
-            },
-            "respira": {
-                "title": "Respira Mujer",
-                "idea": "Tarea de 10 minutos, solo para pensar y apuntar: si algún día ofreces el programa de acompañamiento en varios pagos, ¿cuántos te parecerían razonables? Escribe dos o tres opciones (por ejemplo, un pago o dos) y qué te hace sentir más tranquila de cada una. No hace falta decidir nada hoy.",
-                "tags": ["Idea", "Pensar en los pagos"],
-                "aprendizaje": "Ofrecer la opción de pagar en varias veces puede ayudar a que el precio no frene a quien realmente quiere entrar. A cambio, cobras el dinero poco a poco y tienes que llevar algo más de control, así que conviene elegir una fórmula sencilla que puedas gestionar sin agobio.",
-                "recurso": {
-                    "titulo": "Pagos a plazos: ventajas (guía de GoCardless, en español)",
-                    "tipo": "artículo",
-                    "porque": "Guía en español que explica qué son los pagos a plazos, cómo pueden ayudar a vender y también su lado menos bueno, como que el dinero entra más despacio. Es de una empresa de pagos, así que tómalo solo como explicación general.",
-                    "url": "https://gocardless.com/es/guias/consejos/pagos-a-plazos-ventajas"
-                }
-            },
-            "respiramarca": {
-                "title": "Marca personal Respira Mujer",
-                "idea": "Un vídeo corto con la idea fuerza de Respira Mujer: no estás rota, estás saturada. Para esa mujer que se siente torpe, olvidadiza o de mal humor y cree que le pasa algo raro, cuando en realidad lleva demasiado peso encima.",
-                "tags": ["Contenido", "No estás rota"],
-                "guion": "GANCHO: \"Se te olvidan las llaves, contestas mal y lloras con un anuncio de yogures. ¿Te estás volviendo loca?\"\n\nCUERPO: Spoiler: no, amiga mía. No estás rota, estás saturada. Cuando llevas meses sosteniendo a todo el mundo, tu cuerpo vive en alerta y la cabeza va a tope. Es normal que se te escapen cosas. No necesitas arreglarte, necesitas soltar un poco de peso y regalarte momentos pequeños de calma, de esos que caben en un día cualquiera.\n\nCIERRE: Frase para guardar: no estás rota, estás saturada. Y lo saturado se puede ir aligerando, poquito a poco.",
-                "referente": {
-                    "nombre": "Raquel Córcoles (Moderna de Pueblo)",
-                    "porque": "Autora de cómic de Reus que publica como Moderna de Pueblo, con libros como «Idiotizadas» o «Coñodramas». Su humor nace de situaciones cotidianas de mujeres normales y les da la vuelta con ironía y cariño. Fíjate en cómo consigue que te rías de ti misma sin sentirte juzgada: es muy parecido a tu tono un pelín canallita."
-                },
-                "mensajeWhatsapp": "Si últimamente se te olvidan cosas, estás más irritable o te emocionas por cualquier tontería, recuerda esto: no estás rota, estás saturada. Hoy regálate un minuto de calma, aunque sea con el café en la mano 🌿"
-            }
-        }
+        "date":  "2026-10-29",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Hace solo un par de días de la infiltración y es normal no notar todavía gran cosa: el cuerpo se toma su tiempo y tu única tarea ahora es dejarle hacerlo. Si te apetece, hoy regálate unos minutos mirando algo verde, un árbol desde la ventana o una planta de casa, sin hacer nada más. Mirar sin buscar nada también es una forma de descanso.",
+                                         "tags":  [
+                                                      "Bienestar",
+                                                      "Mirar lo verde"
+                                                  ],
+                                         "aprendizaje":  "Hay una idea en psicología llamada teoría de la restauración de la atención: estar muchas horas concentrada cansa la mente, y los paisajes naturales captan nuestro interés sin exigir esfuerzo, así que la atención puede recargarse un poco. No es magia ni sustituye a nada, pero es un descanso amable que no pide energía.",
+                                         "frase":  {
+                                                       "texto":  "Adopta el ritmo de la naturaleza: su secreto es la paciencia.",
+                                                       "autor":  "Ralph Waldo Emerson, ensayo «Education», traducción libre"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "La psicología dice que 20 minutos de naturaleza a partir de los 65 años pueden cambiar el ánimo y la atención",
+                                                         "resumen":  "Artículo de El Español (12 de octubre de 2026) sobre un ensayo con 120 personas mayores de Taiwán que pasaron 20 minutos sentadas, sin hacer ejercicio, en un parque, en un entorno urbano o viendo un parque con gafas de realidad virtual. Quienes estuvieron en el parque real mejoraron su ánimo, aunque no tanto su atención en las pruebas; el grupo de realidad virtual sí mejoró en una prueba de memoria. Es un estudio de una sola sesión, así que no demuestra efectos a largo plazo, pero apunta a que un rato tranquilo cerca de lo verde puede sentar bien al ánimo.",
+                                                         "url":  "https://www.elespanol.com/ciencia/20261012/psicologia-dice-minutos-naturaleza-partir-anos-pueden-cambiar-animo-atencion/1003744390827_0.html"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Comparte con tu comunidad una reflexión sobre el progreso de las alumnas: casi nunca va en línea recta. Hay semanas en las que parece que retroceden y, de repente, un día algo encaja. Recordarlo ayuda a la profesora a no desanimarse y a transmitir paciencia al grupo.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "El progreso no es lineal"
+                                             ],
+                                    "guion":  "GANCHO: \"Si una alumna parece ir hacia atrás, no siempre es que no aprenda. A veces es que su cerebro está colocando las piezas.\"\n\nCUERPO: Aprender un movimiento, una respiración o una forma nueva de estar en el cuerpo lleva tiempo y repetición. Hay días buenos, días torpes y días de cansancio, y todo eso forma parte del camino. Si como profesora lo tienes presente, cambias el «esto no te sale» por un «hoy tu cuerpo te pide otra cosa, y está bien». Y esa mirada tranquila se contagia: el grupo aprende a tenerse paciencia también.\n\nCIERRE: ¿Recuerdas a alguna alumna que un día, sin avisar, dio un salto? Cuéntamelo.",
+                                    "referente":  {
+                                                      "nombre":  "Marta Romo",
+                                                      "porque":  "Divulgadora española sobre neurociencia aplicada al aprendizaje, autora de «Entrena tu cerebro». Fíjate en cómo explica con sencillez que el cerebro cambia con práctica y tiempo: te puede inspirar para hablar a profesionales del movimiento de paciencia y aprendizaje sin sonar técnica."
+                                                  },
+                                    "mensajeWhatsapp":  "Hola a todas! Un recordatorio pequeñito para esta semana: el progreso de vuestras alumnas (y el vuestro) casi nunca va en línea recta. Los días torpes también cuentan 🌿"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Tarea de 5-10 minutos, en tu libreta: piensa en una de las personas de tu comunidad de WhatsApp y apunta qué crees que le preocupa ahora mismo en sus clases. Solo una frase. No hace falta preguntárselo todavía; es para empezar a ponerte en su lugar.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "Sus preocupaciones"
+                                                 ],
+                                        "aprendizaje":  "En una academia pequeña, lo que mejor funciona es conocer de verdad los problemas de las personas a las que quieres ayudar. Cuanto mejor los entiendes, más fácil es preparar las sesiones y hablarles de Neuroalma con sus propias palabras, sin tener que convencer a nadie.",
+                                        "recurso":  {
+                                                        "titulo":  "El método Lean Startup (Eric Ries, editorial Deusto)",
+                                                        "tipo":  "libro",
+                                                        "porque":  "Libro de un autor estadounidense, traducido al español, sobre cómo probar una idea en pequeño, escuchar a las personas y aprender antes de invertir mucho esfuerzo. Encaja con la fase de validación de Neuroalma; puedes leerlo poco a poco cuando tengas energía, sin prisa."
+                                                    }
+                                    },
+                      "respira":  {
+                                      "title":  "Respira Mujer",
+                                      "idea":  "Tarea de 10 minutos, solo de escribir: haz un primer borrador, a mano y sin corregir, del mensaje de bienvenida que recibiría una mujer justo al apuntarse a Respira Mujer. Unas pocas líneas cálidas, con tu tono. No hay que enviarlo ni decidir nada más.",
+                                      "tags":  [
+                                                   "Idea",
+                                                   "Mensaje de bienvenida"
+                                               ],
+                                      "aprendizaje":  "El primer mensaje después de apuntarse es muy importante: es cuando la persona se pregunta si ha hecho bien. Un mensaje cercano que le diga «estás en el sitio adecuado» y le explique el primer paso sencillo le da tranquilidad y la anima a empezar.",
+                                      "recurso":  {
+                                                      "titulo":  "Comunicación no violenta (Marshall B. Rosenberg)",
+                                                      "tipo":  "libro",
+                                                      "porque":  "Libro de un psicólogo estadounidense, traducido al español, sobre cómo hablar desde la empatía y la escucha. Te puede ayudar a escribir mensajes que acompañan sin presionar, justo lo que buscas con las mujeres de Respira Mujer. Se puede leer a trocitos."
+                                                  }
+                                  },
+                      "respiramarca":  {
+                                           "title":  "Marca personal Respira Mujer",
+                                           "idea":  "Un vídeo corto sobre por qué vamos siempre en alerta, apoyado en el módulo 2: el «tigre moderno». Antes el peligro era un animal; ahora son los mensajes, las prisas y la lista infinita, y el cuerpo reacciona casi igual.",
+                                           "tags":  [
+                                                        "Contenido",
+                                                        "El tigre moderno"
+                                                    ],
+                                           "guion":  "GANCHO: \"Tu cuerpo cree que te persigue un tigre. Y el tigre es el grupo de WhatsApp del cole.\"\n\nCUERPO: Nuestro sistema nervioso autónomo está diseñado para salvarnos de peligros de verdad: se acelera el corazón, se tensan los hombros y vamos a mil. El problema es que hoy los tigres son modernos: el correo urgente, la cena sin hacer, el «mamá, ¿dónde está…?». Y el cuerpo, muy aplicado él, reacciona como si fuera la sabana. No estás exagerando, amiga mía; estás en alerta casi todo el día. La buena noticia es que también puedes avisarle de que el tigre se ha ido, con algo tan sencillo como soltar el aire despacito.\n\nCIERRE: ¿Cuál es tu tigre moderno de hoy? Te leo. Un abrazo con oxígeno.",
+                                           "referente":  {
+                                                             "nombre":  "Marian Rojas Estapé",
+                                                             "porque":  "Psiquiatra y divulgadora española, autora de «Cómo hacer que te pasen cosas buenas». Fíjate en cómo explica el estrés y el estado de alerta con ejemplos del día a día que cualquiera entiende: te puede inspirar para contar la parte de cerebro de Respira Mujer de forma cercana."
+                                                         },
+                                           "mensajeWhatsapp":  "Hola, amiga! Hoy, cuando notes que vas a mil, prueba a decirte por dentro: «no hay ningún tigre, puedo bajar una marcha». Y suelta el aire despacito. Un abrazo con oxígeno 🌿"
+                                       }
+                  }
+    },
+    {
+        "date":  "2026-10-30",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Un pensamiento tranquilo para hoy sobre tu oficio, sin nada que hacer: cuando un grupo respira o se mueve a la vez, pasa algo que no ocurre cuando cada una va por su lado. Recuerda alguna clase tuya en la que notaste que todas estabais en la misma onda. Quédate solo con ese recuerdo; tu cuerpo sigue a lo suyo, recuperándose, y no hace falta nada más.",
+                                         "tags":  [
+                                                      "Oficio",
+                                                      "La sintonía del grupo"
+                                                  ],
+                                         "aprendizaje":  "Sostener a un grupo no es solo dar indicaciones: también es encontrar un ritmo común. Un inicio lento y compartido, como unas respiraciones juntas, ayuda a que personas que llegan de sitios y prisas distintas empiecen a estar en la misma sala de verdad.",
+                                         "frase":  {
+                                                       "texto":  "Solos podemos hacer muy poco; juntos podemos hacer mucho.",
+                                                       "autor":  "Helen Keller, en sus charlas de los años veinte, recogida en la biografía de Joseph P. Lash (1980), traducción libre"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "La reveladora demostración de la ciencia sobre los cerebros de los bailarines de tango",
+                                                         "resumen":  "Nota de Tiempo de San Juan (8 de mayo de 2026) sobre un estudio de la Universidad de Colorado Boulder con cinco parejas de tango argentino, que bailaron con sensores de actividad cerebral y de movimiento. Cuando se movían al unísono, su actividad cerebral también se parecía mucho más; cuando los pasos no coincidían, tampoco coincidía esa actividad. Es un estudio muy pequeño y con parejas de baile, no con clases de grupo, así que tómalo como una curiosidad bonita y no como una conclusión sobre yoga, pilates o taichí.",
+                                                         "url":  "https://www.tiempodesanjuan.com/el-mundo/la-reveladora-demostracion-la-ciencia-los-cerebros-los-bailarines-tango-n429779"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Comparte con tu comunidad una idea sencilla: antes de que empiece la clase, lo primero que entra en la sala es el estado de la profesora. Unos segundos para llegar a ti misma antes de saludar cambian cómo recibes al grupo.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "Llegar antes de empezar"
+                                             ],
+                                    "guion":  "GANCHO: \"Tu clase no empieza cuando dices «buenos días». Empieza cuando entras por la puerta.\"\n\nCUERPO: Llegas corriendo, con la cabeza en lo que has dejado a medias, y sin darte cuenta le prestas esas prisas al grupo. Las alumnas lo notan antes de que abras la boca: en tu voz, en tu ritmo, en cómo las miras. No hace falta un ritual largo. Basta con parar unos segundos antes de empezar, soltar el aire y preguntarte: ¿cómo llego yo hoy? No es para estar perfecta. Es para estar presente.\n\nCIERRE: ¿Qué haces tú justo antes de empezar una clase? Te leo.",
+                                    "referente":  {
+                                                      "nombre":  "Francisco Mora",
+                                                      "porque":  "Médico y neurocientífico español, autor de «Neuroeducación: solo se puede aprender aquello que se ama» (Alianza Editorial). Fíjate en cómo une emoción y aprendizaje con palabras claras: te puede inspirar para hablar a profesionales del movimiento de por qué cómo se sienten en clase importa tanto como lo que enseñan."
+                                                  },
+                                    "mensajeWhatsapp":  "Hola a todas! Una idea pequeñita para vuestra próxima clase: antes de saludar, parad unos segundos y preguntaos «¿cómo llego yo hoy?». Sin arreglar nada, solo para saberlo 🌿"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Tarea de 5-10 minutos, en tu libreta: apunta dos o tres cosas de Neuroalma que pueden esperar sin problema a una edición futura. Solo escribirlas, sin decidir nada más. Es una forma de quitarte peso de encima mientras el proyecto madura.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "Lo que puede esperar"
+                                                 ],
+                                        "aprendizaje":  "En una academia pequeña no hace falta tenerlo todo en la primera edición. Decidir qué se queda fuera por ahora es tan importante como decidir qué entra: te ahorra energía y deja más espacio para cuidar lo esencial, que en tu caso son las sesiones en directo.",
+                                        "recurso":  {
+                                                        "titulo":  "Esencialismo: logra el máximo resultado con el mínimo esfuerzo (Greg McKeown, editorial Conecta)",
+                                                        "tipo":  "libro",
+                                                        "porque":  "Libro traducido al español sobre elegir lo que de verdad importa y soltar el resto, sin culpa. Encaja con este momento en el que tu energía es limitada; se puede leer a trocitos, cuando te apetezca."
+                                                    }
+                                    },
+                      "respira":  {
+                                      "title":  "Respira Mujer",
+                                      "idea":  "Tarea de 10 minutos, a mano y sin pantalla: apunta las tres ideas de la masterclass que te gustaría que una mujer tuviera siempre a mano, por ejemplo en la puerta de la nevera. Será la semilla del PDF de apoyo. No hay que diseñar nada todavía.",
+                                      "tags":  [
+                                                   "Idea",
+                                                   "PDF de apoyo"
+                                               ],
+                                      "aprendizaje":  "Un material de apoyo funciona mejor cuando es corto y fácil de usar. Una sola página con tres ideas y un gesto práctico tiene más posibilidades de usarse que un documento largo, y además ayuda a recordar lo aprendido cuando ya ha pasado la emoción del primer día.",
+                                      "recurso":  {
+                                                      "titulo":  "Ayuda de Canva: descargar tu diseño como PDF",
+                                                      "tipo":  "guía",
+                                                      "porque":  "Explicación oficial en español de Canva para guardar un diseño como PDF. No es para hoy: guárdala para cuando quieras pasar a limpio tus tres ideas y te sientas con ganas de ponerte delante de la pantalla.",
+                                                      "url":  "https://www.canva.com/es_es/help/download-or-purchase/"
+                                                  }
+                                  },
+                      "respiramarca":  {
+                                           "title":  "Marca personal Respira Mujer",
+                                           "idea":  "Un vídeo corto con humor, apoyado en el módulo 3: el cortisol como esa amiga dramática que no sabe cuándo irse de la fiesta. Primero te ayuda, luego sube la música, y lo que necesitas es enseñarle que la fiesta terminó, sin pelearte con ella.",
+                                           "tags":  [
+                                                        "Contenido",
+                                                        "La amiga dramática"
+                                                    ],
+                                           "guion":  "GANCHO: \"Tu cortisol es esa amiga dramática que no sabe cuándo irse de la fiesta.\"\n\nCUERPO: Y ojo, que no es la mala de la película. Te despierta por las mañanas y te saca de los apuros de verdad. El lío llega cuando se queda a vivir contigo: enciende las luces, sube la música y tú solo quieres silencio. Y acabas cansada pero acelerada, durmiendo regular y contestando con un tono que ni tú te reconoces. No se trata de echarla a gritos, amiga mía. Se trata de avisarle de que ya está, con gestos pequeños: una respiración larga, una pausa de tres minutos, no contestar ese WhatsApp en caliente.\n\nCIERRE: ¿Qué hace tu amiga dramática cuando se viene arriba? Te leo. Un abrazo con oxígeno.",
+                                           "referente":  {
+                                                             "nombre":  "Nazareth Castellanos",
+                                                             "porque":  "Neurocientífica española, autora de «El espejo del cerebro» y «Neurociencia del cuerpo». Fíjate en cómo cuenta la relación entre el cuerpo, la respiración y el cerebro con calma y sencillez: te puede inspirar para explicar la parte científica de Respira Mujer sin perder cercanía."
+                                                         },
+                                           "mensajeWhatsapp":  "Hola, amiga! Si hoy tu cortisol ha montado fiesta y no se quiere ir, no te pelees con él. Suelta el aire despacito y recuérdale que la fiesta ya terminó. Un abrazo con oxígeno 🌿"
+                                       }
+                  }
+    },
+    {
+        "date":  "2026-10-31",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Un juego tranquilo para este sábado, sin moverte del sofá: cuando notes algo por dentro, busca la palabra exacta. No «bien» ni «ahí vamos», sino «impaciente», «aburrida», «esperanzada» o la que sea de verdad. Tú ya tienes práctica, que a tu lesión la llamaste Rigoberto. Y si hoy la palabra es «harta», también vale: el cuerpo sigue a su ritmo y no hay que cambiar nada.",
+                                         "tags":  [
+                                                      "Bienestar",
+                                                      "Ponerle nombre"
+                                                  ],
+                                         "aprendizaje":  "Poner nombre a lo que sientes no lo hace desaparecer, pero puede suavizarlo un poco y ayudarte a seguir con otra cosa. Cuanto más precisa es la palabra, mejor: por eso merece la pena ir un poco más allá del «bien» de siempre.",
+                                         "frase":  {
+                                                       "texto":  "Un afecto que es una pasión deja de ser una pasión tan pronto como nos formamos de él una idea clara y distinta.",
+                                                       "autor":  "Baruch Spinoza, «Ética» (parte V, proposición 3), traducción libre"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "Día 1: En serio, ¿cómo estás?",
+                                                         "resumen":  "Artículo de Tara Parker-Pope para The New York Times, publicado en Montevideo Portal el 25 de mayo de 2021, así que no es una novedad de esta semana. Explica que, en estudios con escáner cerebral de Matt Lieberman (Universidad de California, Los Ángeles), la amígdala se calmaba en quienes nombraban la emoción que veían en un rostro, y se activaba una zona que ayuda a gestionar las reacciones. Son experimentos de laboratorio, no un tratamiento; tómalo como una curiosidad práctica.",
+                                                         "url":  "https://www.montevideo.com.uy/Archivo/Dia-1-En-serio--como-estas--uc787545"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Cuéntale a tu comunidad por qué tu lesión se llama Rigoberto y qué te ha enseñado eso para tus clases: lo que tiene nombre se puede mirar y se puede hablar. De ahí sale una propuesta muy sencilla para el inicio de una sesión: una palabra para decir cómo llega cada una.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "Una palabra al llegar"
+                                             ],
+                                    "guion":  "GANCHO: \"Mi lesión de cuello se llama Rigoberto. Y sí, ya es uno más en casa.\"\n\nCUERPO: Le puse nombre porque con humor se lleva mejor que con drama. Y ahí entendí algo que vale para cualquier clase: lo que tiene nombre deja de ser una nube que lo tapa todo. Tus alumnas llegan diciendo «bien», y muchas veces no están tan bien. Prueba a preguntar al empezar: si eligieras una sola palabra para cómo llegas hoy, ¿cuál sería? Sin explicarla y sin que nadie la arregle. Y quien prefiera callar, también vale, porque acompañar no es invadir.\n\nCIERRE: ¿Tú le has puesto nombre a algo tuyo? Cuéntamelo, que Rigoberto quiere hacer amigos.",
+                                    "referente":  {
+                                                      "nombre":  "Isra Bravo",
+                                                      "porque":  "Copywriter español, autor de «Escribo porque me gusta ganar dinero» y «300 palabras». Fíjate en cómo convierte cosas de su vida en textos cortos y fáciles de leer. Su estilo es bastante más descarado que el tuyo: quédate con la sencillez y deja la actitud."
+                                                  },
+                                    "mensajeWhatsapp":  "Hola a todas! Una preguntita para este sábado: si tuvierais que elegir una sola palabra para cómo llegáis hoy, ¿cuál sería? No hace falta contestar, es solo para vosotras 🌿"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Tarea de 10 minutos, en tu libreta: apunta tres personas que te conozcan bien y que podrían hablarle de Neuroalma a alguien de su mundo, como una compañera de formación o una antigua profesora. Solo los nombres, sin escribir a nadie. Queda guardado para cuando tengas energía.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "Boca a boca"
+                                                 ],
+                                        "aprendizaje":  "En una academia pequeña, la recomendación de alguien de confianza suele pesar más que cualquier anuncio. Ayuda mucho que quien te conoce sepa explicar en una frase qué haces y para quién: así le pones fácil hablar de ti sin que tengas que pedir nada.",
+                                        "recurso":  {
+                                                        "titulo":  "Contagioso: cómo conseguir que tus productos e ideas tengan éxito (Jonah Berger, Gestión 2000)",
+                                                        "tipo":  "libro",
+                                                        "porque":  "Libro traducido al español sobre por qué unas ideas se comparten y otras no, explicado en seis factores. No es para hoy: guárdalo para cuando te apetezca leer un poco y pensar en cómo hacer que se hable de Neuroalma sin presionar a nadie.",
+                                                        "url":  "https://www.planetadelibros.com/libro-contagioso/112405"
+                                                    }
+                                    },
+                      "respira":  {
+                                      "title":  "Respira Mujer",
+                                      "idea":  "Tarea de 10 minutos, en papel: escribe cinco nombres posibles para el programa de acompañamiento de dos meses. Valen los malos y los graciosos, que a veces abren la puerta a los buenos. No hay que elegir hoy: déjalos reposar y ya verás cuál te sigue gustando dentro de unos días.",
+                                      "tags":  [
+                                                   "Idea",
+                                                   "Nombre del programa"
+                                               ],
+                                      "aprendizaje":  "Un buen nombre dice para quién es y qué va a pasar antes que sonar bonito. Dilo en voz alta, como se lo dirías a una amiga: si necesitas explicarlo después, quizá todavía no esté.",
+                                      "recurso":  {
+                                                      "titulo":  "Guía completa: cómo vender cursos online en 2026 (Hostinger)",
+                                                      "tipo":  "guía",
+                                                      "porque":  "Guía en español; para esta tarea basta el apartado 2, «Escribe un título de curso atractivo», con pautas como que sea claro, concreto y de menos de 50 caracteres. Algunas palabras que propone, como «probado», no van con tu tono: quédate con la claridad.",
+                                                      "url":  "https://www.hostinger.com/ar/tutoriales/?p=35743"
+                                                  }
+                                  },
+                      "respiramarca":  {
+                                           "title":  "Marca personal Respira Mujer",
+                                           "idea":  "Un vídeo corto a partir del cuento del módulo 1, la mujer del saco invisible: todo lo que cargamos sin que nadie lo vea y cómo empezar a soltar sin dramas, sacando una sola cosa que no sea tuya.",
+                                           "tags":  [
+                                                        "Contenido",
+                                                        "El saco invisible"
+                                                    ],
+                                           "guion":  "GANCHO: \"Llevas a la espalda un saco que nadie ve. Y cada día pesa un poco más.\"\n\nCUERPO: Dentro van las listas, los silencios, los «sí» que querían ser «no» y unas cuantas culpas que ni siquiera son tuyas. Hay quien lo decora con flores y frases motivadoras para disimular, pero pesar, pesa igual. Spoiler: no estás rota, estás saturada. Y tampoco hace falta tirar el saco por la ventana. Empieza por abrirlo un momento, sacar una sola cosa que no sea tuya y decir: «esto sí, esto ya no».\n\nCIERRE: ¿Qué sacarías hoy de tu saco? Frase para guardar: no necesitas hacer más, necesitas volver a ti.",
+                                           "referente":  {
+                                                             "nombre":  "Pilar Sordo",
+                                                             "porque":  "Psicóloga chilena, autora de «¡Viva la diferencia!» y «Bienvenido dolor», y conferenciante con charlas como «Dime cómo te hablas y te diré cuánto te quieres». Fíjate en cómo habla de la vida cotidiana con cercanía: te puede inspirar para tratar el autocuidado sin sermones."
+                                                         },
+                                           "mensajeWhatsapp":  "Hola, amiga! Hoy no te pido que hagas más. Mira dentro de tu saco invisible y saca una sola cosa que no sea tuya. Con una basta por hoy 🌿"
+                                       }
+                  }
+    },
+    {
+        "date":  "2026-11-01",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Un pensamiento de domingo sobre tu oficio, sin nada que hacer: quizá alguna vez alguien se emocionó en tu clase, en una relajación o sin saber muy bien por qué. Recuerda qué hiciste entonces, o qué te habría gustado hacer. Hoy no hay deberes: tu cuerpo sigue a lo suyo, y este recuerdo se queda guardado para cuando vuelvas a acompañar grupos.",
+                                         "tags":  [
+                                                      "Oficio",
+                                                      "Lágrimas en clase"
+                                                  ],
+                                         "aprendizaje":  "Cuando alguien llora en clase casi nunca hay que arreglar nada: suele bastar con darle espacio sin señalarla, seguir con el grupo y acercarte después, con calma, para preguntarle si necesita algo. Si la emoción la desborda o se repite, lo cuidadoso es sugerirle con delicadeza que busque apoyo profesional, porque acompañar no es hacer de terapeuta.",
+                                         "frase":  {
+                                                       "texto":  "Hay lágrimas para las cosas, y lo mortal conmueve el alma.",
+                                                       "autor":  "Virgilio, «Eneida» (libro I, verso 462), traducción libre"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "¿Lágrimas en una clase de yoga? Todo bien. Suele pasar",
+                                                         "resumen":  "Artículo de Adriana Garavito, instructora de yoga, en el blog Yogósfera de El Comercio (Perú), publicado el 27 de junio de 2016, así que no es una novedad de esta semana. Cuenta en primera persona cómo se puso a llorar en la postura del camello sin saber por qué, y cómo su profesora le dio espacio y después la tapó y le dio masajes. Es un testimonio personal con una explicación espiritual, no un estudio; fíjate sobre todo en la calma de la profesora.",
+                                                         "url":  "https://elcomercio.pe/blog/yogosfera/2016/06/lagrimas-en-una-clase-de-yoga-todo-bien-suele-pasar"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Habla con tu comunidad de ese momento que casi nadie enseña en las formaciones: cuando una alumna se emociona en clase. Una idea sencilla para quitarle miedo: no hace falta tener la frase perfecta, sino quedarse tranquila y dejarle espacio.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "Cuando una alumna llora"
+                                             ],
+                                    "guion":  "GANCHO: \"Una alumna se pone a llorar en la relajación. ¿Qué haces? Te adelanto una cosa: no hace falta que digas nada brillante.\"\n\nCUERPO: Imagina la escena: silencio en la sala y unas lágrimas que nadie esperaba. Lo primero que nos sale es arreglarlo. Y casi nunca hace falta. Sigue con el grupo a tu ritmo, sin señalarla, y cuando puedas, acércate con calma y pregúntale en voz baja si necesita algo. Sin pedirle explicaciones. Si ves que aquello la supera, recuérdale con cariño que hay profesionales que pueden ayudarla, porque tú acompañas, no haces de terapeuta.\n\nCIERRE: ¿Te ha pasado alguna vez en tus clases? Cuéntame qué hiciste, que de esto se habla muy poco.",
+                                    "referente":  {
+                                                      "nombre":  "Anabel González",
+                                                      "porque":  "Psiquiatra y psicoterapeuta española, autora de «Lo bueno de tener un mal día» (Planeta). Fíjate en cómo habla de reconocer y cuidar las emociones en lugar de esconderlas: es buen modelo para tratar temas delicados con claridad y sin dramatizar."
+                                                  },
+                                    "mensajeWhatsapp":  "Hola a todas! Un pensamiento de domingo: si alguien se emociona en vuestra clase, no tenéis que arreglar nada. A veces lo que más sostiene es una presencia tranquila 🌿"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Tarea de 10 minutos, en tu libreta: completa de tres formas distintas esta frase: «Acompaño a ___ a ___». Por ejemplo, pensando en profesoras de yoga, pilates o taichí. No hay que elegir ninguna hoy: solo que salgan, y te quedarán a mano para cuando alguien te pregunte qué es Neuroalma.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "Tu frase"
+                                                 ],
+                                        "aprendizaje":  "Una academia pequeña se recuerda mejor cuando se explica siempre con las mismas palabras. Cuando tengas tu frase, úsala igual en tu perfil, en WhatsApp y al hablar con la gente: repetirla no aburre, ayuda a que te recomienden.",
+                                        "recurso":  {
+                                                        "titulo":  "Expertología: la ciencia de convertirse en un profesional de referencia (Andrés Pérez Ortega, Alienta)",
+                                                        "tipo":  "libro",
+                                                        "porque":  "Libro práctico en español sobre marca personal, con ejercicios paso a paso. Es de 2011, así que algunas cosas sobre internet habrán cambiado, y no es para hoy: guárdalo para cuando te apetezca leer un poco y pensar en cómo presentarte.",
+                                                        "url":  "https://www.planetadelibros.com/libro-expertologia/48537"
+                                                    }
+                                    },
+                      "respira":  {
+                                      "title":  "Respira Mujer",
+                                      "idea":  "Tarea de 10 minutos, en papel: piensa en los bonus de compañeras que quieres incluir en el programa. Apunta dos o tres nombres y, al lado, qué dificultad de tus alumnas podría aliviar cada una con su bonus. Sin escribir a nadie todavía; solo ver si encajan.",
+                                      "tags":  [
+                                                   "Idea",
+                                                   "Bonus de compañeras"
+                                               ],
+                                      "aprendizaje":  "Un buen bonus no es «más cosas»: es lo que le quita a tu alumna un obstáculo concreto para aprovechar lo principal. A una mujer con dos minutos para respirar, un regalo enorme hasta puede agobiarla; mejor pocos, pequeños y útiles.",
+                                      "recurso":  {
+                                                      "titulo":  "Ofertas de $100M (Alex Hormozi, edición en español)",
+                                                      "tipo":  "libro",
+                                                      "porque":  "Libro sobre cómo montar una oferta, también en español. Va pensado para negocios grandes y su tono de venta es muy agresivo, nada que ver contigo, así que no hace falta que lo compres: si te cruzas con él, quédate solo con la idea de que cada extra debe resolver un problema real."
+                                                  }
+                                  },
+                      "respiramarca":  {
+                                           "title":  "Marca personal Respira Mujer",
+                                           "idea":  "Un vídeo corto a partir del módulo 6, el ritual exprés: tres minutos y cuatro piezas que cada mujer elige a su medida (una respiración, un gesto ancla, una frase y un momento del día). Autocuidado que cabe en el caos, sin nada que comprar.",
+                                           "tags":  [
+                                                        "Contenido",
+                                                        "El ritual exprés"
+                                                    ],
+                                           "guion":  "GANCHO: \"Tu pausa no necesita incienso, cuarzos ni música celta. Necesita tres minutos.\"\n\nCUERPO: Que si te gustan, adelante, amiga mía, pero no son obligatorios. Tu ritual exprés lleva cuatro piezas. Una respiración: la que mejor te vaya, como soltar el aire largo. Un gesto: la mano en el pecho, por ejemplo. Una frase cortita: «estoy aquí». Y un momento: al llegar a casa, antes de dormir o cuando te haga falta. Elige las tuyas y repítelas cada día. No hace falta que salga bonito; hace falta que sea tuyo.\n\nCIERRE: ¿Cuál sería tu frase? Escríbela aquí abajo. Un abrazo con oxígeno.",
+                                           "referente":  {
+                                                             "nombre":  "Laura Rojas-Marcos",
+                                                             "porque":  "Psicóloga clínica y autora de «El sentimiento de culpa», un libro que distingue entre la culpa real y la falsa. Fíjate en cómo explica de forma sencilla un tema muy cercano al de tus alumnas: esa culpa que aparece justo cuando por fin paras."
+                                                         },
+                                           "mensajeWhatsapp":  "Amiga mía, tres minutos también cuentan. Hoy, al llegar a casa, mano en el pecho, suelta el aire despacio y dite: «estoy aquí». Ya está, eso es todo 🌿"
+                                       }
+                  }
+    },
+    {
+        "date":  "2026-11-02",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Hoy, sin moverte del sitio: acerca a la nariz algo que tengas a mano, una taza de café, una naranja o una toalla recién lavada, y mira si te trae algún recuerdo. Si no viene ninguno, tampoco pasa nada. Tu cuerpo sigue a su ritmo, sin prisa, y hoy no tiene que demostrarte nada.",
+                                         "tags":  [
+                                                      "Bienestar",
+                                                      "Olores y recuerdos"
+                                                  ],
+                                         "aprendizaje":  "Un olor puede devolverte a un recuerdo de golpe, y no es solo una impresión: en los experimentos, un recuerdo personal se evoca con más facilidad a través de su olor que a través del nombre de ese olor. La nariz también guarda parte de tu historia.",
+                                         "frase":  {
+                                                       "texto":  "Cuando nada subsiste de un pasado antiguo, el olor y el sabor permanecen aún mucho tiempo.",
+                                                       "autor":  "Marcel Proust, «Por el camino de Swann» (1913), traducción libre"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "¿Por qué recordamos los olores del pasado?",
+                                                         "resumen":  "Artículo de José María Delgado García, profesor emérito de neurociencia de la Universidad Pablo de Olavide, publicado en The Conversation en 2021, así que no es una novedad de esta semana. Explica el llamado fenómeno Proust y cuenta que las vías del olfato conectan con zonas del cerebro ligadas a la emoción y a la memoria, como la amígdala y el hipocampo. Termina reconociendo que aún queda por responder cómo un sabor se convierte en recuerdo.",
+                                                         "url":  "https://www.upo.es/diario/?p=30869205"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Habla con tu comunidad de algo que casi nadie piensa al preparar una clase: el olor de la sala. Un incienso que a ti te relaja a otra persona puede molestarle o traerle un mal recuerdo, y preguntar antes es una forma sencilla de cuidar al grupo.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "El olor de la sala"
+                                             ],
+                                    "guion":  "GANCHO: \"Preparas la sala con todo el cariño, enciendes tu incienso favorito... y a una alumna se le cierra la garganta.\"\n\nCUERPO: Lo que huele a calma para ti no huele a calma para todo el mundo. A una persona puede darle alergia o dolor de cabeza, y a otra recordarle algo que preferiría no recordar. Los olores van muy unidos a la memoria y a las emociones. No hace falta quitar nada de golpe: basta con preguntar antes, ventilar bien y dejar que el aroma sea una opción, no algo que el grupo tenga que aguantar.\n\nCIERRE: ¿A qué huele tu sala? Cuéntamelo, que me encanta saber estos detalles.",
+                                    "referente":  {
+                                                      "nombre":  "José Ramón Alonso",
+                                                      "porque":  "Neurobiólogo de la Universidad de Salamanca y divulgador científico, coautor con Laura López-Mascaraque de «El olfato» (CSIC y Los Libros de la Catarata, 2017). Fíjate en cómo acerca la ciencia del cerebro al público general: es un buen modelo para ti, que quieres hablar de neurociencia sin perder a nadie por el camino."
+                                                  },
+                                    "mensajeWhatsapp":  "Buenos días a todas! Una curiosidad para hoy: los olores van muy unidos a nuestros recuerdos. Lo que a ti te relaja en clase puede evocarle algo muy distinto a otra persona. Preguntar antes también es acompañar 🌿"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Tarea de 10 minutos, en tu libreta: piensa en las 7 sesiones en directo y escribe una sola línea por sesión: «Al salir de aquí, mi alumna podrá ___». Si hoy solo te salen tres, ya está bien. Lo demás puede esperar tranquilamente.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "Una línea por sesión"
+                                                 ],
+                                        "aprendizaje":  "En una formación, cada sesión se entiende y se recuerda mejor cuando tiene un resultado claro, dicho en palabras de la alumna. Esa misma línea te sirve después para preparar la sesión y para explicar a alguien qué se va a llevar.",
+                                        "recurso":  {
+                                                        "titulo":  "¿Cómo aprendemos? Una aproximación científica al aprendizaje y la enseñanza (Héctor Ruiz Martín, Graó)",
+                                                        "tipo":  "libro",
+                                                        "porque":  "Libro en español sobre cómo funcionan la memoria y el aprendizaje, muy cercano a tu interés por el cerebro. Tiene más de 300 páginas y no es para ahora: guárdalo para cuando te apetezca leer con calma y pensar en cómo diseñar tus sesiones.",
+                                                        "url":  "https://www.casadellibro.com.co/libro-como-aprendemos-una-aproximacion-cientifica-al-aprendizaje-y-la-ensenanza/9788418058059/11254348"
+                                                    }
+                                    },
+                      "respira":  {
+                                      "title":  "Respira Mujer",
+                                      "idea":  "Tarea de 10 minutos, en papel: piensa en el test que tienes entre los extras de la masterclass. Escribe solo dos cosas: qué te gustaría que descubriera una mujer al terminarlo y qué pequeño paso le propondrías después. Sin grabar nada ni abrir el ordenador.",
+                                      "tags":  [
+                                                   "Idea",
+                                                   "El test"
+                                               ],
+                                      "aprendizaje":  "Un test pequeño puede ser una buena puerta de entrada si ayuda aunque la persona no compre nada: pocas preguntas, palabras claras y un resultado que le dé una idea útil. En tu caso, que sea siempre una forma de conocerse y no un diagnóstico.",
+                                      "recurso":  {
+                                                      "titulo":  "Cómo crear un quiz online (guía completa de involve.me)",
+                                                      "tipo":  "artículo",
+                                                      "porque":  "Guía en español que explica los pasos para montar un test y da consejos sencillos, como hacerlo corto y probarlo antes de publicarlo. Es de una empresa que vende su propia herramienta, así que quédate con las ideas: no necesitas pagar nada.",
+                                                      "url":  "https://www.involve.me/es/blog/como-crear-un-quiz-online"
+                                                  }
+                                  },
+                      "respiramarca":  {
+                                           "title":  "Marca personal Respira Mujer",
+                                           "idea":  "Un vídeo corto a partir del módulo 8, volver a ti: esa trampa de creer que solo puedes cuidarte cuando todo esté en orden. Con humor y sin sermón, para recordar que el cuidado también cabe en mitad del lío.",
+                                           "tags":  [
+                                                        "Contenido",
+                                                        "Empezar mientras tanto"
+                                                    ],
+                                           "guion":  "GANCHO: \"Cuando acabe esta semana, me cuido. Spoiler: nunca está todo en orden.\"\n\nCUERPO: Primero la colada, luego el trabajo, luego los demás y, si queda algo, tú. Y no queda, amiga mía. Volver a ti no es dejarlo todo y marcharte al Himalaya a meditar con el Yeti. Es parar cinco minutos y respirar con ganas. Es decir que no cuando algo te pesa. No subestimes lo pequeño: la clave está en los gestos cortitos que repites, no en esperar al lunes perfecto.\n\nCIERRE: Frase para guardar: no hace falta que todo esté bien para empezar a estar mejor. ¿Qué estás dejando para cuando todo esté en orden? Cuéntamelo.",
+                                           "referente":  {
+                                                             "nombre":  "Molo Cebrián",
+                                                             "porque":  "Presenta y produce el pódcast «Entiende tu mente», junto a Luis Muiño y Mónica González, uno de los más escuchados de psicología en español. Fíjate en cómo habla de estrés y emociones con palabras de andar por casa, sin dar lecciones."
+                                                         },
+                                           "mensajeWhatsapp":  "¿Esperando a que todo esté en orden para cuidarte? Spoiler: nunca lo está. Así que más vale empezar mientras tanto. Hoy, cinco minutos y a respirar con ganas 🌿"
+                                       }
+                  }
+    },
+    {
+        "date":  "2026-11-03",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Un pensamiento tranquilo sobre tu oficio, solo para recordar: piensa en alguna alumna en la que creíste antes de que ella creyera en sí misma. ¿Qué le dijiste o qué hiciste para que lo notara? Y si te apetece, prueba a mirarte hoy a ti con esos mismos ojos, con la paciencia de quien sabe que la recuperación también lleva su tiempo.",
+                                         "tags":  [
+                                                      "Oficio",
+                                                      "La mirada de quien enseña"
+                                                  ],
+                                         "aprendizaje":  "Al efecto de las expectativas de quien enseña se le llama efecto Pigmalión o efecto Rosenthal, por un estudio de 1968 en escuelas. Lo interesante es cómo funciona: cuando esperamos mucho de alguien, sin darnos cuenta solemos tratarle con más calidez y le damos más atención y mejores indicaciones. Lo que crees de tu grupo se cuela en tu manera de acompañarlo.",
+                                         "frase":  {
+                                                       "texto":  "Si tomamos a las personas tal como son, las hacemos peores; si las tratamos como si fueran lo que deberían ser, las llevamos a donde pueden llegar.",
+                                                       "autor":  "Johann Wolfgang von Goethe, «Los años de aprendizaje de Wilhelm Meister» (libro VIII, capítulo 4), traducción libre"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "Cómo las expectativas de los profesores moldean la experiencia de los alumnos en el aula",
+                                                         "resumen":  "Artículo divulgativo en español de The Decision Lab, no una novedad de esta semana. Explica que el efecto Pigmalión también se llama efecto Rosenthal desde 1968 y que, cuanto más alto espera un docente de un alumno, más cálido es su trato y mejor la retroalimentación que le da. También avisa de que los prejuicios que no vemos pueden orientar esas expectativas sin que nos demos cuenta.",
+                                                         "url":  "https://thedecisionlab.com/es/insights/uncategorized/how-teacher-expectations-shape-students-experience-in-the-classroom"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Comparte con tu comunidad una idea sencilla sobre el oficio: lo que crees de tus alumnas se nota, aunque no lo digas. La mirada con la que recibes a alguien nuevo en clase también enseña.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "Lo que crees de tu grupo"
+                                             ],
+                                    "guion":  "GANCHO: \"Tus alumnas notan lo que piensas de ellas, aunque no digas ni una palabra.\"\n\nCUERPO: Cuando esperas poco de alguien, sin querer le hablas menos, le corriges menos y le miras menos. Y cuando confías en alguien, le das más tiempo, más calidez y mejores indicaciones. A esto se le llama efecto Pigmalión, y se estudia desde hace décadas en las aulas. En una clase de movimiento pasa igual: esa alumna rígida o insegura puede florecer si alguien la mira como si ya pudiera.\n\nCIERRE: ¿Recuerdas a alguien que creyó en ti antes que tú? Cuéntamelo, me encantará leerte.",
+                                    "referente":  {
+                                                      "nombre":  "César Bona",
+                                                      "porque":  "Maestro de Primaria aragonés, finalista del Global Teacher Prize en 2015 y autor de «La nueva educación» (Plaza \u0026 Janés, 2015). Fíjate en cómo habla de confiar en el alumnado y de escucharlo, con historias de su propia aula y sin tecnicismos: es justo el tono cercano que buscas para hablar de tu oficio."
+                                                  },
+                                    "mensajeWhatsapp":  "Buenos días a todas! Una reflexión para hoy: la forma en que miramos a una alumna también enseña. Cuando confiamos en alguien, sin darnos cuenta le damos más tiempo y más calidez. ¿Quién creyó en ti antes que tú? 🌱"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Tarea de 10 minutos, en tu libreta: escribe tres preguntas que te gustaría hacer a cada alumna antes de la primera sesión. Por ejemplo, qué espera llevarse, qué le preocupa de sus clases y cómo le gusta aprender. Solo las preguntas; cómo enviarlas puede esperar.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "Preguntas antes de empezar"
+                                                 ],
+                                        "aprendizaje":  "Saber qué espera cada alumna antes de empezar te ayuda a ajustar las sesiones y a evitar malentendidos. Además, desde el primer día sienten que hay alguien que se interesa por ellas, y eso hace grupo antes incluso de conectarse.",
+                                        "recurso":  {
+                                                        "titulo":  "Cómo usar Formularios de Google (centro de ayuda de Google, en español)",
+                                                        "tipo":  "guía",
+                                                        "porque":  "Ayuda oficial y gratuita para crear un cuestionario sencillo y recoger las respuestas en un solo sitio. No es para hoy: guárdala para cuando tengas tus tres preguntas y te apetezca pasarlas a limpio.",
+                                                        "url":  "https://support.google.com/docs/answer/6281888?hl=es"
+                                                    }
+                                    },
+                      "respira":  {
+                                      "title":  "Respira Mujer",
+                                      "idea":  "Tarea de 10 minutos, en papel: escribe un borrador del primer mensaje que recibiría una mujer justo después de apuntarse a Respira Mujer. Tres o cuatro líneas: un saludo cálido, por dónde empezar y cuánto tiempo le llevará. Sin enviarlo ni pasarlo al ordenador.",
+                                      "tags":  [
+                                                   "Idea",
+                                                   "El primer mensaje"
+                                               ],
+                                      "aprendizaje":  "El recibo de pago le dice a la persona que su compra ha ido bien; el mensaje de bienvenida le dice qué hacer ahora. Para una mujer saturada, una sola indicación clara, como empezar por el primer vídeo, vale más que una lista larga de cosas que hacer.",
+                                      "recurso":  {
+                                                      "titulo":  "Incorporación de estudiantes: cómo dar la bienvenida a tus alumnos (blog de MemberPress, en español)",
+                                                      "tipo":  "artículo",
+                                                      "porque":  "Explica qué conviene incluir en la bienvenida de un curso online: cómo empezar, en qué centrarse primero y cómo avanzar. Es de una empresa que vende su propia herramienta para WordPress, así que quédate solo con las ideas; tú ya tienes tu academia.",
+                                                      "url":  "https://memberpress.com/es/blog/onboarding-students/"
+                                                  }
+                                  },
+                      "respiramarca":  {
+                                           "title":  "Marca personal Respira Mujer",
+                                           "idea":  "Un vídeo corto sobre las micropausas: esos parones de un minuto que caben entre lavadora y lavadora. Con humor, para desmontar la idea de que cuidarse necesita una tarde libre que nunca llega.",
+                                           "tags":  [
+                                                        "Contenido",
+                                                        "Micropausas"
+                                                    ],
+                                           "guion":  "GANCHO: \"No tienes una hora para ti. Ya lo sé. ¿Y un minuto?\"\n\nCUERPO: Esperamos al hueco perfecto para cuidarnos: la tarde libre, el fin de semana tranquilo, las vacaciones. Y mientras tanto, vamos en modo botón rojo todo el día. Las micropausas son otra cosa: un minuto mientras se calienta el café, una respiración lenta antes de abrir el correo, soltar los hombros en un semáforo. No hace falta convertirte en Buda con WiFi. Pequeñas pausas, repetidas, pueden ayudar a tu cuerpo a salir un ratito del modo alerta.\n\nCIERRE: Frase para guardar: no necesitas más tiempo, necesitas pequeños huecos para volver a ti. ¿Dónde vas a esconder tu micropausa de hoy?",
+                                           "referente":  {
+                                                             "nombre":  "María Jesús Álava Reyes",
+                                                             "porque":  "Psicóloga española, autora de «La inutilidad del sufrimiento» (La Esfera de los Libros) y habitual en radio y televisión. Fíjate en cómo da ideas prácticas para gestionar el estrés del día a día con frases cortas y fáciles de recordar, sin sonar a consulta."
+                                                         },
+                                           "mensajeWhatsapp":  "¿Esperando la tarde libre para cuidarte? Prueba hoy algo más pequeño: un minuto mientras se calienta el café, respirando despacio y soltando los hombros. Eso también cuenta 🌿"
+                                       }
+                  }
+    },
+    {
+        "date":  "2026-11-04",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Una curiosidad para estos días de recuperación: tu cerebro no se apaga cuando no haces nada. Si hoy te pilla un rato de aburrimiento, en el sofá o mirando por la ventana, prueba a no llenarlo con el móvil. No es tiempo perdido: también es parte de descansar y de tener paciencia contigo.",
+                                         "tags":  [
+                                                      "Bienestar",
+                                                      "El valor de no hacer nada"
+                                                  ],
+                                         "aprendizaje":  "Cuando dejamos de atender a lo de fuera se activa una red del cerebro llamada red neuronal por defecto, relacionada con divagar, recordar e imaginar. Muchos estudios la vinculan con la creatividad, aunque todavía se investiga cómo funciona exactamente. Lo que sí parece claro es que la estimulación constante le deja poco espacio.",
+                                         "frase":  {
+                                                       "texto":  "He dicho a menudo que toda la desdicha de los hombres viene de una sola cosa: no saber quedarse tranquilos en una habitación.",
+                                                       "autor":  "Blaise Pascal, «Pensamientos» (1670), traducción libre"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "Por qué el aburrimiento estratégico es beneficioso para el cerebro",
+                                                         "resumen":  "Artículo divulgativo del diario argentino La Gaceta que defiende que aburrirse de vez en cuando, sin taparlo con estímulos, puede sentarle bien al cerebro.",
+                                                         "url":  "https://www.lagaceta.com.ar/nota/1141279/sociedad/por-aburrimiento-estrategico-beneficioso-para-cerebro.html"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Comparte con tu comunidad una reflexión sobre el silencio en clase: no hace falta llenar cada segundo con indicaciones. A veces, lo que más enseña es callarse un momento y dejar que el cuerpo de cada alumna hable.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "El silencio en clase"
+                                             ],
+                                    "guion":  "GANCHO: \"¿Y si lo mejor que puedes decir en tu próxima clase es nada?\"\n\nCUERPO: Cuando empezamos a dar clase nos da miedo el silencio. Parece que si no hablamos, el grupo se pierde. Así que explicamos, corregimos y animamos sin parar. Pero un silencio a tiempo, después de una postura o antes de cerrar, le da a cada alumna espacio para notar lo que está pasando dentro. El silencio no es un hueco vacío: también es una forma de acompañar.\n\nCIERRE: Próxima clase, regálate un minuto de silencio sin rellenarlo. Y luego cuéntame qué pasó en la sala.",
+                                    "referente":  {
+                                                      "nombre":  "Pablo d\u0027Ors",
+                                                      "porque":  "Escritor madrileño y fundador de la red de meditadores Amigos del Desierto, autor de «Biografía del silencio» (Siruela, 2012; luego reeditado por Galaxia Gutenberg), un ensayo breve sobre meditación con muchísimos lectores. Fíjate en cómo habla del silencio con frases sencillas y su propia experiencia, sin palabras raras: es un buen espejo para hablar de pausa a profesionales del movimiento."
+                                                  },
+                                    "mensajeWhatsapp":  "Buenos días a todas! Una idea para vuestra próxima clase: probad a regalar un minuto de silencio, sin explicar ni corregir nada. Solo dejar que cada alumna note su cuerpo. A veces el silencio enseña más que las palabras 🍃"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Tarea de 10 minutos, sin pantalla: elige en tu agenda un único hueco tranquilo a la semana, de unos 20 minutos, que será solo para pensar en Neuroalma. Apunta el día y la hora. Nada más; el resto de la semana, Neuroalma puede madurar sola.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "Un rato fijo a la semana"
+                                                 ],
+                                        "aprendizaje":  "Cuando llevas tu propia academia, es fácil que el proyecto se cuele a ratos sueltos y te canse más de la cuenta. Un rato corto y fijo, sin móvil ni prisas, cunde más que muchos ratos dispersos, y además te deja descansar el resto del tiempo sin sentir que lo abandonas.",
+                                        "recurso":  {
+                                                        "titulo":  "Céntrate (Deep Work), de Cal Newport (Ediciones Península, 2022)",
+                                                        "tipo":  "libro",
+                                                        "porque":  "Edición en español de un libro sobre cómo trabajar con concentración en un mundo lleno de distracciones; una de sus ideas es aprender a convivir con el aburrimiento. Es un libro para leer poco a poco cuando tengas energía, no ahora: quédate con la idea de proteger un rato tranquilo para lo importante."
+                                                    }
+                                    },
+                      "respira":  {
+                                      "title":  "Respira Mujer",
+                                      "idea":  "Tarea de 10 minutos, en papel: escribe tres preguntas abiertas que te gustaría hacer a las mujeres que ya vieron la masterclass. Por ejemplo, cómo estaba antes, qué herramienta le sirvió más y qué le diría a una amiga que duda. Solo escribirlas; enviarlas puede esperar.",
+                                      "tags":  [
+                                                   "Idea",
+                                                   "Preguntas para pedir opinión"
+                                               ],
+                                      "aprendizaje":  "Las preguntas abiertas ayudan a que la persona cuente su experiencia con sus propias palabras, en vez de responder con un simple \"me gustó\". Y esas palabras suyas serán muy útiles cuando más adelante expliques a quién ayuda Respira Mujer.",
+                                      "recurso":  {
+                                                      "titulo":  "Cómo solicitar un testimonio de satisfacción a un cliente (blog de HubSpot, en español)",
+                                                      "tipo":  "artículo",
+                                                      "porque":  "Guía en español que recomienda hacer preguntas abiertas, preguntar por el problema que la persona tenía antes y cómo fue su experiencia, y pedirlo con un mensaje breve y personal. Es de una empresa de software, así que quédate solo con las ideas.",
+                                                      "url":  "https://blog.hubspot.es/service/solicitar-testimonio-clientes"
+                                                  }
+                                  },
+                      "respiramarca":  {
+                                           "title":  "Marca personal Respira Mujer",
+                                           "idea":  "Un vídeo corto sobre la culpa por parar: esa vocecita que salta en cuanto te sientas cinco minutos. Con humor y cariño, para recordar que descansar no es un capricho, es mantenimiento básico.",
+                                           "tags":  [
+                                                        "Contenido",
+                                                        "La culpa por parar"
+                                                    ],
+                                           "guion":  "GANCHO: \"Te sientas cinco minutos y, de repente, aparece la vocecita: \u0027con todo lo que tienes que hacer...\u0027\"\n\nCUERPO: Amiga mía, esa voz no es tu conciencia, es la costumbre. Llevamos tanto tiempo sosteniendo a todo el mundo que parar nos parece casi un delito. Pero piensa en el móvil: nadie le pide que funcione sin cargarlo. Tú tampoco puedes ir siempre en modo botón rojo. Parar un rato no te hace egoísta; te ayuda a volver a ti con algo más de calma.\n\nCIERRE: Frase para guardar: descansar no es abandonar a nadie, es cargar la batería. ¿Qué le vas a contestar hoy a tu vocecita?",
+                                           "referente":  {
+                                                             "nombre":  "Elsa Punset",
+                                                             "porque":  "Escritora y divulgadora española sobre emociones, autora de libros como «Brújula para navegantes emocionales» y «Una mochila para el universo». Fíjate en cómo explica temas de bienestar emocional con un lenguaje cotidiano y cercano, pensado para cualquiera, sin sonar a terapia."
+                                                         },
+                                           "mensajeWhatsapp":  "Si hoy te sientas un ratito y aparece la vocecita de \"con todo lo que tienes que hacer...\", contéstale con cariño: estoy cargando la batería. Descansar también es cuidarte 🌿"
+                                       }
+                  }
+    },
+    {
+        "date":  "2026-11-05",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Una idea para tu oficio, para pensarla sin prisa desde el sofá: en casi todas las clases hay alguna alumna que mira de reojo a la de al lado y se siente menos. Recuerda alguna frase tuya que ayudaba a que cada una volviera a su propio cuerpo, en vez de compararse. Hoy basta con recordarla; no hay que hacer nada más.",
+                                         "tags":  [
+                                                      "Oficio",
+                                                      "La alumna que se compara"
+                                                  ],
+                                         "aprendizaje":  "Hace ya muchos años, el psicólogo Leon Festinger explicó que las personas tendemos a medirnos comparándonos con los demás, sobre todo cuando no tenemos otra referencia clara. Por eso, cuando en clase invitas a cada alumna a fijarse en cómo se siente ella hoy, le das una referencia propia y la comparación pierde fuerza.",
+                                         "frase":  {
+                                                       "texto":  "Cada hombre lleva en sí la forma entera de la condición humana.",
+                                                       "autor":  "Michel de Montaigne, «Ensayos» (libro III), traducción libre"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "La comparación que nos roba la calma: una mirada desde la psicología y la neurociencia",
+                                                         "resumen":  "Artículo divulgativo de Psicología y Mente que repasa la teoría de la comparación social de Festinger y explica cómo compararnos con los demás puede quitarnos tranquilidad.",
+                                                         "url":  "https://psicologiaymente.com/psicologia/comparacion-que-nos-roba-calma-mirada-desde-psicologia-y-neurociencia"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Comparte con tu comunidad algo muy humano: equivocarse delante del grupo. Decir derecha cuando era izquierda, perder el hilo o confundir una secuencia. Cómo lo vives tú enseña al grupo más que cualquier postura perfecta.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "Equivocarse en clase"
+                                             ],
+                                    "guion":  "GANCHO: \"Dije derecha, todo el grupo fue a la izquierda... y la que se equivocó fui yo.\"\n\nCUERPO: A todas nos ha pasado. Por un segundo sientes que has perdido la autoridad y te entran ganas de disimular. Pero cuando te ríes con cariño y dices \"perdón, quería decir izquierda\", pasa algo bonito: el grupo se relaja. Ven que aquí nadie tiene que ser perfecta, tampoco la profe. Y una sala donde se puede fallar es una sala donde se aprende con más tranquilidad.\n\nCIERRE: ¿Cuál ha sido tu despiste más gracioso en clase? Cuéntamelo, que seguro que no eres la única.",
+                                    "referente":  {
+                                                      "nombre":  "Antoni Bolinches",
+                                                      "porque":  "Psicólogo clínico de Barcelona, considerado uno de los introductores de la psicología humanista en España y autor de «El secreto de la autoestima». Una de las ideas de ese libro es que los buenos momentos son para disfrutarlos y los malos para aprender. Fíjate en cómo habla de los errores como parte del crecimiento, con un lenguaje sencillo, sin dramatizar."
+                                                  },
+                                    "mensajeWhatsapp":  "Buenos días! Una pregunta para sonreír un poco: ¿cuál ha sido vuestro despiste más gracioso dando clase? Equivocarse delante del grupo también enseña algo: que en esa sala nadie tiene que ser perfecta, ni siquiera la profe 🙂"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Tarea de 10 minutos, en papel: pon un título provisional y corto a cada una de las 7 sesiones de Neuroalma. No tienen que ser bonitos ni definitivos; solo una o dos palabras que te recuerden de qué va cada una. Puedes dejar huecos si alguna aún no la ves clara.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "Títulos de las sesiones"
+                                                 ],
+                                        "aprendizaje":  "Cuando cada sesión tiene una sola idea principal y un nombre claro, tanto tú como las alumnas sabéis siempre dónde estáis dentro del programa. Además, esos títulos te servirán más adelante para explicar Neuroalma sin tener que dar largas explicaciones.",
+                                        "recurso":  {
+                                                        "titulo":  "Cómo estructurar un curso online (blog de MemberPress, en español)",
+                                                        "tipo":  "artículo",
+                                                        "porque":  "Guía en español que recomienda centrar cada módulo en una idea clara para no saturar a quien aprende. Es de una empresa de software para vender cursos, así que quédate solo con la idea de organizar y no con lo técnico.",
+                                                        "url":  "https://memberpress.com/es/blog/how-to-structure-an-online-course/"
+                                                    }
+                                    },
+                      "respira":  {
+                                      "title":  "Respira Mujer",
+                                      "idea":  "Tarea de 10 minutos, solo para pensar y apuntar: si algún día ofreces el programa de acompañamiento en varios pagos, ¿cuántos te parecerían razonables? Escribe dos o tres opciones (por ejemplo, un pago o dos) y qué te hace sentir más tranquila de cada una. No hace falta decidir nada hoy.",
+                                      "tags":  [
+                                                   "Idea",
+                                                   "Pensar en los pagos"
+                                               ],
+                                      "aprendizaje":  "Ofrecer la opción de pagar en varias veces puede ayudar a que el precio no frene a quien realmente quiere entrar. A cambio, cobras el dinero poco a poco y tienes que llevar algo más de control, así que conviene elegir una fórmula sencilla que puedas gestionar sin agobio.",
+                                      "recurso":  {
+                                                      "titulo":  "Pagos a plazos: ventajas (guía de GoCardless, en español)",
+                                                      "tipo":  "artículo",
+                                                      "porque":  "Guía en español que explica qué son los pagos a plazos, cómo pueden ayudar a vender y también su lado menos bueno, como que el dinero entra más despacio. Es de una empresa de pagos, así que tómalo solo como explicación general.",
+                                                      "url":  "https://gocardless.com/es/guias/consejos/pagos-a-plazos-ventajas"
+                                                  }
+                                  },
+                      "respiramarca":  {
+                                           "title":  "Marca personal Respira Mujer",
+                                           "idea":  "Un vídeo corto con la idea fuerza de Respira Mujer: no estás rota, estás saturada. Para esa mujer que se siente torpe, olvidadiza o de mal humor y cree que le pasa algo raro, cuando en realidad lleva demasiado peso encima.",
+                                           "tags":  [
+                                                        "Contenido",
+                                                        "No estás rota"
+                                                    ],
+                                           "guion":  "GANCHO: \"Se te olvidan las llaves, contestas mal y lloras con un anuncio de yogures. ¿Te estás volviendo loca?\"\n\nCUERPO: Spoiler: no, amiga mía. No estás rota, estás saturada. Cuando llevas meses sosteniendo a todo el mundo, tu cuerpo vive en alerta y la cabeza va a tope. Es normal que se te escapen cosas. No necesitas arreglarte, necesitas soltar un poco de peso y regalarte momentos pequeños de calma, de esos que caben en un día cualquiera.\n\nCIERRE: Frase para guardar: no estás rota, estás saturada. Y lo saturado se puede ir aligerando, poquito a poco.",
+                                           "referente":  {
+                                                             "nombre":  "Raquel Córcoles (Moderna de Pueblo)",
+                                                             "porque":  "Autora de cómic de Reus que publica como Moderna de Pueblo, con libros como «Idiotizadas» o «Coñodramas». Su humor nace de situaciones cotidianas de mujeres normales y les da la vuelta con ironía y cariño. Fíjate en cómo consigue que te rías de ti misma sin sentirte juzgada: es muy parecido a tu tono un pelín canallita."
+                                                         },
+                                           "mensajeWhatsapp":  "Si últimamente se te olvidan cosas, estás más irritable o te emocionas por cualquier tontería, recuerda esto: no estás rota, estás saturada. Hoy regálate un minuto de calma, aunque sea con el café en la mano 🌿"
+                                       }
+                  }
+    },
+    {
+        "date":  "2026-11-07",
+        "zones":  {
+                      "desarrollo":  {
+                                         "title":  "Desarrollo personal",
+                                         "idea":  "Una curiosidad para estos días de espera: poner por escrito lo que sientes puede ayudar a ordenarlo por dentro. Si te apetece, coge un papel y escribe durante 5 o 10 minutos cómo te estás sintiendo con la recuperación, sin corregir ni releer. Y si hoy no te apetece, también está bien: descansar es parte del camino.",
+                                         "tags":  [
+                                                      "Bienestar",
+                                                      "Escribir lo que sientes"
+                                                  ],
+                                         "aprendizaje":  "El psicólogo James Pennebaker empezó en los años ochenta a estudiar la llamada escritura expresiva: escribir unos minutos, varios días seguidos, sobre lo que nos preocupa o nos ha removido. Muchos estudios posteriores apuntan a que puede aliviar algo el malestar, aunque el efecto es moderado y no a todo el mundo le sirve igual. Justo después de escribir es normal sentirse un poco removida; suele pasar pronto.",
+                                         "frase":  {
+                                                       "texto":  "Todas las penas pueden soportarse si las ponemos en una historia o contamos una historia sobre ellas.",
+                                                       "autor":  "Isak Dinesen (Karen Blixen), citada por Hannah Arendt en «La condición humana» (1958)"
+                                                   },
+                                         "noticia":  {
+                                                         "titulo":  "Escritura expresiva y bienestar emocional: una revisión de estudios (artículo en Dialnet)",
+                                                         "resumen":  "Artículo en español que recoge que, en los estudios experimentales, escribir sobre experiencias estresantes, en lugar de sobre temas neutros, reduce algo la ansiedad y el ánimo bajo, con un efecto pequeño o moderado, y que en español todavía hay pocos estudios.",
+                                                         "url":  "https://dialnet.unirioja.es/descarga/articulo/10143386.pdf"
+                                                     }
+                                     },
+                      "marca":  {
+                                    "title":  "Marca personal",
+                                    "idea":  "Comparte con tu comunidad una situación que a todas nos ha tocado: la alumna que un día deja de venir sin decir nada. Es fácil pensar que hiciste algo mal, cuando casi siempre tiene que ver con su vida y no contigo.",
+                                    "tags":  [
+                                                 "Contenido",
+                                                 "La alumna que deja de venir"
+                                             ],
+                                    "guion":  "GANCHO: \"Venía todas las semanas... y un día, sin avisar, dejó de venir. ¿Qué hice mal?\"\n\nCUERPO: Si das clases, esta pregunta te habrá rondado alguna vez. Pero la mayoría de las veces no tiene nada que ver contigo: un cambio de horario, un hijo enfermo, una mala racha, falta de dinero. Lo que sí está en tu mano es dejar la puerta abierta. Un mensaje sencillo, sin reproches, del tipo \"te echamos de menos, aquí tienes tu sitio cuando quieras\", puede hacer que esa persona sienta que importa.\n\nCIERRE: ¿Te ha pasado alguna vez? ¿Cómo lo viviste? Te leo.",
+                                    "referente":  {
+                                                      "nombre":  "Mar Romera",
+                                                      "porque":  "Maestra, pedagoga y psicopedagoga granadina, experta en inteligencia emocional y autora de libros como «Educar sin recetas» o «La familia, la primera escuela de las emociones». Aunque escribe sobre todo para familias y docentes, fíjate en cómo pone la relación y las emociones en el centro del aprendizaje: es justo lo que tú haces en una sala de movimiento."
+                                                  },
+                                    "mensajeWhatsapp":  "Buenos días! Hoy os dejo una pregunta para pensar con calma: ¿alguna vez una alumna ha dejado de venir y te has quedado dándole vueltas? Casi siempre es cosa de su vida, no de tu clase. Y un mensaje cariñoso dejando la puerta abierta puede valer muchísimo 🙂"
+                                },
+                      "neuroalma":  {
+                                        "title":  "Neuroalma",
+                                        "idea":  "Tarea de 10 minutos, en papel y sin prisa: apunta tres dudas que crees que podría tener una profesora de yoga o pilates antes de apuntarse a Neuroalma (por ejemplo, sobre el horario, el precio o si le servirá para sus clases). Hoy no hace falta responderlas; solo escribirlas.",
+                                        "tags":  [
+                                                     "Idea",
+                                                     "Las dudas antes de entrar"
+                                                 ],
+                                        "aprendizaje":  "Muchas personas no compran una formación porque se quedan con una duda sin resolver, no porque no les interese. Si tienes a mano esas dudas frecuentes, más adelante podrás responderlas con calma en la página o en un mensaje, y la decisión les resultará más fácil.",
+                                        "recurso":  {
+                                                        "titulo":  "Cómo hacer un manejo de objeciones efectivo para los compradores de tu curso online (blog de Hotmart, en español)",
+                                                        "tipo":  "artículo",
+                                                        "porque":  "Artículo en español que recomienda explicar con claridad qué incluye el curso y sus beneficios, porque la falta de información básica puede frenar la compra. Es de una plataforma de venta de cursos, así que quédate con la idea general y no con lo técnico.",
+                                                        "url":  "https://hotmart.com/es/blog/manejo-de-objeciones"
+                                                    }
+                                    },
+                      "respira":  {
+                                      "title":  "Respira Mujer",
+                                      "idea":  "Tarea de 10 minutos, solo para pensar: si algún día quisieras regalar un trocito pequeño de Respira Mujer para que otras mujeres te conozcan, ¿qué parte elegirías? Puede ser una herramienta concreta, como el botón mágico o una micropausa. Apunta una o dos opciones; no hay que grabar ni preparar nada.",
+                                      "tags":  [
+                                                   "Idea",
+                                                   "Un trocito de regalo"
+                                               ],
+                                      "aprendizaje":  "En marketing se llama \"lead magnet\" a un pequeño contenido gratuito que ofreces a cambio de, por ejemplo, el correo de la persona. Funciona mejor cuando es breve, claro y resuelve un problema concreto: así quien lo prueba se hace una idea real de cómo acompañas.",
+                                      "recurso":  {
+                                                      "titulo":  "¿Qué es un lead magnet? (Mailchimp, en español)",
+                                                      "tipo":  "artículo",
+                                                      "porque":  "Explicación en español de qué es un contenido gratuito para atraer personas interesadas y algunos ejemplos. Es de una empresa de correo electrónico, así que tómalo solo como explicación general.",
+                                                      "url":  "https://mailchimp.com/es/resources/what-is-a-lead-magnet/"
+                                                  }
+                                  },
+                      "respiramarca":  {
+                                           "title":  "Marca personal Respira Mujer",
+                                           "idea":  "Un vídeo corto con una pregunta sencilla: ¿cuándo fue la última vez que hiciste algo solo porque te apetecía? Para esa mujer que se pasa el día cuidando de todo y de todos, y se ha olvidado de lo que le gusta a ella.",
+                                           "tags":  [
+                                                        "Contenido",
+                                                        "Algo solo para ti"
+                                                    ],
+                                           "guion":  "GANCHO: \"¿Cuándo fue la última vez que hiciste algo solo porque te apetecía? Y no vale ir al súper sola.\"\n\nCUERPO: Si te ha costado responder, no eres un caso raro, amiga mía. Cuando sostienes a todo el mundo, lo tuyo va quedando para \"cuando haya tiempo\". Y ese día nunca llega. Volver a ti no es irte de retiro una semana: es recuperar pequeñas cosas tuyas. Una canción que te encanta, un café sin prisa, cinco minutos mirando por la ventana. Cosas pequeñas que te recuerdan quién eres además de todo lo que haces.\n\nCIERRE: Frase para guardar: no tienes que ganarte el derecho a disfrutar. Hoy elige una cosa pequeña solo para ti.",
+                                           "referente":  {
+                                                             "nombre":  "Lorena Pronsky",
+                                                             "porque":  "Psicóloga y escritora argentina de La Plata, autora de libros como «Rota se camina igual», «Despierta» o «Cúrame», que empezó compartiendo sus textos en redes. Fíjate en cómo escribe sobre el cansancio y las emociones de las mujeres con frases cortas y muy directas, que llegan sin sonar a sermón."
+                                                         },
+                                           "mensajeWhatsapp":  "Una pregunta para hoy: ¿qué es eso pequeño que te encantaba hacer y hace tiempo que no haces? Una canción, un paseo, un café sin prisa... Elige una cosa y regálatela esta semana. No hace falta ganárselo 🌿"
+                                       }
+                  }
     }
 ]

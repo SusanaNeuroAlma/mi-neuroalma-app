@@ -1,66 +1,62 @@
 {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Una reflexión de oficio para pensar sin prisa: la alumna que llega nueva a un grupo que ya se conoce. Antes que aprender la postura, lo que necesita es sentir que tiene un sitio. Si te apetece, recuerda durante unos minutos alguna vez en la que tú fuiste la nueva y qué te hizo sentir bienvenida; con eso ya tienes mucho aprendido.",
-            "tags": ["Oficio", "La alumna nueva"],
-            "aprendizaje": "Sentirse parte de un grupo es una necesidad muy básica: cuando una persona no sabe si encaja, una parte de su atención se va a vigilar si la aceptan, y le queda menos para escuchar a su cuerpo. Gestos pequeños, como decir su nombre, presentarla con naturalidad o buscarle un hueco cerca de alguien amable, ayudan a que se relaje antes.",
+            "idea": "Hoy una curiosidad para ti, sin nada que hacer: la risa. En días de recuperación es fácil que todo se ponga serio, y reírse un poco también es una forma de descansar. Si te apetece, busca algo pequeño que te haga sonreír, una conversación con alguien que te quiera, un recuerdo divertido o una tontería en la tele, y date permiso para disfrutarlo sin prisa.",
+            "tags": ["Bienestar", "Reír un poco"],
+            "aprendizaje": "Cuando nos reímos con ganas, el cuerpo suele soltar tensión y la mente cambia de canal por un momento; por eso un rato de humor puede ayudar a que el estrés pese algo menos. Y se nota más cuando la risa es compartida: reír con otras personas nos hace sentir más cerca y más acompañadas.",
             "frase": {
-                "texto": "Toda vida verdadera es encuentro.",
-                "autor": "Martin Buber, «Yo y tú» (1923), traducción libre"
+                "texto": "La risa es el sol: ahuyenta el invierno del rostro humano.",
+                "autor": "Víctor Hugo, «Los miserables» (1862), traducción libre"
             },
             "noticia": {
-                "titulo": "De clases a reuniones: por qué la participación activa es clave ante la soledad y la desconexión social (Infobae, agosto de 2025)",
-                "resumen": "Artículo en español sobre un estudio con más de 1.500 personas que concluyó que asistir de forma constante a actividades en grupo ayuda a combatir el aislamiento.",
-                "url": "https://www.infobae.com/tendencias/2025/08/29/de-clases-a-reuniones-por-que-la-participacion-activa-es-clave-ante-la-soledad-y-la-desconexion-social/"
+                "titulo": "El poder terapéutico de la risa: un gesto de dos minutos que transforma la salud (La Capital)",
+                "resumen": "Artículo en español del diario argentino La Capital sobre cómo un rato breve de risa puede sentar bien a la salud.",
+                "url": "https://www.lacapital.com.ar/salud/el-poder-terapeutico-la-risa-un-gesto-dos-minutos-que-transforma-la-salud-n10248874.html/amp"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad algo que pasa en todas las salas y casi nadie cuenta: ese día en que la clase no fluye. Preparaste todo con cariño y el grupo está disperso, cansado o sin ganas. No es un fracaso; es información, y también forma parte del oficio.",
-            "tags": ["Contenido", "La clase que no fluye"],
-            "guion": "GANCHO: \"Lo tenías todo preparado... y la clase no fluyó. ¿Te suena?\"\n\nCUERPO: Hay días en que el grupo llega disperso, cansado o con la cabeza en otra parte. Y es fácil salir pensando que lo has hecho fatal. Pero una clase no es solo lo que tú llevas preparado: es también cómo llega cada persona ese día. A veces lo más sabio es soltar el plan, bajar el ritmo y ofrecer algo más sencillo. Eso no es improvisar sin más; es escuchar al grupo.\n\nCIERRE: ¿Qué haces tú el día que la clase no fluye? Cuéntamelo, que de esto se aprende mucho entre compañeras.",
+            "idea": "Comparte con tu comunidad un momento de la clase que parece fácil y no lo es: la relajación final. Para muchas alumnas, quedarse quietas sin hacer nada es lo más difícil de toda la sesión, y eso merece que lo acompañemos con cariño en lugar de darlo por hecho.",
+            "tags": ["Contenido", "La relajación final"],
+            "guion": "GANCHO: \"El momento más difícil de la clase para muchas alumnas no es la postura más exigente... es tumbarse y no hacer nada.\"\n\nCUERPO: Llega la relajación final y hay quien no para de moverse, quien abre los ojos cada minuto o quien ya está pensando en la lista de la compra. No es que lo hagan mal: es que llevamos todo el día en marcha y, de repente, parar da hasta un poco de vértigo. Por eso ayuda tanto avisar de lo que va a pasar, ofrecer una manta, dar alguna indicación sencilla para que la mente tenga dónde apoyarse y recordar que no hay que conseguir nada.\n\nCIERRE: ¿Cómo acompañas tú ese momento? Me encantará leer tus trucos, que entre compañeras se aprende muchísimo.",
             "referente": {
-                "nombre": "José Antonio Marina",
-                "porque": "Filósofo, escritor y pedagogo toledano, autor de libros como «El laberinto sentimental», «Diccionario de los sentimientos» o «La inteligencia ejecutiva», y promotor de la Universidad de Padres. Fíjate en cómo explica los sentimientos y el aprendizaje con un lenguaje claro y cercano: te puede inspirar para hablar de emociones en clase sin sonar complicada."
+                "nombre": "Gaspar Hernàndez",
+                "porque": "Periodista y escritor gerundense que dirige el programa «L'ofici de viure» en Catalunya Ràdio y autor de libros como «La libertad interior» (Planeta). Fíjate en cómo conversa con calma sobre el bienestar y las emociones: es un buen ejemplo de hablar de temas profundos con un tono sereno y cercano."
             },
-            "mensajeWhatsapp": "Buenos días! Una pregunta para hoy: ¿alguna vez has salido de una clase pensando \"hoy no ha fluido nada\"? Pasa a todas. A veces el grupo llega cansado, y soltar el plan y escucharle también es hacer bien tu trabajo 🙂"
+            "mensajeWhatsapp": "Buenos días! Hoy os dejo una reflexión pequeña: para muchas alumnas, el momento más difícil de la clase es la relajación final, quedarse quietas sin hacer nada. Acompañarlo con calma, sin dar por hecho que es fácil, también es parte de nuestro trabajo 🙂"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, en papel: apunta los nombres de tres o cuatro compañeras del mundo del movimiento a las que, cuando llegue el momento, te apetecería contarles que existe Neuroalma. No hay que escribirles ni decidir nada hoy; solo hacer la lista.",
-            "tags": ["Idea", "Tu primer círculo"],
-            "aprendizaje": "En una academia pequeña, la recomendación de alguien que te conoce suele pesar más que cualquier anuncio: la gente confía antes en una compañera que en un mensaje de marca. Por eso, más que perseguir a desconocidos, al principio funciona cuidar bien a quien ya está cerca y ofrecer una experiencia que den ganas de contar.",
+            "idea": "Tarea de 10 minutos, en papel y sin prisa: escribe cinco líneas sobre por qué nació Neuroalma. Qué viste en las clases, qué echabas de menos en las formaciones o qué te gustaría que se llevaran las profesionales que pasen por ella. No tiene que quedar bonito; solo sincero.",
+            "tags": ["Idea", "Tu porqué"],
+            "aprendizaje": "En una academia pequeña, la gente no solo elige qué va a aprender, también con quién. Tener claro y a mano por qué haces lo que haces te ayuda a explicarlo con naturalidad cuando te pregunten, a decidir qué entra y qué no en el programa y a recordarte el sentido del proyecto en los días con menos energía.",
             "recurso": {
-                "titulo": "Marketing boca a boca (blog de Salesforce, en español)",
-                "tipo": "artículo",
-                "porque": "Explicación en español de qué es el marketing boca a boca: conseguir que tus propias clientas te recomienden. Es de una empresa de software, así que quédate con la idea general.",
-                "url": "https://www.salesforce.com/mx/blog/marketing-boca-a-boca/"
+                "titulo": "Empieza con el porqué (Simon Sinek, Empresa Activa)",
+                "tipo": "libro",
+                "porque": "Libro traducido al español (el autor es estadounidense) que defiende que lo que más conecta con las personas es explicar por qué haces lo que haces. Es de mundo empresarial; quédate con la idea central, sin agobiarte con el resto.",
+                "url": "https://www.tiposinfames.com/libros/empieza-con-el-porque/92108/"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, solo para pensar: ¿a qué hora del día crees que una mujer con mil tareas podría conectarse a una sesión en directo de una hora? Apunta dos o tres franjas posibles (por ejemplo, a media mañana o después de cenar). No hay que poner fechas; es solo decidir qué momento encaja mejor con ellas.",
-            "tags": ["Idea", "La hora de las sesiones"],
-            "aprendizaje": "Cuando ofreces sesiones en directo, el horario puede hacer que alguien se apunte o no. Si dudas, puedes preguntar a tu propio público con una encuesta sencilla de dos o tres opciones; además de ayudarte a decidir, hace que las mujeres sientan que el programa se piensa con ellas.",
+            "idea": "Tarea de 10 minutos, solo de escribir: describe Respira Mujer en tres frases sencillas. La primera, para quién es; la segunda, qué se va a llevar ella; la tercera, cómo se hace (masterclass grabada y acompañamiento en directo). Sin fechas ni precio; solo que una amiga lo entienda a la primera.",
+            "tags": ["Idea", "Tu descripción en tres frases"],
+            "aprendizaje": "Antes de vender algo conviene poder explicarlo muy corto y con palabras de la calle. Si una mujer entiende en pocos segundos para quién es y qué gana, es más fácil que siga leyendo; y esas tres frases te servirán luego para la página de venta, los mensajes y las conversaciones.",
             "recurso": {
-                "titulo": "Cómo crear encuestas en WhatsApp (guía de Hipertextual, en español)",
-                "tipo": "guía",
-                "porque": "Guía en español para hacer una encuesta dentro de un chat o grupo de WhatsApp. Te servirá el día que quieras preguntar el horario preferido; los menús pueden cambiar un poco según la versión de la app.",
-                "url": "https://hipertextual.com/guias/crear-encuestas-whatsapp/"
+                "titulo": "Cómo promocionar cursos online de manera efectiva y captar más alumnos (blog de GetResponse, en español)",
+                "tipo": "artículo",
+                "porque": "Artículo en español que, entre otras cosas, explica cómo definir los beneficios clave que tu curso promete a quien se apunta. Te puede ayudar a afinar esas tres frases; quédate con lo que encaje contigo.",
+                "url": "https://www.getresponse.com/es/blog/como-promocionar-cursos-online"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre la revolución suave: no hace falta cambiar tu vida entera para estar mejor, basta con empezar por cambios pequeñitos que caben en tu día. Para esa mujer que cree que cuidarse exige un plan enorme que nunca tiene tiempo de empezar.",
-            "tags": ["Contenido", "La revolución suave"],
-            "guion": "GANCHO: \"¿Y si para estar mejor no tuvieras que cambiar tu vida entera?\"\n\nCUERPO: Muchas esperamos al lunes perfecto, a las vacaciones o a tener tiempo para empezar a cuidarnos. Y mientras tanto, seguimos en modo botón rojo. La revolución suave va al revés: cambios tan pequeños que caben entre una tarea y otra. Tres respiraciones antes de abrir el móvil. Soltar los hombros en un semáforo. Beber agua despacio, sin hacer nada más. Nada espectacular, amiga mía, pero repetido cada día, se nota.\n\nCIERRE: Frase para guardar: lo pequeño, repetido, también transforma. Hoy elige un gesto mínimo y regálatelo.",
-            "referente": {
-                "nombre": "Marta Martínez Novoa",
-                "porque": "Autora de «El síndrome de la chica buena» (Planeta), un libro sobre las mujeres que se pasan la vida complaciendo a los demás y olvidándose de sí mismas. Fíjate en cómo pone nombre a esa forma de vivir con la que tantas mujeres se identifican: es muy cercana a la mujer que sostiene a todos de Respira Mujer."
-            },
-            "mensajeWhatsapp": "Un pequeño reto para hoy: elige un gesto mínimo de calma y repítelo varias veces a lo largo del día. Tres respiraciones lentas antes de coger el móvil, por ejemplo. No hace falta cambiarlo todo; lo pequeño, repetido, también cuenta 🌿"
+            "idea": "Un vídeo corto sobre volver a ti: esa mujer que se pasa el día pendiente de todos y, al final, ni se acuerda de cómo está ella. La propuesta es una pregunta sencilla que se puede hacer en cualquier momento, para reencontrarse aunque sea un minuto.",
+            "tags": ["Contenido", "Volver a ti"],
+            "guion": "GANCHO: \"Hoy has preguntado a todo el mundo cómo está... ¿y a ti quién te lo ha preguntado?\"\n\nCUERPO: Sabes lo que necesita cada persona de tu casa, del trabajo o del grupo de WhatsApp. Pero si alguien te pregunta qué necesitas tú, igual te quedas en blanco. No es egoísmo, amiga mía, es costumbre: llevamos tanto tiempo mirando hacia fuera que se nos olvida mirar hacia dentro. Prueba esto: para un momento, haz una respiración lenta y pregúntate \"¿cómo estoy ahora mismo?\". Sin arreglar nada, solo escuchar la respuesta.\n\nCIERRE: Frase para guardar: no necesitas hacer más, necesitas volver a ti. Hoy hazte esa pregunta una vez. Un abrazo con oxígeno.",
+            "mensajeWhatsapp": "Hoy una pregunta solo para ti: ¿cómo estás ahora mismo? No la de cortesía, la de verdad. Haz una respiración lenta, escucha lo que te sale y no hace falta que lo arregles. A veces basta con preguntárselo para volver un poquito a ti 🌿"
         }
     }
 }

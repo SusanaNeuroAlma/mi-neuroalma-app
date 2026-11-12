@@ -1,62 +1,62 @@
 {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Hoy una curiosidad para ti, sin nada que hacer: la risa. En días de recuperación es fácil que todo se ponga serio, y reírse un poco también es una forma de descansar. Si te apetece, busca algo pequeño que te haga sonreír, una conversación con alguien que te quiera, un recuerdo divertido o una tontería en la tele, y date permiso para disfrutarlo sin prisa.",
-            "tags": ["Bienestar", "Reír un poco"],
-            "aprendizaje": "Cuando nos reímos con ganas, el cuerpo suele soltar tensión y la mente cambia de canal por un momento; por eso un rato de humor puede ayudar a que el estrés pese algo menos. Y se nota más cuando la risa es compartida: reír con otras personas nos hace sentir más cerca y más acompañadas.",
+            "idea": "Una reflexión de oficio para pensar con calma, sin nada que hacer: tu voz en clase. Antes de que el grupo entienda lo que dices, ya ha notado cómo lo dices. Si te apetece, recuerda la voz de alguna profesora que te hacía sentir a gusto y fíjate en qué tenía; no hace falta practicar nada, solo observar.",
+            "tags": ["Oficio", "Tu voz en clase"],
+            "aprendizaje": "El tono de voz transmite cuidado o control incluso con las mismas palabras. Una voz que invita (\"cuando quieras, puedes...\") suele hacer que el grupo se sienta más seguro y con más ganas de participar que una voz que ordena; las pausas y un ritmo tranquilo también ayudan a que el cuerpo de quien escucha se relaje.",
             "frase": {
-                "texto": "La risa es el sol: ahuyenta el invierno del rostro humano.",
-                "autor": "Víctor Hugo, «Los miserables» (1862), traducción libre"
+                "texto": "Haced todo por amor, nada a la fuerza.",
+                "autor": "San Francisco de Sales, su lema más conocido"
             },
             "noticia": {
-                "titulo": "El poder terapéutico de la risa: un gesto de dos minutos que transforma la salud (La Capital)",
-                "resumen": "Artículo en español del diario argentino La Capital sobre cómo un rato breve de risa puede sentar bien a la salud.",
-                "url": "https://www.lacapital.com.ar/salud/el-poder-terapeutico-la-risa-un-gesto-dos-minutos-que-transforma-la-salud-n10248874.html/amp"
+                "titulo": "Los profesores con tono estricto inspiran menos que sus compañeros más amables (Universidad de Essex, enero de 2023; noticia en inglés)",
+                "resumen": "Investigadoras de las universidades de Essex y Reading pusieron grabaciones de profesores a 250 chicos y chicas de 10 a 16 años: con las mismas palabras, el tono controlador generaba menos cooperación, mientras que una voz de apoyo creaba más conexión con quien enseña. Las autoras recuerdan que es un estudio de laboratorio y que habría que comprobarlo en aulas reales.",
+                "url": "https://essex.ac.uk/news/2023/01/17/strict-teachers-less-effective-in-classroom"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad un momento de la clase que parece fácil y no lo es: la relajación final. Para muchas alumnas, quedarse quietas sin hacer nada es lo más difícil de toda la sesión, y eso merece que lo acompañemos con cariño en lugar de darlo por hecho.",
-            "tags": ["Contenido", "La relajación final"],
-            "guion": "GANCHO: \"El momento más difícil de la clase para muchas alumnas no es la postura más exigente... es tumbarse y no hacer nada.\"\n\nCUERPO: Llega la relajación final y hay quien no para de moverse, quien abre los ojos cada minuto o quien ya está pensando en la lista de la compra. No es que lo hagan mal: es que llevamos todo el día en marcha y, de repente, parar da hasta un poco de vértigo. Por eso ayuda tanto avisar de lo que va a pasar, ofrecer una manta, dar alguna indicación sencilla para que la mente tenga dónde apoyarse y recordar que no hay que conseguir nada.\n\nCIERRE: ¿Cómo acompañas tú ese momento? Me encantará leer tus trucos, que entre compañeras se aprende muchísimo.",
+            "idea": "Comparte con tu comunidad la importancia de despedirse bien al acabar la clase. Los últimos minutos son los que la alumna se lleva a casa, y una despedida con calma, en lugar de recoger a toda prisa, hace que la sesión se sienta completa.",
+            "tags": ["Contenido", "Despedirse bien"],
+            "guion": "GANCHO: \"Cuidamos mucho cómo empieza la clase... ¿y cómo la terminas tú?\"\n\nCUERPO: Muchas veces acabamos con prisa: se pasa la hora, hay que recoger, entra el siguiente grupo. Pero esos últimos minutos son el recuerdo que la alumna se lleva a casa. No hace falta nada especial: una respiración juntas, una frase sencilla sobre lo que se ha trabajado, mirar a cada persona al decir adiós. Son detalles pequeños que hacen que la clase se sienta terminada y no cortada.\n\nCIERRE: ¿Tienes algún gesto o frase para despedir a tu grupo? Cuéntamelo, que me encanta coleccionar ideas entre compañeras.",
             "referente": {
-                "nombre": "Gaspar Hernàndez",
-                "porque": "Periodista y escritor gerundense que dirige el programa «L'ofici de viure» en Catalunya Ràdio y autor de libros como «La libertad interior» (Planeta). Fíjate en cómo conversa con calma sobre el bienestar y las emociones: es un buen ejemplo de hablar de temas profundos con un tono sereno y cercano."
+                "nombre": "Xavier Guix",
+                "porque": "Psicólogo, escritor y divulgador catalán, autor de «Ni me explico, ni me entiendes: los laberintos de la comunicación». Fíjate en cómo habla de los malentendidos del día a día con sencillez: te puede inspirar para cuidar la forma en que te comunicas con tu grupo."
             },
-            "mensajeWhatsapp": "Buenos días! Hoy os dejo una reflexión pequeña: para muchas alumnas, el momento más difícil de la clase es la relajación final, quedarse quietas sin hacer nada. Acompañarlo con calma, sin dar por hecho que es fácil, también es parte de nuestro trabajo 🙂"
+            "mensajeWhatsapp": "Buenos días! Hoy os dejo una idea pequeña: los últimos minutos de la clase son los que la alumna se lleva a casa. Una despedida con calma, una respiración juntas o una frase sencilla, hace que la sesión se sienta completa y no cortada 🙂"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, en papel y sin prisa: escribe cinco líneas sobre por qué nació Neuroalma. Qué viste en las clases, qué echabas de menos en las formaciones o qué te gustaría que se llevaran las profesionales que pasen por ella. No tiene que quedar bonito; solo sincero.",
-            "tags": ["Idea", "Tu porqué"],
-            "aprendizaje": "En una academia pequeña, la gente no solo elige qué va a aprender, también con quién. Tener claro y a mano por qué haces lo que haces te ayuda a explicarlo con naturalidad cuando te pregunten, a decidir qué entra y qué no en el programa y a recordarte el sentido del proyecto en los días con menos energía.",
+            "idea": "Tarea de 10 minutos, en papel y sin pantalla: imagina que acaba la primera sesión en directo de Neuroalma. Escribe tres palabras que te gustaría que sintieran las profesionales al desconectar. No tienes que decidir nada más; esas palabras te servirán de brújula cuando prepares la sesión.",
+            "tags": ["Idea", "Cómo quieres que se sientan"],
+            "aprendizaje": "En una formación en directo, lo que más se recuerda no siempre es el contenido, sino cómo se sintió la persona. Tener claro el ambiente que quieres crear te ayuda a elegir qué meter en cada sesión y qué dejar fuera, y a no llenarla de información por miedo a quedarte corta.",
             "recurso": {
-                "titulo": "Empieza con el porqué (Simon Sinek, Empresa Activa)",
-                "tipo": "libro",
-                "porque": "Libro traducido al español (el autor es estadounidense) que defiende que lo que más conecta con las personas es explicar por qué haces lo que haces. Es de mundo empresarial; quédate con la idea central, sin agobiarte con el resto.",
-                "url": "https://www.tiposinfames.com/libros/empieza-con-el-porque/92108/"
+                "titulo": "Formación telepresencial con clases en directo: la ilusión de estar aprendiendo (blog de IEBS, en español)",
+                "tipo": "artículo",
+                "porque": "Artículo en español que avisa de que un chat muy activo no significa que la gente esté aprendiendo de verdad, y propone pensar bien la experiencia en lugar de solo trasladar la clase a la pantalla. Te puede ayudar a diseñar unas sesiones con menos ruido y más profundidad.",
+                "url": "https://www.iebschool.com/hub/formacion-telepresencial-con-clases-en-directo-la-ilusion-de-estar-aprendiendo/"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, solo de escribir: describe Respira Mujer en tres frases sencillas. La primera, para quién es; la segunda, qué se va a llevar ella; la tercera, cómo se hace (masterclass grabada y acompañamiento en directo). Sin fechas ni precio; solo que una amiga lo entienda a la primera.",
-            "tags": ["Idea", "Tu descripción en tres frases"],
-            "aprendizaje": "Antes de vender algo conviene poder explicarlo muy corto y con palabras de la calle. Si una mujer entiende en pocos segundos para quién es y qué gana, es más fácil que siga leyendo; y esas tres frases te servirán luego para la página de venta, los mensajes y las conversaciones.",
+            "idea": "Tarea de 15 minutos, solo de escribir: haz una lista sencilla de todo lo que ya tiene Respira Mujer. Los módulos grabados, los extras que ya existen y lo que todavía está por preparar, cada cosa en su columna. No hay que decidir nada hoy; solo ver con claridad cuánto tienes ya hecho.",
+            "tags": ["Idea", "Lo que ya tienes"],
+            "aprendizaje": "Cuando alguien se plantea comprar un programa, necesita saber con claridad qué va a recibir. Tener esa lista hecha te ahorra trabajo después: te sirve para la página de venta, para responder dudas y, de paso, para darte cuenta de que llevas mucho camino recorrido.",
             "recurso": {
-                "titulo": "Cómo promocionar cursos online de manera efectiva y captar más alumnos (blog de GetResponse, en español)",
+                "titulo": "Una guía completa: cómo crear una página de ventas exitosa para tu curso en línea (blog de Systeme.io, en español)",
                 "tipo": "artículo",
-                "porque": "Artículo en español que, entre otras cosas, explica cómo definir los beneficios clave que tu curso promete a quien se apunta. Te puede ayudar a afinar esas tres frases; quédate con lo que encaje contigo.",
-                "url": "https://www.getresponse.com/es/blog/como-promocionar-cursos-online"
+                "porque": "Guía en español que repasa los elementos de una página de venta de un curso, como la propuesta de valor, los beneficios o las dudas frecuentes. Léela poco a poco y quédate solo con lo que encaje contigo; no hace falta aplicarlo todo.",
+                "url": "https://systeme.io/es/blog/online-course-sales-page"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre volver a ti: esa mujer que se pasa el día pendiente de todos y, al final, ni se acuerda de cómo está ella. La propuesta es una pregunta sencilla que se puede hacer en cualquier momento, para reencontrarse aunque sea un minuto.",
-            "tags": ["Contenido", "Volver a ti"],
-            "guion": "GANCHO: \"Hoy has preguntado a todo el mundo cómo está... ¿y a ti quién te lo ha preguntado?\"\n\nCUERPO: Sabes lo que necesita cada persona de tu casa, del trabajo o del grupo de WhatsApp. Pero si alguien te pregunta qué necesitas tú, igual te quedas en blanco. No es egoísmo, amiga mía, es costumbre: llevamos tanto tiempo mirando hacia fuera que se nos olvida mirar hacia dentro. Prueba esto: para un momento, haz una respiración lenta y pregúntate \"¿cómo estoy ahora mismo?\". Sin arreglar nada, solo escuchar la respuesta.\n\nCIERRE: Frase para guardar: no necesitas hacer más, necesitas volver a ti. Hoy hazte esa pregunta una vez. Un abrazo con oxígeno.",
-            "mensajeWhatsapp": "Hoy una pregunta solo para ti: ¿cómo estás ahora mismo? No la de cortesía, la de verdad. Haz una respiración lenta, escucha lo que te sale y no hace falta que lo arregles. A veces basta con preguntárselo para volver un poquito a ti 🌿"
+            "idea": "Un vídeo corto sobre pedir ayuda: esa mujer que lo sostiene todo y siente que pedir una mano es fallar. La propuesta es empezar por algo muy pequeño, una sola petición, para recordar que no tiene que poder con todo ella sola.",
+            "tags": ["Contenido", "Pedir ayuda"],
+            "guion": "GANCHO: \"¿Cuándo fue la última vez que pediste ayuda... sin pedir perdón antes?\"\n\nCUERPO: Lo haces todo tú porque así va más rápido, porque nadie lo hace igual o porque te da apuro molestar. Y vas sumando cosas al saco invisible hasta que pesa más que tú. Pedir ayuda no es fallar, amiga mía, es repartir. Prueba esta semana con algo pequeñito: una tarea que puedas soltar. Antes de pedirla, haz una respiración lenta, dilo con calma y aguanta las ganas de explicarte de más.\n\nCIERRE: Frase para guardar: no tienes que poder con todo, tienes que poder contigo. ¿Qué vas a soltar esta semana? Un abrazo con oxígeno.",
+            "mensajeWhatsapp": "Hoy una propuesta pequeñita: piensa en una sola cosa que podrías pedir a otra persona esta semana. Algo sencillo. Respira, pídelo con calma y sin dar mil explicaciones. Pedir ayuda no es fallar, es repartir 🌿"
         }
     }
 }

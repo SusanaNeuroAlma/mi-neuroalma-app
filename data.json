@@ -1,62 +1,66 @@
 {
-    "date": "2026-11-12",
+    "date": "2026-11-14",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Una reflexión de oficio para pensar con calma, sin nada que hacer: tu voz en clase. Antes de que el grupo entienda lo que dices, ya ha notado cómo lo dices. Si te apetece, recuerda la voz de alguna profesora que te hacía sentir a gusto y fíjate en qué tenía; no hace falta practicar nada, solo observar.",
-            "tags": ["Oficio", "Tu voz en clase"],
-            "aprendizaje": "El tono de voz transmite cuidado o control incluso con las mismas palabras. Una voz que invita (\"cuando quieras, puedes...\") suele hacer que el grupo se sienta más seguro y con más ganas de participar que una voz que ordena; las pausas y un ritmo tranquilo también ayudan a que el cuerpo de quien escucha se relaje.",
+            "idea": "Una curiosidad para ti, sin nada que lograr: los gestos amables pequeños también te cuidan a ti. Un mensaje cariñoso a alguien, dar las gracias con calma o una sonrisa a quien te atiende cuentan. Si hoy te apetece, regala uno solo, sin esfuerzo, y fíjate en cómo te quedas después.",
+            "tags": ["Bienestar", "Pequeños gestos amables"],
+            "aprendizaje": "Varios estudios relacionan los actos de amabilidad hacia otras personas con un mejor estado de ánimo, aunque el efecto es moderado y no aparece igual en todo el mundo. La clave es que salgan de forma natural: la amabilidad forzada, por obligación, cansa en lugar de llenar.",
             "frase": {
-                "texto": "Haced todo por amor, nada a la fuerza.",
-                "autor": "San Francisco de Sales, su lema más conocido"
+                "texto": "Aprovecha el día y confía lo menos posible en el mañana.",
+                "autor": "Horacio, «Odas» (libro I, oda 11), traducción libre"
             },
             "noticia": {
-                "titulo": "Los profesores con tono estricto inspiran menos que sus compañeros más amables (Universidad de Essex, enero de 2023; noticia en inglés)",
-                "resumen": "Investigadoras de las universidades de Essex y Reading pusieron grabaciones de profesores a 250 chicos y chicas de 10 a 16 años: con las mismas palabras, el tono controlador generaba menos cooperación, mientras que una voz de apoyo creaba más conexión con quien enseña. Las autoras recuerdan que es un estudio de laboratorio y que habría que comprobarlo en aulas reales.",
-                "url": "https://essex.ac.uk/news/2023/01/17/strict-teachers-less-effective-in-classroom"
+                "titulo": "El poder inesperado de los actos de bondad fortuitos (Montevideo Portal)",
+                "resumen": "Recoge una investigación de la Universidad de Texas en Austin según la cual quienes tienen un gesto amable suelen subestimar cuánto lo agradece de verdad la persona que lo recibe.",
+                "url": "https://www.montevideo.com.uy/Tiempo-libre/El-poder-inesperado-de-los-actos-de-bondad-fortuitos-uc832052"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad la importancia de despedirse bien al acabar la clase. Los últimos minutos son los que la alumna se lleva a casa, y una despedida con calma, en lugar de recoger a toda prisa, hace que la sesión se sienta completa.",
-            "tags": ["Contenido", "Despedirse bien"],
-            "guion": "GANCHO: \"Cuidamos mucho cómo empieza la clase... ¿y cómo la terminas tú?\"\n\nCUERPO: Muchas veces acabamos con prisa: se pasa la hora, hay que recoger, entra el siguiente grupo. Pero esos últimos minutos son el recuerdo que la alumna se lleva a casa. No hace falta nada especial: una respiración juntas, una frase sencilla sobre lo que se ha trabajado, mirar a cada persona al decir adiós. Son detalles pequeños que hacen que la clase se sienta terminada y no cortada.\n\nCIERRE: ¿Tienes algún gesto o frase para despedir a tu grupo? Cuéntamelo, que me encanta coleccionar ideas entre compañeras.",
+            "idea": "Comparte con tu comunidad algo muy sencillo que cambia una clase: llamar a cada alumna por su nombre. Escuchar tu nombre dicho con cariño hace que te sientas vista dentro del grupo, y no una más en la esterilla.",
+            "tags": ["Contenido", "Llamarlas por su nombre"],
+            "guion": "GANCHO: \"¿Te sabes el nombre de todas las personas de tu grupo... o de casi todas?\"\n\nCUERPO: Parece un detalle sin importancia, pero cuando una alumna escucha su nombre en clase, algo se relaja. Siente que la ves, que no es un número. No hace falta memoria de elefante: puedes apuntarlos en tu libreta, repetirlos al saludar o usarlos al dar una indicación con cariño. Y si se te olvida uno, se pregunta con una sonrisa y ya está.\n\nCIERRE: ¿Tienes algún truco para acordarte de los nombres? Cuéntamelo, que entre todas sumamos ideas.",
             "referente": {
-                "nombre": "Xavier Guix",
-                "porque": "Psicólogo, escritor y divulgador catalán, autor de «Ni me explico, ni me entiendes: los laberintos de la comunicación». Fíjate en cómo habla de los malentendidos del día a día con sencillez: te puede inspirar para cuidar la forma en que te comunicas con tu grupo."
+                "nombre": "Ferran Salmurri",
+                "porque": "Psicólogo clínico de Barcelona, autor de «Libertad emocional» y coautor de «La formación emocional del profesorado». Te puede inspirar para pensar en cómo las emociones influyen en la manera de aprender y enseñar."
             },
-            "mensajeWhatsapp": "Buenos días! Hoy os dejo una idea pequeña: los últimos minutos de la clase son los que la alumna se lleva a casa. Una despedida con calma, una respiración juntas o una frase sencilla, hace que la sesión se sienta completa y no cortada 🙂"
+            "mensajeWhatsapp": "Buenos días! Hoy una idea pequeñita para vuestras clases: llamar a cada alumna por su nombre. Parece poca cosa, pero escuchar tu nombre dicho con cariño hace que te sientas vista dentro del grupo 🙂"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, en papel y sin pantalla: imagina que acaba la primera sesión en directo de Neuroalma. Escribe tres palabras que te gustaría que sintieran las profesionales al desconectar. No tienes que decidir nada más; esas palabras te servirán de brújula cuando prepares la sesión.",
-            "tags": ["Idea", "Cómo quieres que se sientan"],
-            "aprendizaje": "En una formación en directo, lo que más se recuerda no siempre es el contenido, sino cómo se sintió la persona. Tener claro el ambiente que quieres crear te ayuda a elegir qué meter en cada sesión y qué dejar fuera, y a no llenarla de información por miedo a quedarte corta.",
+            "idea": "Tarea de 10 minutos, en papel: escribe tres acuerdos sencillos que te gustaría proponer al grupo en la primera sesión en directo de Neuroalma. Por ejemplo, sobre la cámara, sobre lo que se comparte dentro del grupo o sobre cómo pedir la palabra. Solo un borrador; no hay que decidir nada hoy.",
+            "tags": ["Idea", "Acuerdos de grupo"],
+            "aprendizaje": "En una formación online, unos pocos acuerdos claros al principio dan seguridad a todo el mundo y te ahorran situaciones incómodas después. Funcionan mejor si los presentas como una propuesta y dejas que el grupo los comente o añada algo: así los sienten suyos.",
             "recurso": {
-                "titulo": "Formación telepresencial con clases en directo: la ilusión de estar aprendiendo (blog de IEBS, en español)",
-                "tipo": "artículo",
-                "porque": "Artículo en español que avisa de que un chat muy activo no significa que la gente esté aprendiendo de verdad, y propone pensar bien la experiencia en lugar de solo trasladar la clase a la pantalla. Te puede ayudar a diseñar unas sesiones con menos ruido y más profundidad.",
-                "url": "https://www.iebschool.com/hub/formacion-telepresencial-con-clases-en-directo-la-ilusion-de-estar-aprendiendo/"
+                "titulo": "Manual de estructura de curso y normas de uso de Zoom (Escuela de Lenguas Modernas, Universidad de Costa Rica, PDF en español)",
+                "tipo": "documento",
+                "porque": "Documento en español de una universidad que incluye unas normas para las reuniones por Zoom. Está pensado para clases universitarias, así que tómalo solo como ejemplo y quédate con las ideas que encajen con el tono cálido de Neuroalma.",
+                "url": "https://www.lenguasmodernas.ucr.ac.cr/wp-content/uploads/2020/08/Manuales-estructura-de-curso-matriz-y-normas-zoom.pdf"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 15 minutos, solo de escribir: haz una lista sencilla de todo lo que ya tiene Respira Mujer. Los módulos grabados, los extras que ya existen y lo que todavía está por preparar, cada cosa en su columna. No hay que decidir nada hoy; solo ver con claridad cuánto tienes ya hecho.",
-            "tags": ["Idea", "Lo que ya tienes"],
-            "aprendizaje": "Cuando alguien se plantea comprar un programa, necesita saber con claridad qué va a recibir. Tener esa lista hecha te ahorra trabajo después: te sirve para la página de venta, para responder dudas y, de paso, para darte cuenta de que llevas mucho camino recorrido.",
+            "idea": "Tarea de 15 minutos, solo de escribir: anota tres dudas que crees que tendría una mujer antes de apuntarse a Respira Mujer. Por ejemplo, si le dará tiempo, si sirve aunque nunca haya meditado o qué pasa si se pierde una sesión. Al lado, escribe una respuesta corta y sencilla a cada una, sin buscar la frase perfecta.",
+            "tags": ["Idea", "Sus dudas antes de entrar"],
+            "aprendizaje": "Una lista de preguntas frecuentes ayuda a vender sin presionar: responde de antemano lo que frena a la persona y le da tranquilidad para decidir. Las mejores preguntas suelen salir de dudas reales que ya te han hecho, así que apunta las que te lleguen a partir de ahora.",
             "recurso": {
-                "titulo": "Una guía completa: cómo crear una página de ventas exitosa para tu curso en línea (blog de Systeme.io, en español)",
+                "titulo": "Los beneficios de una página de preguntas frecuentes y cómo crearla correctamente (blog de Shopify, en español)",
                 "tipo": "artículo",
-                "porque": "Guía en español que repasa los elementos de una página de venta de un curso, como la propuesta de valor, los beneficios o las dudas frecuentes. Léela poco a poco y quédate solo con lo que encaje contigo; no hace falta aplicarlo todo.",
-                "url": "https://systeme.io/es/blog/online-course-sales-page"
+                "porque": "Artículo en español que recomienda empezar por las dudas más habituales de tus clientas y explica para qué sirve una página de preguntas frecuentes. Está pensado para tiendas, pero la idea te sirve igual para tu programa.",
+                "url": "https://www.shopify.com/es/blog/los-beneficios-de-una-pagina-de-preguntas-frecuentes-y-como-crearla-correctamente"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre pedir ayuda: esa mujer que lo sostiene todo y siente que pedir una mano es fallar. La propuesta es empezar por algo muy pequeño, una sola petición, para recordar que no tiene que poder con todo ella sola.",
-            "tags": ["Contenido", "Pedir ayuda"],
-            "guion": "GANCHO: \"¿Cuándo fue la última vez que pediste ayuda... sin pedir perdón antes?\"\n\nCUERPO: Lo haces todo tú porque así va más rápido, porque nadie lo hace igual o porque te da apuro molestar. Y vas sumando cosas al saco invisible hasta que pesa más que tú. Pedir ayuda no es fallar, amiga mía, es repartir. Prueba esta semana con algo pequeñito: una tarea que puedas soltar. Antes de pedirla, haz una respiración lenta, dilo con calma y aguanta las ganas de explicarte de más.\n\nCIERRE: Frase para guardar: no tienes que poder con todo, tienes que poder contigo. ¿Qué vas a soltar esta semana? Un abrazo con oxígeno.",
-            "mensajeWhatsapp": "Hoy una propuesta pequeñita: piensa en una sola cosa que podrías pedir a otra persona esta semana. Algo sencillo. Respira, pídelo con calma y sin dar mil explicaciones. Pedir ayuda no es fallar, es repartir 🌿"
+            "idea": "Un vídeo corto sobre la lista mental de la noche: esa mujer que se mete en la cama y su cabeza empieza a repasar todo lo que queda pendiente. La propuesta es sacar la lista de la cabeza al papel y acompañarla de una respiración lenta, para que el cuerpo entienda que por hoy ya está.",
+            "tags": ["Contenido", "La lista mental de la noche"],
+            "guion": "GANCHO: \"Apagas la luz... y tu cabeza enciende la lista de la compra, la reunión del cole y el correo que no contestaste.\"\n\nCUERPO: No eres tú, amiga mía, es tu sistema nervioso en modo botón rojo, convencido de que si se relaja se le escapa algo. Prueba esto: deja una libreta en la mesilla y vuelca ahí todo lo pendiente, sin orden. Luego, una respiración lenta, cogiendo aire en cuatro, sosteniendo en dos y soltando en seis. Lo apuntado ya no se pierde, así que tu cabeza puede soltarlo hasta mañana.\n\nCIERRE: Frase para guardar: lo que está en el papel no tiene que estar en tu almohada. ¿Pruebas esta noche? Un abrazo con oxígeno.",
+            "referente": {
+                "nombre": "Inma Puig",
+                "porque": "Psicóloga clínica de Barcelona y autora de «La revolución emocional». Durante años trabajó como psicóloga en el F.C. Barcelona; puede ser una referencia interesante para ver cómo se habla de emociones en lenguaje cercano."
+            },
+            "mensajeWhatsapp": "Una propuesta para esta noche: antes de dormir, apunta en un papel todo lo que te ronda por la cabeza, sin orden. Después, una respiración lenta soltando el aire despacito. Lo que está en el papel puede esperar a mañana 🌙"
         }
     }
 }

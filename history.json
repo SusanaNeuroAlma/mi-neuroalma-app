@@ -4750,5 +4750,71 @@
                                            "mensajeWhatsapp":  "Una propuesta para esta noche: antes de dormir, apunta en un papel todo lo que te ronda por la cabeza, sin orden. Después, una respiración lenta soltando el aire despacito. Lo que está en el papel puede esperar a mañana 🌙"
                                        }
                   }
+    },
+{
+    "date": "2026-11-15",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Una idea de tu oficio para pensar con calma: pedir permiso antes de tocar a una alumna. Hay estudios de yoga que usan tarjetas o pequeñas fichas sobre la esterilla para que cada persona diga, sin palabras, si le apetece que la ajusten o prefiere que no. Hoy solo imagina cómo te gustaría preguntarlo tú, con tu estilo y sin que nadie se sienta incómoda.",
+            "tags": ["Oficio", "Pedir permiso antes de tocar"],
+            "aprendizaje": "Preguntar antes de tocar no le quita calidez a una clase, al contrario: da seguridad y deja a cada persona decidir sobre su propio cuerpo. Además, un sí de hoy no tiene por qué valer para siempre; se puede volver a preguntar con naturalidad en cada clase.",
+            "frase": {
+                "texto": "Enseñar siempre: en el patio y en la calle como en la sala de clase. Enseñar con la actitud, el gesto y la palabra.",
+                "autor": "Gabriela Mistral, «Pensamientos pedagógicos»"
+            },
+            "noticia": {
+                "titulo": "El tacto es bueno para la salud física y mental y puede reducir el dolor y la depresión, según estudio (Última Hora)",
+                "resumen": "Recoge una revisión de la Universidad del Ruhr (Alemania) que analizó 212 estudios y encontró beneficios del contacto físico en adultos. Importaba más la frecuencia que la duración, y siempre que el contacto sea deseado.",
+                "url": "https://www.ultimahora.com/el-tacto-es-bueno-para-la-salud-fisica-y-mental-y-puede-reducir-el-dolor-y-la-depresion-segun-estudio"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Comparte con tu comunidad el poder de dar las indicaciones en positivo: decir lo que sí queremos en lugar de lo que no. «Deja que los hombros descansen» llega al cuerpo mucho mejor que «no subas los hombros».",
+            "tags": ["Contenido", "Indicaciones en positivo"],
+            "guion": "GANCHO: \"¿Cuántas veces dices «no» en una sola clase sin darte cuenta?\"\n\nCUERPO: «No arquees la espalda», «no aguantes la respiración», «no subas los hombros». Lo decimos con buena intención, pero el cerebro tiene que imaginar primero lo que no debe hacer. Prueba a darle la vuelta: «deja que la espalda se alargue», «suelta el aire despacio», «deja que los hombros descansen». La indicación es la misma, pero la alumna recibe una invitación y no una corrección.\n\nCIERRE: Esta semana, elige una sola frase de tus clases y conviértela en positivo. ¿Cuál te sale primero?",
+            "referente": {
+                "nombre": "Luis Castellanos",
+                "porque": "Filósofo, doctor por la Universidad de Navarra y autor de «La ciencia del lenguaje positivo» (Paidós) y de «Educar en el lenguaje positivo». Te puede inspirar para cuidar cómo suenan tus indicaciones en clase."
+            },
+            "mensajeWhatsapp": "Buenos días! Una idea pequeñita para vuestras clases: probad a dar las indicaciones en positivo. En lugar de «no subas los hombros», algo como «deja que los hombros descansen». Es la misma indicación, pero llega como una invitación 🙂"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Tarea de 10 minutos, en papel: imagina los tres primeros minutos de una sesión en directo de Neuroalma. ¿Cómo saludas? ¿Hay una pregunta corta para que cada persona diga cómo llega, o un momento de silencio? Escribe solo tres líneas, como si fuera el pequeño ritual con el que empezaréis siempre.",
+            "tags": ["Idea", "Cómo empieza cada sesión"],
+            "aprendizaje": "En una formación online, empezar siempre de la misma manera da tranquilidad: el grupo sabe qué esperar y entra antes en el clima de la sesión. Un saludo cercano, una pregunta breve y contar de qué vais a hablar ese día suele bastar.",
+            "recurso": {
+                "titulo": "Di adiós a los comienzos de clase aburridos con estas ideas (Educación 3.0, en español)",
+                "tipo": "artículo",
+                "porque": "Artículo en español con ideas para empezar una clase, como una anécdota, una reflexión en grupo o unos minutos de calma. Está pensado para colegios, así que quédate solo con lo que encaje con tus sesiones.",
+                "url": "https://www.educaciontrespuntocero.com/recursos/comienzo-de-clase-ideas/"
+            }
+        },
+        "respira": {
+            "title": "Respira Mujer",
+            "idea": "Tarea de 15 minutos, solo de escribir: haz un primer borrador de la meditación guiada de los extras. Apunta en cuatro líneas sus partes: cómo invitas a ponerse cómoda, el momento de la respiración, una imagen o frase de calma y cómo la ayudas a volver. Nada de grabar hoy; solo el esqueleto.",
+            "tags": ["Idea", "Borrador de la meditación"],
+            "aprendizaje": "Tener el guion escrito antes de grabar ahorra repeticiones y cansancio: sabes qué vas a decir y dónde van los silencios. Cuando llegue el día de grabar, léelo antes en voz alta una vez, a tu ritmo, para notar si algo suena raro.",
+            "recurso": {
+                "titulo": "3 sencillos guiones de meditación guiada para mejorar el bienestar (PositivePsychology.com, en español)",
+                "tipo": "artículo",
+                "porque": "Artículo en español que propone una estructura sencilla para una meditación guiada (introducción, respiración, visualización o frase y cierre) y trae ejemplos. Te sirve como modelo para ordenar la tuya con tu propio estilo.",
+                "url": "https://www.positivepsychology.com/es/guiones-de-meditacion-guiada/"
+            }
+        },
+        "respiramarca": {
+            "title": "Marca personal Respira Mujer",
+            "idea": "Un vídeo corto sobre los primeros minutos de la mañana: esa mujer que abre los ojos y lo primero que hace es mirar el móvil, y ya entra en el día en modo botón rojo. La propuesta es regalarse un minuto antes de la pantalla: una respiración lenta y una pregunta sencilla, «¿cómo estoy hoy?».",
+            "tags": ["Contenido", "Antes del móvil, tú"],
+            "guion": "GANCHO: \"Suena la alarma, abres un ojo... y ya estás leyendo mensajes del grupo del cole.\"\n\nCUERPO: Amiga mía, así tu día empieza con las prisas de los demás. No hace falta levantarse a las cinco ni convertirse en Buda con WiFi. Solo un minuto antes de coger el móvil: una respiración lenta, cogiendo aire en cuatro, sosteniendo en dos y soltando en seis, y una pregunta: «¿cómo estoy hoy?». Sin juzgar la respuesta. Solo escucharte un momento antes de escuchar a todo el mundo.\n\nCIERRE: Frase para guardar: tu primer minuto del día es tuyo. ¿Lo pruebas mañana? Un abrazo con oxígeno.",
+            "referente": {
+                "nombre": "Míriam Tirado",
+                "porque": "Periodista y escritora catalana, autora de «Sentir» y «Maternidad a flor de piel». Habla con cercanía del cansancio, la falta de tiempo y la culpa de no llegar a todo; aunque se centra en la crianza, su manera de contarlo puede inspirarte."
+            },
+            "mensajeWhatsapp": "Una propuesta para mañana: antes de coger el móvil, regálate un minuto. Una respiración lenta, soltando el aire despacito, y una pregunta: ¿cómo estoy hoy? Sin juzgar la respuesta, solo escucharte 🌿"
+        }
     }
+}
 ]

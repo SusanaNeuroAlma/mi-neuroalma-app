@@ -1,66 +1,66 @@
 {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Una curiosidad para estos días de descanso: cuando lees una novela, tu cerebro no se queda quieto. Al leer lo que hace o siente un personaje, se activan zonas parecidas a las que usarías si lo vivieras tú. Si te apetece, hoy busca un libro en papel que te guste y lee unas pocas páginas, sin prisa y sin objetivo.",
-            "tags": ["Bienestar", "Leer por placer"],
-            "aprendizaje": "Leer ficción es una forma tranquila de cuidar la mente: te lleva a otro lugar sin moverte del sofá. Los estudios hablan sobre todo de asociaciones, no de milagros, así que tómalo como un pequeño regalo y no como una tarea más.",
+            "idea": "Una idea para tu oficio: en clase, a veces una buena pregunta enseña más que una buena explicación. En lugar de decir «ahora notarás calor en la espalda», puedes preguntar «¿qué notas ahora en la espalda?». Hoy, sin prisa, apunta tres preguntas sencillas que te gustaría usar cuando vuelvas a acompañar a un grupo.",
+            "tags": ["Oficio", "Despertar la curiosidad"],
+            "aprendizaje": "Cuando algo nos despierta curiosidad, el cerebro parece prepararse para aprender y recordar mejor. Una pregunta abierta invita a la alumna a mirar hacia dentro por sí misma, y lo que descubre ella sola suele quedarse más que lo que le contamos.",
             "frase": {
-                "texto": "Que otros se jacten de las páginas que han escrito; a mí me enorgullecen las que he leído.",
-                "autor": "Jorge Luis Borges, poema «Un lector», en «Elogio de la sombra» (1969)"
+                "texto": "El sabio no es el que da las respuestas verdaderas, sino el que plantea las verdaderas preguntas.",
+                "autor": "Claude Lévi-Strauss, «Lo crudo y lo cocido» (1964), traducción libre"
             },
             "noticia": {
-                "titulo": "La lectura de ficción transforma el cerebro más allá del impacto emocional (Infobae, junio de 2025)",
-                "resumen": "Recoge un estudio de la Universidad de Emory según el cual leer novelas puede generar cambios en la conectividad del cerebro que se mantienen durante varios días después de la lectura.",
-                "url": "https://www.infobae.com/salud/ciencia/2025/06/03/la-lectura-de-ficcion-transforma-el-cerebro-mas-alla-del-impacto-emocional/"
+                "titulo": "La curiosidad estimula la zona del cerebro relacionada con la recompensa (Psiquiatria.com)",
+                "resumen": "Recoge un estudio según el cual sentir curiosidad activa la zona del cerebro relacionada con la recompensa, algo que se ha relacionado con aprender y recordar mejor.",
+                "url": "https://psiquiatria.com/neurologia-general/la-curiosidad-estimula-la-zona-del-cerebro-relacionada-con-la-recompensa"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una idea para las clases con personas mayores: mover el cuerpo y, a la vez, dar un pequeño reto a la mente. Recordar una secuencia corta, contar las respiraciones o nombrar cada parte del cuerpo que se mueve convierte la clase en un rato que despierta todo a la vez.",
-            "tags": ["Contenido", "Mover el cuerpo, despertar la mente"],
-            "guion": "GANCHO: \"¿Y si tu clase con mayores entrenara también la memoria, sin que nadie lo note?\"\n\nCUERPO: No hace falta añadir nada complicado. Puedes enseñar una secuencia de tres movimientos y, al final, pedir que la recuerden sin tu ayuda. O invitar a contar en voz baja las respiraciones. O nombrar juntas cada parte del cuerpo que se mueve. Son pequeños retos que piden atención, y la atención ya es un regalo para el cerebro. Eso sí, siempre con calma y sin examen: si alguien se pierde, se ríe y se vuelve a empezar.\n\nCIERRE: ¿Qué juego de memoria podrías esconder en tu próxima clase?",
+            "idea": "Comparte con tu comunidad algo muy humano: ¿qué hacer cuando eres tú la que llega a clase con un mal día? No hace falta fingir que todo va bien ni contar tu vida. Basta con reconocerlo por dentro, respirar antes de entrar y bajar un poco el listón: hoy la clase puede ser más sencilla y seguir siendo buena.",
+            "tags": ["Contenido", "Tu día malo"],
+            "guion": "GANCHO: \"Nadie te lo cuenta en la formación, pero algunos días la que necesita la clase eres tú.\"\n\nCUERPO: Llegas cansada, con algo en la cabeza o con el cuerpo protestando. Y aun así hay un grupo esperando. Lo primero: no te machaques por no estar al cien por cien. Antes de entrar, date un minuto para notar cómo estás y ponerle nombre. Luego simplifica: elige una secuencia que conozcas bien, habla más despacio y deja más silencios. Tu grupo no necesita una profesora perfecta, necesita una presencia tranquila. Y a veces, la clase más sencilla es la que mejor sienta a todas.\n\nCIERRE: ¿Qué te ayuda a ti a sostener una clase en un día difícil?",
             "referente": {
-                "nombre": "Catalina Hoffmann",
-                "porque": "Terapeuta ocupacional española, creadora del método Hoffmann de estimulación cognitiva para personas mayores, que aplicó en sus centros de día Vitalia, y del método Neurofitness. Te puede inspirar para unir movimiento y mente en grupos de mayores."
+                "nombre": "Vicente Simón",
+                "porque": "Psiquiatra y catedrático de Psicobiología en la Universidad de Valencia, uno de los grandes divulgadores del mindfulness y la autocompasión en España, autor de «La compasión: el corazón del mindfulness». Te puede inspirar para hablar de tratarse con amabilidad también cuando enseñas."
             },
-            "mensajeWhatsapp": "Buenos días! Una idea para quienes dais clase a personas mayores: enseñad una secuencia corta de tres movimientos y, al final, pedidles que la recuerden sin ayuda. Un pequeño reto para la memoria, con calma y sin examen 🙂"
+            "mensajeWhatsapp": "Buenos días! Un pequeño recordatorio para los días en que llegáis a clase sin energía: no hace falta estar al cien por cien. Respirad un minuto antes de entrar, simplificad la sesión y hablad más despacio. Una presencia tranquila vale más que una clase perfecta 🙂"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, en papel: diseña la plantilla del pequeño resumen que enviarás después de cada sesión en directo de Neuroalma. Solo tres apartados, por ejemplo: la idea clave del día, una práctica para llevar a clase y una pregunta para pensar hasta la próxima sesión.",
-            "tags": ["Idea", "El resumen de cada sesión"],
-            "aprendizaje": "En una formación sin módulos grabados, un resumen breve tras cada directo ayuda mucho: quien no pudo conectarse sabe qué se vio y quien estuvo lo repasa en un minuto. Si la plantilla es siempre la misma, prepararlo te costará muy poco cada semana.",
+            "idea": "Tarea de 15 minutos, en papel: escribe tu presentación de tres líneas para Neuroalma. Primera línea, quién eres y de dónde vienes (tus años con el yoga, el pilates y el taichí). Segunda, qué te apasiona (cómo funciona el cerebro). Tercera, a quién ayudas y para qué. No tiene que quedar perfecta hoy.",
+            "tags": ["Idea", "Tu presentación en tres líneas"],
+            "aprendizaje": "Una presentación breve y clara te ahorra mucho trabajo: la puedes usar en tu web, al empezar la primera sesión, en un mensaje o en una entrevista. Si la tienes escrita, no tendrás que improvisarla cada vez, y quien la lea entenderá enseguida por qué tú eres la persona indicada.",
             "recurso": {
-                "titulo": "Resumen de la clase (centro de ayuda de Preply, en español)",
+                "titulo": "Cómo escribir una biografía: ejemplos y plantillas (blog de QuillBot, en español)",
                 "tipo": "artículo",
-                "porque": "Explica cómo los profesores de esa plataforma rellenan un resumen estructurado durante cada clase, con lo visto y las tareas, y reservan los últimos minutos para cerrar con el alumno. Es para clases de idiomas, pero la idea de la plantilla fija te sirve tal cual.",
-                "url": "https://help.preply.com/es/articles/4178991-resumen-de-la-clase"
+                "porque": "Propone empezar con una lista de lo que podrías contar, ordenarlo según lo que le importa a quien te lee y usar una estructura sencilla: tu profesión, tu experiencia y cómo ayudas. Te sirve de guía para tus tres líneas.",
+                "url": "https://quillbot.com/es/blog/herramientas-quillbot/biografia/"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, solo de pensar: escribe tres palabras que quieras que sienta una mujer al ver por primera vez la imagen de Respira Mujer (por ejemplo calma, complicidad, aire). Luego apunta qué colores te vienen a la cabeza con esas palabras. No hay que diseñar nada hoy.",
-            "tags": ["Idea", "Tres palabras para la imagen"],
-            "aprendizaje": "Antes de elegir colores o tipografías, conviene tener claro qué quieres transmitir; así las decisiones de diseño se vuelven más fáciles y coherentes. Y no te guíes solo por tu gusto: piensa en la mujer a la que le hablas y en cómo quieres que se sienta.",
+            "idea": "Tarea de 10 minutos, solo de escribir: redacta un borrador del mensaje que algún día enviarás a las mujeres que ya compraron la masterclass. Solo dos partes: darles las gracias por confiar en ti desde el principio y preguntarles qué herramienta les ha servido más. No lo envíes todavía; solo déjalo guardado.",
+            "tags": ["Idea", "Las primeras en confiar"],
+            "aprendizaje": "Las personas que ya te han comprado son tu público más valioso: te conocen y confiaron en ti cuando nadie más lo hacía. Un mensaje de agradecimiento con una pregunta sincera cuida esa relación y, además, te da pistas reales para mejorar el programa.",
             "recurso": {
-                "titulo": "Psicología del color (recursos de Mailchimp, en español)",
+                "titulo": "Fidelizar clientes: 3 ideas para usar mensajes de fidelización y posventa en tu negocio (blog de Zenvia, en español)",
                 "tipo": "artículo",
-                "porque": "Guía en español sobre cómo los colores influyen en las emociones y la percepción de una marca. Úsala como inspiración, sin reglas rígidas: lo importante es que los colores encajen con la calma y la cercanía de Respira Mujer.",
-                "url": "https://mailchimp.com/es/resources/color-psychology/"
+                "porque": "Propone escribir después de la compra para preguntar cómo le va a la persona, ofrecerse a resolver dudas y contar novedades. Está pensado para tiendas, pero la idea encaja muy bien con tus primeras alumnas.",
+                "url": "https://zenvia.com/es/blog/fidelizar-clientes/"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre los mantras: frases cortitas que una mujer puede repetirse en mitad del caos para recordarse que no tiene que llegar a todo. La propuesta es que cada una elija la suya, con sus palabras, y la tenga a mano para los días de botón rojo.",
-            "tags": ["Contenido", "Tu frase de bolsillo"],
-            "guion": "GANCHO: \"¿Qué te dices a ti misma cuando se te cae el día encima? Porque seguro que no es nada bonito.\"\n\nCUERPO: Amiga mía, esa vocecita que dice «no llegas», «eres un desastre», «otra vez tarde» se repite sola. Así que vamos a darle competencia. Un mantra es solo una frase corta que eliges tú y que te repites con calma, acompañada de una respiración lenta. Algo como «paso a paso», «ahora, solo esto» o «puedo parar un minuto». No tiene que ser profundo ni sonar a taza de desayuno: tiene que sonar a ti.\n\nCIERRE: Frase para guardar: lo que te repites, te acompaña. ¿Cuál va a ser tu frase de bolsillo? Un abrazo con oxígeno.",
+            "idea": "Un vídeo corto sobre la respiración con las manos: una forma sencilla de seguir el ritmo de la respiración sin tener que concentrarse mucho, ideal para cuando la cabeza va a mil. Se puede hacer en el sofá, en el coche aparcado o en la cola del súper sin que nadie se entere.",
+            "tags": ["Contenido", "Respirar con las manos"],
+            "guion": "GANCHO: \"¿Te han dicho mil veces «respira» y tú piensas: ya, pero cómo, si no me da la vida?\"\n\nCUERPO: Amiga mía, a veces la cabeza está tan llena que ni siquiera puedes contar respiraciones. Para esos días, dale un trabajo a tus manos. Apoya las palmas en el abdomen o sobre los muslos y deja que acompañen el aire: notas cómo suben un poquito al tomar aire y cómo bajan al soltarlo, despacio. No hay que hacerlo bonito ni perfecto. Las manos te devuelven al cuerpo cuando la mente se va de excursión. Un minuto basta.\n\nCIERRE: Frase para guardar: cuando la cabeza no para, las manos te traen de vuelta. ¿Lo pruebas hoy? Un abrazo con oxígeno.",
             "referente": {
-                "nombre": "Silvia Congost",
-                "porque": "Psicóloga española especializada en autoestima, autora de «Autoestima automática» y «A solas». Habla con mucha claridad de cómo nos tratamos a nosotras mismas, y te puede inspirar para hablar de esa voz interior con cercanía."
+                "nombre": "Mar Cabra",
+                "porque": "Periodista española, ganadora del Pulitzer por los Papeles de Panamá, que ha contado abiertamente cómo llegó al agotamiento y cómo aprendió a parar. Cofundó The Self-Investigation para cuidar la salud mental en el trabajo. Te puede inspirar para hablar de saturación sin dramatismo y sin culpa."
             },
-            "mensajeWhatsapp": "Una pequeña propuesta para hoy: elige una frase cortita para los momentos de prisa, como «paso a paso» o «ahora, solo esto». Repítela con una respiración lenta cuando el día se acelere. Tu frase de bolsillo 🌿"
+            "mensajeWhatsapp": "Una pequeña propuesta para hoy: cuando la cabeza vaya a mil, apoya las manos en la barriga y nota cómo suben al tomar aire y bajan al soltarlo. Solo un minuto. Tus manos saben devolverte a ti 🌿"
         }
     }
 }

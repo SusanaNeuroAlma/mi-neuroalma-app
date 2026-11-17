@@ -4816,5 +4816,71 @@
             "mensajeWhatsapp": "Una propuesta para mañana: antes de coger el móvil, regálate un minuto. Una respiración lenta, soltando el aire despacito, y una pregunta: ¿cómo estoy hoy? Sin juzgar la respuesta, solo escucharte 🌿"
         }
     }
+},
+{
+    "date": "2026-11-16",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Una curiosidad para estos días de descanso: cuando lees una novela, tu cerebro no se queda quieto. Al leer lo que hace o siente un personaje, se activan zonas parecidas a las que usarías si lo vivieras tú. Si te apetece, hoy busca un libro en papel que te guste y lee unas pocas páginas, sin prisa y sin objetivo.",
+            "tags": ["Bienestar", "Leer por placer"],
+            "aprendizaje": "Leer ficción es una forma tranquila de cuidar la mente: te lleva a otro lugar sin moverte del sofá. Los estudios hablan sobre todo de asociaciones, no de milagros, así que tómalo como un pequeño regalo y no como una tarea más.",
+            "frase": {
+                "texto": "Que otros se jacten de las páginas que han escrito; a mí me enorgullecen las que he leído.",
+                "autor": "Jorge Luis Borges, poema «Un lector», en «Elogio de la sombra» (1969)"
+            },
+            "noticia": {
+                "titulo": "La lectura de ficción transforma el cerebro más allá del impacto emocional (Infobae, junio de 2025)",
+                "resumen": "Recoge un estudio de la Universidad de Emory según el cual leer novelas puede generar cambios en la conectividad del cerebro que se mantienen durante varios días después de la lectura.",
+                "url": "https://www.infobae.com/salud/ciencia/2025/06/03/la-lectura-de-ficcion-transforma-el-cerebro-mas-alla-del-impacto-emocional/"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Comparte con tu comunidad una idea para las clases con personas mayores: mover el cuerpo y, a la vez, dar un pequeño reto a la mente. Recordar una secuencia corta, contar las respiraciones o nombrar cada parte del cuerpo que se mueve convierte la clase en un rato que despierta todo a la vez.",
+            "tags": ["Contenido", "Mover el cuerpo, despertar la mente"],
+            "guion": "GANCHO: \"¿Y si tu clase con mayores entrenara también la memoria, sin que nadie lo note?\"\n\nCUERPO: No hace falta añadir nada complicado. Puedes enseñar una secuencia de tres movimientos y, al final, pedir que la recuerden sin tu ayuda. O invitar a contar en voz baja las respiraciones. O nombrar juntas cada parte del cuerpo que se mueve. Son pequeños retos que piden atención, y la atención ya es un regalo para el cerebro. Eso sí, siempre con calma y sin examen: si alguien se pierde, se ríe y se vuelve a empezar.\n\nCIERRE: ¿Qué juego de memoria podrías esconder en tu próxima clase?",
+            "referente": {
+                "nombre": "Catalina Hoffmann",
+                "porque": "Terapeuta ocupacional española, creadora del método Hoffmann de estimulación cognitiva para personas mayores, que aplicó en sus centros de día Vitalia, y del método Neurofitness. Te puede inspirar para unir movimiento y mente en grupos de mayores."
+            },
+            "mensajeWhatsapp": "Buenos días! Una idea para quienes dais clase a personas mayores: enseñad una secuencia corta de tres movimientos y, al final, pedidles que la recuerden sin ayuda. Un pequeño reto para la memoria, con calma y sin examen 🙂"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Tarea de 10 minutos, en papel: diseña la plantilla del pequeño resumen que enviarás después de cada sesión en directo de Neuroalma. Solo tres apartados, por ejemplo: la idea clave del día, una práctica para llevar a clase y una pregunta para pensar hasta la próxima sesión.",
+            "tags": ["Idea", "El resumen de cada sesión"],
+            "aprendizaje": "En una formación sin módulos grabados, un resumen breve tras cada directo ayuda mucho: quien no pudo conectarse sabe qué se vio y quien estuvo lo repasa en un minuto. Si la plantilla es siempre la misma, prepararlo te costará muy poco cada semana.",
+            "recurso": {
+                "titulo": "Resumen de la clase (centro de ayuda de Preply, en español)",
+                "tipo": "artículo",
+                "porque": "Explica cómo los profesores de esa plataforma rellenan un resumen estructurado durante cada clase, con lo visto y las tareas, y reservan los últimos minutos para cerrar con el alumno. Es para clases de idiomas, pero la idea de la plantilla fija te sirve tal cual.",
+                "url": "https://help.preply.com/es/articles/4178991-resumen-de-la-clase"
+            }
+        },
+        "respira": {
+            "title": "Respira Mujer",
+            "idea": "Tarea de 10 minutos, solo de pensar: escribe tres palabras que quieras que sienta una mujer al ver por primera vez la imagen de Respira Mujer (por ejemplo calma, complicidad, aire). Luego apunta qué colores te vienen a la cabeza con esas palabras. No hay que diseñar nada hoy.",
+            "tags": ["Idea", "Tres palabras para la imagen"],
+            "aprendizaje": "Antes de elegir colores o tipografías, conviene tener claro qué quieres transmitir; así las decisiones de diseño se vuelven más fáciles y coherentes. Y no te guíes solo por tu gusto: piensa en la mujer a la que le hablas y en cómo quieres que se sienta.",
+            "recurso": {
+                "titulo": "Psicología del color (recursos de Mailchimp, en español)",
+                "tipo": "artículo",
+                "porque": "Guía en español sobre cómo los colores influyen en las emociones y la percepción de una marca. Úsala como inspiración, sin reglas rígidas: lo importante es que los colores encajen con la calma y la cercanía de Respira Mujer.",
+                "url": "https://mailchimp.com/es/resources/color-psychology/"
+            }
+        },
+        "respiramarca": {
+            "title": "Marca personal Respira Mujer",
+            "idea": "Un vídeo corto sobre los mantras: frases cortitas que una mujer puede repetirse en mitad del caos para recordarse que no tiene que llegar a todo. La propuesta es que cada una elija la suya, con sus palabras, y la tenga a mano para los días de botón rojo.",
+            "tags": ["Contenido", "Tu frase de bolsillo"],
+            "guion": "GANCHO: \"¿Qué te dices a ti misma cuando se te cae el día encima? Porque seguro que no es nada bonito.\"\n\nCUERPO: Amiga mía, esa vocecita que dice «no llegas», «eres un desastre», «otra vez tarde» se repite sola. Así que vamos a darle competencia. Un mantra es solo una frase corta que eliges tú y que te repites con calma, acompañada de una respiración lenta. Algo como «paso a paso», «ahora, solo esto» o «puedo parar un minuto». No tiene que ser profundo ni sonar a taza de desayuno: tiene que sonar a ti.\n\nCIERRE: Frase para guardar: lo que te repites, te acompaña. ¿Cuál va a ser tu frase de bolsillo? Un abrazo con oxígeno.",
+            "referente": {
+                "nombre": "Silvia Congost",
+                "porque": "Psicóloga española especializada en autoestima, autora de «Autoestima automática» y «A solas». Habla con mucha claridad de cómo nos tratamos a nosotras mismas, y te puede inspirar para hablar de esa voz interior con cercanía."
+            },
+            "mensajeWhatsapp": "Una pequeña propuesta para hoy: elige una frase cortita para los momentos de prisa, como «paso a paso» o «ahora, solo esto». Repítela con una respiración lenta cuando el día se acelere. Tu frase de bolsillo 🌿"
+        }
+    }
 }
 ]

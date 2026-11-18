@@ -1,66 +1,66 @@
 {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Una idea para tu oficio: en clase, a veces una buena pregunta enseña más que una buena explicación. En lugar de decir «ahora notarás calor en la espalda», puedes preguntar «¿qué notas ahora en la espalda?». Hoy, sin prisa, apunta tres preguntas sencillas que te gustaría usar cuando vuelvas a acompañar a un grupo.",
-            "tags": ["Oficio", "Despertar la curiosidad"],
-            "aprendizaje": "Cuando algo nos despierta curiosidad, el cerebro parece prepararse para aprender y recordar mejor. Una pregunta abierta invita a la alumna a mirar hacia dentro por sí misma, y lo que descubre ella sola suele quedarse más que lo que le contamos.",
+            "idea": "Una curiosidad para ti en estos días de invierno: la luz natural de la mañana ayuda a tu reloj interno a saber que ya es de día. No hace falta salir ni hacer nada especial; basta con desayunar o tomarte la infusión cerca de una ventana con claridad. Hoy, si te apetece, regálate cinco minutos de luz sin prisa y sin móvil.",
+            "tags": ["Bienestar", "La luz de la mañana"],
+            "aprendizaje": "El cerebro usa la luz como una especie de despertador: la luz del día le indica cuándo estar despierto y, horas después, cuándo prepararse para dormir. Por eso un poco de claridad por la mañana y menos luz fuerte por la noche pueden acompañar un descanso más tranquilo, algo que en una recuperación vale oro.",
             "frase": {
-                "texto": "El sabio no es el que da las respuestas verdaderas, sino el que plantea las verdaderas preguntas.",
-                "autor": "Claude Lévi-Strauss, «Lo crudo y lo cocido» (1964), traducción libre"
+                "texto": "En medio del invierno aprendí por fin que había en mí un verano invencible.",
+                "autor": "Albert Camus, «Retorno a Tipasa», en «El verano» (1954), traducción libre"
             },
             "noticia": {
-                "titulo": "La curiosidad estimula la zona del cerebro relacionada con la recompensa (Psiquiatria.com)",
-                "resumen": "Recoge un estudio según el cual sentir curiosidad activa la zona del cerebro relacionada con la recompensa, algo que se ha relacionado con aprender y recordar mejor.",
-                "url": "https://psiquiatria.com/neurologia-general/la-curiosidad-estimula-la-zona-del-cerebro-relacionada-con-la-recompensa"
+                "titulo": "¿No consigues dormir bien? Un estudio revela el hábito diario que mejora el sueño (Onda Vasca)",
+                "resumen": "Recoge un estudio de la Universidad de Mánchester según el cual las personas que reciben más luz natural durante el día tienden a dormirse antes y despertarse antes. Los propios autores piden más investigación para confirmar que la luz es la causa directa.",
+                "url": "https://www.ondavasca.com/no-consigues-dormir-bien-un-estudio-revela-el-habito-diario-que-mejora-el-sueno/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad algo muy humano: ¿qué hacer cuando eres tú la que llega a clase con un mal día? No hace falta fingir que todo va bien ni contar tu vida. Basta con reconocerlo por dentro, respirar antes de entrar y bajar un poco el listón: hoy la clase puede ser más sencilla y seguir siendo buena.",
-            "tags": ["Contenido", "Tu día malo"],
-            "guion": "GANCHO: \"Nadie te lo cuenta en la formación, pero algunos días la que necesita la clase eres tú.\"\n\nCUERPO: Llegas cansada, con algo en la cabeza o con el cuerpo protestando. Y aun así hay un grupo esperando. Lo primero: no te machaques por no estar al cien por cien. Antes de entrar, date un minuto para notar cómo estás y ponerle nombre. Luego simplifica: elige una secuencia que conozcas bien, habla más despacio y deja más silencios. Tu grupo no necesita una profesora perfecta, necesita una presencia tranquila. Y a veces, la clase más sencilla es la que mejor sienta a todas.\n\nCIERRE: ¿Qué te ayuda a ti a sostener una clase en un día difícil?",
+            "idea": "Comparte con tu comunidad una idea sencilla y muy de oficio: ofrecer variantes en clase no es rebajar el nivel, es hacer sitio a todos los cuerpos. Cuando das dos o tres opciones de la misma postura, cada alumna elige la suya sin sentirse la torpe del grupo, y aprende a escucharse.",
+            "tags": ["Contenido", "Una postura, varias versiones"],
+            "guion": "GANCHO: \"Si en tu clase todo el mundo tiene que hacer la misma postura igual, alguien se está quedando fuera.\"\n\nCUERPO: Cada cuerpo llega con su historia: una rodilla delicada, un día de cansancio, una espalda que pide calma. Cuando ofreces variantes, por ejemplo una versión suave, una intermedia y otra con más reto, le das a cada alumna permiso para elegir. Y algo importante: presenta todas las opciones como igual de valiosas, sin llamar a la suave «la fácil». Así nadie se compara y todas practican desde la escucha, no desde la exigencia.\n\nCIERRE: ¿Cómo presentas tú las variantes en tus clases?",
             "referente": {
-                "nombre": "Vicente Simón",
-                "porque": "Psiquiatra y catedrático de Psicobiología en la Universidad de Valencia, uno de los grandes divulgadores del mindfulness y la autocompasión en España, autor de «La compasión: el corazón del mindfulness». Te puede inspirar para hablar de tratarse con amabilidad también cuando enseñas."
+                "nombre": "Eva Bach",
+                "porque": "Pedagoga y escritora catalana, especialista en educación emocional, autora de libros como «La belleza de sentir». Habla de educar desde el respeto a cada persona, y te puede inspirar para explicar por qué cuidar la diversidad de cuerpos y ritmos en clase es también cuidar las emociones."
             },
-            "mensajeWhatsapp": "Buenos días! Un pequeño recordatorio para los días en que llegáis a clase sin energía: no hace falta estar al cien por cien. Respirad un minuto antes de entrar, simplificad la sesión y hablad más despacio. Una presencia tranquila vale más que una clase perfecta 🙂"
+            "mensajeWhatsapp": "Buenos días! Una idea para vuestras próximas clases: ofreced dos o tres versiones de la misma postura y presentadlas todas como igual de buenas. Así cada persona elige la suya sin compararse y aprende a escucharse 🙂"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 15 minutos, en papel: escribe tu presentación de tres líneas para Neuroalma. Primera línea, quién eres y de dónde vienes (tus años con el yoga, el pilates y el taichí). Segunda, qué te apasiona (cómo funciona el cerebro). Tercera, a quién ayudas y para qué. No tiene que quedar perfecta hoy.",
-            "tags": ["Idea", "Tu presentación en tres líneas"],
-            "aprendizaje": "Una presentación breve y clara te ahorra mucho trabajo: la puedes usar en tu web, al empezar la primera sesión, en un mensaje o en una entrevista. Si la tienes escrita, no tendrás que improvisarla cada vez, y quien la lea entenderá enseguida por qué tú eres la persona indicada.",
+            "idea": "Tarea de 10 minutos, en papel: escribe una lista de lo que Neuroalma NO es. Por ejemplo: no es un curso de posturas, no es terapia, no es teoría sin práctica. Muchas veces, saber lo que no eres te ayuda a decir con más claridad lo que sí eres. Guárdala junto a tus otras notas del proyecto.",
+            "tags": ["Idea", "Lo que no es Neuroalma"],
+            "aprendizaje": "Una buena propuesta de valor responde a tres preguntas: para quién es, qué consigue esa persona y por qué tu formación y no otra. Si alguien la lee en cinco segundos y no lo entiende, conviene simplificarla. Tu lista de lo que no es Neuroalma es un primer paso para afinarla.",
             "recurso": {
-                "titulo": "Cómo escribir una biografía: ejemplos y plantillas (blog de QuillBot, en español)",
+                "titulo": "Guía completa para crear una propuesta de valor única (blog de HubSpot, en español)",
                 "tipo": "artículo",
-                "porque": "Propone empezar con una lista de lo que podrías contar, ordenarlo según lo que le importa a quien te lee y usar una estructura sencilla: tu profesión, tu experiencia y cómo ayudas. Te sirve de guía para tus tres líneas.",
-                "url": "https://quillbot.com/es/blog/herramientas-quillbot/biografia/"
+                "porque": "Explica qué es una propuesta de valor y cómo escribirla pensando primero en tu público y en el problema que le ayudas a resolver. Te servirá para el día en que quieras convertir tus notas en una frase clara para Neuroalma.",
+                "url": "https://blog.hubspot.es/marketing/crear-propuesta-de-valor"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, solo de escribir: redacta un borrador del mensaje que algún día enviarás a las mujeres que ya compraron la masterclass. Solo dos partes: darles las gracias por confiar en ti desde el principio y preguntarles qué herramienta les ha servido más. No lo envíes todavía; solo déjalo guardado.",
-            "tags": ["Idea", "Las primeras en confiar"],
-            "aprendizaje": "Las personas que ya te han comprado son tu público más valioso: te conocen y confiaron en ti cuando nadie más lo hacía. Un mensaje de agradecimiento con una pregunta sincera cuida esa relación y, además, te da pistas reales para mejorar el programa.",
+            "idea": "Tarea de 10 minutos, solo de pensar y apuntar: juega a buscar un nombre para el futuro grupo de WhatsApp de las mujeres del programa. Apunta cinco opciones sin juzgarlas, algunas serias y otras con tu toque canallita. No hay que decidir hoy; solo dejar que las ideas salgan.",
+            "tags": ["Idea", "Un nombre para el grupo"],
+            "aprendizaje": "El nombre de un grupo es lo primero que ven las personas cuando entran, y les dice qué tipo de espacio es: si es para aprender, para acompañarse o para respirar juntas. Un nombre fácil de recordar y una descripción breve de para qué sirve ayudan a que cada mujer se sienta en su sitio desde el primer día.",
             "recurso": {
-                "titulo": "Fidelizar clientes: 3 ideas para usar mensajes de fidelización y posventa en tu negocio (blog de Zenvia, en español)",
-                "tipo": "artículo",
-                "porque": "Propone escribir después de la compra para preguntar cómo le va a la persona, ofrecerse a resolver dudas y contar novedades. Está pensado para tiendas, pero la idea encaja muy bien con tus primeras alumnas.",
-                "url": "https://zenvia.com/es/blog/fidelizar-clientes/"
+                "titulo": "Configurar tu comunidad (centro de aprendizaje oficial de WhatsApp, en español)",
+                "tipo": "guía",
+                "porque": "Es la página oficial de WhatsApp y recomienda pensar tres cosas antes de crear una comunidad: una imagen que la represente, un nombre fácil de recordar y una descripción clara de su propósito. Justo lo que necesitas para cuando llegue el momento.",
+                "url": "https://www.whatsapp.com/communities/learning/settingupyourcommunity?lang=es"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre la respiración con las manos: una forma sencilla de seguir el ritmo de la respiración sin tener que concentrarse mucho, ideal para cuando la cabeza va a mil. Se puede hacer en el sofá, en el coche aparcado o en la cola del súper sin que nadie se entere.",
-            "tags": ["Contenido", "Respirar con las manos"],
-            "guion": "GANCHO: \"¿Te han dicho mil veces «respira» y tú piensas: ya, pero cómo, si no me da la vida?\"\n\nCUERPO: Amiga mía, a veces la cabeza está tan llena que ni siquiera puedes contar respiraciones. Para esos días, dale un trabajo a tus manos. Apoya las palmas en el abdomen o sobre los muslos y deja que acompañen el aire: notas cómo suben un poquito al tomar aire y cómo bajan al soltarlo, despacio. No hay que hacerlo bonito ni perfecto. Las manos te devuelven al cuerpo cuando la mente se va de excursión. Un minuto basta.\n\nCIERRE: Frase para guardar: cuando la cabeza no para, las manos te traen de vuelta. ¿Lo pruebas hoy? Un abrazo con oxígeno.",
+            "idea": "Un vídeo corto sobre el «no» como gesto de autocuidado: esa mujer que dice sí a todo el mundo y luego no le queda ni un minuto para ella. La idea no es volverse egoísta, sino aprender a decir un «ahora no puedo» pequeñito, sin dar mil explicaciones.",
+            "tags": ["Contenido", "Un no que te cuida"],
+            "guion": "GANCHO: \"¿Cuántas veces has dicho «sí, claro» mientras por dentro gritabas «no, por favor»?\"\n\nCUERPO: Amiga mía, sostener a todos tiene un precio, y casi siempre lo pagas tú. Decir que no no te convierte en mala persona; te convierte en una persona con límites. Empieza por algo pequeño: un «hoy no puedo, otro día sí» sin justificarte durante diez minutos. Antes de contestar, suelta el aire despacio y pregúntate: ¿me apetece o me siento obligada? Esa pausa de un segundo ya es autocuidado.\n\nCIERRE: Frase para guardar: cada no que te cuida es un sí para ti. ¿A qué vas a decir que no esta semana? Un abrazo con oxígeno.",
             "referente": {
-                "nombre": "Mar Cabra",
-                "porque": "Periodista española, ganadora del Pulitzer por los Papeles de Panamá, que ha contado abiertamente cómo llegó al agotamiento y cómo aprendió a parar. Cofundó The Self-Investigation para cuidar la salud mental en el trabajo. Te puede inspirar para hablar de saturación sin dramatismo y sin culpa."
+                "nombre": "Luis Rojas Marcos",
+                "porque": "Psiquiatra sevillano afincado en Nueva York, conocido por su divulgación sobre la resiliencia y el optimismo, con libros como «Superar la adversidad». Te puede inspirar para hablar de cómo cuidarse en los días difíciles, con cercanía y sin dramatismo."
             },
-            "mensajeWhatsapp": "Una pequeña propuesta para hoy: cuando la cabeza vaya a mil, apoya las manos en la barriga y nota cómo suben al tomar aire y bajan al soltarlo. Solo un minuto. Tus manos saben devolverte a ti 🌿"
+            "mensajeWhatsapp": "Una propuesta pequeña para hoy: antes de decir «sí» a algo, suelta el aire despacio y pregúntate si te apetece o te sientes obligada. A veces un «hoy no puedo» también es cuidarte 🌿"
         }
     }
 }

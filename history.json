@@ -5140,5 +5140,71 @@
             "mensajeWhatsapp": "Si hoy notas que vas en modo alerta, prueba esto: suelta el aire un poquito más despacio de lo que lo tomas, tres veces. Es tu manera de decirle al cortisol «gracias, ya puedes irte» 🌿"
         }
     }
+},
+{
+    "date": "2026-11-20",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Una curiosidad sobre tu propio cerebro: tiende a fijarse más en lo que duele o va mal que en lo que mejora poco a poco. Es un mecanismo antiguo de protección, no un fallo tuyo, pero en una recuperación lenta puede hacer que no veas los pequeños avances. Hoy, antes de dormir, apunta en una línea una sola cosa que haya ido un poquito mejor, por pequeña que sea, y nada más.",
+            "tags": ["Bienestar", "Notar lo que mejora"],
+            "aprendizaje": "A esta tendencia se le llama sesgo de negatividad. No se trata de negar lo difícil, sino de equilibrar la balanza: cuando escribimos lo bueno, aunque sea mínimo, le damos al cerebro la oportunidad de registrarlo también.",
+            "frase": {
+                "texto": "La paciencia todo lo alcanza.",
+                "autor": "Santa Teresa de Jesús, poema «Nada te turbe»"
+            },
+            "noticia": {
+                "titulo": "Por qué al cerebro le gustan tanto los pensamientos negativos y cómo salir de ese círculo (Montevideo Portal, sección Modo saludable)",
+                "resumen": "Artículo de divulgación sobre por qué el cerebro tiende a quedarse enganchado a lo negativo y qué podemos hacer para no darle vueltas sin fin.",
+                "url": "https://www.montevideo.com.uy/Modo-saludable/Por-que-al-cerebro-le-gustan-tanto-los-pensamientos-negativos-y-como-salir-de-ese-circulo-uc955426"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Comparte con tu comunidad una pregunta de oficio: ¿cuándo conviene hacer la postura delante del grupo y cuándo es mejor dejar de hacerla para mirar? Mostrar ayuda a entender, pero si quien guía practica toda la clase, deja de ver a las personas que tiene delante.",
+            "tags": ["Contenido", "Mostrar o mirar"],
+            "guion": "GANCHO: \"Si haces toda la clase con tus alumnas, ¿quién las está mirando?\"\n\nCUERPO: Al principio es normal querer hacerlo todo a la vez: enseñar la postura, practicarla y guiar. Pero cuando estás dentro de la postura, tu atención se va a tu propio cuerpo. Prueba a mostrarla una vez, con calma, y luego levantarte y pasear la mirada por la sala. Ahí es donde ves a quien aprieta la mandíbula, a quien se ha perdido o a quien necesita una versión más suave. Tus palabras también enseñan, y tu mirada todavía más.\n\nCIERRE: ¿Tú practicas con el grupo o prefieres observar?",
+            "referente": {
+                "nombre": "Danilo Hernández (Swami Digambarananda Saraswati)",
+                "porque": "Profesor de yoga formado en la India y autor de «Claves del yoga: teoría y práctica» (La Liebre de Marzo), un manual amplio en español que une teoría y práctica. Te puede inspirar para explicar las posturas con palabras claras sin tener que hacerlas siempre tú."
+            },
+            "mensajeWhatsapp": "Buenos días! Una pequeña idea para vuestras clases: probad a mostrar la postura una vez y luego dejad de hacerla para mirar al grupo. Se ven muchas cosas que desde dentro de la postura se escapan 🙂"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Tarea de 10 minutos, en papel: escribe una lista corta de lo que te gustaría que cada persona tuviera a mano en las sesiones en directo de Neuroalma. Por ejemplo, un cuaderno, un sitio tranquilo, algo de agua o la cámara probada antes. Solo apúntalo; ya decidirás más adelante cómo y cuándo enviarlo.",
+            "tags": ["Idea", "Lo que tener a mano"],
+            "aprendizaje": "En una formación online, mucho de lo que hace que una sesión fluya ocurre antes de empezar: que la gente llegue con su espacio preparado y sabiendo qué necesita. Mandar una lista sencilla unos días antes ahorra interrupciones y hace que todas se sientan más tranquilas al conectarse.",
+            "recurso": {
+                "titulo": "Cómo estudiar «online» de forma eficiente (Welcome to the Jungle, en español)",
+                "tipo": "artículo",
+                "porque": "Está escrito pensando en quien aprende online, no en quien enseña. Te puede ayudar a ponerte en el lugar de tus futuras alumnas y pensar qué les vendría bien preparar antes de cada sesión.",
+                "url": "https://www.welcometothejungle.com/es/articles/como-estudiar-online-formacion-a-distancia"
+            }
+        },
+        "respira": {
+            "title": "Respira Mujer",
+            "idea": "Tarea de 10 minutos, solo de pensar y apuntar: imagina cómo podrían notar las mujeres del programa que van avanzando. Escribe dos o tres ideas sencillas, como marcar con una cruz en un calendario los días que hacen su micropausa o apuntar una línea a la semana sobre cómo se sienten. No hace falta preparar nada todavía.",
+            "tags": ["Idea", "Notar sus avances"],
+            "aprendizaje": "En un programa de autocuidado los cambios suelen ser pequeños y fáciles de pasar por alto. Darles una forma sencilla de verlos, como una hoja para marcar los días, ayuda a que no abandonen y a que lleguen a las sesiones con algo que contar.",
+            "recurso": {
+                "titulo": "Habit tracker, o la mejor manera de conseguir tus objetivos (Economist & Jurist, sección estilo de vida, en español)",
+                "tipo": "artículo",
+                "porque": "Explica la idea del registro de hábitos: una hoja sencilla donde marcas cada día que haces algo. Te puede inspirar para una hoja de seguimiento muy simple para las mujeres de Respira Mujer, por ejemplo dentro del reto de 21 días.",
+                "url": "https://www.economistjurist.es/zestilo-de-vida/habit-tracker-o-la-mejor-manera-de-conseguir-tus-objetivos/"
+            }
+        },
+        "respiramarca": {
+            "title": "Marca personal Respira Mujer",
+            "idea": "Un vídeo corto con humor sobre el semáforo en rojo: ese minuto que normalmente pasamos resoplando o mirando el móvil puede convertirse en una micropausa gratis. La idea es invitar a usar el rojo del semáforo como recordatorio para pasar del botón rojo al verde con una respiración lenta.",
+            "tags": ["Contenido", "El semáforo en rojo"],
+            "guion": "GANCHO: \"El semáforo se pone en rojo y tú también. Vamos a arreglarlo.\"\n\nCUERPO: Llegas tarde, el semáforo se pone en rojo y ahí estás, apretando el volante o el carro de la compra como si así fuera a cambiar antes. Spoiler: no cambia. Pero ese minuto puede ser tuyo. Suelta los hombros, toma aire por la nariz y suéltalo más despacio de lo que lo has cogido, un par de veces. Sin cerrar los ojos, sin postureo, con los ojos en la carretera. Tu semáforo pasa a verde y tu cuerpo, un poquito también.\n\nCIERRE: Frase para guardar: cada rojo es una invitación a volver a ti. ¿En qué semáforo de tu día vas a probarlo?",
+            "referente": {
+                "nombre": "Andrés Martín Asuero",
+                "porque": "Doctor en Psicología e introductor en España del programa de reducción de estrés basado en mindfulness (MBSR), fundador del Instituto esMindfulness y autor de «Plena mente» (Planeta). Te puede servir de referencia para hablar de calma en el día a día con rigor y sin misticismo."
+            },
+            "mensajeWhatsapp": "La próxima vez que te pille un semáforo en rojo, prueba esto: suelta los hombros y deja salir el aire despacito un par de veces. Un minuto de calma que no tienes que buscar, te lo regala el semáforo 🌿"
+        }
+    }
 }
 ]

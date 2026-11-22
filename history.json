@@ -5207,4 +5207,71 @@
         }
     }
 }
+,
+{
+    "date": "2026-11-21",
+    "zones": {
+        "desarrollo": {
+            "title": "Desarrollo personal",
+            "idea": "Una pregunta de tu oficio para pensar sin prisa: ¿qué haces cuando a alguien se le saltan las lágrimas en la relajación final? Muchas veces no hace falta arreglar nada; basta con seguir guiando con voz tranquila, dejar un pañuelo cerca y que la persona sienta que puede estar así sin dar explicaciones. Hoy, si te apetece, recuerda una vez que te pasó en clase y apunta en una línea qué te salió hacer.",
+            "tags": ["Oficio", "Cuando llega una emoción"],
+            "aprendizaje": "Cuando el cuerpo se relaja, a veces se sueltan también emociones que estaban guardadas, y es algo bastante habitual. Tu papel no es de terapeuta: es sostener con calma, respetar el espacio de cada persona y, si notas un malestar muy intenso o que se repite, sugerir con cariño que busque apoyo profesional.",
+            "frase": {
+                "texto": "Los hombres, mientras enseñan, aprenden.",
+                "autor": "Séneca, «Epístolas morales a Lucilio» (epístola 7), traducción libre"
+            },
+            "noticia": {
+                "titulo": "El calor del cuerpo según nuestras emociones (Sitio Andino, 15 de noviembre de 2026)",
+                "resumen": "Nota que recoge un estudio finlandés, con unos 700 voluntarios de Finlandia, Suecia y Taiwán, sobre en qué zonas del cuerpo sentimos cada emoción. Ojo: el estudio original es de hace años y ahora vuelve a circular.",
+                "url": "https://www.sitioandino.com.ar/n/103677-el-calor-del-cuerpo-segun-nuestras-emociones"
+            }
+        },
+        "marca": {
+            "title": "Marca personal",
+            "idea": "Comparte con tu comunidad una idea tranquilizadora para quien guía clases: que alguien se emocione en la relajación no significa que algo haya ido mal. A veces es justo lo contrario, señal de que esa persona se ha permitido soltar. Lo importante es cómo lo sostienes.",
+            "tags": ["Contenido", "Lágrimas en la relajación"],
+            "guion": "GANCHO: \"Una alumna llora en la relajación final. ¿Qué haces?\"\n\nCUERPO: La primera vez que pasa, es normal asustarse y querer hacer algo enseguida. Pero muchas veces lo que más ayuda es lo más sencillo: seguir guiando con la misma voz tranquila, no señalar a nadie y dejar un pañuelo cerca sin llamar la atención. Al terminar, un gesto amable o un «¿cómo estás?» en voz baja basta. No tienes que entender qué le pasa ni dar soluciones. Sostener también es enseñar.\n\nCIERRE: ¿Te ha pasado alguna vez en tus clases? ¿Cómo lo viviste?",
+            "referente": {
+                "nombre": "Tamara Suárez Cabo",
+                "porque": "Profesora de yin yoga en España, cofundadora de la escuela Lighthouse Yoga y autora de «Yoga para la calma» (Edaf, 2023), un libro sobre estrés, emociones y respiración. Te puede inspirar para hablar de las emociones que aparecen en la práctica con naturalidad."
+            },
+            "mensajeWhatsapp": "Buenos días! Una idea para vuestras clases: si alguien se emociona en la relajación final, no hace falta hacer nada especial. Seguir guiando con calma y dejar un pañuelo cerca ya es mucho 🙂"
+        },
+        "neuroalma": {
+            "title": "Neuroalma",
+            "idea": "Tarea de 15 minutos, en papel: escribe un borrador del mensaje de bienvenida que recibirían las personas al apuntarse a Neuroalma. Tres o cuatro líneas: que te alegra que estén, qué van a vivir en las 7 sesiones y cuál es el primer paso. No hace falta que quede perfecto ni enviarlo; solo tenerlo guardado.",
+            "tags": ["Idea", "El mensaje de bienvenida"],
+            "aprendizaje": "En una academia online, el primer mensaje después de apuntarse marca el tono de toda la experiencia. Si es cálido y deja claro qué hacer a continuación, la persona se siente acompañada desde el primer día y llega a la primera sesión con menos dudas.",
+            "recurso": {
+                "titulo": "Serie de correos electrónicos de entrega de cursos en línea (receta de automatización de ActiveCampaign, en español)",
+                "tipo": "guía",
+                "porque": "Explica qué suele incluir una serie de correos para quien se apunta a un curso: presentar el curso y contar qué esperar y cada cuánto vas a escribir. No necesitas usar esa herramienta; te sirve como idea para tu propio mensaje de bienvenida.",
+                "url": "https://www.activecampaign.com/recipes/serie-de-correos-electrnicos-de-entrega-de-cursos-en-lnea-receta-de-automatizacin"
+            }
+        },
+        "respira": {
+            "title": "Respira Mujer",
+            "idea": "Tarea de 10 minutos, solo de pensar y apuntar: haz una lista corta de lo que te gustaría que llevara el PDF de apoyo de Respira Mujer. Por ejemplo, el botón mágico en una página, tu ritual exprés en cuatro pasos y un par de mantras para tener a mano. Solo la lista; el diseño ya llegará cuando tengas energía.",
+            "tags": ["Idea", "El PDF de apoyo"],
+            "aprendizaje": "En una masterclass grabada, un PDF sencillo ayuda a que lo aprendido no se quede solo en el vídeo: las mujeres pueden imprimirlo, pegarlo en la nevera o tenerlo en el móvil. Cuanto más corto y visual, más se usa.",
+            "recurso": {
+                "titulo": "Crear ebooks con Canva (página oficial de Canva, en español)",
+                "tipo": "herramienta",
+                "porque": "Canva tiene plantillas para hacer guías y ebooks que luego se descargan en PDF. No es para hoy: guárdala para cuando quieras pasar tu lista a limpio con un diseño bonito.",
+                "url": "https://www.canva.com/es_es/crear/ebooks/"
+            }
+        },
+        "respiramarca": {
+            "title": "Marca personal Respira Mujer",
+            "idea": "Un vídeo corto sobre por qué cuesta tanto parar: muchas mujeres han aprendido a valorarse por todo lo que hacen, así que descansar se siente casi como hacer trampa. La idea es darle la vuelta con humor y cariño: parar también es hacer algo, y algo importante.",
+            "tags": ["Contenido", "Valer por lo que haces"],
+            "guion": "GANCHO: \"Si solo te sientes bien cuando estás haciendo algo, este vídeo es para ti.\"\n\nCUERPO: Amiga mía, te han enseñado que una mujer que vale es una mujer que no para: la casa, el trabajo, los demás, la lista infinita. Y claro, cuando te sientas cinco minutos aparece la vocecita: «¿y tú qué haces aquí sin hacer nada?». Spoiler: sí estás haciendo algo. Estás pasando del botón rojo al verde, estás recargando para seguir sosteniendo tu vida. Prueba hoy una micropausa de un minuto y, cuando venga la culpa, respóndele: «estoy ocupada cuidándome».\n\nCIERRE: Frase para guardar: no vales por lo que haces, vales por quien eres. ¿Te cuesta parar sin sentirte culpable?",
+            "referente": {
+                "nombre": "Ángela Esteban (@gamanpsicologia)",
+                "porque": "Psicóloga sanitaria y divulgadora en redes, autora de «Acaba con el estrés del trabajo» (Bruguera). En una entrevista explica que muchas personas no saben parar porque siempre se han valorado por lo que hacen, justo el tema de este vídeo."
+            },
+            "mensajeWhatsapp": "Si hoy te sientas un ratito y aparece la vocecita de «deberías estar haciendo algo», respóndele con cariño: estoy ocupada cuidándome. Parar también cuenta 🌿"
+        }
+    }
+}
 ]

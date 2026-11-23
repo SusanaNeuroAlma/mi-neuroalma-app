@@ -5273,5 +5273,71 @@
             "mensajeWhatsapp": "Si hoy te sientas un ratito y aparece la vocecita de «deberías estar haciendo algo», respóndele con cariño: estoy ocupada cuidándome. Parar también cuenta 🌿"
         }
     }
-}
+},
+    {
+        "date": "2026-11-22",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Un plan de domingo sin nada que lograr: regálate cinco minutos de nostalgia de la buena. Piensa en un momento sencillo en el que te sentiste querida, una comida, una risa tonta, una tarde cualquiera, y quédate un ratito en los detalles. Si el recuerdo te pone triste, suéltalo sin más y vuelve a lo que tengas delante.",
+                "tags": ["Bienestar", "Nostalgia de la buena"],
+                "aprendizaje": "La nostalgia tuvo mala fama mucho tiempo, pero la investigación la relaciona con sentirnos más acompañadas y de mejor ánimo. No le funciona igual a todo el mundo, así que tómala como un mimo, no como una tarea.",
+                "frase": {
+                    "texto": "Poder disfrutar de la vida pasada es vivir dos veces.",
+                    "autor": "Marcial, «Epigramas» (libro X, 23), traducción libre"
+                },
+                "noticia": {
+                    "titulo": "Si eres nostálgico, tus amistades podrían durar más, según un estudio (El Imparcial, marzo de 2025)",
+                    "resumen": "No es de hoy, pero viene al caso: recoge un estudio de la revista «Cognition and Emotion» en el que las personas más nostálgicas tendían a tener más amistades cercanas y a cuidarlas más. Es una relación observada, no una prueba de causa y efecto.",
+                    "url": "https://www.elimparcial.com/locurioso/2025/03/16/si-eres-nostalgico-tus-amistades-podrian-durar-mas-segun-un-estudio/"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Comparte con tu comunidad un detalle pequeño que cambia mucho: cerrar los ojos en clase es una opción, no una obligación. Hay personas que así se relajan y otras que se sienten inseguras. Decirlo en voz alta les da permiso para elegir.",
+                "tags": ["Contenido", "Los ojos, como tú quieras"],
+                "guion": "GANCHO: \"«Cerramos los ojos». Tres palabras que no a todo el mundo le relajan.\"\n\nCUERPO: Lo decimos con todo el cariño y casi sin pensar. Pero para algunas personas cerrar los ojos en una sala llena de gente es justo lo contrario de la calma: se marean, se ponen alerta o no se sienten seguras. Prueba a cambiar la frase: «si te apetece, cierra los ojos; si no, deja la mirada descansar en un punto del suelo». La práctica es la misma y la persona siente que manda en su propio cuerpo.\n\nCIERRE: ¿Qué otra frase de tus clases podrías convertir en una invitación?",
+                "referente": {
+                    "nombre": "María Macaya",
+                    "porque": "Profesora y formadora de yoga sensible al trauma, al frente de la Fundación Rādika y autora de «Yoga sensible al trauma» (Plataforma Editorial). Te puede inspirar para hablar de clases seguras donde cada persona elige, sin convertir la clase en terapia."
+                },
+                "mensajeWhatsapp": "Feliz domingo! Un detalle para vuestras próximas clases: en lugar de «cerramos los ojos», probad con «cierra los ojos si te apetece, o deja descansar la mirada». Mismo momento de calma, y cada persona elige 🙂"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Tarea de 10 minutos, en papel y sin prisa: piensa en una pregunta que las personas de Neuroalma podrían comentar de dos en dos durante un directo. Por ejemplo, «¿qué es lo que más te cuesta sostener en tus clases?». Apunta la pregunta y cuántos minutos les darías; nada más.",
+                "tags": ["Idea", "Hablar de dos en dos"],
+                "aprendizaje": "En una formación online hay quien nunca habla delante de todo el grupo, pero sí con una sola persona. Un ratito por parejas hace que participen más, que se conozcan entre ellas y que tú descanses la voz unos minutos.",
+                "recurso": {
+                    "titulo": "Salas para grupos pequeños de Zoom (blog oficial de Zoom, en español)",
+                    "tipo": "guía",
+                    "porque": "Cuenta cómo dividir una reunión en salitas, repartiendo tú a las personas o dejando que Zoom lo haga solo. No hace falta probarlo hoy: guárdalo para cuando prepares los directos.",
+                    "url": "https://www.zoom.com/es/blog/using-zoom-breakout-rooms/"
+                }
+            },
+            "respira": {
+                "title": "Respira Mujer",
+                "idea": "Tarea de 10 minutos, solo de escribir: redacta tres líneas para avisar a las mujeres de que las sesiones en directo se graban. Di para qué se graban, quién podrá verlas y que pueden estar con la cámara apagada. Si aún no sabes cuánto tiempo estarán disponibles, deja un hueco que ponga «por decidir».",
+                "tags": ["Idea", "Avisar de la grabación"],
+                "aprendizaje": "En un grupo donde se comparten cosas personales, saber qué pasa con la grabación da tranquilidad para abrirse. La voz y la imagen son datos personales: informa antes, pide permiso y, cuando llegue el momento, revisa el texto con alguien que sepa de protección de datos.",
+                "recurso": {
+                    "titulo": "Recomendaciones sobre grabación de clases (Universidad Autónoma de Madrid, PDF en español)",
+                    "tipo": "guía",
+                    "porque": "Está pensada para la universidad, no para academias pequeñas, pero te sirve para ver de qué conviene informar cuando se graba una videoconferencia. Tómala como orientación, no como asesoramiento legal.",
+                    "url": "https://www.uam.es/uam/media/doc/1606901288970/10.-recomendaciones-sobre-grabacion-de-clases.pdf"
+                }
+            },
+            "respiramarca": {
+                "title": "Marca personal Respira Mujer",
+                "idea": "Un vídeo corto sobre el nudo del domingo por la tarde: esa mujer que todavía está en el sofá, pero con la cabeza ya en el lunes, los táperes y la lista de la semana. La propuesta es usar un ancla sencilla para volver al domingo, que aún no se ha acabado.",
+                "tags": ["Contenido", "El nudo del domingo"],
+                "guion": "GANCHO: \"Son las seis de la tarde del domingo y tú ya estás viviendo el lunes.\"\n\nCUERPO: El cuerpo en el sofá y la cabeza haciendo táperes, contestando correos y buscando un calcetín sin pareja. Amiga mía, el tigre moderno no libra ni en festivo. Cuando te pilles en el lunes, busca un ancla: la manta, la taza calentita, el peso de tus pies en el suelo. Tócala, suelta el aire despacio y dite: «todavía es domingo». No arregla la semana, pero te devuelve el rato que es tuyo.\n\nCIERRE: Frase para guardar: el lunes ya llegará, no hace falta que salgas a buscarlo. ¿A qué hora te llega a ti el nudo del domingo?",
+                "referente": {
+                    "nombre": "Marina Mammoliti (@psi.mammoliti)",
+                    "porque": "Psicóloga argentina, creadora del podcast «Psicología al Desnudo» y autora de «Frená tu cabeza». Te puede inspirar por cómo explica las emociones y la cabeza acelerada con palabras de andar por casa, en formato breve y cercano."
+                },
+                "mensajeWhatsapp": "Si esta tarde tu cabeza ya se ha ido al lunes, tráela de vuelta con algo sencillo: una taza calentita, una manta, un suspiro largo. Todavía es domingo, y este rato es tuyo 🌿"
+            }
+        }
+    }
 ]

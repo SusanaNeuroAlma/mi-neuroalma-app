@@ -1,66 +1,66 @@
 {
-    "date": "2026-11-22",
+    "date": "2026-11-23",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Un plan de domingo sin nada que lograr: regálate cinco minutos de nostalgia de la buena. Piensa en un momento sencillo en el que te sentiste querida, una comida, una risa tonta, una tarde cualquiera, y quédate un ratito en los detalles. Si el recuerdo te pone triste, suéltalo sin más y vuelve a lo que tengas delante.",
-            "tags": ["Bienestar", "Nostalgia de la buena"],
-            "aprendizaje": "La nostalgia tuvo mala fama mucho tiempo, pero la investigación la relaciona con sentirnos más acompañadas y de mejor ánimo. No le funciona igual a todo el mundo, así que tómala como un mimo, no como una tarea.",
+            "idea": "Una idea de oficio para pensar con calma: el momento más valioso de una indicación a veces es el silencio que viene después. Cuando guías un movimiento o una respiración, el cuerpo de cada persona necesita unos segundos para entender, probar y colocarse. Si das la siguiente indicación demasiado pronto, se quedan persiguiendo tu voz en lugar de escucharse.",
+            "tags": ["Oficio", "La pausa después de la indicación"],
+            "aprendizaje": "Algunos estudios sobre aprendizaje de movimientos han visto que buena parte de la mejora aparece en los descansos breves entre una práctica y otra, no solo mientras se practica. Se han hecho con tareas sencillas, así que tómalo como una pista bonita, no como una regla: dejar espacio también es enseñar.",
             "frase": {
-                "texto": "Poder disfrutar de la vida pasada es vivir dos veces.",
-                "autor": "Marcial, «Epigramas» (libro X, 23), traducción libre"
+                "texto": "¿Me atreveré a decir la regla más grande, más importante y más útil de toda la educación? No es ganar tiempo, sino perderlo.",
+                "autor": "Jean-Jacques Rousseau, «Emilio, o De la educación» (libro II), traducción libre"
             },
             "noticia": {
-                "titulo": "Si eres nostálgico, tus amistades podrían durar más, según un estudio (El Imparcial, marzo de 2025)",
-                "resumen": "No es de hoy, pero viene al caso: recoge un estudio de la revista «Cognition and Emotion» en el que las personas más nostálgicas tendían a tener más amistades cercanas y a cuidarlas más. Es una relación observada, no una prueba de causa y efecto.",
-                "url": "https://www.elimparcial.com/locurioso/2025/03/16/si-eres-nostalgico-tus-amistades-podrian-durar-mas-segun-un-estudio/"
+                "titulo": "Los pequeños descansos que ayudan al cerebro a aprender cosas nuevas (El Día)",
+                "resumen": "No es de hoy, pero viene al caso: cuenta un estudio de los Institutos Nacionales de Salud de Estados Unidos en el que, durante las pausas entre intentos de aprender una secuencia con la mano, el cerebro parecía repasar muy deprisa lo que se acababa de practicar. Los propios investigadores dicen que aún no se sabe cuánto debe durar la pausa ideal.",
+                "url": "https://eldia.com.do/los-pequenos-descansos-que-ayudan-al-cerebro-a-aprender-cosas-nuevas/"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad un detalle pequeño que cambia mucho: cerrar los ojos en clase es una opción, no una obligación. Hay personas que así se relajan y otras que se sienten inseguras. Decirlo en voz alta les da permiso para elegir.",
-            "tags": ["Contenido", "Los ojos, como tú quieras"],
-            "guion": "GANCHO: \"«Cerramos los ojos». Tres palabras que no a todo el mundo le relajan.\"\n\nCUERPO: Lo decimos con todo el cariño y casi sin pensar. Pero para algunas personas cerrar los ojos en una sala llena de gente es justo lo contrario de la calma: se marean, se ponen alerta o no se sienten seguras. Prueba a cambiar la frase: «si te apetece, cierra los ojos; si no, deja la mirada descansar en un punto del suelo». La práctica es la misma y la persona siente que manda en su propio cuerpo.\n\nCIERRE: ¿Qué otra frase de tus clases podrías convertir en una invitación?",
+            "idea": "Comparte con tu comunidad una idea de lunes: la clase que preparaste no siempre es la clase que el grupo necesita hoy. Mirar cómo llegan las personas, cansadas, inquietas o con prisa, y ajustar un poco el plan también es parte de enseñar bien.",
+            "tags": ["Contenido", "La clase que el grupo necesita hoy"],
+            "guion": "GANCHO: \"Te habías preparado una clase preciosa. Y entonces entró el grupo.\"\n\nCUERPO: Llegan con cara de lunes, con frío o con la cabeza en otra parte. Puedes seguir con tu plan tal cual, o puedes regalarte un minuto para mirarlas antes de empezar. A veces basta con alargar la llegada, bajar el ritmo o quitar una secuencia. No es improvisar sin rumbo: es tener un plan y la libertad de adaptarlo a las personas que tienes delante.\n\nCIERRE: ¿Cuándo fue la última vez que cambiaste tu clase sobre la marcha y salió mejor de lo previsto?",
             "referente": {
-                "nombre": "María Macaya",
-                "porque": "Profesora y formadora de yoga sensible al trauma, al frente de la Fundación Rādika y autora de «Yoga sensible al trauma» (Plataforma Editorial). Te puede inspirar para hablar de clases seguras donde cada persona elige, sin convertir la clase en terapia."
+                "nombre": "Mercedes de la Rosa",
+                "porque": "Profesora de yoga y meditación en España, fundadora de Zentro Urban Yoga y autora de «Comprende, confía, vive» (Planeta, 2026). Te puede inspirar por cómo habla de parar y escuchar al cuerpo con un lenguaje sencillo, cercano y sin solemnidad."
             },
-            "mensajeWhatsapp": "Feliz domingo! Un detalle para vuestras próximas clases: en lugar de «cerramos los ojos», probad con «cierra los ojos si te apetece, o deja descansar la mirada». Mismo momento de calma, y cada persona elige 🙂"
+            "mensajeWhatsapp": "Feliz lunes! Una idea para esta semana: antes de empezar vuestra clase, mirad un momento cómo llega el grupo. Si vienen cansados, quizá la mejor clase sea la más sencilla. El plan está para serviros, no para mandaros 🙂"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, en papel y sin prisa: piensa en una pregunta que las personas de Neuroalma podrían comentar de dos en dos durante un directo. Por ejemplo, «¿qué es lo que más te cuesta sostener en tus clases?». Apunta la pregunta y cuántos minutos les darías; nada más.",
-            "tags": ["Idea", "Hablar de dos en dos"],
-            "aprendizaje": "En una formación online hay quien nunca habla delante de todo el grupo, pero sí con una sola persona. Un ratito por parejas hace que participen más, que se conozcan entre ellas y que tú descanses la voz unos minutos.",
+            "idea": "Tarea de 10 minutos, solo de pensar: ¿cuánto tiempo podrán ver las grabaciones de los directos las personas de Neuroalma? Apunta dos opciones que te encajen, por ejemplo «unos meses» o «siempre», y una frase de por qué te gusta cada una. No hace falta decidir hoy.",
+            "tags": ["Idea", "Cuánto duran las grabaciones"],
+            "aprendizaje": "Las dudas sobre el acceso son de las primeras que llegan cuando alguien compra una formación. Decidirlo antes y decirlo con claridad en la página de venta evita malentendidos y te ahorra explicaciones una a una.",
             "recurso": {
-                "titulo": "Salas para grupos pequeños de Zoom (blog oficial de Zoom, en español)",
+                "titulo": "¿Cuánto tiempo tengo para acceder a mi curso? (centro de ayuda de Hotmart, en español)",
                 "tipo": "guía",
-                "porque": "Cuenta cómo dividir una reunión en salitas, repartiendo tú a las personas o dejando que Zoom lo haga solo. No hace falta probarlo hoy: guárdalo para cuando prepares los directos.",
-                "url": "https://www.zoom.com/es/blog/using-zoom-breakout-rooms/"
+                "porque": "Está escrito para quien compra, y por eso te sirve para ponerte en su lugar: muestra que el plazo de acceso lo decide quien crea el curso y que, si caduca, normalmente hay que volver a comprar. Tú usas otra plataforma, así que tómalo solo como idea.",
+                "url": "https://help.hotmart.com/es/article/360038515132/-cuanto-tiempo-tengo-para-acceder-a-mi-curso-"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 10 minutos, solo de escribir: redacta tres líneas para avisar a las mujeres de que las sesiones en directo se graban. Di para qué se graban, quién podrá verlas y que pueden estar con la cámara apagada. Si aún no sabes cuánto tiempo estarán disponibles, deja un hueco que ponga «por decidir».",
-            "tags": ["Idea", "Avisar de la grabación"],
-            "aprendizaje": "En un grupo donde se comparten cosas personales, saber qué pasa con la grabación da tranquilidad para abrirse. La voz y la imagen son datos personales: informa antes, pide permiso y, cuando llegue el momento, revisa el texto con alguien que sepa de protección de datos.",
+            "idea": "Tarea de 10 minutos, en papel: escribe tres preguntas cortas para que las mujeres te den su opinión cuando termine el acompañamiento. Por ejemplo: «¿qué herramienta te llevas?», «¿qué te sobró?» y «¿a quién se lo recomendarías?». Guárdalas para cuando llegue el momento.",
+            "tags": ["Idea", "Preguntas para el final"],
+            "aprendizaje": "En un primer lanzamiento, la opinión de las primeras mujeres vale casi tanto como la venta: te dice qué mantener, qué cambiar y te da frases reales para contar el programa después. Pocas preguntas y fáciles de contestar funcionan mejor que una encuesta larga.",
             "recurso": {
-                "titulo": "Recomendaciones sobre grabación de clases (Universidad Autónoma de Madrid, PDF en español)",
-                "tipo": "guía",
-                "porque": "Está pensada para la universidad, no para academias pequeñas, pero te sirve para ver de qué conviene informar cuando se graba una videoconferencia. Tómala como orientación, no como asesoramiento legal.",
-                "url": "https://www.uam.es/uam/media/doc/1606901288970/10.-recomendaciones-sobre-grabacion-de-clases.pdf"
+                "titulo": "Encuestas para cursos y talleres (QuestionPro, en español)",
+                "tipo": "herramienta",
+                "porque": "Trae ideas de preguntas para valorar un curso, como si el material fue suficiente o si se pudo aplicar lo aprendido. Coge solo las que te sirvan y dilas con tus palabras.",
+                "url": "https://www.questionpro.com/es/encuestas-para-cursos-y-talleres.html"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre el nudo del domingo por la tarde: esa mujer que todavía está en el sofá, pero con la cabeza ya en el lunes, los táperes y la lista de la semana. La propuesta es usar un ancla sencilla para volver al domingo, que aún no se ha acabado.",
-            "tags": ["Contenido", "El nudo del domingo"],
-            "guion": "GANCHO: \"Son las seis de la tarde del domingo y tú ya estás viviendo el lunes.\"\n\nCUERPO: El cuerpo en el sofá y la cabeza haciendo táperes, contestando correos y buscando un calcetín sin pareja. Amiga mía, el tigre moderno no libra ni en festivo. Cuando te pilles en el lunes, busca un ancla: la manta, la taza calentita, el peso de tus pies en el suelo. Tócala, suelta el aire despacio y dite: «todavía es domingo». No arregla la semana, pero te devuelve el rato que es tuyo.\n\nCIERRE: Frase para guardar: el lunes ya llegará, no hace falta que salgas a buscarlo. ¿A qué hora te llega a ti el nudo del domingo?",
+            "idea": "Un vídeo corto sobre el lunes en modo carrera: esa mujer que termina una cosa y salta a la siguiente sin respirar entre medias. La propuesta es un cambio de escena de veinte segundos entre tarea y tarea: soltar el aire despacio, mirar lejos y decirse «ahora, lo siguiente».",
+            "tags": ["Contenido", "El cambio de escena"],
+            "guion": "GANCHO: \"Has hecho siete cosas esta mañana y no has respirado entre ninguna.\"\n\nCUERPO: Desayuno, mochilas, correo, la lavadora, la llamada que no podía esperar. Todo enlazado, como si alguien te fuera a poner nota por velocidad. Amiga mía, no necesitas convertirte en Buda con WiFi, solo meter un cambio de escena: entre una tarea y otra, suelta el aire despacio, mira por la ventana o a lo lejos, y dite «ahora, lo siguiente». Veinte segundos. Tu botón verde también necesita un hueco para encenderse.\n\nCIERRE: Frase para guardar: entre una cosa y otra, también estás tú. ¿Entre qué dos tareas vas a probar hoy tu cambio de escena?",
             "referente": {
-                "nombre": "Marina Mammoliti (@psi.mammoliti)",
-                "porque": "Psicóloga argentina, creadora del podcast «Psicología al Desnudo» y autora de «Frená tu cabeza». Te puede inspirar por cómo explica las emociones y la cabeza acelerada con palabras de andar por casa, en formato breve y cercano."
+                "nombre": "Ana Morales",
+                "porque": "Periodista especializada en salud y bienestar, directora de belleza en Vogue y autora de «Estado civil: cansada» (Roca Editorial, 2026), sobre el agotamiento cotidiano de muchas mujeres. Te puede inspirar por cómo pone nombre a ese cansancio sin dramatizar ni culpabilizar."
             },
-            "mensajeWhatsapp": "Si esta tarde tu cabeza ya se ha ido al lunes, tráela de vuelta con algo sencillo: una taza calentita, una manta, un suspiro largo. Todavía es domingo, y este rato es tuyo 🌿"
+            "mensajeWhatsapp": "Para este lunes, un regalito pequeño: entre una tarea y la siguiente, suelta el aire despacio y mira un momento a lo lejos. Veinte segundos de cambio de escena. Entre una cosa y otra, también estás tú 🌿"
         }
     }
 }

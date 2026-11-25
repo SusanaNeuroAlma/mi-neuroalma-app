@@ -1,66 +1,66 @@
 {
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Una curiosidad para ti: las cosas buenas pesan más cuando se cuentan. Hoy, si te apetece, elige una pequeña alegría de estos días, por mínima que sea, y cuéntasela a alguien de confianza con un mensaje o una llamada corta. No hace falta que sea un gran logro: en plena recuperación, un día un poco mejor también es una buena noticia.",
-            "tags": ["Bienestar", "Contar lo bueno"],
-            "aprendizaje": "En psicología a esto lo llaman capitalización: compartir lo bueno que nos pasa con alguien cercano se asocia con más bienestar. Y hay un matiz bonito: cuenta mucho cómo responde la otra persona, así que elige a alguien que sepa alegrarse contigo.",
+            "idea": "Una idea de tu oficio para dejar reposar: el final de una clase pesa mucho en cómo se recuerda entera. Hoy, sin prisa y solo pensando, recuerda cómo solías cerrar tus clases y elige un gesto de despedida que te gustaría conservar cuando vuelvas, como un silencio compartido, una respiración juntas o una frase corta. No hay ninguna prisa por volver: esto es solo para guardarlo.",
+            "tags": ["Oficio", "Cuidar el final de la clase"],
+            "aprendizaje": "En psicología se habla de la regla del pico y el final: cuando recordamos una experiencia, no hacemos una media de todo lo que pasó, sino que pesan sobre todo el momento más intenso y cómo terminó. Por eso unos minutos de cierre tranquilo pueden cambiar el recuerdo de toda la clase.",
             "frase": {
-                "texto": "La amistad hace más brillantes las alegrías y más ligeras las penas, porque las reparte y las comparte.",
-                "autor": "Cicerón, «Lelio, o De la amistad» (22), traducción libre"
+                "texto": "Cuida el final tanto como el principio, y no habrá fracaso.",
+                "autor": "Lao Tse, «Tao Te Ching» (capítulo 64), traducción libre"
             },
             "noticia": {
-                "titulo": "Compartir buenas noticias, clave para la salud y la felicidad (Psiquiatria.com)",
-                "resumen": "Artículo divulgativo que explica que contar a las personas cercanas las cosas buenas que nos pasan se relaciona con más bienestar.",
-                "url": "https://psiquiatria.com/psicologia-general/compartir-buenas-noticias-clave-para-la-salud-y-la-felicidad/"
+                "titulo": "¿En qué difieren nuestros recuerdos de nuestras experiencias? La regla del pico y el final (The Decision Lab, en español)",
+                "resumen": "Artículo divulgativo que explica por qué al recordar una experiencia damos más peso a su momento más intenso y a su final que a su duración total.",
+                "url": "https://thedecisionlab.com/es/biases/peak-end-rule"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una idea sencilla que cambia mucho una clase: decir el para qué. Cuando una persona entiende por qué hace un movimiento o una respiración, lo hace con más atención y lo hace más suyo. No hace falta una explicación larga, basta con una frase.",
-            "tags": ["Contenido", "Decir el para qué"],
-            "guion": "GANCHO: \"«Brazos arriba.» ¿Y para qué?\"\n\nCUERPO: Muchas veces guiamos el cómo y nos olvidamos del para qué. Pero no es lo mismo levantar los brazos porque lo dice la profe que levantarlos para notar cómo se abre el pecho al respirar. Una frase corta basta: «para hacer sitio al aire», «para notar tus pies en el suelo». El para qué convierte una orden en una invitación, y a la alumna en protagonista de su práctica.\n\nCIERRE: Prueba en tu próxima clase a añadir un para qué a una sola indicación. Luego me cuentas qué notaste en el grupo.",
+            "idea": "Comparte con tu comunidad una idea que une cerebro y movimiento: se aprende mejor lo que se vive con gusto. Una clase en la que la persona se siente tranquila, segura y con ganas no es un adorno, es lo que hace que lo aprendido se quede. El clima emocional también se enseña.",
+            "tags": ["Contenido", "Aprender con gusto"],
+            "guion": "GANCHO: \"¿Te acuerdas de una clase que disfrutaste? Seguro que recuerdas lo que aprendiste en ella.\"\n\nCUERPO: Las emociones no van por un lado y el aprendizaje por otro. Cuando una alumna llega tensa, con miedo a hacerlo mal o a quedar en evidencia, le cuesta mucho más aprender. Cuando se siente bienvenida y tranquila, el cuerpo se abre y la atención también. Por eso una sonrisa al recibir, un tono amable o permitir que alguien descanse no le quitan rigor a tu clase: le dan un suelo firme.\n\nCIERRE: Esta semana fíjate en una cosa: ¿cómo quieres que se sienta tu grupo en los primeros cinco minutos? Ahí empieza todo lo demás.",
             "referente": {
-                "nombre": "María Acaso",
-                "porque": "Profesora y referente española de la innovación educativa, autora de «rEDUvolution: hacer la revolución en la educación» (Paidós). Te puede inspirar por cómo propone que quien aprende sea protagonista y no solo alguien que obedece instrucciones."
+                "nombre": "Begoña Ibarrola",
+                "porque": "Psicóloga española especializada en educación emocional y autora de «Aprendizaje emocionante: neurociencia para el aula» (SM) y de muchos cuentos para trabajar emociones. Te puede inspirar por cómo explica, con palabras sencillas, que las emociones son las guardianas del aprendizaje."
             },
-            "mensajeWhatsapp": "Buenos días! Una idea pequeña para vuestras clases de esta semana: a una de vuestras indicaciones, añadidle un para qué. «Suelta el aire para que los hombros puedan bajar.» Una frase cambia la manera de vivir el movimiento 🙂"
+            "mensajeWhatsapp": "Buenos días! Una idea para llevar a vuestras clases: se aprende mejor lo que se vive con gusto. Un recibimiento cálido o un tono amable no son detalles, son el suelo sobre el que se aprende 🙂"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, solo de pensar y apuntar: prepara una mini plantilla para escribirte dos líneas después de cada sesión de Neuroalma. Por ejemplo: «qué funcionó», «qué cambiaría» y «una frase que dijo alguien y me quiero guardar». Déjala en una nota del móvil para cuando empiecen los directos.",
-            "tags": ["Idea", "Tus notas después de cada sesión"],
-            "aprendizaje": "En una primera edición, tus propias notas valen oro: son lo que te permite mejorar la siguiente sin depender de la memoria. Dos minutos al terminar cada sesión, cuando todo está fresco, son mucho más útiles que intentar recordarlo todo un mes después.",
+            "idea": "Tarea de 10 minutos, solo de pensar: decide si quieres dar algo al terminar Neuroalma, como un certificado de participación o una carta personal de cierre. Apunta en una nota qué te gustaría que dijera en dos o tres líneas. No hace falta diseñarlo todavía.",
+            "tags": ["Idea", "Un recuerdo al terminar"],
+            "aprendizaje": "En una formación para profesionales, un certificado de participación o un pequeño detalle de cierre ayuda a que la persona sienta que ha completado algo y a que lo pueda enseñar. Si das uno, deja claro que es de participación en tu formación y no un título oficial, así todo queda transparente.",
             "recurso": {
-                "titulo": "Diarios: kit de supervivencia (repositorio de la Universidad de Granada, PDF en español)",
-                "tipo": "guía",
-                "porque": "Es una guía pensada para quien escribe un diario de prácticas docentes, con pautas sobre qué apuntar, cuándo y cómo. Está escrita para estudiantes, así que quédate solo con la idea de ir más allá de describir y preguntarte el porqué de lo que pasó.",
-                "url": "https://digibug.ugr.es/bitstream/handle/10481/64277/Diarios_KIT%20DE%20SUPERVIVENCIA.pdf?sequence=1"
+                "titulo": "Plantillas de certificados para editar (web oficial de Canva, en español)",
+                "tipo": "herramienta",
+                "porque": "Canva tiene plantillas de certificados gratuitas y editables, también para cursos y participación, que se pueden descargar o imprimir. Algunos elementos pueden ser de pago, así que elige los que no lo sean. Guárdalo para cuando tengas energía, no es para hoy.",
+                "url": "https://www.canva.com/es_es/certificados/plantillas/"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 15 minutos, en papel: escribe cómo responderías con cariño a una mujer que te dice «me encantaría, pero no tengo tiempo». Dos o tres frases tuyas, sin convencer a nadie a la fuerza. Pista: tus herramientas están pensadas justo para quien no tiene tiempo.",
-            "tags": ["Idea", "Cuando dicen «no tengo tiempo»"],
-            "aprendizaje": "«No tengo tiempo» es de las dudas más habituales antes de apuntarse a algo. Funciona mejor escuchar primero y entender qué hay detrás que insistir. Y si de verdad no es su momento, respetarlo también deja la puerta abierta para más adelante.",
+            "idea": "Tarea de 15 minutos, en papel: empieza a preparar el reto de 21 días pensando solo en la primera semana. Escribe siete títulos cortos, uno por día, usando tus herramientas: un día para el botón mágico, otro para un ancla, otro para una micropausa. Nada más, el resto puede esperar.",
+            "tags": ["Idea", "La primera semana del reto"],
+            "aprendizaje": "Un reto funciona mejor cuando tiene un propósito claro y está pensado para una persona concreta. Para tu mujer con mil tareas, lo más importante es que cada día sea tan corto y fácil que no se convierta en otra obligación más de la lista.",
             "recurso": {
-                "titulo": "Las 8 objeciones de venta más comunes y cómo manejarlas (blog de CloudTalk, en español)",
+                "titulo": "3 consejos para realizar un reto exitoso que haga crecer tu negocio (centro de ayuda de Kajabi, en español)",
                 "tipo": "artículo",
-                "porque": "Está pensado para ventas por teléfono, pero tiene una idea que te encaja: ante el «no tengo tiempo», mostrar respeto por el tiempo de la otra persona funciona mejor que insistir. Tómalo solo como inspiración y dilo con tu tono.",
-                "url": "https://www.cloudtalk.io/es/blog/las-8-objeciones-de-venta-mas-comunes-y-como-manejarlas/"
+                "porque": "Es una guía breve que recomienda empezar el reto por un propósito claro y por conocer bien a quién va dirigido. Te sirve como orden para pensar el tuyo con calma, sin necesidad de usar esa plataforma.",
+                "url": "https://help.kajabi.com/es/articles/resources/business-guides/3-tips-for-running-a-successful-challenge-to-grow-your-business"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre las esperas del día: la cola del súper, el semáforo, la sala del médico, los dos minutos hasta que hierve el agua. En vez de llenarlas de prisa o de móvil, la propuesta es convertirlas en una micropausa: soltar el aire despacio y notar los pies en el suelo.",
-            "tags": ["Contenido", "Las esperas que te regalan aire"],
-            "guion": "GANCHO: \"La cola del súper no es una pérdida de tiempo. Es tu micropausa gratis.\"\n\nCUERPO: Amiga mía, te pasas el día esperando: a que cambie el semáforo, a que hierva el agua, a que te atiendan. Y en cada espera sacas el móvil o repasas la lista de pendientes, por si te faltaba algo de estrés. Prueba otra cosa: cuando te toque esperar, suelta el aire despacio, como si soplaras una vela sin apagarla, y nota tus pies en el suelo. Nadie se va a dar cuenta. Tu sistema nervioso, sí.\n\nCIERRE: Frase para guardar: cada espera puede ser un respiro. ¿Cuál va a ser tu primera espera con aire de hoy?",
+            "idea": "Un vídeo corto sobre la culpa por parar: esa vocecita que aparece justo cuando te sientas cinco minutos y te dice que hay mil cosas pendientes. La propuesta es mirarla con humor y cariño, y recordar que parar un momento no es un premio que hay que ganarse, es parte de cuidarse.",
+            "tags": ["Contenido", "La culpa cuando te sientas"],
+            "guion": "GANCHO: \"Te sientas cinco minutos y aparece ella: la vocecita de «con todo lo que tienes que hacer».\"\n\nCUERPO: Amiga mía, esa voz es muy puntual. Llega justo cuando por fin apoyas la espalda en el sofá. Y te cuenta que descansar es de vagas, que primero la lavadora, que luego ya. Pero tu cuerpo no es una lista de tareas. Prueba esto: cuando aparezca, no discutas con ella. Suelta el aire despacio, ponte una mano en el pecho y dile por dentro: «ahora me toca a mí». Cinco minutos. La lavadora sigue ahí cuando vuelvas, te lo prometo.\n\nCIERRE: Frase para guardar: parar no es dejar de cuidar, es empezar a cuidarte. ¿Cuándo vas a regalarte hoy tus cinco minutos sin culpa?",
             "referente": {
-                "nombre": "Silvia Llop",
-                "porque": "Psicóloga y escritora española, autora de «Mándalo a la mierda» y «Ahí no es, Mari Carmen» (Plataforma Editorial), que escribe en femenino para un público sobre todo de mujeres. Te puede inspirar por su tono directo y con humor, muy cercano a tu lado canallita, aunque ella hable sobre todo de relaciones."
+                "nombre": "Noelia Samartín",
+                "porque": "Psicóloga y doctora en neurociencia que en entrevistas explica cómo saber cuándo hay que parar y distingue entre la autoexigencia, que no mira los límites, y el autocuidado real. Te puede inspirar por cómo habla de parar sin culpabilizar, un mensaje muy cercano a tu masterclass."
             },
-            "mensajeWhatsapp": "Una idea para hoy: la próxima vez que te toque esperar, en una cola o en un semáforo, suelta el aire despacio y nota tus pies en el suelo. Una espera también puede ser un respiro 🌿"
+            "mensajeWhatsapp": "Si hoy te sientas un ratito y aparece la vocecita de «con todo lo que tienes que hacer», respira despacio y dile por dentro: «ahora me toca a mí». Parar también es cuidarte 🌿"
         }
     }
 }

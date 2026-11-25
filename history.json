@@ -5405,5 +5405,71 @@
                 "mensajeWhatsapp": "Para este lunes, un regalito pequeño: entre una tarea y la siguiente, suelta el aire despacio y mira un momento a lo lejos. Veinte segundos de cambio de escena. Entre una cosa y otra, también estás tú 🌿"
             }
         }
+    },
+    {
+        "date": "2026-11-24",
+        "zones": {
+            "desarrollo": {
+                "title": "Desarrollo personal",
+                "idea": "Una curiosidad para ti: las cosas buenas pesan más cuando se cuentan. Hoy, si te apetece, elige una pequeña alegría de estos días, por mínima que sea, y cuéntasela a alguien de confianza con un mensaje o una llamada corta. No hace falta que sea un gran logro: en plena recuperación, un día un poco mejor también es una buena noticia.",
+                "tags": ["Bienestar", "Contar lo bueno"],
+                "aprendizaje": "En psicología a esto lo llaman capitalización: compartir lo bueno que nos pasa con alguien cercano se asocia con más bienestar. Y hay un matiz bonito: cuenta mucho cómo responde la otra persona, así que elige a alguien que sepa alegrarse contigo.",
+                "frase": {
+                    "texto": "La amistad hace más brillantes las alegrías y más ligeras las penas, porque las reparte y las comparte.",
+                    "autor": "Cicerón, «Lelio, o De la amistad» (22), traducción libre"
+                },
+                "noticia": {
+                    "titulo": "Compartir buenas noticias, clave para la salud y la felicidad (Psiquiatria.com)",
+                    "resumen": "Artículo divulgativo que explica que contar a las personas cercanas las cosas buenas que nos pasan se relaciona con más bienestar.",
+                    "url": "https://psiquiatria.com/psicologia-general/compartir-buenas-noticias-clave-para-la-salud-y-la-felicidad/"
+                }
+            },
+            "marca": {
+                "title": "Marca personal",
+                "idea": "Comparte con tu comunidad una idea sencilla que cambia mucho una clase: decir el para qué. Cuando una persona entiende por qué hace un movimiento o una respiración, lo hace con más atención y lo hace más suyo. No hace falta una explicación larga, basta con una frase.",
+                "tags": ["Contenido", "Decir el para qué"],
+                "guion": "GANCHO: \"«Brazos arriba.» ¿Y para qué?\"\n\nCUERPO: Muchas veces guiamos el cómo y nos olvidamos del para qué. Pero no es lo mismo levantar los brazos porque lo dice la profe que levantarlos para notar cómo se abre el pecho al respirar. Una frase corta basta: «para hacer sitio al aire», «para notar tus pies en el suelo». El para qué convierte una orden en una invitación, y a la alumna en protagonista de su práctica.\n\nCIERRE: Prueba en tu próxima clase a añadir un para qué a una sola indicación. Luego me cuentas qué notaste en el grupo.",
+                "referente": {
+                    "nombre": "María Acaso",
+                    "porque": "Profesora y referente española de la innovación educativa, autora de «rEDUvolution: hacer la revolución en la educación» (Paidós). Te puede inspirar por cómo propone que quien aprende sea protagonista y no solo alguien que obedece instrucciones."
+                },
+                "mensajeWhatsapp": "Buenos días! Una idea pequeña para vuestras clases de esta semana: a una de vuestras indicaciones, añadidle un para qué. «Suelta el aire para que los hombros puedan bajar.» Una frase cambia la manera de vivir el movimiento 🙂"
+            },
+            "neuroalma": {
+                "title": "Neuroalma",
+                "idea": "Tarea de 10 minutos, solo de pensar y apuntar: prepara una mini plantilla para escribirte dos líneas después de cada sesión de Neuroalma. Por ejemplo: «qué funcionó», «qué cambiaría» y «una frase que dijo alguien y me quiero guardar». Déjala en una nota del móvil para cuando empiecen los directos.",
+                "tags": ["Idea", "Tus notas después de cada sesión"],
+                "aprendizaje": "En una primera edición, tus propias notas valen oro: son lo que te permite mejorar la siguiente sin depender de la memoria. Dos minutos al terminar cada sesión, cuando todo está fresco, son mucho más útiles que intentar recordarlo todo un mes después.",
+                "recurso": {
+                    "titulo": "Diarios: kit de supervivencia (repositorio de la Universidad de Granada, PDF en español)",
+                    "tipo": "guía",
+                    "porque": "Es una guía pensada para quien escribe un diario de prácticas docentes, con pautas sobre qué apuntar, cuándo y cómo. Está escrita para estudiantes, así que quédate solo con la idea de ir más allá de describir y preguntarte el porqué de lo que pasó.",
+                    "url": "https://digibug.ugr.es/bitstream/handle/10481/64277/Diarios_KIT%20DE%20SUPERVIVENCIA.pdf?sequence=1"
+                }
+            },
+            "respira": {
+                "title": "Respira Mujer",
+                "idea": "Tarea de 15 minutos, en papel: escribe cómo responderías con cariño a una mujer que te dice «me encantaría, pero no tengo tiempo». Dos o tres frases tuyas, sin convencer a nadie a la fuerza. Pista: tus herramientas están pensadas justo para quien no tiene tiempo.",
+                "tags": ["Idea", "Cuando dicen «no tengo tiempo»"],
+                "aprendizaje": "«No tengo tiempo» es de las dudas más habituales antes de apuntarse a algo. Funciona mejor escuchar primero y entender qué hay detrás que insistir. Y si de verdad no es su momento, respetarlo también deja la puerta abierta para más adelante.",
+                "recurso": {
+                    "titulo": "Las 8 objeciones de venta más comunes y cómo manejarlas (blog de CloudTalk, en español)",
+                    "tipo": "artículo",
+                    "porque": "Está pensado para ventas por teléfono, pero tiene una idea que te encaja: ante el «no tengo tiempo», mostrar respeto por el tiempo de la otra persona funciona mejor que insistir. Tómalo solo como inspiración y dilo con tu tono.",
+                    "url": "https://www.cloudtalk.io/es/blog/las-8-objeciones-de-venta-mas-comunes-y-como-manejarlas/"
+                }
+            },
+            "respiramarca": {
+                "title": "Marca personal Respira Mujer",
+                "idea": "Un vídeo corto sobre las esperas del día: la cola del súper, el semáforo, la sala del médico, los dos minutos hasta que hierve el agua. En vez de llenarlas de prisa o de móvil, la propuesta es convertirlas en una micropausa: soltar el aire despacio y notar los pies en el suelo.",
+                "tags": ["Contenido", "Las esperas que te regalan aire"],
+                "guion": "GANCHO: \"La cola del súper no es una pérdida de tiempo. Es tu micropausa gratis.\"\n\nCUERPO: Amiga mía, te pasas el día esperando: a que cambie el semáforo, a que hierva el agua, a que te atiendan. Y en cada espera sacas el móvil o repasas la lista de pendientes, por si te faltaba algo de estrés. Prueba otra cosa: cuando te toque esperar, suelta el aire despacio, como si soplaras una vela sin apagarla, y nota tus pies en el suelo. Nadie se va a dar cuenta. Tu sistema nervioso, sí.\n\nCIERRE: Frase para guardar: cada espera puede ser un respiro. ¿Cuál va a ser tu primera espera con aire de hoy?",
+                "referente": {
+                    "nombre": "Silvia Llop",
+                    "porque": "Psicóloga y escritora española, autora de «Mándalo a la mierda» y «Ahí no es, Mari Carmen» (Plataforma Editorial), que escribe en femenino para un público sobre todo de mujeres. Te puede inspirar por su tono directo y con humor, muy cercano a tu lado canallita, aunque ella hable sobre todo de relaciones."
+                },
+                "mensajeWhatsapp": "Una idea para hoy: la próxima vez que te toque esperar, en una cola o en un semáforo, suelta el aire despacio y nota tus pies en el suelo. Una espera también puede ser un respiro 🌿"
+            }
+        }
     }
 ]

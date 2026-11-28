@@ -1,66 +1,66 @@
 {
-    "date": "2026-11-26",
+    "date": "2026-11-28",
     "zones": {
         "desarrollo": {
             "title": "Desarrollo personal",
-            "idea": "Una curiosidad para ti, para leer sin prisa: la misma situación puede sentirse muy distinta según la historia que te cuentas sobre ella. Hoy, si aparece un pensamiento del tipo «esto va lentísimo», prueba a escribir al lado otra versión igual de cierta y más amable, como «mi cuerpo está haciendo su trabajo a su ritmo». No hace falta creértela del todo, solo ofrecerle a tu cabeza otra mirada.",
-            "tags": ["Bienestar", "Cambiar la historia que te cuentas"],
-            "aprendizaje": "En neurociencia a esto se le llama reevaluación cognitiva: volver a mirar una situación desde otro ángulo. Los estudios apuntan a que suele calmar más que intentar aguantarse o esconder la emoción, porque implica a zonas de la parte delantera del cerebro que ayudan a bajar el volumen de la alarma.",
+            "idea": "Una reflexión sobre tu oficio, para leer sin prisa: en casi todas las clases de movimiento hay alguien que mira de reojo a la de al lado y piensa «ella llega más lejos que yo». Como formadora, puedes ayudar a cambiar esa mirada con frases sencillas, como «aquí no hay una postura correcta, hay la tuya de hoy» o «compárate solo con cómo llegaste al empezar». Hoy no tienes que hacer nada: solo piensa qué frase te gustaría que oyeran tus futuras alumnas.",
+            "tags": ["Oficio", "Cuando se comparan en clase"],
+            "aprendizaje": "Compararse es algo muy humano: el cerebro usa a los demás como referencia para saber cómo vamos. El problema llega cuando la comparación se fija en la apariencia, porque suele traer insatisfacción con el propio cuerpo. Devolver la atención a lo que cada una siente por dentro ayuda a que la clase vuelva a ser un lugar seguro.",
             "frase": {
-                "texto": "No son las cosas las que atormentan a los hombres, sino las opiniones que se tienen de ellas.",
-                "autor": "Epicteto, «Enquiridión» (5), traducción clásica"
+                "texto": "Llega a ser el que eres.",
+                "autor": "Píndaro, «Píticas» (II, 72), traducción libre"
             },
             "noticia": {
-                "titulo": "Análisis de la red cerebral temporal de la reevaluación cognitiva y la supresión expresiva basada en la conectividad funcional dinámica (psiquiatria.com)",
-                "resumen": "Un estudio compara dos formas de manejar las emociones y encuentra que reinterpretar la situación regula mejor las emociones negativas que limitarse a observarlas o que reprimir su expresión.",
-                "url": "https://psiquiatria.com/neuropsiquiatria/analisis-de-la-red-cerebral-temporal-de-la-reevaluacion-cognitiva-y-la-supresion-expresiva-basada-en-la-conectividad-funcional-dinamica/"
+                "titulo": "Instagram, insatisfacción corporal y autoestima (UAB Divulga, Universitat Autònoma de Barcelona)",
+                "resumen": "Un trabajo divulgado por la UAB encontró más insatisfacción con el propio cuerpo en quienes usaban Instagram más de tres horas al día, aunque no halló una relación clara con la autoestima general.",
+                "url": "https://ddd.uab.cat/pub/uabdivulga/uabdivulga_a2025m1/uabdivulga_a2025m1a4iSPA.pdf"
             }
         },
         "marca": {
             "title": "Marca personal",
-            "idea": "Comparte con tu comunidad una idea sobre el error en clase: equivocarse forma parte de aprender, no es lo contrario. Cuando una alumna se confunde de lado o de postura y la profesora lo recibe con calma, el grupo entero aprende que puede probar sin miedo. La manera de corregir enseña tanto como la corrección.",
-            "tags": ["Contenido", "Equivocarse sin miedo"],
-            "guion": "GANCHO: \"¿Qué pasa en tu clase cuando alguien se equivoca de lado? Esa respuesta dice mucho de cómo aprende tu grupo.\"\n\nCUERPO: Desde la neuroeducación se insiste en algo sencillo: un error bien recibido es información, no un fracaso. Si corriges con prisa o con un tono que avergüenza, la persona se pone en alerta y deja de explorar. Si lo recibes con naturalidad, con un «pasa muchísimo, prueba así», el error se convierte en un paso más. Y hay un truco precioso: equivócate tú también de vez en cuando delante del grupo y ríete. Les das permiso para ser humanas.\n\nCIERRE: Esta semana fíjate en tu primera reacción cuando alguien se confunde. ¿Qué mensaje le estás dando sin palabras?",
+            "idea": "Comparte con tu comunidad una idea sobre cómo felicitar en clase: un «muy bien» general se olvida enseguida, pero describir lo que ves («he notado que hoy has respirado más despacio en el equilibrio») ayuda a la alumna a darse cuenta de lo que ha hecho y a repetirlo. El reconocimiento concreto enseña; el genérico solo anima un ratito.",
+            "tags": ["Contenido", "Felicitar con detalles"],
+            "guion": "GANCHO: \"¿Cuántas veces dices «muy bien» en una clase? Seguramente muchas más de las que crees.\"\n\nCUERPO: No tiene nada de malo, sale del cariño. Pero piensa en lo que recibe la alumna: un «muy bien» no le dice qué ha hecho bien. En cambio, si le dices «he visto que hoy has soltado la mandíbula al bajar», le estás dando un espejo. Se da cuenta de algo que quizá ni había notado y su cerebro lo guarda como un pequeño logro propio. Además, describir lo que ves evita poner etiquetas del tipo «tú eres la flexible del grupo», que a veces pesan más de lo que parece.\n\nCIERRE: Esta semana, prueba a cambiar un «muy bien» por una frase que empiece con «he notado que...». Y fíjate en la cara que pone quien la recibe.",
             "referente": {
-                "nombre": "Jesús C. Guillén",
-                "porque": "Profesor del posgrado de neuroeducación de la Universidad de Barcelona y autor del blog «Escuela con cerebro». Te puede inspirar por cómo explica, de forma clara y práctica, que la atención, la curiosidad y una retroalimentación que acepta los errores son claves para aprender."
+                "nombre": "Alberto Soler",
+                "porque": "Psicólogo español y divulgador, coautor con Concepción Roger del libro «Niños sin etiquetas». Aunque escribe sobre todo para familias, te puede inspirar por cómo explica que hasta una sonrisa o un gesto serio influyen en el comportamiento, y por qué conviene describir lo que alguien hace en lugar de ponerle etiquetas."
             },
-            "mensajeWhatsapp": "Buenos días! Una idea para vuestras clases: equivocarse forma parte de aprender. Cuando un error se recibe con calma y una sonrisa, todo el grupo se atreve a probar más 🙂"
+            "mensajeWhatsapp": "Buenos días! Una idea para vuestras clases: probad a cambiar algún «muy bien» por un «he notado que...». Cuando describimos lo que vemos, la alumna descubre lo que ha conseguido 🙂"
         },
         "neuroalma": {
             "title": "Neuroalma",
-            "idea": "Tarea de 10 minutos, solo de pensar: decide cómo y cuándo responderás las dudas de las alumnas entre una sesión y otra. Por ejemplo, un único canal y uno o dos momentos a la semana. Apúntalo en una frase sencilla que podrías decirles el primer día. Así cuidas también tu energía.",
-            "tags": ["Idea", "Dudas entre sesiones"],
-            "aprendizaje": "Poner límites claros desde el principio no aleja a tus alumnas, al contrario: saber cuándo y por dónde vas a responder les da tranquilidad y evita que se sientan ignoradas. Para ti, en este momento, es además una forma de no estar siempre pendiente del móvil.",
+            "idea": "Tarea de 10 minutos, solo de pensar y escribir: prepara tu plan para el día en que no te encuentres bien para dar una sesión. Decide con cuánta antelación avisarías, por dónde (por ejemplo, el grupo de WhatsApp) y cómo propondrías la nueva fecha. Deja escrito el mensaje en una nota del móvil, en tono tranquilo y sin disculparte de más.",
+            "tags": ["Idea", "Si un día no puedes"],
+            "aprendizaje": "Tener decidido de antemano qué haces si hay que mover una sesión te quita mucha presión el día que pasa. Las alumnas lo entienden muy bien cuando el aviso llega pronto, es claro y viene con una propuesta de nueva fecha. Para ti, que estás cuidando tu salud, es además una forma de darte permiso.",
             "recurso": {
-                "titulo": "Cómo gestionar las expectativas de los clientes y marcar límites (blog de GoDaddy, en español)",
+                "titulo": "Política de cancelación de los profesores: pautas y buenas prácticas (centro de ayuda de Preply, en español)",
                 "tipo": "artículo",
-                "porque": "Explica por qué ser honesta desde el principio sobre el nivel de apoyo que ofreces y cómo lo darás ayuda a evitar expectativas poco realistas. Está pensado para pequeños negocios, pero la idea encaja muy bien con una formación como la tuya.",
-                "url": "https://www.godaddy.com/resources/es/emprender/como-gestionar-las-expectativas-de-los-clientes-y-marcar-limites"
+                "porque": "Está pensado para profesores de clases online y recoge ideas como acordar primero la nueva fecha con el alumno antes de cambiarla y mostrar transparencia y respeto por su tiempo. Tómalo solo como inspiración: tus normas las decides tú.",
+                "url": "https://help.preply.com/es/articles/4178953-politica-de-cancelacion-de-los-profesores-pautas-y-buenas-practicas"
             }
         },
         "respira": {
             "title": "Respira Mujer",
-            "idea": "Tarea de 15 minutos, en papel: escribe los títulos de tus ocho módulos en ocho papelitos y muévelos sobre la mesa hasta que el orden te suene a camino. Pregúntate solo esto: ¿siente la mujer que va de «estoy saturada» a «vuelvo a mí»? Haz una foto del orden que más te guste y déjalo reposar.",
-            "tags": ["Idea", "El orden de los módulos"],
-            "aprendizaje": "Una buena forma de ordenar un curso es que cada paso deje un pequeño logro que se note enseguida. Cuando la alumna siente pronto que algo le sirve, por ejemplo una respiración que la calma, tiene más ganas de seguir hasta el final.",
+            "idea": "Tarea de 15 minutos, solo de pensar: pregúntate si quieres ofrecer algún tipo de garantía en el programa, por ejemplo poder pedir la devolución si en los primeros días sienten que no es para ellas. No tienes que decidirlo hoy. Escribe en un papel qué te daría tranquilidad a ti y qué le daría confianza a ella, y déjalo reposar.",
+            "tags": ["Idea", "Pensar en una garantía"],
+            "aprendizaje": "Cuando se compra algo por internet no se puede probar antes, y una garantía clara y sencilla quita miedo a decir que sí. Lo importante es que diga qué cubre, durante cuánto tiempo y cómo se pide, sin condiciones complicadas. Recuerda que, además, en las compras a distancia existe un derecho legal de desistimiento que conviene consultar.",
             "recurso": {
-                "titulo": "Cómo estructurar un curso online (blog de MemberPress, en español)",
+                "titulo": "Garantía de devolución del dinero: ¿necesita una? (Termly, en español)",
                 "tipo": "artículo",
-                "porque": "Habla del aprendizaje progresivo, que ayuda a que la alumna vea pronto el valor de su esfuerzo, y de lecciones breves. Te sirve como idea de fondo para pensar tu orden, sin necesidad de usar esa herramienta.",
-                "url": "https://memberpress.com/es/blog/how-to-structure-an-online-course/"
+                "porque": "Explica qué suele incluir una garantía de devolución: a qué se aplica, el plazo y el proceso para pedirla. Te sirve para pensar si te encaja y cómo la explicarías con tus palabras; para la parte legal, mejor consultar con alguien de confianza.",
+                "url": "https://termly.io/es/recursos/articulos/garantia-de-reembolso/"
             }
         },
         "respiramarca": {
             "title": "Marca personal Respira Mujer",
-            "idea": "Un vídeo corto sobre el gesto ancla: un pequeño gesto con el cuerpo, como juntar el pulgar y el índice o apoyar la mano en el pecho, que unes a una respiración tranquila. Con la repetición, ese gesto se convierte en un recordatorio de calma que llevas siempre encima, incluso en la cola del súper.",
-            "tags": ["Contenido", "Tu gesto ancla"],
-            "guion": "GANCHO: \"¿Y si tuvieras un botón de calma en la mano y nadie se enterara de que lo estás pulsando?\"\n\nCUERPO: Amiga mía, no necesitas irte a un retiro para calmarte. Elige un gesto pequeño: juntar el pulgar y el índice, o apoyar la mano en el pecho. Ahora, cada vez que hagas una respiración lenta y a gusto, haz ese gesto. Un día, otro, otro más. Poco a poco tu cuerpo empieza a unir las dos cosas. Y cuando llegue el momento de prisa, de gritos o de mil cosas a la vez, el gesto te ayuda a recordar que puedes volver a ti en un segundo.\n\nCIERRE: Frase para guardar: la calma también se entrena con gestos pequeños. ¿Cuál va a ser el tuyo?",
+            "idea": "Un vídeo corto sobre el permiso de no contestar al momento: el móvil vibra y sentimos que hay que responder ya, aunque estemos comiendo, conduciendo o por fin sentadas. Propón una micropausa antes de contestar: respirar, preguntarse «¿esto es urgente de verdad?» y, si no lo es, dejarlo para luego sin culpa.",
+            "tags": ["Contenido", "Puede esperar"],
+            "guion": "GANCHO: \"Amiga mía, ese mensaje que te acaba de llegar... ¿de verdad es más urgente que tú?\"\n\nCUERPO: Suena el móvil y tu cuerpo reacciona como si sonara una alarma: se te acelera algo por dentro y sientes que tienes que contestar ya. Pero casi nada es tan urgente. Prueba esto: cuando vibre, haz una respiración lenta, soltando el aire más despacio de lo que lo tomaste. Luego pregúntate: «¿esto es para ahora o puede esperar?». Si puede esperar, deja que espere. No eres un servicio de atención al cliente de veinticuatro horas.\n\nCIERRE: Frase para guardar: contestar más tarde también es una forma de cuidarte. Un abrazo con oxígeno.",
             "referente": {
-                "nombre": "Laura Chica",
-                "porque": "Psicóloga española especializada en inteligencia emocional y psicología positiva, autora de libros como «Autoamor» o «Confía». Te puede inspirar por cómo habla de escucharse y cuidarse con un lenguaje cercano y sencillo, muy en la línea de tu masterclass."
+                "nombre": "María Esclapez",
+                "porque": "Psicóloga y sexóloga española, autora de libros como «Me quiero, te quiero» o «Tú eres tu lugar seguro». Te puede inspirar por cómo habla de cuidarse y de las relaciones con un lenguaje muy directo y cercano, ideal para un público de mujeres que se olvidan de sí mismas."
             },
-            "mensajeWhatsapp": "Hoy te propongo elegir un gesto pequeño, como juntar el pulgar y el índice, y hacerlo cada vez que respires despacio. Con los días se convierte en tu ancla de calma de bolsillo 🌿"
+            "mensajeWhatsapp": "Hoy te regalo un permiso: no tienes que contestar todos los mensajes al momento. Respira, pregúntate si es urgente y, si no lo es, deja que espere 🌿"
         }
     }
 }
